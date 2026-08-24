@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.6.0",
-    "@rolldown/binding-win32-x64-msvc": "^1.2.3",
     "axios": "^1.19.0",
     "driver.js": "^1.8.0",
     "framer-motion": "^13.1.0",
