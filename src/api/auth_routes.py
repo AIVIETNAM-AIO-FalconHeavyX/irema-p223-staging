@@ -50,7 +50,6 @@ from src.models.schemas import (
     TeamProgressResponse,
     Token,
     UnreadCountResponse,
-    UserCreate,
     UserResponse,
 )
 from src.services.email import send_invitation_email
@@ -65,34 +64,13 @@ router = APIRouter()
 # ---------------------------------------------------------------------------
 
 
-@router.post("/register", response_model=Token, status_code=status.HTTP_201_CREATED)
-def register(body: UserCreate, db: Session = Depends(get_db)):
-    """Đăng ký tài khoản Owner mới (khởi tạo đại lý)."""
-    if get_user_by_email(db, body.email):
-        raise HTTPException(
-            status_code=status.HTTP_409_CONFLICT,
-            detail="Email đã được sử dụng.",
-        )
-
-    # Public registration cannot create privileged or staff accounts. Employee
-    # roles are assigned only through the owner invitation workflow.
-    if body.role != UserRole.sale.value:
-        raise HTTPException(
-            status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
-            detail="Public registration is limited to the sale role; use an owner invitation for staff accounts.",
-        )
-    role = UserRole.sale
-
-    user = create_user(
-        db,
-        email=body.email,
-        password=body.password,
-        full_name=body.full_name,
-        role=role,
-        agency_id=body.agency_id,
+@router.post("/register", status_code=status.HTTP_403_FORBIDDEN)
+def register():
+    """Reject public account creation; employees must accept an invitation."""
+    raise HTTPException(
+        status_code=status.HTTP_403_FORBIDDEN,
+        detail="Account creation requires an invitation from an owner.",
     )
-    token = create_access_token({"sub": user.id, "role": user.role.value})
-    return Token(access_token=token, user=UserResponse.model_validate(user))
 
 
 @router.post("/login", response_model=Token)
@@ -132,6 +110,12 @@ def invite(
         raise HTTPException(
             status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
             detail=f"Role không hợp lệ: {body.role}",
+        )
+
+    if role in {UserRole.owner, UserRole.vinfast}:
+        raise HTTPException(
+            status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+            detail="Only employee roles may be assigned through an invitation.",
         )
 
     if get_user_by_email(db, body.email):
