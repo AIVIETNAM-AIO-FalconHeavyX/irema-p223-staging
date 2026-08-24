@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON017",
+    "title": "17. Tạo hóa đơn PIN",
+    "source_file": "17. Tạo hóa đơn PIN.mp4",
+    "source_path": "Huong_dan_DMS/17. Tạo hóa đơn PIN.mp4",
+    "file_hash": "sha256:429288efc2a91a9f5cf6ed05c1819fb001390b010971a1e13de5477e3a7f3051",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 97.98825,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

@@ -1,0 +1,7 @@
+{
+  "document_id": "KETO704",
+  "pii_detected": true,
+  "removed_entities": {
+    "EMAIL_ADDRESS": 1
+  }
+}

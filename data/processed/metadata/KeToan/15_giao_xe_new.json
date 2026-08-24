@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO015",
+    "title": "15. Giao xe (new)",
+    "source_file": "15. Giao xe (new).mp4",
+    "source_path": "KeToan/15. Giao xe (new).mp4",
+    "file_hash": "sha256:4d9feb41d141518f4f69022e208a18901c79ff15f162449e9dfb528550921f5c",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 109.6214375,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

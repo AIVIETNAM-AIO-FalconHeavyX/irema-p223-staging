@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO000",
+    "title": "VF  HDSD Bán hàng XMĐ thuê Pin trả trước Model MAX v0.4 4508",
+    "source_file": "VF _HDSD_Bán hàng XMĐ thuê Pin trả trước Model MAX v0.4_4508.pdf",
+    "source_path": "KeToan/VF _HDSD_Bán hàng XMĐ thuê Pin trả trước Model MAX v0.4_4508.pdf",
+    "file_hash": "sha256:b2f787ed62622be21bda9a59f192b194a5a417a5439cb26f23623901a3b31b82",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 54,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-23"
+}

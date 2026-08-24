@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON010",
+    "title": "10. Thêm chương trình khuyến mãi",
+    "source_file": "10. Thêm chương trình khuyến mãi.mp4",
+    "source_path": "Huong_dan_DMS/10. Thêm chương trình khuyến mãi.mp4",
+    "file_hash": "sha256:2303618afc11b4f246f55f8147c360df1edb0f7681d5b79960118803e141d91c",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 69.450875,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

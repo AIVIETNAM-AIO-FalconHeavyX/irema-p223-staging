@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO016",
+    "title": "16. Đẩy hóa đơn lên VNPT",
+    "source_file": "16. Đẩy hóa đơn lên VNPT.mp4",
+    "source_path": "KeToan/16. Đẩy hóa đơn lên VNPT.mp4",
+    "file_hash": "sha256:04915f675d3828264c7ef7af8ebc76c2775865b75fe0fb4bcdd6a066f52f30e1",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 125.6199375,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

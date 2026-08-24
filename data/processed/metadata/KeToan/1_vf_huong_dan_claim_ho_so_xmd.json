@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+    "source_file": "1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+    "source_path": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+    "file_hash": "sha256:603dbf349a7563750a41d03791382aed8cbfebff2d18def4dc43fe078aa23586",
+    "document_type": "pptx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 17,
+    "slides": 17,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

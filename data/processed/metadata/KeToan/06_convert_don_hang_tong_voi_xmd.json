@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO006",
+    "title": "06. Convert đơn hàng tổng với XMD",
+    "source_file": "06. Convert đơn hàng tổng với XMD.mp4",
+    "source_path": "KeToan/06. Convert đơn hàng tổng với XMD.mp4",
+    "file_hash": "sha256:5b756f91d73f4bf88a650303d2c4497af7963d23a05dbef31269622ebae70e00",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 199.80775,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "chunk_id": "KETO005_05_tao_don_hang_tong_chunk_001",
+    "content": "[Document: 05. Tạo đơn hàng tổng | Role: accounting | Source: KeToan/05. Tạo đơn hàng tổng.mp4 | Section: 05. Tạo đơn hàng tổng > 00:00 | Timestamp: 00:00]\n\nĐang màn hình đơn hàng tổng mới,, toán, buy bank là trả góp vào ngân hàng, và direct là trả thẳng.",
+    "raw_content": "Đang màn hình đơn hàng tổng mới,, toán, buy bank là trả góp vào ngân hàng, và direct là trả thẳng.",
+    "token_count": 68,
+    "metadata": {
+      "document": "05. Tạo đơn hàng tổng",
+      "role": "accounting",
+      "source": "KeToan/05. Tạo đơn hàng tổng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "05. Tạo đơn hàng tổng",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO005_05_tao_don_hang_tong_chunk_002",
+    "content": "[Document: 05. Tạo đơn hàng tổng | Role: accounting | Source: KeToan/05. Tạo đơn hàng tổng.mp4 | Section: 05. Tạo đơn hàng tổng > 00:15 | Timestamp: 00:15]\n\nTrên môi trường đào tạo mình sẽ chọn trả thẳng,.",
+    "raw_content": "Trên môi trường đào tạo mình sẽ chọn trả thẳng,.",
+    "token_count": 54,
+    "metadata": {
+      "document": "05. Tạo đơn hàng tổng",
+      "role": "accounting",
+      "source": "KeToan/05. Tạo đơn hàng tổng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:15",
+      "subsection": null,
+      "heading_path": [
+        "05. Tạo đơn hàng tổng",
+        "00:15"
+      ],
+      "timestamp": "00:15"
+    }
+  },
+  {
+    "chunk_id": "KETO005_05_tao_don_hang_tong_chunk_003",
+    "content": "[Document: 05. Tạo đơn hàng tổng | Role: accounting | Source: KeToan/05. Tạo đơn hàng tổng.mp4 | Section: 05. Tạo đơn hàng tổng > 00:24 | Timestamp: 00:24]\n\nSau khi lưu thành công thì hệ thống sẽ tổng.",
+    "raw_content": "Sau khi lưu thành công thì hệ thống sẽ tổng.",
+    "token_count": 53,
+    "metadata": {
+      "document": "05. Tạo đơn hàng tổng",
+      "role": "accounting",
+      "source": "KeToan/05. Tạo đơn hàng tổng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:24",
+      "subsection": null,
+      "heading_path": [
+        "05. Tạo đơn hàng tổng",
+        "00:24"
+      ],
+      "timestamp": "00:24"
+    }
+  },
+  {
+    "chunk_id": "KETO005_05_tao_don_hang_tong_chunk_004",
+    "content": "[Document: 05. Tạo đơn hàng tổng | Role: accounting | Source: KeToan/05. Tạo đơn hàng tổng.mp4 | Section: 05. Tạo đơn hàng tổng > 00:30 | Timestamp: 00:30]\n\nTiếp đó anh chị sẽ ấn vào chi tiết đặt hàng bán xỉ, chọn.",
+    "raw_content": "Tiếp đó anh chị sẽ ấn vào chi tiết đặt hàng bán xỉ, chọn.",
+    "token_count": 57,
+    "metadata": {
+      "document": "05. Tạo đơn hàng tổng",
+      "role": "accounting",
+      "source": "KeToan/05. Tạo đơn hàng tổng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "05. Tạo đơn hàng tổng",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO005_05_tao_don_hang_tong_chunk_005",
+    "content": "[Document: 05. Tạo đơn hàng tổng | Role: accounting | Source: KeToan/05. Tạo đơn hàng tổng.mp4 | Section: 05. Tạo đơn hàng tổng > 00:45 | Timestamp: 00:45]\n\nKhi hệ thống trả như này thì anh chị ấn OK tắt đi. Đây chỉ là, không lỗi.",
+    "raw_content": "Khi hệ thống trả như này thì anh chị ấn OK tắt đi. Đây chỉ là, không lỗi.",
+    "token_count": 63,
+    "metadata": {
+      "document": "05. Tạo đơn hàng tổng",
+      "role": "accounting",
+      "source": "KeToan/05. Tạo đơn hàng tổng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:45",
+      "subsection": null,
+      "heading_path": [
+        "05. Tạo đơn hàng tổng",
+        "00:45"
+      ],
+      "timestamp": "00:45"
+    }
+  }
+]

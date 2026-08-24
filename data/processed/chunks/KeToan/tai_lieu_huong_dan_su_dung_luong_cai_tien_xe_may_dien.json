@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "KETO449_tai_lieu_huong_dan_su_dung_luong_cai_tien_xe_may_dien_chunk_001",
+    "content": "[Document: Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện | Role: accounting | Source: KeToan/Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx | Section: Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện]\n\n**Tài liệu hướng cải tiến xe máy điện**",
+    "raw_content": "**Tài liệu hướng cải tiến xe máy điện**",
+    "token_count": 71,
+    "metadata": {
+      "document": "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện",
+      "role": "accounting",
+      "source": "KeToan/Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx",
+      "page": null,
+      "slide": null,
+      "section": "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện",
+      "subsection": null,
+      "heading_path": [
+        "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO449_tai_lieu_huong_dan_su_dung_luong_cai_tien_xe_may_dien_chunk_002",
+    "content": "[Document: Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện | Role: accounting | Source: KeToan/Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx | Section: Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện > Mục Lục]\n\n**I.\tHướng dẫn đăng nhập Escooter App\t2**\n\n**II. xuất hóa đơn xe máy điện mới\t2**\n\n*1. XMĐ\t2*\n\n*3.\tXuất hóa đơn\t5*\n\n*4.\tGiao xe\t6*\n\n1. **Hướng dẫn đăng nhập Escooter App**\n\nĐối với nghiệp vụ xe máy điện, đã tối ưu đơn.\n\nKhi người dùng, Chọn giao diện VF DMS E-Scooter App\n\nGiao diện sẽ hiển thị đúng App dành riêng cho XMĐ.\n\n2. ** xuất hóa đơn xe máy điện mới**\n\n1. * hàng XMĐ*\n\nNgười dùng chọn XMĐ =&gt; Chọn tab; Chọn Create Order E-Scooter\n\nMàn hình hiển thị giao diện, người dùng nhập các thông tin sau:\n\n- Khách hàng tiềm năng: Mã khách hàng xuất hóa (Trường hợp khách hàng chưa tồn hệ thống thì tạo mới như luồng cũ)\n- Mã sản phẩm, hệ thống tạo ra bản ghi đơn hàng bán xe cho khách hàng.\n\n2. *Ghép xe*\n\nNgười dùng thực hiệp\n\nVào đơn hàng =&gt; Chọn Điều khiển = =&gt; Lưu\n\nTrạng thái sang Phê duyệt. dùng điền số VIN vào mục (.No) Stock Number sau đó Lưu =&gt; Hệ thống tự động ghép xe thành công\n\nTrạng thái sang Đã ghép thành công\n\n3. *Xuất hóa đơn*\n\nNgười dùng thực hiện chọn Điều khiển = Hóa đơn =&gt; Lưu.\n\nTrạng thái hóa\n\n4. *Giao xe*\n\nNgười dùng chọn tab NV Delivery Orders =&gt; Bấm tạo NV Delivery Order mới\n\nMàn hình hiển thị giao diện phiếu giao xe, người dùng chỉ cần nhập thông tin địa chỉ giao xe =&gt; ( tin khác tự động lấy tự, người dùng không cần nhập), người dùng thực phiếu giao xe: Chọn điều khiển = =&gt; Lưu\n\nTrạng thái phiếu giao chuyển sang, XMĐ\n\nKết thúc luồng!",
+    "raw_content": "**I.\tHướng dẫn đăng nhập Escooter App\t2**\n\n**II. xuất hóa đơn xe máy điện mới\t2**\n\n*1. XMĐ\t2*\n\n*3.\tXuất hóa đơn\t5*\n\n*4.\tGiao xe\t6*\n\n1. **Hướng dẫn đăng nhập Escooter App**\n\nĐối với nghiệp vụ xe máy điện, đã tối ưu đơn.\n\nKhi người dùng, Chọn giao diện VF DMS E-Scooter App\n\nGiao diện sẽ hiển thị đúng App dành riêng cho XMĐ.\n\n2. ** xuất hóa đơn xe máy điện mới**\n\n1. * hàng XMĐ*\n\nNgười dùng chọn XMĐ =&gt; Chọn tab; Chọn Create Order E-Scooter\n\nMàn hình hiển thị giao diện, người dùng nhập các thông tin sau:\n\n- Khách hàng tiềm năng: Mã khách hàng xuất hóa (Trường hợp khách hàng chưa tồn hệ thống thì tạo mới như luồng cũ)\n- Mã sản phẩm, hệ thống tạo ra bản ghi đơn hàng bán xe cho khách hàng.\n\n2. *Ghép xe*\n\nNgười dùng thực hiệp\n\nVào đơn hàng =&gt; Chọn Điều khiển = =&gt; Lưu\n\nTrạng thái sang Phê duyệt. dùng điền số VIN vào mục (.No) Stock Number sau đó Lưu =&gt; Hệ thống tự động ghép xe thành công\n\nTrạng thái sang Đã ghép thành công\n\n3. *Xuất hóa đơn*\n\nNgười dùng thực hiện chọn Điều khiển = Hóa đơn =&gt; Lưu.\n\nTrạng thái hóa\n\n4. *Giao xe*\n\nNgười dùng chọn tab NV Delivery Orders =&gt; Bấm tạo NV Delivery Order mới\n\nMàn hình hiển thị giao diện phiếu giao xe, người dùng chỉ cần nhập thông tin địa chỉ giao xe =&gt; ( tin khác tự động lấy tự, người dùng không cần nhập), người dùng thực phiếu giao xe: Chọn điều khiển = =&gt; Lưu\n\nTrạng thái phiếu giao chuyển sang, XMĐ\n\nKết thúc luồng!",
+    "token_count": 451,
+    "metadata": {
+      "document": "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện",
+      "role": "accounting",
+      "source": "KeToan/Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx",
+      "page": null,
+      "slide": null,
+      "section": "Mục Lục",
+      "subsection": null,
+      "heading_path": [
+        "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện",
+        "Mục Lục"
+      ],
+      "timestamp": null
+    }
+  }
+]

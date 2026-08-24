@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON634",
+    "title": "Giấy đề nghị thanh toán NPP",
+    "source_file": "Giấy đề nghị thanh toán NPP.docx",
+    "source_path": "Huong_dan_DMS/Giấy đề nghị thanh toán NPP.docx",
+    "file_hash": "sha256:9226a5d5b58a5f97a3afd2b272b3284eb40b364c2a64e4d3749931c157b7eaa2",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

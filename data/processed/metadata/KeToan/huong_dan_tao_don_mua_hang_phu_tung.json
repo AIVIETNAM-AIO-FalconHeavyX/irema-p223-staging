@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO040",
+    "title": "HƯỚNG DẪN TẠO ĐƠN MUA HÀNG PHỤ TÙNG",
+    "source_file": "HƯỚNG DẪN TẠO ĐƠN MUA HÀNG PHỤ TÙNG.docx",
+    "source_path": "KeToan/HƯỚNG DẪN TẠO ĐƠN MUA HÀNG PHỤ TÙNG.docx",
+    "file_hash": "sha256:715051e5fdecc329e621b37959e4cdd96e7e2c1357eb1625305bf357025ab605",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

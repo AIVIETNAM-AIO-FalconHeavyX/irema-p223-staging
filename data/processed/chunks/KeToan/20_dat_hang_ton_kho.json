@@ -1,0 +1,1242 @@
+[
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_001",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:00 | Timestamp: 00:00]\n\nĐặt hàng tồn kho. thì chúng ta cần phải vào một chức lăng đó là quản lý tồn kho.",
+    "raw_content": "Đặt hàng tồn kho. thì chúng ta cần phải vào một chức lăng đó là quản lý tồn kho.",
+    "token_count": 64,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_002",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:08 | Timestamp: 00:08]\n\nVà tiếp theo sẽ chọn đến phần đặt hàng tồn kho.",
+    "raw_content": "Và tiếp theo sẽ chọn đến phần đặt hàng tồn kho.",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:08",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:08"
+      ],
+      "timestamp": "00:08"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_003",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:13 | Timestamp: 00:13]\n\nĐể đặt hàng tồn là.",
+    "raw_content": "Để đặt hàng tồn là.",
+    "token_count": 46,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:13",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:13"
+      ],
+      "timestamp": "00:13"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_004",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:19 | Timestamp: 00:19]\n\nTại đây, loại giao thịch chọn là tồn kho.",
+    "raw_content": "Tại đây, loại giao thịch chọn là tồn kho.",
+    "token_count": 52,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:19",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:19"
+      ],
+      "timestamp": "00:19"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_005",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:22 | Timestamp: 00:22]\n\nNgành hàng chúng ta sẽ chọn là xe máy điện.",
+    "raw_content": "Ngành hàng chúng ta sẽ chọn là xe máy điện.",
+    "token_count": 52,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:22",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:22"
+      ],
+      "timestamp": "00:22"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_006",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:26 | Timestamp: 00:26]\n\nLoại đơn hàng chúng ta sẽ chọn là dự trữ.",
+    "raw_content": "Loại đơn hàng chúng ta sẽ chọn là dự trữ.",
+    "token_count": 52,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:26",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:26"
+      ],
+      "timestamp": "00:26"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_007",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:30 | Timestamp: 00:30]\n\nNgày yêu cầu giao hàng sẽ tùy thuộc theo gấp hay là về dự trữ.",
+    "raw_content": "Ngày yêu cầu giao hàng sẽ tùy thuộc theo gấp hay là về dự trữ.",
+    "token_count": 59,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_008",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:39 | Timestamp: 00:39]\n\nNó thực.",
+    "raw_content": "Nó thực.",
+    "token_count": 43,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:39",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:39"
+      ],
+      "timestamp": "00:39"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_009",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:47 | Timestamp: 00:47]\n\nSau khi tạo xong vỏ của RS, tục.",
+    "raw_content": "Sau khi tạo xong vỏ của RS, tục.",
+    "token_count": 49,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:47",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:47"
+      ],
+      "timestamp": "00:47"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_010",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:53 | Timestamp: 00:53]\n\nChúng ta sẽ vào tab hiện thêm mới chi tiết yêu cầu.",
+    "raw_content": "Chúng ta sẽ vào tab hiện thêm mới chi tiết yêu cầu.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:53",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "00:53"
+      ],
+      "timestamp": "00:53"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_011",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 01:00 | Timestamp: 01:00]\n\nTại đây, điền mã sản phẩm, mã xe.",
+    "raw_content": "Tại đây, điền mã sản phẩm, mã xe.",
+    "token_count": 50,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_012",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 01:20 | Timestamp: 01:20]\n\nVà điền.",
+    "raw_content": "Và điền.",
+    "token_count": 43,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:20",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "01:20"
+      ],
+      "timestamp": "01:20"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_013",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 01:22 | Timestamp: 01:22]\n\nSau đó sẽ thực.",
+    "raw_content": "Sau đó sẽ thực.",
+    "token_count": 45,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:22",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "01:22"
+      ],
+      "timestamp": "01:22"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_014",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 01:30 | Timestamp: 01:30]\n\nSau khi lưu xong, chúng ta sẽ trở vỏ ban thực hiện gửi RS này xuống hệ thống sát đặt hàng tồn kho.",
+    "raw_content": "Sau khi lưu xong, chúng ta sẽ trở vỏ ban thực hiện gửi RS này xuống hệ thống sát đặt hàng tồn kho.",
+    "token_count": 69,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "01:30"
+      ],
+      "timestamp": "01:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_015",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 01:46 | Timestamp: 01:46]\n\nTrên danh, giao dịch đặt hàng tồn kho.",
+    "raw_content": "Trên danh, giao dịch đặt hàng tồn kho.",
+    "token_count": 51,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:46",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "01:46"
+      ],
+      "timestamp": "01:46"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_016",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:00 | Timestamp: 02:00]\n\nSau khi chúng ghi sẽ chuyển sang trạng thái là chờ phê duyệt,",
+    "raw_content": "Sau khi chúng ghi sẽ chuyển sang trạng thái là chờ phê duyệt,",
+    "token_count": 57,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:00"
+      ],
+      "timestamp": "02:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_017",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:06 | Timestamp: 02:06]\n\nthì lúc này chúng ta sẽ báo cửa hàng trưởng tại cơ sở mình vào phê duyệt đặt hàng tồn kho.",
+    "raw_content": "thì lúc này chúng ta sẽ báo cửa hàng trưởng tại cơ sở mình vào phê duyệt đặt hàng tồn kho.",
+    "token_count": 67,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:06",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:06"
+      ],
+      "timestamp": "02:06"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_018",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:27 | Timestamp: 02:27]\n\nSau khi cửa hàng trưởng đã phê duyệt,",
+    "raw_content": "Sau khi cửa hàng trưởng đã phê duyệt,",
+    "token_count": 51,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:27",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:27"
+      ],
+      "timestamp": "02:27"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_019",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:30 | Timestamp: 02:30]\n\nthì bản ghi đặt hàng tồn sang trạng thái là, như thế này.",
+    "raw_content": "thì bản ghi đặt hàng tồn sang trạng thái là, như thế này.",
+    "token_count": 56,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:30"
+      ],
+      "timestamp": "02:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_020",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:35 | Timestamp: 02:35]\n\nSau đó các anh chị sẽ báo với bộ phận phân phối là xác nhận đặt hàng tồn kho dưới sáp.",
+    "raw_content": "Sau đó các anh chị sẽ báo với bộ phận phân phối là xác nhận đặt hàng tồn kho dưới sáp.",
+    "token_count": 67,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:35",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:35"
+      ],
+      "timestamp": "02:35"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_021",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:42 | Timestamp: 02:42]\n\nSau khi xác nhận đặt hàng tồn kho dưới sáp xong,",
+    "raw_content": "Sau khi xác nhận đặt hàng tồn kho dưới sáp xong,",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:42",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:42"
+      ],
+      "timestamp": "02:42"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_022",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:45 | Timestamp: 02:45]\n\nthì hệ thống sát sẽ thống DMS số đơn hàng sát.",
+    "raw_content": "thì hệ thống sát sẽ thống DMS số đơn hàng sát.",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:45",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:45"
+      ],
+      "timestamp": "02:45"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_023",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 02:54 | Timestamp: 02:54]\n\nĐây sẽ là số sát sáp đã xác nhận đặt hàng tồn kho.",
+    "raw_content": "Đây sẽ là số sát sáp đã xác nhận đặt hàng tồn kho.",
+    "token_count": 56,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:54",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "02:54"
+      ],
+      "timestamp": "02:54"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_024",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:00 | Timestamp: 03:00]\n\nSau khi trên DMS đã hiển thị số đơn hàng sát,",
+    "raw_content": "Sau khi trên DMS đã hiển thị số đơn hàng sát,",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:00"
+      ],
+      "timestamp": "03:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_025",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:03 | Timestamp: 03:03]\n\ncác anh chị gửi số phận phân phối thực phiếu giao xe cho cơ sở mình.",
+    "raw_content": "các anh chị gửi số phận phân phối thực phiếu giao xe cho cơ sở mình.",
+    "token_count": 60,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:03",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:03"
+      ],
+      "timestamp": "03:03"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_026",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:14 | Timestamp: 03:14]\n\nSau khi bộ phận phân phối đã làm phiếu giao xong,",
+    "raw_content": "Sau khi bộ phận phân phối đã làm phiếu giao xong,",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:14",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:14"
+      ],
+      "timestamp": "03:14"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_027",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:17 | Timestamp: 03:17]\n\nthì hệ thống sát sẽ đẩy lên DMS chúng phiếu giao xe như đang hiển,",
+    "raw_content": "thì hệ thống sát sẽ đẩy lên DMS chúng phiếu giao xe như đang hiển,",
+    "token_count": 59,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:17",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:17"
+      ],
+      "timestamp": "03:17"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_028",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:23 | Timestamp: 03:23]\n\nở trong phần tab phiếu giao xe.",
+    "raw_content": "ở trong phần tab phiếu giao xe.",
+    "token_count": 49,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:23",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:23"
+      ],
+      "timestamp": "03:23"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_029",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:25 | Timestamp: 03:25]\n\nCác anh chị sẽ thực hiện mở phiếu giao xe này ra.",
+    "raw_content": "Các anh chị sẽ thực hiện mở phiếu giao xe này ra.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:25",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:25"
+      ],
+      "timestamp": "03:25"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_030",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:30 | Timestamp: 03:30]\n\nThì tại đây, chúng cuối tồn kho,",
+    "raw_content": "Thì tại đây, chúng cuối tồn kho,",
+    "token_count": 49,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:30"
+      ],
+      "timestamp": "03:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_031",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:34 | Timestamp: 03:34]\n\ncó nghĩa là sẽ phát hành phiếu điều chỉnh tồn kho.",
+    "raw_content": "có nghĩa là sẽ phát hành phiếu điều chỉnh tồn kho.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:34",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:34"
+      ],
+      "timestamp": "03:34"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_032",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:37 | Timestamp: 03:37]\n\nPhiếu điều chỉnh tồn kho sẽ được làm ở phần,",
+    "raw_content": "Phiếu điều chỉnh tồn kho sẽ được làm ở phần,",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:37",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:37"
+      ],
+      "timestamp": "03:37"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_033",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:40 | Timestamp: 03:40]\n\ncác anh chị sẽ ấn vào và chọn điều chỉnh tồn kho.",
+    "raw_content": "các anh chị sẽ ấn vào và chọn điều chỉnh tồn kho.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:40",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:40"
+      ],
+      "timestamp": "03:40"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_034",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 03:55 | Timestamp: 03:55]\n\nChúng ta sẽ thực hiện mở phiếu điều chỉnh tồn ra.",
+    "raw_content": "Chúng ta sẽ thực hiện mở phiếu điều chỉnh tồn ra.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:55",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "03:55"
+      ],
+      "timestamp": "03:55"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_035",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:00 | Timestamp: 04:00]\n\nVà thực hiện phiếu điều chỉnh tồn.",
+    "raw_content": "Và thực hiện phiếu điều chỉnh tồn.",
+    "token_count": 50,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:00"
+      ],
+      "timestamp": "04:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_036",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:12 | Timestamp: 04:12]\n\nSau khi phát hành, thì phiếu điều chỉnh tồn kho sẽ chuyển sang trạng thái là.",
+    "raw_content": "Sau khi phát hành, thì phiếu điều chỉnh tồn kho sẽ chuyển sang trạng thái là.",
+    "token_count": 61,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:12",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:12"
+      ],
+      "timestamp": "04:12"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_037",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:16 | Timestamp: 04:16]\n\nĐồng thời lúc đó, thì bản ghi đặt hàng tồn sang trạng thái là hoàn thành.",
+    "raw_content": "Đồng thời lúc đó, thì bản ghi đặt hàng tồn sang trạng thái là hoàn thành.",
+    "token_count": 60,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:16",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:16"
+      ],
+      "timestamp": "04:16"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_038",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:24 | Timestamp: 04:24]\n\nThì sau khi phát hành ITX thành công, thì bản ghi đặt hàng tồn thái là hoàn thành.",
+    "raw_content": "Thì sau khi phát hành ITX thành công, thì bản ghi đặt hàng tồn thái là hoàn thành.",
+    "token_count": 63,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:24",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:24"
+      ],
+      "timestamp": "04:24"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_039",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:30 | Timestamp: 04:30]\n\nLà đã kết tồn kho.",
+    "raw_content": "Là đã kết tồn kho.",
+    "token_count": 46,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:30"
+      ],
+      "timestamp": "04:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_040",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:33 | Timestamp: 04:33]\n\nTiếp theo sẽ là việc quản lý phụ tùng,.",
+    "raw_content": "Tiếp theo sẽ là việc quản lý phụ tùng,.",
+    "token_count": 51,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:33",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:33"
+      ],
+      "timestamp": "04:33"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_041",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:37 | Timestamp: 04:37]\n\nChúng ta sẽ thực hiện kéo xuống tùng.",
+    "raw_content": "Chúng ta sẽ thực hiện kéo xuống tùng.",
+    "token_count": 51,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:37",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:37"
+      ],
+      "timestamp": "04:37"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_042",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:43 | Timestamp: 04:43]\n\nSẽ có các mục như theo vị trí,, vực.",
+    "raw_content": "Sẽ có các mục như theo vị trí,, vực.",
+    "token_count": 50,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:43",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:43"
+      ],
+      "timestamp": "04:43"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_043",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 04:50 | Timestamp: 04:50]\n\nChúng ta sẽ thực hiện chọn ba chức lăng.",
+    "raw_content": "Chúng ta sẽ thực hiện chọn ba chức lăng.",
+    "token_count": 52,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:50",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "04:50"
+      ],
+      "timestamp": "04:50"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_044",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:00 | Timestamp: 05:00]\n\nTại đây biết được cái phụ tùng của cơ sở mình đang nằm ở vị trí kho nào và đang ở đâu.",
+    "raw_content": "Tại đây biết được cái phụ tùng của cơ sở mình đang nằm ở vị trí kho nào và đang ở đâu.",
+    "token_count": 68,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:00"
+      ],
+      "timestamp": "05:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_045",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:08 | Timestamp: 05:08]\n\nVí dụ như đe thất.",
+    "raw_content": "Ví dụ như đe thất.",
+    "token_count": 46,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:08",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:08"
+      ],
+      "timestamp": "05:08"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_046",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:13 | Timestamp: 05:13]\n\nĐể thực, tới.",
+    "raw_content": "Để thực, tới.",
+    "token_count": 44,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:13",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:13"
+      ],
+      "timestamp": "05:13"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_047",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:21 | Timestamp: 05:21]\n\nThì ở đây chúng ta sẽ là các con xe của cơ sở mình đang ở trạng thái gì.",
+    "raw_content": "Thì ở đây chúng ta sẽ là các con xe của cơ sở mình đang ở trạng thái gì.",
+    "token_count": 64,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:21",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:21"
+      ],
+      "timestamp": "05:21"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_048",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:27 | Timestamp: 05:27]\n\nVí dụ mã sàn vật.",
+    "raw_content": "Ví dụ mã sàn vật.",
+    "token_count": 45,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:27",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:27"
+      ],
+      "timestamp": "05:27"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_049",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:30 | Timestamp: 05:30]\n\nSản phẩm ESMA ở đây đang là trạng thái tồn sẵn.",
+    "raw_content": "Sản phẩm ESMA ở đây đang là trạng thái tồn sẵn.",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:30",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:30"
+      ],
+      "timestamp": "05:30"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_050",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:34 | Timestamp: 05:34]\n\nNhư ở trạng thái tồn sẵn này thì chúng ta sẽ thực hiện mua bán trên hệ thống cho khách hàng được.",
+    "raw_content": "Như ở trạng thái tồn sẵn này thì chúng ta sẽ thực hiện mua bán trên hệ thống cho khách hàng được.",
+    "token_count": 68,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:34",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:34"
+      ],
+      "timestamp": "05:34"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_051",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:44 | Timestamp: 05:44]\n\nChúng ta sẽ thực hiện xem một bản ghi tồn kho xe.",
+    "raw_content": "Chúng ta sẽ thực hiện xem một bản ghi tồn kho xe.",
+    "token_count": 54,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:44",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:44"
+      ],
+      "timestamp": "05:44"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_052",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 05:51 | Timestamp: 05:51]\n\nTrong một bản ghi tồn kho xe sẽ có các thông tin về mô tả sản phẩm, mã kiểu sản phẩm, số xe đe pin.",
+    "raw_content": "Trong một bản ghi tồn kho xe sẽ có các thông tin về mô tả sản phẩm, mã kiểu sản phẩm, số xe đe pin.",
+    "token_count": 72,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:51",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "05:51"
+      ],
+      "timestamp": "05:51"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_053",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:00 | Timestamp: 06:00]\n\nVà số khung xe.",
+    "raw_content": "Và số khung xe.",
+    "token_count": 45,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:00",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:00"
+      ],
+      "timestamp": "06:00"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_054",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:02 | Timestamp: 06:02]\n\nỞ đây chúng ta sẽ thực hiện kiểm tra thêm tin nữa về thông tin bản ghi tồn kho pin ở.",
+    "raw_content": "Ở đây chúng ta sẽ thực hiện kiểm tra thêm tin nữa về thông tin bản ghi tồn kho pin ở.",
+    "token_count": 67,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:02",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:02"
+      ],
+      "timestamp": "06:02"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_055",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:09 | Timestamp: 06:09]\n\nChúng ta sẽ kéo xuống phần số xe.",
+    "raw_content": "Chúng ta sẽ kéo xuống phần số xe.",
+    "token_count": 50,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:09",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:09"
+      ],
+      "timestamp": "06:09"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_056",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:12 | Timestamp: 06:12]\n\nThì ở đây sẽ có một bản ghi về số.",
+    "raw_content": "Thì ở đây sẽ có một bản ghi về số.",
+    "token_count": 52,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:12",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:12"
+      ],
+      "timestamp": "06:12"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_057",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:18 | Timestamp: 06:18]\n\nChúng ta sẽ thực hiện mở ra.",
+    "raw_content": "Chúng ta sẽ thực hiện mở ra.",
+    "token_count": 48,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:18",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:18"
+      ],
+      "timestamp": "06:18"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_058",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:24 | Timestamp: 06:24]\n\nSau khi chúng hành phiếu điều chỉnh tồn kho.",
+    "raw_content": "Sau khi chúng hành phiếu điều chỉnh tồn kho.",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:24",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:24"
+      ],
+      "timestamp": "06:24"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_059",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:29 | Timestamp: 06:29]\n\nThì con pin kèm xe sang trạng thái là khó sẵn.",
+    "raw_content": "Thì con pin kèm xe sang trạng thái là khó sẵn.",
+    "token_count": 53,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:29",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:29"
+      ],
+      "timestamp": "06:29"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_060",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:33 | Timestamp: 06:33]\n\nVới những con pin và xe đang ở trạng thái tồn kho khó sẵn.",
+    "raw_content": "Với những con pin và xe đang ở trạng thái tồn kho khó sẵn.",
+    "token_count": 57,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:33",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:33"
+      ],
+      "timestamp": "06:33"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_061",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:37 | Timestamp: 06:37]\n\nThì chúng ta sẽ thực hiện mua bán trên hệ thống cho khách hàng.",
+    "raw_content": "Thì chúng ta sẽ thực hiện mua bán trên hệ thống cho khách hàng.",
+    "token_count": 58,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:37",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:37"
+      ],
+      "timestamp": "06:37"
+    }
+  },
+  {
+    "chunk_id": "KETO020_20_dat_hang_ton_kho_chunk_062",
+    "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 06:41 | Timestamp: 06:41]\n\nĐược.",
+    "raw_content": "Được.",
+    "token_count": 42,
+    "metadata": {
+      "document": "20. Đặt hàng tồn kho",
+      "role": "accounting",
+      "source": "KeToan/20. Đặt hàng tồn kho.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:41",
+      "subsection": null,
+      "heading_path": [
+        "20. Đặt hàng tồn kho",
+        "06:41"
+      ],
+      "timestamp": "06:41"
+    }
+  }
+]

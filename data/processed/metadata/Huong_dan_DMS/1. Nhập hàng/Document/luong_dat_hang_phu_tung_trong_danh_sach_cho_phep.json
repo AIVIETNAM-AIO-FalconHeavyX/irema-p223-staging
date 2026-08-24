@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON043",
+    "title": "Luồng đặt hàng phụ tùng trong Danh sách cho phép",
+    "source_file": "Luồng đặt hàng phụ tùng trong Danh sách cho phép.docx",
+    "source_path": "Huong_dan_DMS/Luồng đặt hàng phụ tùng trong Danh sách cho phép.docx",
+    "file_hash": "sha256:9ef23c820cff7541405ed09751e23c50bdcf69833d535f5313fb08ebe9dcd3a6",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

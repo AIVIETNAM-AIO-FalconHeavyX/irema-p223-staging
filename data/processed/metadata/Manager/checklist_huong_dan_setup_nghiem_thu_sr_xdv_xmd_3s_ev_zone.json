@@ -1,0 +1,29 @@
+{
+    "document_id": "MANA003",
+    "title": "Checklist hướng dẫn setup & nghiệm thu SR – XDV XMĐ 3S EV ZONE",
+    "source_file": "Checklist hướng dẫn setup & nghiệm thu SR – XDV XMĐ 3S EV ZONE.xlsx",
+    "source_path": "Manager/Checklist hướng dẫn setup & nghiệm thu SR – XDV XMĐ 3S EV ZONE.xlsx",
+    "file_hash": "sha256:cb410b366c49d8892e4a35c3d6b4132ace28b16da0bfa19530bcaedcb873f3a1",
+    "document_type": "xlsx",
+    "content_type": "document",
+    "role": "owner",
+    "category": "Manager",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-15"
+}

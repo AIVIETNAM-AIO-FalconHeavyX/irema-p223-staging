@@ -1,0 +1,25 @@
+{
+    "document_id": "KTV001",
+    "title": "1. Chinh sach bao hanh XMĐ TTVN",
+    "source_file": "1. Chinh sach bao hanh XMĐ TTVN.pdf",
+    "source_path": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+    "file_hash": "sha256:8d5ed796d7ed4c97b663adf255b3b7e5746c38851a8db2ac95ec953b73b40fa5",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "technician",
+    "category": "KTV",
+    "access_scope": [
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 10,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

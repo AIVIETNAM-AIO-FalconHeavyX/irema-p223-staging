@@ -1,0 +1,121 @@
+[
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_001",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 1 | Section: gate1 SDD VF Onboarding Copilot > Page 1]\n\nSOFTWARE DESIGN DOCUMENT (SDD)\nHệ Thống VF-Onboarding Copilot Engine\nMã Tài Liệu: SDD-VF-ONBOARDING-2026\nPhiên Bản: 2.0 (Engineering Spec)\nTác Giả: Lead System Architect / AI Engineer\nNgày Phát Hành: 07/08/2026\nDự Án: VF-Onboarding Platform (Trợ lý AI Hỗ trợ Đại lý Phân phối & KTV )\n\n1. Tổng Quan Hệ Thống (System Overview)\n2. Module M0: Input Processing Engine (Module Xử Lý Đầu Vào Đa Định Dạng)\n\nModule M0 đảm nhận vai trò tiếp nhận, bóc tách, làm sạch và chuẩn hóa mọi loại dữ liệu đầu vào trong hệ thống (cả chu\ntrình Ingestion hàng loạt và câu hỏi động của người dùng).\nTrang 1 / 5",
+    "raw_content": "SOFTWARE DESIGN DOCUMENT (SDD)\nHệ Thống VF-Onboarding Copilot Engine\nMã Tài Liệu: SDD-VF-ONBOARDING-2026\nPhiên Bản: 2.0 (Engineering Spec)\nTác Giả: Lead System Architect / AI Engineer\nNgày Phát Hành: 07/08/2026\nDự Án: VF-Onboarding Platform (Trợ lý AI Hỗ trợ Đại lý Phân phối & KTV )\n\n1. Tổng Quan Hệ Thống (System Overview)\n2. Module M0: Input Processing Engine (Module Xử Lý Đầu Vào Đa Định Dạng)\n\nModule M0 đảm nhận vai trò tiếp nhận, bóc tách, làm sạch và chuẩn hóa mọi loại dữ liệu đầu vào trong hệ thống (cả chu\ntrình Ingestion hàng loạt và câu hỏi động của người dùng).\nTrang 1 / 5",
+    "token_count": 209,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 1,
+      "slide": null,
+      "section": "Page 1",
+      "subsection": null,
+      "heading_path": [
+        "gate1 SDD VF Onboarding Copilot",
+        "Page 1"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_002",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 2 | Section: gate1 SDD VF Onboarding Copilot > Page 2]\n\n1. Audio Stream ➔ Whisper STT.\n2. Frame Stream ➔ Keyframe (Scene\n\nChange) ➔ OCR đọc máy chẩn đoán /\nHUD.\nTemporal Alignment JSON\n(Speech + Visual Tokens)\n1.\nTrang 2 / 5",
+    "raw_content": "1. Audio Stream ➔ Whisper STT.\n2. Frame Stream ➔ Keyframe (Scene\n\nChange) ➔ OCR đọc máy chẩn đoán /\nHUD.\nTemporal Alignment JSON\n(Speech + Visual Tokens)\n1.\nTrang 2 / 5",
+    "token_count": 99,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 2,
+      "slide": null,
+      "section": "Page 2",
+      "subsection": null,
+      "heading_path": [
+        "gate1 SDD VF Onboarding Copilot",
+        "Page 2"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_003",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 3 | Section: gate1 SDD VF Onboarding Copilot > Page 3]\n\nEV Term Dictionary Mapping: Chuyển đổi từ viết tắt/từ lóng xưởng dịch vụ sang chuẩn kỹ thuật (VD: \"vf8\" ➔ VF8, \"pin\ncao áp\" ➔ High_Voltage_Battery, \"bộ sạc\" ➔ OBC_Charger).\nAnonymization & PII Masking: Ẩn số điện thoại, biển số xe và mã VIN 17 ký tự (VD: [MASKED_VIN]).\n\n3. Module M2: 4-Layer Lightweight Router (<100ms)\n\nRouter đóng vai trò bộ lọc tốc độ cao giúp phân loại Intent mà không cần tốn chi phí gọi LLM cho các câu hỏi tra cứu định\nhình sẵn.\n\n4. Module M3: LangGraph StateGraph Architecture\n\nLangGraph điều phối toàn bộ các bước suy luận và truy xuất thông qua StateGraph tập trung.",
+    "raw_content": "EV Term Dictionary Mapping: Chuyển đổi từ viết tắt/từ lóng xưởng dịch vụ sang chuẩn kỹ thuật (VD: \"vf8\" ➔ VF8, \"pin\ncao áp\" ➔ High_Voltage_Battery, \"bộ sạc\" ➔ OBC_Charger).\nAnonymization & PII Masking: Ẩn số điện thoại, biển số xe và mã VIN 17 ký tự (VD: [MASKED_VIN]).\n\n3. Module M2: 4-Layer Lightweight Router (<100ms)\n\nRouter đóng vai trò bộ lọc tốc độ cao giúp phân loại Intent mà không cần tốn chi phí gọi LLM cho các câu hỏi tra cứu định\nhình sẵn.\n\n4. Module M3: LangGraph StateGraph Architecture\n\nLangGraph điều phối toàn bộ các bước suy luận và truy xuất thông qua StateGraph tập trung.",
+    "token_count": 211,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 3,
+      "slide": null,
+      "section": "Page 3",
+      "subsection": null,
+      "heading_path": [
+        "gate1 SDD VF Onboarding Copilot",
+        "Page 3"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_004",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 3 | Section: Định nghĩa State trong LangGraph (Python Engine)]\n\nfrom typing import TypedDict, List, Optional, Dict, Any\nclass AgentState(TypedDict):\n    raw_query: str\n    normalized_query: str\n    user_role: str # \"technician\", \"sales_agent\", \"service_manager\"\n    intent: str # \"POLICY_SEARCH\", \"ERROR_LOOKUP\", \"TICKET_TRIGGER\"\n    confidence_score: float\n    retrieved_docs: List[Dict[str, Any]]\n    dtc_details: Optional[Dict[str, Any]]\n    final_response: str\n    citations: List[Dict[str, Any]]\n    need_caution_alert: bool\n2.\n3.\nLớp\nRouter\nThuật Toán / Mô Hình\nĐộ Trễ\n(Latency)\nNhiệm Vụ Chính\nLayer 1\nQuery Rewriter (Regex +\nDict)\n~2 ms\nSửa lỗi chính tả tiếng Việt, chuẩn hóa ký tự và từ viết tắt.\nLayer 2\nPrefix Trie Classifier\n~1 ms\nKhớp chính xác mã lỗi DTC (P0A80, C1234) hoặc từ khóa Form\ncố định ($O(1)$).\nLayer 3\nEmbedding (MiniLM / BGE-\nONNX)\n~25 ms\nPhân loại Intent dựa trên Cosine Similarity với Centroids câu hỏi\nmẫu.\nLayer 4\nGemini Flash (LLM Fallback)\n~80 ms\nXử lý các câu hỏi phức tạp hoặc không khớp 3 lớp trên (Zero-shot\nJSON).\nTrang 3 / 5",
+    "raw_content": "from typing import TypedDict, List, Optional, Dict, Any\nclass AgentState(TypedDict):\n    raw_query: str\n    normalized_query: str\n    user_role: str # \"technician\", \"sales_agent\", \"service_manager\"\n    intent: str # \"POLICY_SEARCH\", \"ERROR_LOOKUP\", \"TICKET_TRIGGER\"\n    confidence_score: float\n    retrieved_docs: List[Dict[str, Any]]\n    dtc_details: Optional[Dict[str, Any]]\n    final_response: str\n    citations: List[Dict[str, Any]]\n    need_caution_alert: bool\n2.\n3.\nLớp\nRouter\nThuật Toán / Mô Hình\nĐộ Trễ\n(Latency)\nNhiệm Vụ Chính\nLayer 1\nQuery Rewriter (Regex +\nDict)\n~2 ms\nSửa lỗi chính tả tiếng Việt, chuẩn hóa ký tự và từ viết tắt.\nLayer 2\nPrefix Trie Classifier\n~1 ms\nKhớp chính xác mã lỗi DTC (P0A80, C1234) hoặc từ khóa Form\ncố định ($O(1)$).\nLayer 3\nEmbedding (MiniLM / BGE-\nONNX)\n~25 ms\nPhân loại Intent dựa trên Cosine Similarity với Centroids câu hỏi\nmẫu.\nLayer 4\nGemini Flash (LLM Fallback)\n~80 ms\nXử lý các câu hỏi phức tạp hoặc không khớp 3 lớp trên (Zero-shot\nJSON).\nTrang 3 / 5",
+    "token_count": 319,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 3,
+      "slide": null,
+      "section": "Định nghĩa State trong LangGraph (Python Engine)",
+      "subsection": null,
+      "heading_path": [
+        "Định nghĩa State trong LangGraph (Python Engine)"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_005",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 4 | Section: Định nghĩa State trong LangGraph (Python Engine) > Page 4]\n\n5. Module M4: API Specifications (Định Dạng Chuẩn)\n\n5.1. Chat Endpoint: POST /api/v1/chat\n// Request Body JSON:\n  \"query\": \"Xe VF8 báo lỗi P0A80 trên màn hình thì xử lý thế nào?\",\n  \"user_role\": \"technician\",\n  \"session_id\": \"sess_20260807_9981\"\n// Response Body JSON:\n  \"code\": 200,\n  \"message\": \"Success\",\n  \"data\": {\n    \"intent\": \"ERROR_LOOKUP\",\n    \"response_text\": \"Mã lỗi **P0A80** chỉ ra sự cố suy giảm chất lượng Bộ Pin Cao Áp (High Voltage\nBattery Pack)...\n⚠️ **CẢNH BÁO AN TOÀN:** Yêu cầu đeo găng tay cách điện 1000V khi thao tác.\",\n    \"citations\": [\n        \"id\": \"doc_bm_vf8_p012\",\n        \"title\": \"Cẩm nang Kỹ thuật VF8 - Hệ thống Pin\",\n        \"source\": \"HDSD_VF8.pdf\",\n        \"page\": 142,\n        \"score\": 0.94\n    ],\n    \"ticket_trigger\": { \"required\": false },\n    \"caution_alert\": true,\n    \"execution_time_ms\": 420\n\n6. Module M5 & M6: Data Models, Vector DB & AI Skills\n\n6.1. Metadata Phân Quyền Trong ChromaDB (RBAC)\nMọi Chunk dữ liệu khi đẩy vào Vector DB đều đi kèm Metadata phân quyền:\n  \"doc_id\": \"doc_vf8_bms_001\",\n  \"allowed_roles\": \"technician,service_manager\", // Filter qua Chroma $contains\n  \"car_model\": \"VF8\",\n  \"chunk_type\": \"text\"\n6.2. Safe Guardrail & Safety Caution Alert Engine\nCơ chế Banner Cảnh Báo An Toàn (⚠️ CAUTION):\nNếu câu hỏi/mã lỗi liên quan đến các hệ thống nguy hiểm cao như: Pin Cao Áp (BMS), Phanh Điện Tử (EPB), hoặc Túi Khí\n(SRS), hệ thống tự động gán cờ need_caution_alert = true và chèn Banner cảnh báo an toàn lao động bắt buộc ở đầu\ncâu trả lời.\nTrang 4 / 5",
+    "raw_content": "5. Module M4: API Specifications (Định Dạng Chuẩn)\n\n5.1. Chat Endpoint: POST /api/v1/chat\n// Request Body JSON:\n  \"query\": \"Xe VF8 báo lỗi P0A80 trên màn hình thì xử lý thế nào?\",\n  \"user_role\": \"technician\",\n  \"session_id\": \"sess_20260807_9981\"\n// Response Body JSON:\n  \"code\": 200,\n  \"message\": \"Success\",\n  \"data\": {\n    \"intent\": \"ERROR_LOOKUP\",\n    \"response_text\": \"Mã lỗi **P0A80** chỉ ra sự cố suy giảm chất lượng Bộ Pin Cao Áp (High Voltage\nBattery Pack)...\n⚠️ **CẢNH BÁO AN TOÀN:** Yêu cầu đeo găng tay cách điện 1000V khi thao tác.\",\n    \"citations\": [\n        \"id\": \"doc_bm_vf8_p012\",\n        \"title\": \"Cẩm nang Kỹ thuật VF8 - Hệ thống Pin\",\n        \"source\": \"HDSD_VF8.pdf\",\n        \"page\": 142,\n        \"score\": 0.94\n    ],\n    \"ticket_trigger\": { \"required\": false },\n    \"caution_alert\": true,\n    \"execution_time_ms\": 420\n\n6. Module M5 & M6: Data Models, Vector DB & AI Skills\n\n6.1. Metadata Phân Quyền Trong ChromaDB (RBAC)\nMọi Chunk dữ liệu khi đẩy vào Vector DB đều đi kèm Metadata phân quyền:\n  \"doc_id\": \"doc_vf8_bms_001\",\n  \"allowed_roles\": \"technician,service_manager\", // Filter qua Chroma $contains\n  \"car_model\": \"VF8\",\n  \"chunk_type\": \"text\"\n6.2. Safe Guardrail & Safety Caution Alert Engine\nCơ chế Banner Cảnh Báo An Toàn (⚠️ CAUTION):\nNếu câu hỏi/mã lỗi liên quan đến các hệ thống nguy hiểm cao như: Pin Cao Áp (BMS), Phanh Điện Tử (EPB), hoặc Túi Khí\n(SRS), hệ thống tự động gán cờ need_caution_alert = true và chèn Banner cảnh báo an toàn lao động bắt buộc ở đầu\ncâu trả lời.\nTrang 4 / 5",
+    "token_count": 459,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 4,
+      "slide": null,
+      "section": "Page 4",
+      "subsection": null,
+      "heading_path": [
+        "Định nghĩa State trong LangGraph (Python Engine)",
+        "Page 4"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GATE001_gate1_sdd_vf_onboarding_copilot_chunk_006",
+    "content": "[Document: gate1 SDD VF Onboarding Copilot | Role: general | Source: gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf | Page: 5 | Section: Định nghĩa State trong LangGraph (Python Engine) > Page 5]\n\n7. Module M7 & M8: UI/UX Guidelines & Verification Plan\n\n7.1. Hướng Dẫn UI/UX Frontend\nRole Selector Enforcement: Bắt buộc chọn Vai trò (KTV / Sale / Quản lý) trước khi gửi tin nhắn đầu tiên.\nCitation Accordion: Render trích dẫn dạng xổ xuống (Accordion) ở cuối câu trả lời kèm link mở trang PDF / timestamp\nVideo.\nFallback Static Form Pop-up: Khi Confidence Score $< 0.70$, tự động hiển thị gợi ý mở Form gửi Ticket cho chuyên gia\nkỹ thuật cấp cao.\n7.2. Kế Hoạch Kiểm Thử (Verification Plan)\nLoại Test\nMục Tiêu Kiểm Thử\nTiêu Chí Chấp Nhận (Acceptance Criteria)\nUnit Test M2\n4-Layer Router Engine\n100% test cases Router phản hồi $< 50 ext{ ms}$. Độ chính xác phân loại $> 98\\%$.\nUnit Test M0\nParsing Multi-Format\nFiles\nTrích xuất chính xác $100\\%$ các bảng dữ liệu từ PDF và Excel không bị lệch hàng/\ncột.\nIntegration\nTest\nEnd-to-End Chat Flow\nThời gian phản hồi toàn luồng $< 1.5 ext{ giây}$. Đã gắn đúng Citation và RBAC.\nTrang 5 / 5",
+    "raw_content": "7. Module M7 & M8: UI/UX Guidelines & Verification Plan\n\n7.1. Hướng Dẫn UI/UX Frontend\nRole Selector Enforcement: Bắt buộc chọn Vai trò (KTV / Sale / Quản lý) trước khi gửi tin nhắn đầu tiên.\nCitation Accordion: Render trích dẫn dạng xổ xuống (Accordion) ở cuối câu trả lời kèm link mở trang PDF / timestamp\nVideo.\nFallback Static Form Pop-up: Khi Confidence Score $< 0.70$, tự động hiển thị gợi ý mở Form gửi Ticket cho chuyên gia\nkỹ thuật cấp cao.\n7.2. Kế Hoạch Kiểm Thử (Verification Plan)\nLoại Test\nMục Tiêu Kiểm Thử\nTiêu Chí Chấp Nhận (Acceptance Criteria)\nUnit Test M2\n4-Layer Router Engine\n100% test cases Router phản hồi $< 50 ext{ ms}$. Độ chính xác phân loại $> 98\\%$.\nUnit Test M0\nParsing Multi-Format\nFiles\nTrích xuất chính xác $100\\%$ các bảng dữ liệu từ PDF và Excel không bị lệch hàng/\ncột.\nIntegration\nTest\nEnd-to-End Chat Flow\nThời gian phản hồi toàn luồng $< 1.5 ext{ giây}$. Đã gắn đúng Citation và RBAC.\nTrang 5 / 5",
+    "token_count": 305,
+    "metadata": {
+      "document": "gate1 SDD VF Onboarding Copilot",
+      "role": "general",
+      "source": "gate1_SDD_VF_Onboarding_Copilot.pdf/gate1_SDD_VF_Onboarding_Copilot.pdf",
+      "page": 5,
+      "slide": null,
+      "section": "Page 5",
+      "subsection": null,
+      "heading_path": [
+        "Định nghĩa State trong LangGraph (Python Engine)",
+        "Page 5"
+      ],
+      "timestamp": null
+    }
+  }
+]

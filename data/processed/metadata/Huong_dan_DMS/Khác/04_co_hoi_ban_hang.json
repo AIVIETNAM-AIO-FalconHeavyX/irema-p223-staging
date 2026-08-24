@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON004",
+    "title": "04. Cơ hội bán hàng",
+    "source_file": "04. Cơ hội bán hàng.mp4",
+    "source_path": "Huong_dan_DMS/04. Cơ hội bán hàng.mp4",
+    "file_hash": "sha256:d1dc6fcc5a36ef103b646387ed9405b6656bb218617876badd5c0dfec3d4d281",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 92.438625,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

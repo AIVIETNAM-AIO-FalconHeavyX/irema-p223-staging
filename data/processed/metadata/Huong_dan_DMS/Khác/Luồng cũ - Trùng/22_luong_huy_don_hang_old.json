@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON022",
+    "title": "22. Luồng hủy đơn hàng (old)",
+    "source_file": "22. Luồng hủy đơn hàng (old).mp4",
+    "source_path": "Huong_dan_DMS/22. Luồng hủy đơn hàng (old).mp4",
+    "file_hash": "sha256:31f7d8805b4a84490e8243d62bd8dcbf87b8d84516625df4b074fbbfbbe71f45",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 289.901125,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

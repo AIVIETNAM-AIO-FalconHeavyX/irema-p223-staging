@@ -1,0 +1,154 @@
+[
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_001",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: 1. VF Hướng dẫn Claim hồ sơ XMĐ]\n\nHƯỚNG DẪN HỒ SƠ CLAIM\n\nĐÀO TẠO KINH DOANH TOÀN CẦU\n\nNỘI DUNG\n\nPhiếu thu 51/CTKM tại thời điểm\n\nĐơn hàng O2O/ Chương trình CBNV\n\nĐơn hàng\n\nxe Demo\n\n1",
+    "raw_content": "HƯỚNG DẪN HỒ SƠ CLAIM\n\nĐÀO TẠO KINH DOANH TOÀN CẦU\n\nNỘI DUNG\n\nPhiếu thu 51/CTKM tại thời điểm\n\nĐơn hàng O2O/ Chương trình CBNV\n\nĐơn hàng\n\nxe Demo\n\n1",
+    "token_count": 83,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "subsection": null,
+      "heading_path": [
+        "1. VF Hướng dẫn Claim hồ sơ XMĐ"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_002",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: PHIẾU THU 51/ CTKM THEO THỜI ĐIỂM]\n\n1.1 xử sơ\n\n| BƯỚC | PHỤ TRÁCH | NỘI DUNG | THỜI HẠN | GHI CHÚ |\n|--------|-------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|\n| 1 | ĐLPP | ĐLPP claim mại online Ngày T | Áp dụng đối với Xe ĐLPP nhập kho từ 01/6/25. |\n| 2 | VF_ VHKD | VHKD check danh sách hồ sơ | Ngày T+5 | Hồ sơ bị từ chối, ĐLPP bổ sung hồ sơ & quay lại bước 1 |\n| 3 | VF_ Kế toán | toán VF phê duyệt hồ sơ & Ghi công nợ T+15 | Hồ sơ bị từ chối, ĐLPP điều chỉnh Hồ sơ & quay lại bước 1 |\n| | | Hồ sơ bán hàng trước ngày 15/9/25 | VF chấp nhận 1 trong 2 phương thức claim: Online (hệ thống) (bản cứng) | VF chấp nhận 1 trong 2 phương thức claim: Online (hệ thống) (bản cứng) |\n| | | 15/9/25 trở đi | VF chỉ chấp nhận hồ sơ Online (hệ thống) | VF chỉ chấp nhận hồ sơ Online (hệ thống) |\n\n- Ngày T là ngày ĐLPP claim online trên hệ thống\n\n1.2 sơ claim\n\n| STT | NỘI DUNG | DANH MỤC HỒ SƠ |\n|-------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| I | | |\n| | tất cả các bộ claim | I.1. Đề nghị thanh toán ĐLPP |\n| | tất cả các bộ claim | I.2. Bảng kê tính chênh lệch sỉ chương mãi cho |\n| | tất cả các bộ claim | I.3. khách lẻ (đảm ngày XHĐ của ĐLPP khớp với ngày kê hưởng chương trình) |\n| II | Danh mục chi tiết theo CTKM áp từng (Lựa chọn một hoặc nhiều trong các Chính sách) | CTKM áp từng (Lựa chọn một hoặc nhiều trong các Chính sách) |\n| 1 | Chính sách Corporate | 1.1. Xác nhận của bên phụ trách Corp VF |\n| 1 | Chính sách Corporate | 1.2. Giấy xác nhận của Cơ quan Corp(có đóng dấu đỏ) |\n| 2 | Khách hàng được hưởng ưu đãi nhưng xuất hóa. Giấy tờ chứng minh mối từng chương trình: Tứ thân phụ mẫu, công chứng |\n| 3 | Chính sách khách hàng thân thiết VinClub (định kỳ vào ngày 10 hàng tháng) | 4.1. ĐLPP xuất “” “Hóa đơn” trên DMS và lập bảng tính giá trị điểm tích. cấn 40% tích điểm hay tương đương 20% ưu đãi Vinclub. |\n| 3 | Chính sách khách hàng thân thiết VinClub (định kỳ vào ngày 10 hàng tháng) | 4.2. ĐLPP với, đính đầy đủ chữ ký đóng dấu và gửi VHKD VinFast phụ trách. |",
+    "raw_content": "1.1 xử sơ\n\n| BƯỚC | PHỤ TRÁCH | NỘI DUNG | THỜI HẠN | GHI CHÚ |\n|--------|-------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|\n| 1 | ĐLPP | ĐLPP claim mại online Ngày T | Áp dụng đối với Xe ĐLPP nhập kho từ 01/6/25. |\n| 2 | VF_ VHKD | VHKD check danh sách hồ sơ | Ngày T+5 | Hồ sơ bị từ chối, ĐLPP bổ sung hồ sơ & quay lại bước 1 |\n| 3 | VF_ Kế toán | toán VF phê duyệt hồ sơ & Ghi công nợ T+15 | Hồ sơ bị từ chối, ĐLPP điều chỉnh Hồ sơ & quay lại bước 1 |\n| | | Hồ sơ bán hàng trước ngày 15/9/25 | VF chấp nhận 1 trong 2 phương thức claim: Online (hệ thống) (bản cứng) | VF chấp nhận 1 trong 2 phương thức claim: Online (hệ thống) (bản cứng) |\n| | | 15/9/25 trở đi | VF chỉ chấp nhận hồ sơ Online (hệ thống) | VF chỉ chấp nhận hồ sơ Online (hệ thống) |\n\n- Ngày T là ngày ĐLPP claim online trên hệ thống\n\n1.2 sơ claim\n\n| STT | NỘI DUNG | DANH MỤC HỒ SƠ |\n|-------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| I | | |\n| | tất cả các bộ claim | I.1. Đề nghị thanh toán ĐLPP |\n| | tất cả các bộ claim | I.2. Bảng kê tính chênh lệch sỉ chương mãi cho |\n| | tất cả các bộ claim | I.3. khách lẻ (đảm ngày XHĐ của ĐLPP khớp với ngày kê hưởng chương trình) |\n| II | Danh mục chi tiết theo CTKM áp từng (Lựa chọn một hoặc nhiều trong các Chính sách) | CTKM áp từng (Lựa chọn một hoặc nhiều trong các Chính sách) |\n| 1 | Chính sách Corporate | 1.1. Xác nhận của bên phụ trách Corp VF |\n| 1 | Chính sách Corporate | 1.2. Giấy xác nhận của Cơ quan Corp(có đóng dấu đỏ) |\n| 2 | Khách hàng được hưởng ưu đãi nhưng xuất hóa. Giấy tờ chứng minh mối từng chương trình: Tứ thân phụ mẫu, công chứng |\n| 3 | Chính sách khách hàng thân thiết VinClub (định kỳ vào ngày 10 hàng tháng) | 4.1. ĐLPP xuất “” “Hóa đơn” trên DMS và lập bảng tính giá trị điểm tích. cấn 40% tích điểm hay tương đương 20% ưu đãi Vinclub. |\n| 3 | Chính sách khách hàng thân thiết VinClub (định kỳ vào ngày 10 hàng tháng) | 4.2. ĐLPP với, đính đầy đủ chữ ký đóng dấu và gửi VHKD VinFast phụ trách. |",
+    "token_count": 671,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "PHIẾU THU 51/ CTKM THEO THỜI ĐIỂM",
+      "subsection": null,
+      "heading_path": [
+        "PHIẾU THU 51/ CTKM THEO THỜI ĐIỂM"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_003",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: NỘI DUNG CHÍNH]\n\nHƯỚNG DẪN SỬ DỤNG LUỒNG HỒ SƠ CLAIM CHO XE MÁY ĐIỆN\n\n2",
+    "raw_content": "HƯỚNG DẪN SỬ DỤNG LUỒNG HỒ SƠ CLAIM CHO XE MÁY ĐIỆN\n\n2",
+    "token_count": 53,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "NỘI DUNG CHÍNH",
+      "subsection": null,
+      "heading_path": [
+        "NỘI DUNG CHÍNH"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_004",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: ĐƠN HÀNG O2O/ CHƯƠNG TRÌNH CBNV]\n\n2.1 sơ claim\n\nSau khi hoàn thành giao xe HĐ trên DMS NPP lên bảng kê O2O\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| I | Hạng mục hồ sơ cần có | | |\n| | Hóa đơn NPP xuất bán cho khách hàng (bản copy) Biên bản bàn giao xe khách hàng có ký đóng dấu 2   hạng hàng/ Chi phí có ký đóng dấu 4. Đề nghị thanh toán có ký đóng dấu | Mẫu 01. toán | – Bảng kê CP O2O |\n| II | | | |\n| III | VF nhận hồ sơ thanh toán từ ĐLPP. | Thứ 2 | Ngày D |\n| | Ngày nhận căn cứ theo ngày nhận theo dấu Bưu điện hoặc Kí nhận của Lễ tân tòa nhà. | | |\n\n- Ngày D là ngày ĐLPP hoàn tất bàn giao xe\n\n2.1 sơ claim\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|-------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| IV | VF kiểm tra & phản hồi tình trạng hồ sơ | Thứ 6 | Ngày D+ 5 |\n| | Hồ sơ đúng và đầy đủ --> Chuyển hồ sơ thanh toán sang BP Kế toán. | 01. toán | – Bảng kê CP O2O |\n| | Hồ sơ sai hoặc thiếu chứng từ --> VF phản hồi mail ĐLPP bổ sung/ sửa đổi hồ sơ --> Hồ sơ quay về bước 1. | 01. toán | – Bảng kê CP O2O |\n| V | Kế toán VF ghi nhận công nợ lên hệ thống cho ĐLPP toán/ cấn trừ công nợ. | Thứ 5 tuần | Ngày D+ 10 |\n\n- Ngày D là ngày ĐLPP hoàn tất bàn giao xe\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|-------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| IV | VF kiểm tra & phản hồi tình trạng hồ sơ | Thứ 6 | Ngày D+ 5 |\n| | Hồ sơ đúng và đầy đủ --> Chuyển hồ sơ thanh toán sang BP Kế toán. | 01. Giấy đè nghị thanh toán | – Bảng kê CP O2O |\n| | Hồ sơ sai hoặc thiếu chứng từ --> VF phản hồi mail ĐLPP bổ sung/ sửa đổi hồ sơ --> Hồ sơ quay về bước 1. | 01. Giấy đè nghị thanh toán | – Bảng kê CP O2O |\n| V | Kế toán VF ghi nhận công nợ lên hệ thống cho ĐLPP toán/ cấn trừ công nợ. | Thứ 5 tuần | Ngày D+ 10 |\n\nMẫu chứng từ hồ sơ\n\n3",
+    "raw_content": "2.1 sơ claim\n\nSau khi hoàn thành giao xe HĐ trên DMS NPP lên bảng kê O2O\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| I | Hạng mục hồ sơ cần có | | |\n| | Hóa đơn NPP xuất bán cho khách hàng (bản copy) Biên bản bàn giao xe khách hàng có ký đóng dấu 2   hạng hàng/ Chi phí có ký đóng dấu 4. Đề nghị thanh toán có ký đóng dấu | Mẫu 01. toán | – Bảng kê CP O2O |\n| II | | | |\n| III | VF nhận hồ sơ thanh toán từ ĐLPP. | Thứ 2 | Ngày D |\n| | Ngày nhận căn cứ theo ngày nhận theo dấu Bưu điện hoặc Kí nhận của Lễ tân tòa nhà. | | |\n\n- Ngày D là ngày ĐLPP hoàn tất bàn giao xe\n\n2.1 sơ claim\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|-------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| IV | VF kiểm tra & phản hồi tình trạng hồ sơ | Thứ 6 | Ngày D+ 5 |\n| | Hồ sơ đúng và đầy đủ --> Chuyển hồ sơ thanh toán sang BP Kế toán. | 01. toán | – Bảng kê CP O2O |\n| | Hồ sơ sai hoặc thiếu chứng từ --> VF phản hồi mail ĐLPP bổ sung/ sửa đổi hồ sơ --> Hồ sơ quay về bước 1. | 01. toán | – Bảng kê CP O2O |\n| V | Kế toán VF ghi nhận công nợ lên hệ thống cho ĐLPP toán/ cấn trừ công nợ. | Thứ 5 tuần | Ngày D+ 10 |\n\n- Ngày D là ngày ĐLPP hoàn tất bàn giao xe\n\n| STT | NỘI DUNG | THỜI HẠN | TIẾN TRÌNH |\n|-------|-------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------------------|\n| IV | VF kiểm tra & phản hồi tình trạng hồ sơ | Thứ 6 | Ngày D+ 5 |\n| | Hồ sơ đúng và đầy đủ --> Chuyển hồ sơ thanh toán sang BP Kế toán. | 01. Giấy đè nghị thanh toán | – Bảng kê CP O2O |\n| | Hồ sơ sai hoặc thiếu chứng từ --> VF phản hồi mail ĐLPP bổ sung/ sửa đổi hồ sơ --> Hồ sơ quay về bước 1. | 01. Giấy đè nghị thanh toán | – Bảng kê CP O2O |\n| V | Kế toán VF ghi nhận công nợ lên hệ thống cho ĐLPP toán/ cấn trừ công nợ. | Thứ 5 tuần | Ngày D+ 10 |\n\nMẫu chứng từ hồ sơ\n\n3",
+    "token_count": 643,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "ĐƠN HÀNG O2O/ CHƯƠNG TRÌNH CBNV",
+      "subsection": null,
+      "heading_path": [
+        "ĐƠN HÀNG O2O/ CHƯƠNG TRÌNH CBNV"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_005",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: 3.1. Hồ sơ xe Demo]\n\nSau khi hoàn thành nhận xe HĐ trên DMS NPP lên bảng kê | STT | NỘI DUNG | THỜI HẠN | GHI CHÚ |\n\n|-------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|\n| | Hạng mục hồ sơ cần có | | |\n| 1 | Đề nghị thanh toán | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 2 | Bảng kê | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 3 | Đăng ký xe công chứng | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 4 | Hóa đơn VF xuất bán cho ĐL | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 5 | Hóa đơn ĐLPP xuất làm xe Demo | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày | |\n\nLưu ý:\n\n- Tùy thuộc, hiện tại VF giảm giá 50% lẻ đã bao gồm VAT tại thời điểm ĐL nhập xe.\n- Tại thời điểm nhập xe nếu xe đã được chiết khấu theo chính sách ĐL claim xe Demo ĐL cần trừ lại phần CK này trả cho VF.",
+    "raw_content": "Sau khi hoàn thành nhận xe HĐ trên DMS NPP lên bảng kê | STT | NỘI DUNG | THỜI HẠN | GHI CHÚ |\n\n|-------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|\n| | Hạng mục hồ sơ cần có | | |\n| 1 | Đề nghị thanh toán | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 2 | Bảng kê | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 3 | Đăng ký xe công chứng | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 4 | Hóa đơn VF xuất bán cho ĐL | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày |\n| 5 | Hóa đơn ĐLPP xuất làm xe Demo | ĐLPP phải đăng ký xe Demo dưới tên pháp nhân 30 ngày | |\n\nLưu ý:\n\n- Tùy thuộc, hiện tại VF giảm giá 50% lẻ đã bao gồm VAT tại thời điểm ĐL nhập xe.\n- Tại thời điểm nhập xe nếu xe đã được chiết khấu theo chính sách ĐL claim xe Demo ĐL cần trừ lại phần CK này trả cho VF.",
+    "token_count": 307,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "3.1. Hồ sơ xe Demo",
+      "subsection": null,
+      "heading_path": [
+        "3.1. Hồ sơ xe Demo"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_006",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: 3.2. Hồ sơ claim online trên DMS]\n\nGiấy tờ cần đính kèm trên hệ thống sẽ tùy theo từng chương trình VF sẽ gửi email cho ĐL\n\nLưu ý về hồ sơ:\n\n- Đề nghị thanh toán kê phải ký đóng dấu người đại diện scan, VD: 1 file Đề ghị thanh toán + Bảng kê; 1 file toàn bộ hóa đơn, 1 file phiếu thu (nếu có, tùy theo yêu cầu từng chương )\n- Scan định dạng PDF, không Zip file, scan hóa đơn theo thứ tự kê",
+    "raw_content": "Giấy tờ cần đính kèm trên hệ thống sẽ tùy theo từng chương trình VF sẽ gửi email cho ĐL\n\nLưu ý về hồ sơ:\n\n- Đề nghị thanh toán kê phải ký đóng dấu người đại diện scan, VD: 1 file Đề ghị thanh toán + Bảng kê; 1 file toàn bộ hóa đơn, 1 file phiếu thu (nếu có, tùy theo yêu cầu từng chương )\n- Scan định dạng PDF, không Zip file, scan hóa đơn theo thứ tự kê",
+    "token_count": 153,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "3.2. Hồ sơ claim online trên DMS",
+      "subsection": null,
+      "heading_path": [
+        "3.2. Hồ sơ claim online trên DMS"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_007",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: 3.3. mối nhận hồ sơ]\n\n| Khu vực ĐLPP | Nhân sự phụ trách | sơ |\n|------------------------|-----------------------------------------|-----------------------------------------------------------------------------------|\n| Miền Bắc | Ms. Hà | P. Vận hành xe, Tầng 29 Technopark, Vinhomes Ocean Park,, |\n| Miền Trung và Miền Nam | Ms. | P. Vận hành xe, Tầng 29 Technopark, Vinhomes Ocean Park,, |",
+    "raw_content": "| Khu vực ĐLPP | Nhân sự phụ trách | sơ |\n|------------------------|-----------------------------------------|-----------------------------------------------------------------------------------|\n| Miền Bắc | Ms. Hà | P. Vận hành xe, Tầng 29 Technopark, Vinhomes Ocean Park,, |\n| Miền Trung và Miền Nam | Ms. | P. Vận hành xe, Tầng 29 Technopark, Vinhomes Ocean Park,, |",
+    "token_count": 137,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "3.3. mối nhận hồ sơ",
+      "subsection": null,
+      "heading_path": [
+        "3.3. mối nhận hồ sơ"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_1_vf_huong_dan_claim_ho_so_xmd_chunk_008",
+    "content": "[Document: 1. VF Hướng dẫn Claim hồ sơ XMĐ | Role: accounting | Source: KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx | Section: THANK YOU!]\n\nPhotography\n\nBẢN QUYỀN THUỘC VỀ VINFAST",
+    "raw_content": "Photography\n\nBẢN QUYỀN THUỘC VỀ VINFAST",
+    "token_count": 48,
+    "metadata": {
+      "document": "1. VF Hướng dẫn Claim hồ sơ XMĐ",
+      "role": "accounting",
+      "source": "KeToan/1. VF_Hướng dẫn Claim hồ sơ XMĐ.pptx",
+      "page": null,
+      "slide": null,
+      "section": "THANK YOU!",
+      "subsection": null,
+      "heading_path": [
+        "THANK YOU!"
+      ],
+      "timestamp": null
+    }
+  }
+]

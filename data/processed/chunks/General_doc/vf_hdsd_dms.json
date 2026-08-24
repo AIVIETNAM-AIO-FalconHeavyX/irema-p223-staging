@@ -1,0 +1,275 @@
+[
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_001",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: Document Content]\n\nTÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS\n\nCHƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ TẠI XDV XMĐ\n\n| Mã tài liệu | VF-DMS-HDSD-VALET-001 |\n| --- | --- |\n| Phiên bản | v0.1 |\n| Ngày tạo | 16/07/2026 |\n| Trạng thái | Publised |\n| Phân loại | Nội bộ – Tài liệu hướng dẫn sử dụng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "raw_content": "TÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS\n\nCHƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ TẠI XDV XMĐ\n\n| Mã tài liệu | VF-DMS-HDSD-VALET-001 |\n| --- | --- |\n| Phiên bản | v0.1 |\n| Ngày tạo | 16/07/2026 |\n| Trạng thái | Publised |\n| Phân loại | Nội bộ – Tài liệu hướng dẫn sử dụng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "token_count": 117,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "Document Content",
+      "subsection": null,
+      "heading_path": [
+        "Document Content"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_002",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: I. Quản lý Phiên bản Tài liệu]\n\n| Phiên bản | Ngày tạo | Mô tả thay đổi | Người tạo | Trạng thái |\n| --- | --- | --- | --- | --- |\n| v0.1 | 16/07/2026 | Tạo mới tài liệu | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "raw_content": "| Phiên bản | Ngày tạo | Mô tả thay đổi | Người tạo | Trạng thái |\n| --- | --- | --- | --- | --- |\n| v0.1 | 16/07/2026 | Tạo mới tài liệu | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "token_count": 99,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "I. Quản lý Phiên bản Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "I. Quản lý Phiên bản Tài liệu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_003",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: II. Phê duyệt Tài liệu]\n\n| Vai trò | Họ tên | Chữ ký | Ngày |\n| --- | --- | --- | --- |\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 16/07/2026 |\n| Người kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "raw_content": "| Vai trò | Họ tên | Chữ ký | Ngày |\n| --- | --- | --- | --- |\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 16/07/2026 |\n| Người kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "token_count": 91,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "II. Phê duyệt Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "II. Phê duyệt Tài liệu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_004",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: II. Phê duyệt Tài liệu > 3.1. Mục tiêu]\n\nTài liệu này hướng dẫn nhận sự tại ĐLPP thực hiện quy trình áp dụng voucher chăm sóc xe miễn phí bao gồm:\n\n- Phát hành voucher áp dụng trên lệnh sửa chữa\n\n- Claim hồ sơ Evoucher sau khi áp dụng",
+    "raw_content": "Tài liệu này hướng dẫn nhận sự tại ĐLPP thực hiện quy trình áp dụng voucher chăm sóc xe miễn phí bao gồm:\n\n- Phát hành voucher áp dụng trên lệnh sửa chữa\n\n- Claim hồ sơ Evoucher sau khi áp dụng",
+    "token_count": 86,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "3.1. Mục tiêu",
+      "subsection": null,
+      "heading_path": [
+        "II. Phê duyệt Tài liệu",
+        "3.1. Mục tiêu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_005",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: II. Phê duyệt Tài liệu > 3.2. Phạm vi áp dụng]\n\n- Hệ thống: DMS – Phân hệ Dịch vụ sửa chữa\n\n- Người dùng: CHT, KTV\n\n- Phạm vi: Tất cả các chi nhánh (BU) sử dụng hệ thống DMS",
+    "raw_content": "- Hệ thống: DMS – Phân hệ Dịch vụ sửa chữa\n\n- Người dùng: CHT, KTV\n\n- Phạm vi: Tất cả các chi nhánh (BU) sử dụng hệ thống DMS",
+    "token_count": 72,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "3.2. Phạm vi áp dụng",
+      "subsection": null,
+      "heading_path": [
+        "II. Phê duyệt Tài liệu",
+        "3.2. Phạm vi áp dụng"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_006",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: II. Phê duyệt Tài liệu > 3.3. Đối tượng đọc tài liệu]\n\n| Đối tượng | Vai trò | Mức độ đọc |\n| --- | --- | --- |\n| CHT NPP | Thực hiện thao tác trên DMS | Bắt buộc |\n| KTV NPP | Thực hiện thao tác trên DMS | Bắt buộc |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | Bắt buộc |",
+    "raw_content": "| Đối tượng | Vai trò | Mức độ đọc |\n| --- | --- | --- |\n| CHT NPP | Thực hiện thao tác trên DMS | Bắt buộc |\n| KTV NPP | Thực hiện thao tác trên DMS | Bắt buộc |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | Bắt buộc |",
+    "token_count": 118,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "3.3. Đối tượng đọc tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "II. Phê duyệt Tài liệu",
+        "3.3. Đối tượng đọc tài liệu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_007",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: IV. Thuật ngữ & Từ viết tắt]\n\n| # | Từ viết tắt | Mô tả |\n| --- | --- | --- |\n| 1 | DMS | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | BU | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | CHT | Cửa hàng trưởng |\n| 5 | KTV | Kĩ thuật viên |\n| 6 | KH | Khách hàng |\n| 7 | ĐKX | Đăng kí xe |",
+    "raw_content": "| # | Từ viết tắt | Mô tả |\n| --- | --- | --- |\n| 1 | DMS | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | BU | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | CHT | Cửa hàng trưởng |\n| 5 | KTV | Kĩ thuật viên |\n| 6 | KH | Khách hàng |\n| 7 | ĐKX | Đăng kí xe |",
+    "token_count": 153,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "IV. Thuật ngữ & Từ viết tắt",
+      "subsection": null,
+      "heading_path": [
+        "IV. Thuật ngữ & Từ viết tắt"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_008",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: V. Tài liệu Liên quan]\n\n| # | Tên tài liệu | Mô tả | Phiên bản | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 | | | | |\n| 2 | | | | |",
+    "raw_content": "| # | Tên tài liệu | Mô tả | Phiên bản | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 | | | | |\n| 2 | | | | |",
+    "token_count": 79,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "V. Tài liệu Liên quan",
+      "subsection": null,
+      "heading_path": [
+        "V. Tài liệu Liên quan"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_009",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VI. Tổng quan Chức năng]\n\nChức năng cho phép ĐLPP thực hiện phát hành voucher cho XMĐ và claim hồ sơ Evoucher sau khi áp dụng trên hệ thống DMS.",
+    "raw_content": "Chức năng cho phép ĐLPP thực hiện phát hành voucher cho XMĐ và claim hồ sơ Evoucher sau khi áp dụng trên hệ thống DMS.",
+    "token_count": 62,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": null,
+      "heading_path": [
+        "VI. Tổng quan Chức năng"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_010",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VI. Tổng quan Chức năng > 6.1. Luồng nghiệp vụ tổng quát]\n\n| # | Bước | Mô tả | Người thực hiện | Hệ thống |\n| --- | --- | --- | --- | --- |\n| 1 | Tiếp nhận yêu cầu | KH liên hệ qua ĐLPP cung cấp thông tin Đăng kí xe | ĐLPP / KH | DMS |\n| 2 | Sử dụng voucher trên phiếu thu | CHT/KTV thực hiện mở lệnh sửa chữa và áp dụng | KTV/CHT | DMS / Loyalty |\n| 3 | Submit hồ sơ Evoucher | CHT/KTV thu thập giấy tờ hồ sơ tạo hồ sơ claim Evoucher | KTV/CHT | DMS |",
+    "raw_content": "| # | Bước | Mô tả | Người thực hiện | Hệ thống |\n| --- | --- | --- | --- | --- |\n| 1 | Tiếp nhận yêu cầu | KH liên hệ qua ĐLPP cung cấp thông tin Đăng kí xe | ĐLPP / KH | DMS |\n| 2 | Sử dụng voucher trên phiếu thu | CHT/KTV thực hiện mở lệnh sửa chữa và áp dụng | KTV/CHT | DMS / Loyalty |\n| 3 | Submit hồ sơ Evoucher | CHT/KTV thu thập giấy tờ hồ sơ tạo hồ sơ claim Evoucher | KTV/CHT | DMS |",
+    "token_count": 175,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "6.1. Luồng nghiệp vụ tổng quát",
+      "subsection": null,
+      "heading_path": [
+        "VI. Tổng quan Chức năng",
+        "6.1. Luồng nghiệp vụ tổng quát"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_011",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VI. Tổng quan Chức năng > 6.2. Sơ đồ trạng thái (Status Flow)]\n\n| Trạng thái | Mô tả | Chuyển sang | Điều kiện |\n| --- | --- | --- | --- |\n| Open | Yêu cầu mới tạo | | |\n| Release | Áp dụng chính sách | Release | Phát hành phiếu thu voucher thành công |",
+    "raw_content": "| Trạng thái | Mô tả | Chuyển sang | Điều kiện |\n| --- | --- | --- | --- |\n| Open | Yêu cầu mới tạo | | |\n| Release | Áp dụng chính sách | Release | Phát hành phiếu thu voucher thành công |",
+    "token_count": 102,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "6.2. Sơ đồ trạng thái (Status Flow)",
+      "subsection": null,
+      "heading_path": [
+        "VI. Tổng quan Chức năng",
+        "6.2. Sơ đồ trạng thái (Status Flow)"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_012",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VI. Tổng quan Chức năng > 7.1. Sử dụng voucher trên Lệnh sửa chữa qua phiếu thu]\n\nNgười thực hiện: CHT/KTV\n\nÁp dụng khi: Lệnh sửa chữa ở trạng thái Lệnh sửa chữa/Quyết toán\n\n⚠ Lưu ý:\n\n- Mỗi voucher chỉ được redeem 1 lần\n\n- VIN xe trên lệnh sửa chữa phải khớp với số VIN đã được cấp phát voucher thì mới redeem được thành công.\n\nNgười dùng chọn mục Kế toán => Chọn phiếu thu => Bấm tạo mới, thực hiện nhập các thông tin sau:\n\n- Loại: Trả trước\n\n- Tiền đặt cọc: Không\n\n- Mã khách hàng\n\n- Tiền mặt và NH: 9\n\n- Phương thức thanh toán: 9\n\nSau khi save, thực hiện tạo tổng quan phiếu thu thành công.\n\nSau khi tạo xong tổng quan, người dùng thực hiện tạo chi tiết giao dịch để tạo mới chi tiết phiếu thu:\n\nNgười dùng thực hiện nhập các thông tin sau:\n\n- Loại nguồn: Dịch vụ\n\n- Mã lệnh sửa chữa: Mã WO có đúng số VIN cần redeem voucher\n\n- Mã voucher: VCTAXMD2026600 (Mã voucher sẽ dùng chung cho tất cả các XMĐ đủ điều kiện hưởng chương trình)\n\nNgười dùng thực hiện lưu phiếu thu chi tiết.\n\nSau khi tạo xong phiếu thu chi tiết, người dùng thực hiện phát hành phiếu thu để redeem voucher cho lệnh sửa chữa này. Sau khi phát hành thành công, trạng thái phiếu thu chuyển sang Phát hành và cập nhật đã sử dụng voucher thành công.",
+    "raw_content": "Người thực hiện: CHT/KTV\n\nÁp dụng khi: Lệnh sửa chữa ở trạng thái Lệnh sửa chữa/Quyết toán\n\n⚠ Lưu ý:\n\n- Mỗi voucher chỉ được redeem 1 lần\n\n- VIN xe trên lệnh sửa chữa phải khớp với số VIN đã được cấp phát voucher thì mới redeem được thành công.\n\nNgười dùng chọn mục Kế toán => Chọn phiếu thu => Bấm tạo mới, thực hiện nhập các thông tin sau:\n\n- Loại: Trả trước\n\n- Tiền đặt cọc: Không\n\n- Mã khách hàng\n\n- Tiền mặt và NH: 9\n\n- Phương thức thanh toán: 9\n\nSau khi save, thực hiện tạo tổng quan phiếu thu thành công.\n\nSau khi tạo xong tổng quan, người dùng thực hiện tạo chi tiết giao dịch để tạo mới chi tiết phiếu thu:\n\nNgười dùng thực hiện nhập các thông tin sau:\n\n- Loại nguồn: Dịch vụ\n\n- Mã lệnh sửa chữa: Mã WO có đúng số VIN cần redeem voucher\n\n- Mã voucher: VCTAXMD2026600 (Mã voucher sẽ dùng chung cho tất cả các XMĐ đủ điều kiện hưởng chương trình)\n\nNgười dùng thực hiện lưu phiếu thu chi tiết.\n\nSau khi tạo xong phiếu thu chi tiết, người dùng thực hiện phát hành phiếu thu để redeem voucher cho lệnh sửa chữa này. Sau khi phát hành thành công, trạng thái phiếu thu chuyển sang Phát hành và cập nhật đã sử dụng voucher thành công.",
+    "token_count": 357,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "7.1. Sử dụng voucher trên Lệnh sửa chữa qua phiếu thu",
+      "subsection": null,
+      "heading_path": [
+        "VI. Tổng quan Chức năng",
+        "7.1. Sử dụng voucher trên Lệnh sửa chữa qua phiếu thu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_013",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VI. Tổng quan Chức năng > 7.2. Claim Evoucher sau khi đã sử dụng qua lệnh sửa chữa]\n\nNgười thực hiện: CHT/KTV\n\n⚠ Lưu ý:\n\n- Chỉ tạo Evoucher Transaction cho các lệnh sửa chữa ở trạng thái Hoàn thành thanh toán (Invoice) hoặc Hoàn thành (Completed)\n\n- Mỗi lệnh sửa chữa chỉ được claim 1 lần Evoucher Transaction, trường hợp người dùng thu thêm phiếu thu voucher 9 thì vui lòng cancel Evoucher Transaction đã tạo và tạo mới lại bản ghi khác.\n\n- Khi đã tạo mới Evoucher Transaction, người dùng không được phép hủy phiếu thu voucher (Payment 9). Trường hợp cần hủy, người dùng bắt buộc phải hủy Evoucher Transaction trước khi tạo phiếu thu hủy.\n\nBước 1: Tạo mới hồ sơ Evoucher (Evoucher Transaction)\n\nNgười dùng truy cập vào tab “Dịch vụ sửa chữa” => Chọn “Evoucher Transaction” => bấm “Tạo mới (New)”\n\nMàn hình hiển thị tạo mới bản ghi, người dùng điền thông tin mã lệnh sửa chữa cần claim và bấm lưu (Save)\n\nHệ thống tự động load ra các thông tin như sau:\n\n- Mã lệnh sửa chữa (WO)\n\n- Số khung xe (VIN)\n\n- Mã voucher/Voucher code: Đã redeem trên phiếu thu của lệnh\n\n- Số tiền voucher/ Voucher Amount: Tổng tiền voucher trên phiếu thu\n\n- Số tiền khách hàng thanh toán LSC/Work Order Amount\n\n- Số tiền thanh toán Voucher chia 2 TH như sau:\n\n- Tiền voucher > tổng tiền trên WO => Số Tiền thanh toán voucher = Grantotal WO\n\n- Tiền voucher < Tổng tiền trên WO => Số Tiền thanh toán voucher = Tiền voucher\n\nSau khi lấy ra toàn bộ chi tiết của lệnh sửa chữa, hệ thống sẽ tính toán ra tổng tiền của bản ghi đó:\n\n- Tổng tiền KH thanh toán LSC/Total Work Order Amount\n\n- Tổng tiền Voucher/Total Voucher Amount\n\n- Tổng tiền thanh toán Voucher/Total Payment Amount\n\nBước 2: Đính kèm giấy tờ lên hồ sơ Evoucher\n\nSau khi tạo mới và check thông tin đã đúng, người dùng thao tác đính kèm 4 loại giấy tờ sau lên DMS:\n\n- Quyết toán sửa chữa (Decided to repair file)\n\n- Hóa đơn xuất cho khách hàng (Invoice issued to customer file)\n\n- Giấy đăng kí xe (Vehicle registration file)\n\n- Phiếu xác nhận voucher (Voucher file confirmation form)\n\n⚠ Lưu ý: Đính kèm file dưới dạng .PDF hoặc hình ảnh\n\nSau khi add đủ 4 loại giấy tờ hệ thống mới cho phép gửi phê duyệt đến Nhóm hỗ trợ hậu mãi để phê duyệt hồ sơ.\n\nBước 3: Phê duyệt hồ sơ Evoucher Transaction\n\nTại bản ghi đã tạo mới và add hồ sơ thành công, người dùng chọn điều khiển/ handling = Send For Approval và Lưu để gửi đi\n\nTrạng thái bản ghi chuyển sang On Approval/Chờ phê duyệt\n\nNgười dùng liên hệ Nhóm hỗ trợ hậu mãi để phê duyệt hồ sơ claim. Sau khi phê duyệt thành công, Trạng thái bản ghi chuyển sang Phê duyệt/Approved và tự động update thông tin:\n\n- Người phê duyệt/Approver\n\n- Ngày phê duyệt/Approval Date\n\nCuối tháng Bộ phận hỗ trợ hậu mãi sẽ thực hiện tổng hợp các hồ sơ Evoucher đã được phê duyệt trong tháng để thực hiện Evoucher Transaction Submission.",
+    "raw_content": "Người thực hiện: CHT/KTV\n\n⚠ Lưu ý:\n\n- Chỉ tạo Evoucher Transaction cho các lệnh sửa chữa ở trạng thái Hoàn thành thanh toán (Invoice) hoặc Hoàn thành (Completed)\n\n- Mỗi lệnh sửa chữa chỉ được claim 1 lần Evoucher Transaction, trường hợp người dùng thu thêm phiếu thu voucher 9 thì vui lòng cancel Evoucher Transaction đã tạo và tạo mới lại bản ghi khác.\n\n- Khi đã tạo mới Evoucher Transaction, người dùng không được phép hủy phiếu thu voucher (Payment 9). Trường hợp cần hủy, người dùng bắt buộc phải hủy Evoucher Transaction trước khi tạo phiếu thu hủy.\n\nBước 1: Tạo mới hồ sơ Evoucher (Evoucher Transaction)\n\nNgười dùng truy cập vào tab “Dịch vụ sửa chữa” => Chọn “Evoucher Transaction” => bấm “Tạo mới (New)”\n\nMàn hình hiển thị tạo mới bản ghi, người dùng điền thông tin mã lệnh sửa chữa cần claim và bấm lưu (Save)\n\nHệ thống tự động load ra các thông tin như sau:\n\n- Mã lệnh sửa chữa (WO)\n\n- Số khung xe (VIN)\n\n- Mã voucher/Voucher code: Đã redeem trên phiếu thu của lệnh\n\n- Số tiền voucher/ Voucher Amount: Tổng tiền voucher trên phiếu thu\n\n- Số tiền khách hàng thanh toán LSC/Work Order Amount\n\n- Số tiền thanh toán Voucher chia 2 TH như sau:\n\n- Tiền voucher > tổng tiền trên WO => Số Tiền thanh toán voucher = Grantotal WO\n\n- Tiền voucher < Tổng tiền trên WO => Số Tiền thanh toán voucher = Tiền voucher\n\nSau khi lấy ra toàn bộ chi tiết của lệnh sửa chữa, hệ thống sẽ tính toán ra tổng tiền của bản ghi đó:\n\n- Tổng tiền KH thanh toán LSC/Total Work Order Amount\n\n- Tổng tiền Voucher/Total Voucher Amount\n\n- Tổng tiền thanh toán Voucher/Total Payment Amount\n\nBước 2: Đính kèm giấy tờ lên hồ sơ Evoucher\n\nSau khi tạo mới và check thông tin đã đúng, người dùng thao tác đính kèm 4 loại giấy tờ sau lên DMS:\n\n- Quyết toán sửa chữa (Decided to repair file)\n\n- Hóa đơn xuất cho khách hàng (Invoice issued to customer file)\n\n- Giấy đăng kí xe (Vehicle registration file)\n\n- Phiếu xác nhận voucher (Voucher file confirmation form)\n\n⚠ Lưu ý: Đính kèm file dưới dạng .PDF hoặc hình ảnh\n\nSau khi add đủ 4 loại giấy tờ hệ thống mới cho phép gửi phê duyệt đến Nhóm hỗ trợ hậu mãi để phê duyệt hồ sơ.\n\nBước 3: Phê duyệt hồ sơ Evoucher Transaction\n\nTại bản ghi đã tạo mới và add hồ sơ thành công, người dùng chọn điều khiển/ handling = Send For Approval và Lưu để gửi đi\n\nTrạng thái bản ghi chuyển sang On Approval/Chờ phê duyệt\n\nNgười dùng liên hệ Nhóm hỗ trợ hậu mãi để phê duyệt hồ sơ claim. Sau khi phê duyệt thành công, Trạng thái bản ghi chuyển sang Phê duyệt/Approved và tự động update thông tin:\n\n- Người phê duyệt/Approver\n\n- Ngày phê duyệt/Approval Date\n\nCuối tháng Bộ phận hỗ trợ hậu mãi sẽ thực hiện tổng hợp các hồ sơ Evoucher đã được phê duyệt trong tháng để thực hiện Evoucher Transaction Submission.",
+    "token_count": 759,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "7.2. Claim Evoucher sau khi đã sử dụng qua lệnh sửa chữa",
+      "subsection": null,
+      "heading_path": [
+        "VI. Tổng quan Chức năng",
+        "7.2. Claim Evoucher sau khi đã sử dụng qua lệnh sửa chữa"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE163_vf_hdsd_dms_chunk_014",
+    "content": "[Document: VF HDSD DMS | Role: general | Source: General_doc/VF_HDSD_DMS.docx | Section: VIII. Xử lý Sự cố & Câu hỏi Thường gặp (FAQ)]\n\n| # | Vấn đề | Nguyên nhân có thể | Hướng xử lý |\n| --- | --- | --- | --- |\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n— Kết thúc tài liệu hướng dẫn chương trình chăm sóc xe miễn phí tại XDV—",
+    "raw_content": "| # | Vấn đề | Nguyên nhân có thể | Hướng xử lý |\n| --- | --- | --- | --- |\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n— Kết thúc tài liệu hướng dẫn chương trình chăm sóc xe miễn phí tại XDV—",
+    "token_count": 118,
+    "metadata": {
+      "document": "VF HDSD DMS",
+      "role": "general",
+      "source": "General_doc/VF_HDSD_DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "VIII. Xử lý Sự cố & Câu hỏi Thường gặp (FAQ)",
+      "subsection": null,
+      "heading_path": [
+        "VIII. Xử lý Sự cố & Câu hỏi Thường gặp (FAQ)"
+      ],
+      "timestamp": null
+    }
+  }
+]

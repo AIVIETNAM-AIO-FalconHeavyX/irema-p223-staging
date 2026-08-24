@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "1. Đơn đặt hàng PO XMĐ",
+    "source_file": "1. Đơn đặt hàng PO XMĐ.mp4",
+    "source_path": "KeToan/1. Đơn đặt hàng PO XMĐ.mp4",
+    "file_hash": "sha256:4af50680d49cf5681d1e9df63079705d82b5c6b4b9b06f32de401c3964b9dc59",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 283.237,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

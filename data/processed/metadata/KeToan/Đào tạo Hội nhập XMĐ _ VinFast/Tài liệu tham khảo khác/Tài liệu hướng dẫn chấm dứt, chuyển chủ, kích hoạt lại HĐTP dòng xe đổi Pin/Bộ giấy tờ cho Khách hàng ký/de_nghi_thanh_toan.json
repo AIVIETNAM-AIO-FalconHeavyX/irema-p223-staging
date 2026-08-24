@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO952",
+    "title": "Đề nghị thanh toán",
+    "source_file": "Đề nghị thanh toán.xlsx",
+    "source_path": "KeToan/Đề nghị thanh toán.xlsx",
+    "file_hash": "sha256:807dcb1bbf88b5f52e565748bc4648e9863f60efe942bbc1a4c4c41266c84fd1",
+    "document_type": "xlsx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-20"
+}

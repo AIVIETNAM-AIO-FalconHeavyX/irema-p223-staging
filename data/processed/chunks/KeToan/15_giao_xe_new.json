@@ -1,0 +1,102 @@
+[
+  {
+    "chunk_id": "KETO015_15_giao_xe_new_chunk_001",
+    "content": "[Document: 15. Giao xe (new) | Role: accounting | Source: KeToan/15. Giao xe (new).mp4 | Section: 15. Giao xe (new) > 00:00 | Timestamp: 00:00]\n\nĐơn thành công cho đơn hàng, cơ sở có thể tạo phiếu giao xe bằng cách ấn vào mục 3 chấm, phần phiếu giao xe.",
+    "raw_content": "Đơn thành công cho đơn hàng, cơ sở có thể tạo phiếu giao xe bằng cách ấn vào mục 3 chấm, phần phiếu giao xe.",
+    "token_count": 68,
+    "metadata": {
+      "document": "15. Giao xe (new)",
+      "role": "accounting",
+      "source": "KeToan/15. Giao xe (new).mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "15. Giao xe (new)",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO015_15_giao_xe_new_chunk_002",
+    "content": "[Document: 15. Giao xe (new) | Role: accounting | Source: KeToan/15. Giao xe (new).mp4 | Section: 15. Giao xe (new) > 01:16 | Timestamp: 01:16]\n\nSau khi phiếu giao xe, hệ thống kích hoạt tin ngày giao xe.",
+    "raw_content": "Sau khi phiếu giao xe, hệ thống kích hoạt tin ngày giao xe.",
+    "token_count": 54,
+    "metadata": {
+      "document": "15. Giao xe (new)",
+      "role": "accounting",
+      "source": "KeToan/15. Giao xe (new).mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:16",
+      "subsection": null,
+      "heading_path": [
+        "15. Giao xe (new)",
+        "01:16"
+      ],
+      "timestamp": "01:16"
+    }
+  },
+  {
+    "chunk_id": "KETO015_15_giao_xe_new_chunk_003",
+    "content": "[Document: 15. Giao xe (new) | Role: accounting | Source: KeToan/15. Giao xe (new).mp4 | Section: 15. Giao xe (new) > 01:23 | Timestamp: 01:23]\n\nĐồng thời, kích hoạt hợp đồng thuê pin. Cơ sở có thể quay lại hợp đồng thuê pin của đơn hàng để kiểm tra.",
+    "raw_content": "Đồng thời, kích hoạt hợp đồng thuê pin. Cơ sở có thể quay lại hợp đồng thuê pin của đơn hàng để kiểm tra.",
+    "token_count": 67,
+    "metadata": {
+      "document": "15. Giao xe (new)",
+      "role": "accounting",
+      "source": "KeToan/15. Giao xe (new).mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:23",
+      "subsection": null,
+      "heading_path": [
+        "15. Giao xe (new)",
+        "01:23"
+      ],
+      "timestamp": "01:23"
+    }
+  },
+  {
+    "chunk_id": "KETO015_15_giao_xe_new_chunk_004",
+    "content": "[Document: 15. Giao xe (new) | Role: accounting | Source: KeToan/15. Giao xe (new).mp4 | Section: 15. Giao xe (new) > 01:44 | Timestamp: 01:44]\n\nCơ sở có thể thấy hợp đồng thuê pin.",
+    "raw_content": "Cơ sở có thể thấy hợp đồng thuê pin.",
+    "token_count": 48,
+    "metadata": {
+      "document": "15. Giao xe (new)",
+      "role": "accounting",
+      "source": "KeToan/15. Giao xe (new).mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:44",
+      "subsection": null,
+      "heading_path": [
+        "15. Giao xe (new)",
+        "01:44"
+      ],
+      "timestamp": "01:44"
+    }
+  },
+  {
+    "chunk_id": "KETO015_15_giao_xe_new_chunk_005",
+    "content": "[Document: 15. Giao xe (new) | Role: accounting | Source: KeToan/15. Giao xe (new).mp4 | Section: 15. Giao xe (new) > 01:46 | Timestamp: 01:46]\n\nĐồng thuê pin của đơn hàng đã được kích hoạt.",
+    "raw_content": "Đồng thuê pin của đơn hàng đã được kích hoạt.",
+    "token_count": 50,
+    "metadata": {
+      "document": "15. Giao xe (new)",
+      "role": "accounting",
+      "source": "KeToan/15. Giao xe (new).mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:46",
+      "subsection": null,
+      "heading_path": [
+        "15. Giao xe (new)",
+        "01:46"
+      ],
+      "timestamp": "01:46"
+    }
+  }
+]

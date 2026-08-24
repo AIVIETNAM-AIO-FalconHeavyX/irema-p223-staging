@@ -1,0 +1,7 @@
+{
+  "document_id": "KETO013",
+  "pii_detected": true,
+  "removed_entities": {
+    "PERSON": 35
+  }
+}

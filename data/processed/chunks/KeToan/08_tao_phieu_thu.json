@@ -1,0 +1,382 @@
+[
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_001",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:00 | Timestamp: 00:00]\n\nHướng dẫn tạo phiếu thu.",
+    "raw_content": "Hướng dẫn tạo phiếu thu.",
+    "token_count": 45,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_002",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:03 | Timestamp: 00:03]\n\nĐể tạo phiếu thu,,, phiếu thu, và tạo mới.",
+    "raw_content": "Để tạo phiếu thu,,, phiếu thu, và tạo mới.",
+    "token_count": 50,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:03",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:03"
+      ],
+      "timestamp": "00:03"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_003",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:18 | Timestamp: 00:18]\n\nTại màn hình phiếu thu mới,.",
+    "raw_content": "Tại màn hình phiếu thu mới,.",
+    "token_count": 46,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:18",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:18"
+      ],
+      "timestamp": "00:18"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_004",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:23 | Timestamp: 00:23]\n\nỞ đây sẽ có 2 loại là thanh toán và trả trước.",
+    "raw_content": "Ở đây sẽ có 2 loại là thanh toán và trả trước.",
+    "token_count": 51,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:23",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:23"
+      ],
+      "timestamp": "00:23"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_005",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:25 | Timestamp: 00:25]\n\nThanh toán sẽ tạo sau khi xuất hóa, thu trả trước sẽ được tạo trước khi xuất hóa đơn.",
+    "raw_content": "Thanh toán sẽ tạo sau khi xuất hóa, thu trả trước sẽ được tạo trước khi xuất hóa đơn.",
+    "token_count": 61,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:25",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:25"
+      ],
+      "timestamp": "00:25"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_006",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:32 | Timestamp: 00:32]\n\nTrong video này, thu trả trước.",
+    "raw_content": "Trong video này, thu trả trước.",
+    "token_count": 47,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:32",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:32"
+      ],
+      "timestamp": "00:32"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_007",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:37 | Timestamp: 00:37]\n\nTiền đặt cọc.",
+    "raw_content": "Tiền đặt cọc.",
+    "token_count": 42,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:37",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:37"
+      ],
+      "timestamp": "00:37"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_008",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:39 | Timestamp: 00:39]\n\nNếu như khoản tiền trả trước, thu này là cọc,.",
+    "raw_content": "Nếu như khoản tiền trả trước, thu này là cọc,.",
+    "token_count": 51,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:39",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:39"
+      ],
+      "timestamp": "00:39"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_009",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:45 | Timestamp: 00:45]\n\n khoản,.",
+    "raw_content": " khoản,.",
+    "token_count": 41,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:45",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:45"
+      ],
+      "timestamp": "00:45"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_010",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:50 | Timestamp: 00:50]\n\nKhách hàng.",
+    "raw_content": "Khách hàng.",
+    "token_count": 42,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:50",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:50"
+      ],
+      "timestamp": "00:50"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_011",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:51 | Timestamp: 00:51]\n\nAnh chị sẽ điền mã khách hàng trên đơn hàng.",
+    "raw_content": "Anh chị sẽ điền mã khách hàng trên đơn hàng.",
+    "token_count": 50,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:51",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:51"
+      ],
+      "timestamp": "00:51"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_012",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:54 | Timestamp: 00:54]\n\nNhư ở đây, anh chị đã gửi.",
+    "raw_content": "Như ở đây, anh chị đã gửi.",
+    "token_count": 45,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:54",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:54"
+      ],
+      "timestamp": "00:54"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_013",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 00:55 | Timestamp: 00:55]\n\nAnh chị sẽ điền mã này trên môi trường đào tạo.",
+    "raw_content": "Anh chị sẽ điền mã này trên môi trường đào tạo.",
+    "token_count": 51,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:55",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "00:55"
+      ],
+      "timestamp": "00:55"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_014",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:04 | Timestamp: 01:04]\n\nTiền mặt và gân hàng.",
+    "raw_content": "Tiền mặt và gân hàng.",
+    "token_count": 44,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:04",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:04"
+      ],
+      "timestamp": "01:04"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_015",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:06 | Timestamp: 01:06]\n\nPhần này sẽ điền tùy thuộc vào hình thức thu tiền của khách hàng.",
+    "raw_content": "Phần này sẽ điền tùy thuộc vào hình thức thu tiền của khách hàng.",
+    "token_count": 56,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:06",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:06"
+      ],
+      "timestamp": "01:06"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_016",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:11 | Timestamp: 01:11]\n\nỞ trong video này, thức là tiền mặt, tức là cash.",
+    "raw_content": "Ở trong video này, thức là tiền mặt, tức là cash.",
+    "token_count": 52,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:11",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:11"
+      ],
+      "timestamp": "01:11"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_017",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:20 | Timestamp: 01:20]\n\nVà sau đó lưu lại.",
+    "raw_content": "Và sau đó lưu lại.",
+    "token_count": 43,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:20",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:20"
+      ],
+      "timestamp": "01:20"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_018",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:25 | Timestamp: 01:25]\n\nSau khi lưu, hệ thống sẽ đoạn phiếu thu như thế này.",
+    "raw_content": "Sau khi lưu, hệ thống sẽ đoạn phiếu thu như thế này.",
+    "token_count": 52,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:25",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:25"
+      ],
+      "timestamp": "01:25"
+    }
+  },
+  {
+    "chunk_id": "KETO008_08_tao_phieu_thu_chunk_019",
+    "content": "[Document: 08. Tạo Phiếu thu | Role: accounting | Source: KeToan/08. Tạo Phiếu thu.mp4 | Section: 08. Tạo Phiếu thu > 01:31 | Timestamp: 01:31]\n\nCảm ơn bạn đã theo dõi và hẹn gặp lại.",
+    "raw_content": "Cảm ơn bạn đã theo dõi và hẹn gặp lại.",
+    "token_count": 49,
+    "metadata": {
+      "document": "08. Tạo Phiếu thu",
+      "role": "accounting",
+      "source": "KeToan/08. Tạo Phiếu thu.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:31",
+      "subsection": null,
+      "heading_path": [
+        "08. Tạo Phiếu thu",
+        "01:31"
+      ],
+      "timestamp": "01:31"
+    }
+  }
+]

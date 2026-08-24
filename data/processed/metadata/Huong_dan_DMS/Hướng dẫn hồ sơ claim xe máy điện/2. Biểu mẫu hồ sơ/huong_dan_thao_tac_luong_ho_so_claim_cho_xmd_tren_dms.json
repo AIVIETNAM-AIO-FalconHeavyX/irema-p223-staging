@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON120",
+    "title": "Hướng dẫn thao tác luồng hồ sơ claim cho XMĐ trên DMS",
+    "source_file": "Hướng dẫn thao tác luồng hồ sơ claim cho XMĐ trên DMS.pdf",
+    "source_path": "Huong_dan_DMS/Hướng dẫn thao tác luồng hồ sơ claim cho XMĐ trên DMS.pdf",
+    "file_hash": "sha256:f983b099cc3e74157e37258731acf43815a1c2947adb18d3a1228570432b6fc0",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 19,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO20230406",
+    "title": "Giấy yêu cầu hoàn, chuyển cọc LFP 20230406",
+    "source_file": "Giấy yêu cầu hoàn, chuyển cọc LFP 20230406.docx",
+    "source_path": "KeToan/Giấy yêu cầu hoàn, chuyển cọc LFP 20230406.docx",
+    "file_hash": "sha256:4c10f57e60a80dfa43f62e86814f4e8bd3ccc4630a544a52e3ac8b39961d70ee",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-20"
+}

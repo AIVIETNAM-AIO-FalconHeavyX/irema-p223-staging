@@ -1,0 +1,442 @@
+[
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_001",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:00 | Timestamp: 00:00]\n\nSau khi đơn đợt hàng PO đã được thái, đó là đã có số,",
+    "raw_content": "Sau khi đơn đợt hàng PO đã được thái, đó là đã có số,",
+    "token_count": 57,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_002",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:06 | Timestamp: 00:06]\n\nbộ phận Sales Admin sẽ tạo DO hay còn gọi là phiếu giao hàng ở dưới hệ thống SAP.",
+    "raw_content": "bộ phận Sales Admin sẽ tạo DO hay còn gọi là phiếu giao hàng ở dưới hệ thống SAP.",
+    "token_count": 64,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:06",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:06"
+      ],
+      "timestamp": "00:06"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_003",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:12 | Timestamp: 00:12]\n\nSau khi đã tạo DO, phiếu đẩy lên hệ thống DMS.",
+    "raw_content": "Sau khi đã tạo DO, phiếu đẩy lên hệ thống DMS.",
+    "token_count": 53,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:12",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:12"
+      ],
+      "timestamp": "00:12"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_004",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:16 | Timestamp: 00:16]\n\nVà ở clip này, IT sẽ hướng dẫn cơ sở tìm ra cái phiếu,",
+    "raw_content": "Và ở clip này, IT sẽ hướng dẫn cơ sở tìm ra cái phiếu,",
+    "token_count": 57,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:16",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:16"
+      ],
+      "timestamp": "00:16"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_005",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:20 | Timestamp: 00:20]\n\ncũng như là phiếu tồn thành công.",
+    "raw_content": "cũng như là phiếu tồn thành công.",
+    "token_count": 50,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:20",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:20"
+      ],
+      "timestamp": "00:20"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_006",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:30 | Timestamp: 00:30]\n\nĐể tìm được phiếu, cơ sở có 2 cách.",
+    "raw_content": "Để tìm được phiếu, cơ sở có 2 cách.",
+    "token_count": 50,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_007",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:35 | Timestamp: 00:35]\n\nCách thứ nhất, copy đợt hàng, hoặc số đơn hàng SAP là cách thứ 2.",
+    "raw_content": "Cách thứ nhất, copy đợt hàng, hoặc số đơn hàng SAP là cách thứ 2.",
+    "token_count": 59,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:35",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:35"
+      ],
+      "timestamp": "00:35"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_008",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:42 | Timestamp: 00:42]\n\nSau khi đã copy, xuống menu phiếu.",
+    "raw_content": "Sau khi đã copy, xuống menu phiếu.",
+    "token_count": 50,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:42",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:42"
+      ],
+      "timestamp": "00:42"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_009",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:55 | Timestamp: 00:55]\n\nTại ô tìm kiếm, phiếu đơn đợt hàng,",
+    "raw_content": "Tại ô tìm kiếm, phiếu đơn đợt hàng,",
+    "token_count": 50,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:55",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:55"
+      ],
+      "timestamp": "00:55"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_010",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 00:59 | Timestamp: 00:59]\n\nhoặc là số đơn hàng SAP.",
+    "raw_content": "hoặc là số đơn hàng SAP.",
+    "token_count": 47,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:59",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "00:59"
+      ],
+      "timestamp": "00:59"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_011",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:00 | Timestamp: 01:00]\n\nĐể có thể tìm ra phố phiếu.",
+    "raw_content": "Để có thể tìm ra phố phiếu.",
+    "token_count": 48,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_012",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:07 | Timestamp: 01:07]\n\nĐây chính là phiếu.",
+    "raw_content": "Đây chính là phiếu.",
+    "token_count": 46,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:07",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:07"
+      ],
+      "timestamp": "01:07"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_013",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:10 | Timestamp: 01:10]\n\nChúng ta sẽ phiếu.",
+    "raw_content": "Chúng ta sẽ phiếu.",
+    "token_count": 46,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:10",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:10"
+      ],
+      "timestamp": "01:10"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_014",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:16 | Timestamp: 01:16]\n\nSau khi đã phiếu, lần nữa các thông tin đặt hàng,",
+    "raw_content": "Sau khi đã phiếu, lần nữa các thông tin đặt hàng,",
+    "token_count": 54,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:16",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:16"
+      ],
+      "timestamp": "01:16"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_015",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:21 | Timestamp: 01:21]\n\nbao gồm số.",
+    "raw_content": "bao gồm số.",
+    "token_count": 44,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:21",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:21"
+      ],
+      "timestamp": "01:21"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_016",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:25 | Timestamp: 01:25]\n\nKiểm tra thêm về chi tiết phiếu.",
+    "raw_content": "Kiểm tra thêm về chi tiết phiếu.",
+    "token_count": 49,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:25",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:25"
+      ],
+      "timestamp": "01:25"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_017",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:30 | Timestamp: 01:30]\n\nSau khi kiểm tra các thông tin, tiến hành phiếu.",
+    "raw_content": "Sau khi kiểm tra các thông tin, tiến hành phiếu.",
+    "token_count": 54,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:30",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:30"
+      ],
+      "timestamp": "01:30"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_018",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:43 | Timestamp: 01:43]\n\nỞ thanh trạng thái mở, trở.",
+    "raw_content": "Ở thanh trạng thái mở, trở.",
+    "token_count": 48,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:43",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:43"
+      ],
+      "timestamp": "01:43"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_019",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:52 | Timestamp: 01:52]\n\nSau đó chúng ta hần linh.",
+    "raw_content": "Sau đó chúng ta hần linh.",
+    "token_count": 48,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:52",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:52"
+      ],
+      "timestamp": "01:52"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_020",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:59 | Timestamp: 01:59]\n\nSau khi phải được, tiến hành.",
+    "raw_content": "Sau khi phải được, tiến hành.",
+    "token_count": 49,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:59",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:59"
+      ],
+      "timestamp": "01:59"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_021",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 01:59 | Timestamp: 01:59]\n\nChụp kho đã thái.",
+    "raw_content": "Chụp kho đã thái.",
+    "token_count": 45,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:59",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "01:59"
+      ],
+      "timestamp": "01:59"
+    }
+  },
+  {
+    "chunk_id": "KETO004_4_phieu_nhap_kho_pr_chunk_022",
+    "content": "[Document: 4. Phiếu nhập kho PR | Role: accounting | Source: KeToan/4. Phiếu nhập kho PR.mp4 | Section: 4. Phiếu nhập kho PR > 02:02 | Timestamp: 02:02]\n\nĐiều này đồng nghĩa chúng thành công.",
+    "raw_content": "Điều này đồng nghĩa chúng thành công.",
+    "token_count": 51,
+    "metadata": {
+      "document": "4. Phiếu nhập kho PR",
+      "role": "accounting",
+      "source": "KeToan/4. Phiếu nhập kho PR.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:02",
+      "subsection": null,
+      "heading_path": [
+        "4. Phiếu nhập kho PR",
+        "02:02"
+      ],
+      "timestamp": "02:02"
+    }
+  }
+]

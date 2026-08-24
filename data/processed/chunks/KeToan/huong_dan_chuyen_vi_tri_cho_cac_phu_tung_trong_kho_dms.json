@@ -1,0 +1,21 @@
+[
+  {
+    "chunk_id": "KETO563_huong_dan_chuyen_vi_tri_cho_cac_phu_tung_trong_kho_dms_chunk_001",
+    "content": "[Document: Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS | Role: accounting | Source: KeToan/Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS.docx | Section: Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS]\n\nphụ tùng trong kho DMS\n\nMục Xuất nhập kho sửa chữa &gt;&gt; Tạo mới &gt;&gt; yêu cầu &gt;&gt; tạo phiếu\n\n phụ tùng cần chuyển vị trí kèm số lượng chuyển sang vị (có thể truy vấn số cũ )\n\nLưu &amp; đóng &gt;&gt; hành phiếu chuyển\n\n*Lưu ý: cùng lúc nhiều phụ tùng trong 1 phiếu chuyển kho (khuyến nghị &lt;20 phụ tùng)*",
+    "raw_content": "phụ tùng trong kho DMS\n\nMục Xuất nhập kho sửa chữa &gt;&gt; Tạo mới &gt;&gt; yêu cầu &gt;&gt; tạo phiếu\n\n phụ tùng cần chuyển vị trí kèm số lượng chuyển sang vị (có thể truy vấn số cũ )\n\nLưu &amp; đóng &gt;&gt; hành phiếu chuyển\n\n*Lưu ý: cùng lúc nhiều phụ tùng trong 1 phiếu chuyển kho (khuyến nghị &lt;20 phụ tùng)*",
+    "token_count": 145,
+    "metadata": {
+      "document": "Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS",
+      "role": "accounting",
+      "source": "KeToan/Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS.docx",
+      "page": null,
+      "slide": null,
+      "section": "Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS",
+      "subsection": null,
+      "heading_path": [
+        "Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS"
+      ],
+      "timestamp": null
+    }
+  }
+]

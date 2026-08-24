@@ -1,0 +1,28 @@
+{
+    "document_id": "GENE001",
+    "title": "1 Tai lieu Tu hao VinGroup 3pages",
+    "source_file": "1_Tai_lieu_Tu_hao_VinGroup_3pages.pdf",
+    "source_path": "General_doc/1_Tai_lieu_Tu_hao_VinGroup_3pages.pdf",
+    "file_hash": "sha256:0dc2ef3ea1050fed4269f868093a177e76b01b0fe8c416bc975863900d039e0a",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "general",
+    "category": "General_doc",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 3,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-14"
+}

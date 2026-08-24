@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON014",
+    "title": "14. Giao xe (old)",
+    "source_file": "14. Giao xe (old).mp4",
+    "source_path": "Huong_dan_DMS/14. Giao xe (old).mp4",
+    "file_hash": "sha256:07ef60566a468d2449ec49332b74ce366a19630854e705f6d0ac6bed4ac31918",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 226.6035625,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

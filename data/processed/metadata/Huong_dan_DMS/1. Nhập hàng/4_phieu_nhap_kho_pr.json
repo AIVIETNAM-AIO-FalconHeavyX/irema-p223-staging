@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON004",
+    "title": "4. Phiếu nhập kho PR",
+    "source_file": "4. Phiếu nhập kho PR.mp4",
+    "source_path": "Huong_dan_DMS/4. Phiếu nhập kho PR.mp4",
+    "file_hash": "sha256:a7de4e4da975001ab1b832097797776382dc3687bd08d80836c08335af42639a",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 125.96825,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

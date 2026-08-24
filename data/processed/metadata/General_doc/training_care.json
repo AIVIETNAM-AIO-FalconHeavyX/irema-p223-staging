@@ -1,0 +1,27 @@
+{
+    "document_id": "GENE525",
+    "title": "Training Care",
+    "source_file": "Training_Care.pptx",
+    "source_path": "General_doc/Training_Care.pptx",
+    "file_hash": "sha256:89d80a3a97c8056da070f5016baaba9d7656cf33d51a2229d7658b3f21695dce",
+    "document_type": "pptx",
+    "content_type": "document",
+    "role": "general",
+    "category": "General_doc",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 8,
+    "slides": 8,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-19"
+}

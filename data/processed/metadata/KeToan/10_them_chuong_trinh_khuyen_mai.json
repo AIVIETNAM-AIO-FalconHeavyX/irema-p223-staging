@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO010",
+    "title": "10. Thêm chương trình khuyến mãi",
+    "source_file": "10. Thêm chương trình khuyến mãi.mp4",
+    "source_path": "KeToan/10. Thêm chương trình khuyến mãi.mp4",
+    "file_hash": "sha256:2303618afc11b4f246f55f8147c360df1edb0f7681d5b79960118803e141d91c",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 69.450875,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

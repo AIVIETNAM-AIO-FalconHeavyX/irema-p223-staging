@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON12012026",
+    "title": "12012026 Bảng giá claim ĐLPP đơn CBNV 2026 KTTĐ",
+    "source_file": "12012026_Bảng giá claim ĐLPP đơn CBNV 2026_KTTĐ.xlsx",
+    "source_path": "Huong_dan_DMS/12012026_Bảng giá claim ĐLPP đơn CBNV 2026_KTTĐ.xlsx",
+    "file_hash": "sha256:063dcc16c10b2842a73b6d620868ba6023ea4cb28fc0e601c8782bbd4e0432f4",
+    "document_type": "xlsx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

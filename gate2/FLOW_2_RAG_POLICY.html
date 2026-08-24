@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="vi"><head><meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Flow 2 — RAG Policy Copilot | VF-Onboarding Copilot</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --bg: #F2F2F7;
+  --surface: #FFFFFF;
+  --border: #D1D1D6;
+  --text: #1C1C1E;
+  --text-sub: #3C3C43;
+  --muted: #8E8E93;
+
+  --blue: #0A84FF;   --blue-bg: #EBF5FF;  --blue-bd: #99CCFF;
+  --red: #FF3B30;    --red-bg: #FFF0EF;   --red-bd: #FF9999;
+  --amber: #FF9F0A;  --amber-bg: #FFF8EC; --amber-bd: #FFCC80;
+  --green: #34C759;  --green-bg: #EDFBF1; --green-bd: #99E6B3;
+  --teal: #5AC8FA;   --teal-bg: #EFF9FE;  --teal-bd: #B3E5FC;
+  --purple: #BF5AF2; --purple-bg: #F5EEFF;--purple-bd: #E1BEE7;
+  --gray: #8E8E93;   --gray-bg: #F8F8FA;  --gray-bd: #D1D1D6;
+
+  --shadow-sm: 0 2px 6px rgba(0,0,0,0.06);
+  --shadow-md: 0 6px 16px rgba(0,0,0,0.08);
+  --shadow-lg: 0 16px 32px rgba(0,0,0,0.12);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; overflow: hidden; font-family: 'Inter', -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); }
+
+/* TOPBAR */
+.topbar {
+  height: 56px; display: flex; align-items: center; padding: 0 20px; gap: 12px;
+  background: rgba(255,255,255,0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border); position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+}
+.topbar-logo {
+  width: 32px; height: 32px; border-radius: 9px; display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 14px; color: #fff; background: linear-gradient(135deg, var(--blue), var(--teal));
+}
+.topbar-title { font-size: 15px; font-weight: 700; flex: 1; letter-spacing: -0.2px; }
+.tbadge {
+  padding: 4px 10px; border-radius: 20px; font-size: 11px; font-weight: 600; border: 1px solid;
+}
+
+/* SIDEBAR */
+.sidebar {
+  position: fixed; top: 56px; left: 0; bottom: 0; width: 220px;
+  background: rgba(255,255,255,0.8); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  border-right: 1px solid var(--border); overflow-y: auto; z-index: 100; padding: 12px 8px;
+}
+.s-group { font-size: 10px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; padding: 10px 10px 4px; }
+.s-item {
+  display: flex; align-items: center; gap: 9px; padding: 8px 10px; border-radius: 9px;
+  font-size: 12px; font-weight: 600; color: var(--text-sub); text-decoration: none; transition: all 0.15s; margin-bottom: 2px;
+}
+.s-item:hover { background: rgba(0,0,0,0.04); color: var(--text); }
+.s-item.active { background: var(--blue-bg); color: var(--blue); }
+.s-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+/* CONTROLS */
+.ctrls {
+  position: fixed; bottom: 24px; right: 24px; display: flex; flex-direction: column; gap: 6px; z-index: 150;
+}
+.btn-ctrl {
+  width: 40px; height: 40px; border-radius: 12px; border: 1px solid var(--border);
+  background: var(--surface); box-shadow: var(--shadow-sm); cursor: pointer;
+  display: flex; align-items: center; justify-content: center; font-size: 16px; font-weight: 700;
+  transition: all 0.15s; color: var(--text);
+}
+.btn-ctrl:hover { background: #F8F8FA; transform: scale(1.05); }
+.btn-ctrl:active { transform: scale(0.95); }
+.zoom-lbl {
+  font-size: 10px; font-weight: 700; color: var(--muted); text-align: center;
+  padding: 3px; background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+}
+
+/* CANVAS WRAPPER */
+.canvas-wrap {
+  position: fixed; top: 56px; left: 220px; right: 0; bottom: 0;
+  overflow: hidden; cursor: grab; background: var(--bg);
+}
+.canvas-wrap:active { cursor: grabbing; }
+.canvas-wrap::before {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background-image: radial-gradient(circle, #C7C7CC 1px, transparent 1px);
+  background-size: 24px 24px; opacity: 0.45;
+}
+.canvas {
+  position: absolute; top: 0; left: 0; transform-origin: 0 0; width: 3400px; height: 2400px; padding: 40px;
+}
+
+/* SVG LAYER */
+.svg-layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; }
+
+/* BANDS */
+.band { position: absolute; border-radius: 16px; border: 1.5px dashed; pointer-events: none; }
+.band-lbl { position: absolute; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.8px; pointer-events: none; }
+
+/* NODES */
+.node {
+  position: absolute; background: var(--surface); border: 1.5px solid var(--border);
+  border-radius: 12px; box-shadow: var(--shadow-sm); cursor: move; user-select: none;
+  transition: box-shadow 0.15s; min-width: 150px;
+}
+.node:hover { box-shadow: var(--shadow-md); z-index: 20; }
+.node.dragging { box-shadow: var(--shadow-lg); z-index: 100; opacity: 0.95; }
+
+.nh {
+  padding: 8px 12px; border-radius: 10px 10px 0 0; display: flex; align-items: center; gap: 8px;
+}
+.ni {
+  width: 24px; height: 24px; border-radius: 6px; display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 700; flex-shrink: 0;
+}
+.nl { font-size: 12px; font-weight: 700; line-height: 1.2; }
+.nb { padding: 8px 12px; font-size: 11px; color: var(--text-sub); line-height: 1.45; }
+.nf { padding: 0 12px 8px; display: flex; flex-wrap: wrap; gap: 4px; }
+.ntag {
+  display: inline-flex; align-items: center; padding: 2px 7px; border-radius: 6px;
+  font-size: 9.5px; font-weight: 700; border: 1px solid;
+}
+
+/* DECISION DIAMOND */
+.dmd {
+  position: absolute; cursor: move; user-select: none;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  font-size: 10.5px; font-weight: 800; padding: 12px; border: 2px solid;
+  transition: box-shadow 0.15s;
+}
+.dmd:hover { box-shadow: var(--shadow-md); z-index: 20; }
+
+/* ROLE STYLES */
+.rc-blue { border-color: var(--blue-bd); }
+.rc-blue .nh { background: var(--blue-bg); border-bottom: 1px solid var(--blue-bd); }
+.rc-blue .ni { background: #fff; color: var(--blue); border: 1px solid var(--blue-bd); }
+.rc-blue .nl { color: var(--blue); }
+
+.rc-red { border-color: var(--red-bd); }
+.rc-red .nh { background: var(--red-bg); border-bottom: 1px solid var(--red-bd); }
+.rc-red .ni { background: #fff; color: var(--red); border: 1px solid var(--red-bd); }
+.rc-red .nl { color: var(--red); }
+
+.rc-amber { border-color: var(--amber-bd); }
+.rc-amber .nh { background: var(--amber-bg); border-bottom: 1px solid var(--amber-bd); }
+.rc-amber .ni { background: #fff; color: var(--amber); border: 1px solid var(--amber-bd); }
+.rc-amber .nl { color: var(--amber); }
+
+.rc-green { border-color: var(--green-bd); }
+.rc-green .nh { background: var(--green-bg); border-bottom: 1px solid var(--green-bd); }
+.rc-green .ni { background: #fff; color: var(--green); border: 1px solid var(--green-bd); }
+.rc-green .nl { color: var(--green); }
+
+.rc-teal { border-color: var(--teal-bd); }
+.rc-teal .nh { background: var(--teal-bg); border-bottom: 1px solid var(--teal-bd); }
+.rc-teal .ni { background: #fff; color: var(--teal); border: 1px solid var(--teal-bd); }
+.rc-teal .nl { color: var(--teal); }
+
+.rc-purple { border-color: var(--purple-bd); }
+.rc-purple .nh { background: var(--purple-bg); border-bottom: 1px solid var(--purple-bd); }
+.rc-purple .ni { background: #fff; color: var(--purple); border: 1px solid var(--purple-bd); }
+.rc-purple .nl { color: var(--purple); }
+
+.rc-gray { border-color: var(--gray-bd); }
+.rc-gray .nh { background: var(--gray-bg); border-bottom: 1px solid var(--gray-bd); }
+.rc-gray .ni { background: #fff; color: var(--gray); border: 1px solid var(--gray-bd); }
+.rc-gray .nl { color: var(--gray); }
+
+/* TAG STYLES */
+.t-g { background: var(--green-bg); border-color: var(--green-bd); color: var(--green); }
+.t-b { background: var(--blue-bg); border-color: var(--blue-bd); color: var(--blue); }
+.t-r { background: var(--red-bg); border-color: var(--red-bd); color: var(--red); }
+.t-a { background: var(--amber-bg); border-color: var(--amber-bd); color: var(--amber); }
+.t-p { background: var(--purple-bg); border-color: var(--purple-bd); color: var(--purple); }
+.t-t { background: var(--teal-bg); border-color: var(--teal-bd); color: var(--teal); }
+
+/* LEGEND */
+.legend {
+  position: fixed; bottom: 24px; left: 236px; background: rgba(255,255,255,0.9);
+  backdrop-filter: blur(16px); border: 1px solid var(--border); border-radius: 12px;
+  padding: 8px 14px; display: flex; flex-wrap: wrap; gap: 10px; z-index: 150; box-shadow: var(--shadow-md);
+}
+.leg-item { display: flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 600; color: var(--text-sub); }
+.leg-dot { width: 10px; height: 10px; border-radius: 3px; }
+</style>
+
+</head><body>
+<div class="topbar">
+  <div class="topbar-logo">VF</div>
+  <div class="topbar-title">Flow 2 — RAG Policy Copilot</div>
+  <span class="tbadge t-p">RAG_POLICY</span> <span class="tbadge t-a">Hybrid BM25+Vector</span>
+</div>
+<nav class="sidebar"><div class="s-group">Flow Diagrams</div><a class="s-item" href="FLOW_1_WORKFLOW_ERROR_LOOKUP.html"><div class="s-dot" style="background:var(--blue)"></div>Flow 1: Workflow & Error</a><a class="s-item active" href="FLOW_2_RAG_POLICY.html"><div class="s-dot" style="background:var(--purple)"></div>Flow 2: RAG Policy</a><a class="s-item" href="FLOW_3_ESCALATION_STATIC_FORM.html"><div class="s-dot" style="background:var(--red)"></div>Flow 3: Escalation</a><a class="s-item" href="ARCHITECTURE_DIAGRAM.html"><div class="s-dot" style="background:var(--amber)"></div>Architecture Overview</a></nav>
+<div class="ctrls">
+  <button class="btn-ctrl" onclick="zoomIn()">+</button>
+  <div class="zoom-lbl" id="zLbl">100%</div>
+  <button class="btn-ctrl" onclick="zoomOut()">−</button>
+  <button class="btn-ctrl" onclick="resetView()" style="font-size:13px">⌂</button>
+  <button class="btn-ctrl" onclick="fitView()" style="font-size:12px">⊡</button>
+</div>
+<div class="canvas-wrap" id="cWrap">
+<div class="canvas" id="canvas">
+<svg class="svg-layer" id="svgLayer"><defs>
+<marker id="m_blue" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#0A84FF"/></marker>
+<marker id="m_red" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#FF3B30"/></marker>
+<marker id="m_amber" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#FF9F0A"/></marker>
+<marker id="m_green" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#34C759"/></marker>
+<marker id="m_teal" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#5AC8FA"/></marker>
+<marker id="m_purple" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#BF5AF2"/></marker>
+<marker id="m_gray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#8E8E93"/></marker>
+</defs></svg>
+<div class="band" style="left:40px;top:40px;width:600px;height:150px;border-color:rgba(10,132,255,1);background:rgba(10,132,255,0.04)"></div><div class="band-lbl" style="left:52px;top:46px;color:rgba(10,132,255,1)">① CLIENT LAYER</div><div class="band" style="left:40px;top:210px;width:1200px;height:220px;border-color:rgba(255,59,48,1);background:rgba(255,59,48,0.04)"></div><div class="band-lbl" style="left:52px;top:216px;color:rgba(255,59,48,1)">② GUARDRAILS INPUT</div><div class="band" style="left:40px;top:450px;width:1200px;height:200px;border-color:rgba(255,159,10,1);background:rgba(255,159,10,0.04)"></div><div class="band-lbl" style="left:52px;top:456px;color:rgba(255,159,10,1)">③ CORE RUNTIME + ROUTER</div><div class="band" style="left:40px;top:670px;width:1250px;height:360px;border-color:rgba(26,188,156,1);background:rgba(26,188,156,0.04)"></div><div class="band-lbl" style="left:52px;top:676px;color:rgba(26,188,156,1)">④ RETRIEVAL ENGINE — Hybrid BM25 + Vector + Rerank</div><div class="band" style="left:40px;top:1050px;width:1200px;height:200px;border-color:rgba(191,90,242,1);background:rgba(191,90,242,0.04)"></div><div class="band-lbl" style="left:52px;top:1056px;color:rgba(191,90,242,1)">⑤ DATA + AI LAYER — ChromaDB + Gemini</div><div class="band" style="left:40px;top:1270px;width:1200px;height:200px;border-color:rgba(52,199,89,1);background:rgba(52,199,89,0.04)"></div><div class="band-lbl" style="left:52px;top:1276px;color:rgba(52,199,89,1)">⑥ OUTPUT DEFENSE + RBAC CHECK</div><div class="node rc-blue" id="c1" style="left:60px;top:70px;width:200px">
+  <div class="nh"><div class="ni">👤</div><div class="nl">Staff / Bán Hàng</div></div>
+  <div class="nb">Hỏi chính sách, quy định<br>Chiết khấu, hợp đồng pin</div><div class="nf"><span class="ntag t-b">role: sales/accounting</span></div></div><div class="node rc-blue" id="c2" style="left:300px;top:70px;width:190px">
+  <div class="nh"><div class="ni">💬</div><div class="nl">Chat Window</div></div>
+  <div class="nb">POST /api/v1/chat · RAG_POLICY</div></div><div class="node rc-red" id="gin" style="left:60px;top:240px;width:220px">
+  <div class="nh"><div class="ni">🛡️</div><div class="nl">Input Guardrails</div></div>
+  <div class="nb">GRD-01→10 · PII Masker (GRD-07)<br>Short-circuit on FAIL</div><div class="nf"><span class="ntag t-r"><80ms</span></div></div><div class="node rc-red" id="grbac" style="left:320px;top:240px;width:230px">
+  <div class="nh"><div class="ni">⊘</div><div class="nl">RBAC Role Filter</div></div>
+  <div class="nb">Kế toán KHÔNG xem Chiết khấu<br>Sales KHÔNG xem Giá nhập kho</div><div class="nf"><span class="ntag t-r">Role-based</span></div></div><div class="node rc-amber" id="qnorm" style="left:60px;top:480px;width:200px">
+  <div class="nh"><div class="ni">🔤</div><div class="nl">Query Normalizer</div></div>
+  <div class="nb">Chuẩn hóa thuật ngữ viết tắt<br>+ Role Context Hint</div><div class="nf"><span class="ntag t-g"><5ms</span></div></div><div class="node rc-amber" id="qrew" style="left:290px;top:480px;width:210px">
+  <div class="nh"><div class="ni">⊕</div><div class="nl">Query Rewriter</div></div>
+  <div class="nb">Expand abbreviations<br>+ Multi-query generation</div><div class="nf"><span class="ntag t-a"><50ms LLM</span></div></div><div class="node rc-teal" id="bm25" style="left:60px;top:700px;width:200px">
+  <div class="nh"><div class="ni">🔍</div><div class="nl">BM25 Search</div></div>
+  <div class="nb">Keyword retrieval<br>TF-IDF scoring<br>BM25Retriever(k=20)</div><div class="nf"><span class="ntag t-t"><20ms</span></div></div><div class="node rc-purple" id="vec" style="left:290px;top:700px;width:200px">
+  <div class="nh"><div class="ni">🗃️</div><div class="nl">Vector Search</div></div>
+  <div class="nb">Semantic embedding<br>Cosine similarity<br>top_k=20</div><div class="nf"><span class="ntag t-p"><50ms</span></div></div><div class="node rc-amber" id="fusion" style="left:520px;top:700px;width:220px">
+  <div class="nh"><div class="ni">⊕</div><div class="nl">RRF Fusion</div></div>
+  <div class="nb">Reciprocal Rank Fusion<br>score = Σ 1/(k+rank_i)<br>Merge 40 candidates</div><div class="nf"><span class="ntag t-a"><5ms</span></div></div><div class="node rc-teal" id="rerank" style="left:770px;top:700px;width:240px">
+  <div class="nh"><div class="ni">◈</div><div class="nl">Cross-Encoder Rerank</div></div>
+  <div class="nb">Pairwise scoring (query, chunk)<br>Score threshold ≥ 0.70<br>Top-5 chunks selected</div><div class="nf"><span class="ntag t-t"><200ms</span></div></div><div class="dmd" id="dec_conf" style="left:1040px;top:715px;width:120px;height:64px;background:#FFF8EC;border-color:#FFCC80;color:#FF9F0A">conf ≥ 0.70?</div><div class="node rc-red" id="escalate" style="left:1040px;top:820px;width:180px">
+  <div class="nh"><div class="ni">⚠️</div><div class="nl">Auto Escalation</div></div>
+  <div class="nb">confidence < 0.70<br>Tạo ticket IT/Manager</div><div class="nf"><span class="ntag t-r">Ticket</span></div></div><div class="node rc-purple" id="ddocs" style="left:60px;top:1080px;width:250px">
+  <div class="nh"><div class="ni">📁</div><div class="nl">docs_policies ChromaDB</div></div>
+  <div class="nb">Chính sách bán hàng · Giá xe<br>Quy định claim · RBAC metadata</div><div class="nf"><span class="ntag t-p">ChromaDB</span></div></div><div class="node rc-purple" id="llm" style="left:360px;top:1080px;width:230px">
+  <div class="nh"><div class="ni">★</div><div class="nl">Gemini Pro LLM</div></div>
+  <div class="nb">Grounded Response Generation<br>Context: top-5 chunks + role</div><div class="nf"><span class="ntag t-p">~1.5s</span></div></div><div class="node rc-gray" id="ocit" style="left:60px;top:1300px;width:180px">
+  <div class="nh"><div class="ni">✓</div><div class="nl">Citation Checker</div></div>
+  <div class="nb">Mọi claim có [Trang X]</div></div><div class="node rc-gray" id="ohall" style="left:270px;top:1300px;width:180px">
+  <div class="nh"><div class="ni">✓</div><div class="nl">Hallucination Check</div></div>
+  <div class="nb">Câu không citation → flag</div></div><div class="node rc-gray" id="oleak" style="left:480px;top:1300px;width:180px">
+  <div class="nh"><div class="ni">✓</div><div class="nl">RBAC Leak Check</div></div>
+  <div class="nb">Lọc thông tin ngoài scope</div></div><div class="node rc-gray" id="olang" style="left:690px;top:1300px;width:180px">
+  <div class="nh"><div class="ni">✓</div><div class="nl">Language Check</div></div>
+  <div class="nb">Vietnamese output</div></div><div class="node rc-green" id="final" style="left:60px;top:1500px;width:360px">
+  <div class="nh"><div class="ni">🎉</div><div class="nl">RAG Response Client</div></div>
+  <div class="nb">reply + citations [] + confidence + latency_ms</div><div class="nf"><span class="ntag t-p">RAG_POLICY ~2.5s</span></div></div>
+</div></div>
+<div class="legend">
+
+<div class="leg-item"><div class="leg-dot" style="background:var(--blue)"></div>Client Persona</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--red)"></div>Security Guard</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--amber)"></div>Core Router</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--green)"></div>Workflow Skill</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--teal)"></div>Error Lookup</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--purple)"></div>Data / ChromaDB</div>
+<div class="leg-item"><div class="leg-dot" style="background:var(--gray)"></div>Output Defense</div>
+
+</div>
+<script>window.EDGES = [["c1", "c2", "blue", "", "h"], ["c2", "gin", "red", "", "v"], ["gin", "grbac", "red", "", "h"], ["grbac", "qnorm", "amber", "PASS", "v"], ["qnorm", "qrew", "amber", "", "h"], ["qrew", "bm25", "teal", "", "v"], ["qrew", "vec", "purple", "", "v"], ["bm25", "fusion", "amber", "", "h"], ["vec", "fusion", "amber", "", "h"], ["fusion", "rerank", "teal", "", "h"], ["rerank", "dec_conf", "teal", "", "h"], ["dec_conf", "llm", "purple", ">=0.70", "v"], ["dec_conf", "escalate", "red", "<0.70", "v"], ["bm25", "ddocs", "purple", "query", "v"], ["vec", "ddocs", "purple", "query", "v"], ["llm", "ocit", "gray", "", "v"], ["ocit", "ohall", "gray", "", "h"], ["ohall", "oleak", "gray", "", "h"], ["oleak", "olang", "gray", "", "h"], ["olang", "final", "green", "HTTP 200", "v"]];</script>
+
+<script>
+const COLORS = {
+  blue: '#0A84FF', red: '#FF3B30', amber: '#FF9F0A', green: '#34C759',
+  teal: '#5AC8FA', purple: '#BF5AF2', gray: '#8E8E93'
+};
+
+let scale = 1, panX = 0, panY = 0, isPanning = false, panStart = {x:0, y:0};
+const wrap = document.getElementById('cWrap');
+const canvas = document.getElementById('canvas');
+
+function applyT() {
+  canvas.style.transform = `translate(${panX}px, ${panY}px) scale(${scale})`;
+  const el = document.getElementById('zLbl');
+  if(el) el.textContent = Math.round(scale * 100) + '%';
+}
+window.zoomIn = () => { scale = Math.min(scale * 1.2, 3); applyT(); };
+window.zoomOut = () => { scale = Math.max(scale / 1.2, 0.2); applyT(); };
+window.resetView = () => { scale = 1; panX = 0; panY = 0; applyT(); };
+window.fitView = () => {
+  const nodes = [...canvas.querySelectorAll('.node, .dmd')];
+  if(!nodes.length) return;
+  let minX=9999, minY=9999, maxX=0, maxY=0;
+  nodes.forEach(n => {
+    const l = parseInt(n.style.left||0), t = parseInt(n.style.top||0);
+    const w = n.offsetWidth||160, h = n.offsetHeight||80;
+    minX = Math.min(minX, l); minY = Math.min(minY, t);
+    maxX = Math.max(maxX, l+w); maxY = Math.max(maxY, t+h);
+  });
+  const ow = wrap.clientWidth, oh = wrap.clientHeight;
+  const fw = maxX - minX + 100, fh = maxY - minY + 100;
+  scale = Math.min(ow/fw, oh/fh, 0.9);
+  panX = (ow - fw*scale)/2 - minX*scale + 50*scale;
+  panY = (oh - fh*scale)/2 - minY*scale + 50*scale;
+  applyT();
+};
+
+wrap.addEventListener('mousedown', e => {
+  if(!e.target.closest('.node') && !e.target.closest('.dmd')) {
+    isPanning = true; panStart = {x: e.clientX - panX, y: e.clientY - panY};
+    wrap.style.cursor = 'grabbing';
+  }
+});
+window.addEventListener('mouseup', () => { isPanning = false; wrap.style.cursor = 'grab'; });
+window.addEventListener('mousemove', e => {
+  if(!isPanning) return;
+  panX = e.clientX - panStart.x; panY = e.clientY - panStart.y; applyT();
+});
+wrap.addEventListener('wheel', e => {
+  e.preventDefault();
+  const r = wrap.getBoundingClientRect(), mx = e.clientX - r.left, my = e.clientY - r.top;
+  const factor = e.deltaY < 0 ? 1.1 : 0.9;
+  panX = mx - (mx - panX) * factor; panY = my - (my - panY) * factor;
+  scale = Math.max(0.2, Math.min(3, scale * factor)); applyT();
+}, {passive: false});
+
+/* Dragging nodes */
+let dragging = null, dragOff = {x:0, y:0};
+document.querySelectorAll('.node, .dmd').forEach(n => {
+  n.addEventListener('mousedown', e => {
+    e.stopPropagation(); dragging = n;
+    const r = canvas.getBoundingClientRect();
+    dragOff.x = (e.clientX - r.left)/scale - parseInt(n.style.left||0);
+    dragOff.y = (e.clientY - r.top)/scale - parseInt(n.style.top||0);
+    n.classList.add('dragging');
+  });
+});
+window.addEventListener('mousemove', e => {
+  if(!dragging) return;
+  const r = canvas.getBoundingClientRect();
+  dragging.style.left = Math.max(0, (e.clientX - r.left)/scale - dragOff.x) + 'px';
+  dragging.style.top = Math.max(0, (e.clientY - r.top)/scale - dragOff.y) + 'px';
+  drawArrows();
+});
+window.addEventListener('mouseup', () => { if(dragging) { dragging.classList.remove('dragging'); dragging = null; } });
+
+function getRect(id) {
+  const el = document.getElementById(id);
+  if(!el) return null;
+  const l = parseInt(el.style.left||0), t = parseInt(el.style.top||0);
+  const w = el.offsetWidth||160, h = el.offsetHeight||80;
+  return { l, t, r: l+w, b: t+h, mx: l+w/2, my: t+h/2, w, h };
+}
+
+function drawCurve(svg, x1, y1, x2, y2, color, marker, label) {
+  const dx = x2 - x1, dy = y2 - y1;
+  const cx1 = x1 + dx*0.35, cy1 = y1, cx2 = x2 - dx*0.35, cy2 = y2;
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', `M${x1},${y1} C${cx1},${cy1} ${cx2},${cy2} ${x2},${y2}`);
+  path.setAttribute('fill', 'none'); path.setAttribute('stroke', color);
+  path.setAttribute('stroke-width', '1.6'); path.setAttribute('opacity', '0.8');
+  path.setAttribute('marker-end', `url(#m_${marker})`);
+  svg.appendChild(path);
+
+  if(label) {
+    const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    text.setAttribute('x', (x1+x2)/2); text.setAttribute('y', (y1+y2)/2 - 6);
+    text.setAttribute('text-anchor', 'middle'); text.setAttribute('font-size', '9');
+    text.setAttribute('font-weight', '700'); text.setAttribute('fill', color);
+    text.setAttribute('font-family', 'Inter, sans-serif'); text.textContent = label;
+    svg.appendChild(text);
+  }
+}
+
+function connect(svg, fromId, toId, colorName, label, forceDir) {
+  const a = getRect(fromId), b = getRect(toId);
+  if(!a || !b) return;
+  let x1, y1, x2, y2;
+  if(forceDir === 'v' || Math.abs(b.my - a.my) > Math.abs(b.mx - a.mx)) {
+    x1 = a.mx; y1 = a.b; x2 = b.mx; y2 = b.t;
+  } else if(b.mx > a.mx) {
+    x1 = a.r; y1 = a.my; x2 = b.l; y2 = b.my;
+  } else {
+    x1 = a.l; y1 = a.my; x2 = b.r; y2 = b.my;
+  }
+  drawCurve(svg, x1, y1, x2, y2, COLORS[colorName] || '#8E8E93', colorName, label);
+}
+
+window.EDGES = window.EDGES || [];
+function drawArrows() {
+  const svg = document.getElementById('svgLayer');
+  while(svg.lastChild && svg.lastChild.tagName !== 'defs') svg.removeChild(svg.lastChild);
+  window.EDGES.forEach(e => connect(svg, e[0], e[1], e[2], e[3], e[4]));
+}
+setTimeout(() => { drawArrows(); fitView(); }, 250);
+</script>
+
+</body></html>

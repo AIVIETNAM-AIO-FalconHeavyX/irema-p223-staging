@@ -1,0 +1,9 @@
+{
+  "document_id": "HUON677",
+  "pii_detected": true,
+  "removed_entities": {
+    "VEHICLE_PLATE": 17,
+    "EMAIL_ADDRESS": 1,
+    "PHONE_NUMBER": 1
+  }
+}

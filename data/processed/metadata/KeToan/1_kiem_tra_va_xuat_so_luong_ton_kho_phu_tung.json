@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "1. Kiểm tra và xuất số lượng tồn kho phụ tùng",
+    "source_file": "1. Kiểm tra và xuất số lượng tồn kho phụ tùng.mp4",
+    "source_path": "KeToan/1. Kiểm tra và xuất số lượng tồn kho phụ tùng.mp4",
+    "file_hash": "sha256:ea11e651bb29b898b76dd248f9d8079581702f1c14d6ead16225df39d67b43e6",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 111.409375,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

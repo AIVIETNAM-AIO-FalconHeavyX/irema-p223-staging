@@ -1,0 +1,50 @@
+input_dir: Data/raw
+output_dir: Data/processed
+
+role_mapping:
+  General_doc: general
+  Huong_dan_DMS: general
+
+access_scope_mapping:
+  General_doc:
+    - accounting
+    - sales
+    - technician
+  Huong_dan_DMS:
+    - accounting
+    - sales
+    - technician
+
+ocr:
+  enabled: true
+  chandra_enabled: false
+  languages:
+    - vi
+    - en
+
+pii:
+  enabled: true
+  remove: true
+  confidence_threshold: 0.7
+  entities:
+    - PERSON
+    - PHONE_NUMBER
+    - EMAIL_ADDRESS
+    - ID_NUMBER
+    - BANK_ACCOUNT
+    - CREDIT_CARD
+    - ADDRESS
+    - CUSTOMER_ID
+    - EMPLOYEE_ID
+    - VEHICLE_PLATE
+    - USERNAME
+    - PASSWORD
+
+image:
+  extract: true
+  ocr: true
+
+video:
+  enabled: true
+  model: large-v3
+  language: vi

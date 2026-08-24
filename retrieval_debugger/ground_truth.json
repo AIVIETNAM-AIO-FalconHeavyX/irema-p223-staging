@@ -1,0 +1,485 @@
+[
+  {
+    "query_id": "CANARY_01",
+    "query": "Mã bí mật của dự án là gì?",
+    "role": "general",
+    "expected_document_id": ["doc_canary_unique_test", "Canary_Unique_Test_Document"],
+    "expected_keywords": ["ALPHA-7749", "canary"],
+    "query_type": "concept",
+    "expected_answer": "Mã bí mật dùng để kiểm tra hệ thống retrieval."
+  },
+  {
+    "query_id": "GT001",
+    "query": "Làm thế nào để đăng nhập vào hệ thống DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO001_01_huong_dan_dang_nhap_dms"],
+    "expected_keywords": ["đăng nhập", "DMS", "múi giờ", "tài khoản"],
+    "expected_section": "01:11",
+    "query_type": "procedure",
+    "expected_answer": "Mở trình duyệt, truy cập DMS VinFast, nhập tên đăng nhập và mật khẩu đại lý, kiểm tra múi giờ chính xác rồi nhấn Đăng nhập."
+  },
+  {
+    "query_id": "GT002",
+    "query": "Thời gian bảo hành pin LFP xe máy điện VinFast là bao nhiêu năm?",
+    "role": "technician",
+    "expected_document_id": ["KTV001_1_chinh_sach_bao_hanh_xmd_ttvn", "GENE002_2_lich_su_tong_quan_san_pham_xmd_260617"],
+    "expected_keywords": ["pin LFP", "8 năm", "bảo hành"],
+    "expected_section": "Thời gian bảo hành",
+    "query_type": "table",
+    "expected_answer": "Khối pin LFP xe máy điện VinFast được bảo hành 8 năm không giới hạn số km."
+  },
+  {
+    "query_id": "GT003",
+    "query": "Quy trình tư vấn bán hàng chuẩn VinFast gồm mấy bước?",
+    "role": "sales",
+    "expected_document_id": ["SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd"],
+    "expected_keywords": ["bước", "quy trình", "bán hàng", "chào đón"],
+    "expected_section": "Quy trình bán hàng",
+    "query_type": "procedure",
+    "expected_answer": "Quy trình bán hàng chuẩn bao gồm: Chào đón, Tìm hiểu nhu cầu, Giới thiệu sản phẩm, Lái thử, Tư vấn giá, Ký hợp đồng, Giao xe và Chăm sóc sau bán hàng."
+  },
+  {
+    "query_id": "GT004",
+    "query": "Quy trình claim bù tồn kho xe máy điện và tạo đơn hàng tồn kho",
+    "role": "accounting",
+    "expected_document_id": ["KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0"],
+    "expected_keywords": ["claim", "bù tồn kho", "đặt hàng"],
+    "expected_section": "Claim",
+    "query_type": "procedure",
+    "expected_answer": "Quy trình claim bù tồn kho yêu cầu kiểm tra danh sách xe đủ điều kiện, tạo yêu cầu claim trên portal và đính kèm hồ sơ đối soát."
+  },
+  {
+    "query_id": "GT005",
+    "query": "Thanh lý chấm dứt hợp đồng thuê pin xe máy điện và kích hoạt lại",
+    "role": "accounting",
+    "expected_document_id": ["KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin"],
+    "expected_keywords": ["thanh lý", "thuê pin", "hợp đồng", "kích hoạt"],
+    "expected_section": "Thanh lý",
+    "query_type": "procedure",
+    "expected_answer": "Thực hiện thanh lý hợp đồng thuê pin trên DMS, kiểm tra công nợ tồn đọng và hoàn trả pin theo biên bản bàn giao."
+  },
+  {
+    "query_id": "GT006",
+    "query": "Chính sách ưu đãi lệ phí trước bạ, sạc miễn phí và thuê pin xe máy điện",
+    "role": "sales",
+    "expected_document_id": ["GENE260801_260801_chinh_sach_ban_hang_xmd"],
+    "expected_keywords": ["trước bạ", "thuê pin", "ưu đãi", "sạc miễn phí"],
+    "expected_section": "Chính sách bán hàng",
+    "query_type": "concept",
+    "expected_answer": "VinFast hỗ trợ 100% lệ phí trước bạ cùng các gói thuê pin linh hoạt hoặc mua đứt pin theo nhu cầu."
+  },
+  {
+    "query_id": "GT007",
+    "query": "Cách tạo khách hàng tiềm năng (Lead) trên hệ thống DMS như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO002_02_tao_khach_hang_tiem_nang"],
+    "expected_keywords": ["khách hàng tiềm năng", "Lead", "DMS", "tạo mới"],
+    "query_type": "procedure",
+    "expected_answer": "Đăng nhập DMS, vào module Khách hàng tiềm năng, chọn Tạo mới, điền thông tin cơ bản (họ tên, SĐT, địa chỉ) và lưu lại."
+  },
+  {
+    "query_id": "GT008",
+    "query": "Quy luật kiểm tra trùng khi tạo Lead trên hệ thống DMS là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO003_03_quy_luat_kiem_tra_trung_khi_tao_lead"],
+    "expected_keywords": ["kiểm tra trùng", "Lead", "trùng lặp", "số điện thoại"],
+    "query_type": "concept",
+    "expected_answer": "Hệ thống kiểm tra trùng dựa trên số điện thoại và CMND/CCCD. Nếu phát hiện trùng, DMS sẽ thông báo và hỏi có muốn merge không."
+  },
+  {
+    "query_id": "GT009",
+    "query": "Thêm chương trình khuyến mãi cho đơn hàng như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO010_10_them_chuong_trinh_khuyen_mai"],
+    "expected_keywords": ["khuyến mãi", "chương trình", "đơn hàng", "giảm giá"],
+    "query_type": "procedure",
+    "expected_answer": "Mở đơn hàng cần áp dụng, chọn tab Khuyến mãi, tìm và chọn chương trình phù hợp, hệ thống tự tính toán mức giảm và cập nhật tổng tiền."
+  },
+  {
+    "query_id": "GT010",
+    "query": "Quy trình tạo hợp đồng thuê pin xe máy điện?",
+    "role": "accounting",
+    "expected_document_id": ["KETO013_13_hop_dong_thue_pin"],
+    "expected_keywords": ["hợp đồng thuê pin", "ký kết", "DMS"],
+    "query_type": "procedure",
+    "expected_answer": "Sau khi tạo đơn hàng, vào mục Hợp đồng thuê pin, chọn gói thuê, in hợp đồng và ký với khách hàng, sau đó upload lên DMS."
+  },
+  {
+    "query_id": "GT011",
+    "query": "Cách đặt hàng tồn kho xe máy điện trên hệ thống DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO020_20_dat_hang_ton_kho"],
+    "expected_keywords": ["đặt hàng tồn kho", "DMS", "xe máy điện"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Đặt hàng, chọn Tồn kho, chọn model xe cần đặt, điền số lượng và gửi yêu cầu lên VinFast."
+  },
+  {
+    "query_id": "GT012",
+    "query": "Quy trình yêu cầu hoàn cọc hoặc chuyển cọc cho xe máy điện?",
+    "role": "accounting",
+    "expected_document_id": ["KETO021_21_yeu_cau_hoan_coc_chuyen_coc_chuyen_san_pham"],
+    "expected_keywords": ["hoàn cọc", "chuyển cọc", "đặt cọc"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Yêu cầu hoàn cọc/chuyển cọc, chọn đơn hàng, điền lý do và thông tin tài khoản, gửi yêu cầu chờ xác nhận từ VinFast."
+  },
+  {
+    "query_id": "GT013",
+    "query": "Hủy đơn hàng xe máy điện trên DMS thực hiện như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO022_22_huy_don_hang_new"],
+    "expected_keywords": ["hủy đơn hàng", "DMS", "lý do hủy"],
+    "query_type": "procedure",
+    "expected_answer": "Mở đơn hàng cần hủy, chọn Hủy đơn, điền lý do hủy, xác nhận và chờ hệ thống xử lý. Tiền cọc sẽ được hoàn theo quy trình riêng."
+  },
+  {
+    "query_id": "GT014",
+    "query": "Hướng dẫn tạo phiếu thu trên hệ thống DMS",
+    "role": "accounting",
+    "expected_document_id": ["KETO008_08_tao_phieu_thu"],
+    "expected_keywords": ["phiếu thu", "tạo mới", "DMS", "thanh toán"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Tài chính > Phiếu thu, tạo mới, chọn đơn hàng liên quan, điền số tiền và phương thức thanh toán, in và ký."
+  },
+  {
+    "query_id": "GT015",
+    "query": "Battery option trên DMS là gì và cách chọn?",
+    "role": "accounting",
+    "expected_document_id": ["KETO007_07_battery_option"],
+    "expected_keywords": ["battery option", "pin", "DMS", "lựa chọn"],
+    "query_type": "concept",
+    "expected_answer": "Battery option cho phép khách hàng chọn hình thức pin: mua đứt hoặc thuê pin theo gói tháng/năm. Chọn trong bước tạo đơn hàng."
+  },
+  {
+    "query_id": "GT016",
+    "query": "Cách ghép xe cho đơn hàng trên hệ thống DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO012_12_ghep_xe"],
+    "expected_keywords": ["ghép xe", "VIN", "đơn hàng"],
+    "query_type": "procedure",
+    "expected_answer": "Sau khi xe về kho, vào đơn hàng đã đặt, chọn Ghép xe, scan hoặc nhập số VIN của xe thực tế để liên kết đơn hàng với xe."
+  },
+  {
+    "query_id": "GT017",
+    "query": "Đẩy hóa đơn lên VNPT e-invoice như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO016_16_day_hoa_don_len_vnpt"],
+    "expected_keywords": ["VNPT", "hóa đơn điện tử", "xuất hóa đơn"],
+    "query_type": "procedure",
+    "expected_answer": "Sau khi tạo hóa đơn trên DMS, chọn Đẩy lên VNPT, kiểm tra thông tin, xác nhận và chờ VNPT phản hồi mã hóa đơn điện tử."
+  },
+  {
+    "query_id": "GT018",
+    "query": "Cơ chế liên kết One Profile bắt buộc với ô tô trên DMS là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO019_19_lien_ket_one_profile_bat_buoc_voi_oto"],
+    "expected_keywords": ["One Profile", "liên kết", "bắt buộc", "ô tô"],
+    "query_type": "concept",
+    "expected_answer": "Khi bán ô tô VinFast, hệ thống bắt buộc liên kết thông tin khách hàng với One Profile để đồng bộ quyền lợi và dịch vụ sau bán."
+  },
+  {
+    "query_id": "GT019",
+    "query": "Quy trình sửa chữa pin xe máy điện cho xưởng dịch vụ VinFast?",
+    "role": "technician",
+    "expected_document_id": ["KTV002_huong_dan_luong_sua_chua_pin_xmd_cho_xdv_new2"],
+    "expected_keywords": ["sửa chữa pin", "xưởng dịch vụ", "quy trình", "xe máy điện"],
+    "query_type": "procedure",
+    "expected_answer": "Tiếp nhận xe, kiểm tra lỗi pin bằng VinFast Diagnostic Tool, ghi biên bản, tháo và thay thế module pin lỗi theo hướng dẫn kỹ thuật."
+  },
+  {
+    "query_id": "GT020",
+    "query": "Quy trình bảo hành xưởng dịch vụ (XDV) xe máy điện mở mới là gì?",
+    "role": "technician",
+    "expected_document_id": ["KTV260727_260727_vf_hmvn_dao_tao_bao_hanh_xdv_xmd_mo_moi"],
+    "expected_keywords": ["bảo hành", "XDV", "xưởng dịch vụ", "mở mới"],
+    "query_type": "procedure",
+    "expected_answer": "XDV mới cần hoàn thành đào tạo kỹ thuật VinFast, ký hợp đồng bảo hành, cài đặt phần mềm DMS và được cấp quyền truy cập hệ thống."
+  },
+  {
+    "query_id": "GT021",
+    "query": "Chương trình chăm sóc xe miễn phí VinFast dành cho xưởng dịch vụ áp dụng như thế nào?",
+    "role": "technician",
+    "expected_document_id": ["KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748"],
+    "expected_keywords": ["chăm sóc xe miễn phí", "voucher", "lệnh sửa chữa"],
+    "query_type": "procedure",
+    "expected_answer": "Khi khách hàng đem xe đến bảo dưỡng trong chu kỳ miễn phí, kỹ thuật viên tạo lệnh sửa chữa trên DMS, áp dụng voucher chương trình và xuất hóa đơn."
+  },
+  {
+    "query_id": "GT022",
+    "query": "Đào tạo VF HM55 cho xe máy điện bao gồm những nội dung gì?",
+    "role": "technician",
+    "expected_document_id": ["KTV002_2_dao_tao_vf_hm55_cho_xmd"],
+    "expected_keywords": ["HM55", "đào tạo", "xe máy điện", "kỹ thuật"],
+    "query_type": "concept",
+    "expected_answer": "Đào tạo HM55 bao gồm nhận diện lỗi, quy trình vận hành XDV toàn cầu và kỹ thuật bảo dưỡng định kỳ cho xe máy điện VinFast."
+  },
+  {
+    "query_id": "GT023",
+    "query": "Tiêu chuẩn dịch vụ 3S VinFast gồm những tiêu chí nào?",
+    "role": "sales",
+    "expected_document_id": ["SALE003_3_1_tieu_chuan_dich_vu_xmd_251121"],
+    "expected_keywords": ["tiêu chuẩn", "3S", "dịch vụ", "VinFast"],
+    "query_type": "concept",
+    "expected_answer": "Tiêu chuẩn 3S VinFast bao gồm: Showroom đạt chuẩn nhận diện thương hiệu, Sale process chuẩn hóa và Service chất lượng đồng đều toàn quốc."
+  },
+  {
+    "query_id": "GT024",
+    "query": "Cách xử lý phản đối của khách hàng về chất lượng xe máy điện VinFast?",
+    "role": "sales",
+    "expected_document_id": ["SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd"],
+    "expected_keywords": ["phản đối", "chất lượng", "xử lý", "khách hàng"],
+    "query_type": "procedure",
+    "expected_answer": "Lắng nghe không ngắt lời, xác nhận lo ngại của khách, cung cấp bằng chứng/số liệu thực tế, mời khách lái thử để trải nghiệm trực tiếp."
+  },
+  {
+    "query_id": "GT025",
+    "query": "Chính sách thuê pin VinFast có những gói nào và giá như thế nào?",
+    "role": "sales",
+    "expected_document_id": ["GENE260801_260801_chinh_sach_ban_hang_xmd"],
+    "expected_keywords": ["thuê pin", "gói", "giá", "tháng"],
+    "query_type": "table",
+    "expected_answer": "VinFast cung cấp gói thuê pin linh hoạt theo km/tháng hoặc theo thời hạn. Phí thuê tính theo gói và được thanh toán hàng tháng."
+  },
+  {
+    "query_id": "GT026",
+    "query": "Quy trình đặt hàng PO xe máy điện (XMĐ) trên DMS là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO001_1_don_dat_hang_po_xmd"],
+    "expected_keywords": ["PO", "đặt hàng", "XMĐ", "purchase order"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Đặt hàng > Purchase Order, chọn model và số lượng XMĐ, điền thông tin giao hàng và gửi lên VinFast để xét duyệt."
+  },
+  {
+    "query_id": "GT027",
+    "query": "Cách đặt hàng PO phụ tùng xe máy điện trên hệ thống?",
+    "role": "accounting",
+    "expected_document_id": ["KETO002_2_don_dat_hang_po_phu_tung"],
+    "expected_keywords": ["PO phụ tùng", "đặt hàng", "spare parts"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Phụ tùng > Purchase Order, chọn mã phụ tùng cần đặt, nhập số lượng và gửi yêu cầu. Hệ thống xác nhận tồn kho và thời gian giao."
+  },
+  {
+    "query_id": "GT028",
+    "query": "Phiếu nhập kho phụ tùng (PR) được tạo và xử lý như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO004_4_phieu_nhap_kho_pr"],
+    "expected_keywords": ["phiếu nhập kho", "PR", "phụ tùng", "kho"],
+    "query_type": "procedure",
+    "expected_answer": "Khi nhận hàng từ VinFast, tạo phiếu nhập kho PR trên DMS, scan mã sản phẩm, kiểm đếm số lượng và xác nhận nhập kho vào hệ thống."
+  },
+  {
+    "query_id": "GT029",
+    "query": "Quy trình đặt hàng PO pin kèm xe trên DMS như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO003_3_don_dat_hang_po_pin_kem_xe"],
+    "expected_keywords": ["PO pin", "kèm xe", "đặt hàng", "pin"],
+    "query_type": "procedure",
+    "expected_answer": "Khi đặt xe kèm pin mua đứt, trong module PO chọn loại pin đi kèm, xác nhận số lượng và gửi đơn hàng tổng hợp cả xe lẫn pin."
+  },
+  {
+    "query_id": "GT030",
+    "query": "Checklist setup và nghiệm thu showroom XDV XMĐ 3S EV Zone gồm những mục nào?",
+    "role": "general",
+    "expected_document_id": ["MANA003_checklist_huong_dan_setup_nghiem_thu_sr_xdv_xmd_3s_ev_zone"],
+    "expected_keywords": ["checklist", "setup", "nghiệm thu", "showroom", "EV Zone"],
+    "query_type": "concept",
+    "expected_answer": "Checklist gồm kiểm tra nhận diện thương hiệu, cơ sở vật chất, thiết bị kỹ thuật, nhân sự được đào tạo và hệ thống phần mềm DMS đã cài đặt."
+  },
+  {
+    "query_id": "GT031",
+    "query": "Hướng dẫn sử dụng kho tài liệu DMS để tìm kiếm tài liệu nội bộ?",
+    "role": "general",
+    "expected_document_id": ["KETO250717_250717_hdsd_tim_kiem_va_su_dung_kho_tai_lieu_dms"],
+    "expected_keywords": ["kho tài liệu", "tìm kiếm", "DMS", "nội bộ"],
+    "query_type": "procedure",
+    "expected_answer": "Đăng nhập DMS, vào module Tài liệu, sử dụng bộ lọc theo danh mục, từ khóa hoặc ngày cập nhật để tìm tài liệu cần thiết."
+  },
+  {
+    "query_id": "GT032",
+    "query": "Convert đơn hàng tổng với xe máy điện trên DMS như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO006_06_convert_don_hang_tong_voi_xmd"],
+    "expected_keywords": ["convert", "đơn hàng tổng", "XMĐ"],
+    "query_type": "procedure",
+    "expected_answer": "Vào đơn hàng tổng đã tạo, chọn Convert sang XMĐ, chọn model cụ thể và cấu hình pin, xác nhận để chuyển trạng thái đơn hàng."
+  },
+  {
+    "query_id": "GT033",
+    "query": "Tạo hóa đơn pin trên DMS thực hiện theo các bước nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO017_17_tao_hoa_don_pin"],
+    "expected_keywords": ["hóa đơn pin", "tạo hóa đơn", "DMS"],
+    "query_type": "procedure",
+    "expected_answer": "Sau khi ghép xe và ký hợp đồng pin, vào module Hóa đơn, tạo hóa đơn bán pin riêng biệt với mã phụ lục hợp đồng thuê pin."
+  },
+  {
+    "query_id": "GT034",
+    "query": "Cách giao xe mới cho khách hàng và các bước cần thực hiện trên DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO015_15_giao_xe_new"],
+    "expected_keywords": ["giao xe", "bàn giao", "DMS", "khách hàng"],
+    "query_type": "procedure",
+    "expected_answer": "Cập nhật trạng thái giao xe trên DMS, in biên bản bàn giao, hướng dẫn sử dụng cơ bản cho khách và upload hình ảnh bàn giao lên hệ thống."
+  },
+  {
+    "query_id": "GT035",
+    "query": "Thông tin lịch sử và tổng quan về dòng xe máy điện VinFast là gì?",
+    "role": "sales",
+    "expected_document_id": ["GENE002_2_lich_su_tong_quan_san_pham_xmd_260617"],
+    "expected_keywords": ["lịch sử", "tổng quan", "xe máy điện", "VinFast"],
+    "query_type": "concept",
+    "expected_answer": "VinFast ra mắt xe máy điện từ năm 2019, liên tục phát triển các mẫu xe như Klara, Vento, Evo, Ludo với pin LFP và khả năng kết nối thông minh."
+  },
+  {
+    "query_id": "GT036",
+    "query": "Quy trình tạo cơ hội bán hàng (Opportunity) trên DMS VinFast?",
+    "role": "accounting",
+    "expected_document_id": ["KETO004_04_co_hoi_ban_hang"],
+    "expected_keywords": ["cơ hội bán hàng", "Opportunity", "DMS"],
+    "query_type": "procedure",
+    "expected_answer": "Từ Lead đã tạo, chọn Chuyển thành Cơ hội, điền thông tin xe quan tâm, dự kiến mua và phân công nhân viên phụ trách theo dõi."
+  },
+  {
+    "query_id": "GT037",
+    "query": "Tạo đơn hàng tổng (Sales Order) xe máy điện trên DMS thực hiện như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO005_05_tao_don_hang_tong"],
+    "expected_keywords": ["đơn hàng tổng", "Sales Order", "DMS", "tạo mới"],
+    "query_type": "procedure",
+    "expected_answer": "Từ Cơ hội bán hàng, chọn Tạo đơn hàng, điền model, màu sắc, phương thức thanh toán và mức cọc. Đơn được gửi lên VinFast để xác nhận phân bổ xe."
+  },
+  {
+    "query_id": "GT038",
+    "query": "Tạo chi tiết phiếu thu như thế nào trên hệ thống DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO009_09_tao_chi_tiet_phieu_thu"],
+    "expected_keywords": ["chi tiết phiếu thu", "DMS", "thanh toán"],
+    "query_type": "procedure",
+    "expected_answer": "Trong phiếu thu đã tạo, chọn Thêm chi tiết, nhập mã khoản thu, số tiền và ghi chú. Có thể thêm nhiều dòng chi tiết cho một phiếu thu."
+  },
+  {
+    "query_id": "GT039",
+    "query": "Xe máy điện VinFast có những hỗ trợ sạc miễn phí nào?",
+    "role": "sales",
+    "expected_document_id": ["GENE260801_260801_chinh_sach_ban_hang_xmd"],
+    "expected_keywords": ["sạc miễn phí", "trạm sạc", "2 năm"],
+    "query_type": "concept",
+    "expected_answer": "VinFast cung cấp sạc miễn phí tại trạm sạc VinFast trong 2 năm đầu. Khách hàng có thể sạc tại nhà qua bộ sạc tiêu chuẩn hoặc sạc nhanh."
+  },
+  {
+    "query_id": "GT040",
+    "query": "Quy trình đổi chủ hợp đồng thuê pin xe máy điện (HĐTP) như thế nào?",
+    "role": "accounting",
+    "expected_document_id": ["KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin"],
+    "expected_keywords": ["đổi chủ", "HĐTP", "hợp đồng thuê pin", "chuyển nhượng"],
+    "query_type": "procedure",
+    "expected_answer": "Làm thủ tục mua bán xe, sau đó vào DMS tạo yêu cầu đổi chủ HĐTP, cung cấp thông tin chủ mới và chờ VinFast xác nhận chuyển hợp đồng."
+  },
+  {
+    "query_id": "GT041",
+    "query": "Lưu trình hoạt động bảo hành XDV xe máy điện gồm những bước nào?",
+    "role": "technician",
+    "expected_document_id": ["KTV260727_260727_vf_hmvn_dao_tao_bao_hanh_xdv_xmd_mo_moi"],
+    "expected_keywords": ["lưu trình", "bảo hành", "XDV", "quy trình"],
+    "query_type": "procedure",
+    "expected_answer": "Tiếp nhận xe → Chẩn đoán kỹ thuật → Lên lệnh sửa chữa bảo hành → Thực hiện sửa chữa/thay thế → Kiểm tra chất lượng → Giao xe lại khách."
+  },
+  {
+    "query_id": "GT042",
+    "query": "Tài liệu tự hào VinGroup giới thiệu những nội dung gì?",
+    "role": "general",
+    "expected_document_id": ["GENE001_1_tai_lieu_tu_hao_vingroup"],
+    "expected_keywords": ["VinGroup", "tập đoàn", "tự hào", "giới thiệu"],
+    "query_type": "concept",
+    "expected_answer": "Tài liệu giới thiệu hành trình phát triển của Vingroup từ công ty bất động sản thành tập đoàn đa ngành hàng đầu, bao gồm VinFast trong lĩnh vực ô tô điện."
+  },
+  {
+    "query_id": "GT043",
+    "query": "Cách tìm kiếm và sử dụng tài liệu trong kho DMS hiệu quả?",
+    "role": "general",
+    "expected_document_id": ["GENE250717_250717_hdsd_tim_kiem_va_su_dung_kho_tai_lieu_dms"],
+    "expected_keywords": ["tìm kiếm", "kho tài liệu", "DMS", "lọc"],
+    "query_type": "procedure",
+    "expected_answer": "Sử dụng bộ lọc theo danh mục, từ khóa và ngày trong kho tài liệu DMS. Có thể bookmark tài liệu thường dùng và tải xuống để xem offline."
+  },
+  {
+    "query_id": "GT044",
+    "query": "Cải tiến luồng bán XMĐ và giao diện app XMĐ mới có điểm gì khác?",
+    "role": "accounting",
+    "expected_document_id": ["KETO936_demo_cai_tien_luong_ban_xmd_giao_dien_app_xmd_moi"],
+    "expected_keywords": ["cải tiến", "luồng bán", "app", "giao diện mới"],
+    "query_type": "concept",
+    "expected_answer": "Luồng bán XMĐ mới tối ưu số bước thao tác, giao diện app được cải thiện UX với navigation rõ ràng hơn và tích hợp xác thực sinh trắc học."
+  },
+  {
+    "query_id": "GT045",
+    "query": "Hướng dẫn sử dụng User Manual DMS cho nhân viên đại lý?",
+    "role": "general",
+    "expected_document_id": ["GENE054_user_manual_dms"],
+    "expected_keywords": ["user manual", "DMS", "hướng dẫn sử dụng"],
+    "query_type": "concept",
+    "expected_answer": "User Manual DMS bao gồm hướng dẫn tổng quan các module chính: Khách hàng, Đơn hàng, Tài chính, Kho và Báo cáo với ảnh minh họa từng bước."
+  },
+  {
+    "query_id": "GT046",
+    "query": "Kiểm tra và xuất số lượng tồn kho phụ tùng như thế nào trên DMS?",
+    "role": "accounting",
+    "expected_document_id": ["KETO001_1_kiem_tra_va_xuat_so_luong_ton_kho_phu_tung"],
+    "expected_keywords": ["tồn kho", "phụ tùng", "kiểm tra", "xuất báo cáo"],
+    "query_type": "procedure",
+    "expected_answer": "Vào module Kho > Phụ tùng, chọn Xem tồn kho, lọc theo mã phụ tùng hoặc nhóm, xuất báo cáo Excel để đối chiếu và kiểm kê."
+  },
+  {
+    "query_id": "GT047",
+    "query": "Hướng dẫn claim hồ sơ xe máy điện cho NPP là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO001_1_vf_huong_dan_claim_ho_so_xmd"],
+    "expected_keywords": ["claim hồ sơ", "NPP", "xe máy điện"],
+    "query_type": "procedure",
+    "expected_answer": "NPP chuẩn bị hồ sơ claim theo mẫu VinFast, upload lên portal và theo dõi trạng thái xét duyệt. Hồ sơ phải đầy đủ biên bản, hóa đơn và ảnh thực tế."
+  },
+  {
+    "query_id": "GT048",
+    "query": "Quy trình kích hoạt lại hợp đồng thuê pin (HĐTP) của Pin 2 là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin"],
+    "expected_keywords": ["kích hoạt", "HĐTP", "Pin 2", "hợp đồng"],
+    "query_type": "procedure",
+    "expected_answer": "Vào DMS > module HĐTP, tìm hợp đồng cần kích hoạt lại (trạng thái Đã tạm dừng), chọn Kích hoạt lại, xác nhận thông tin và phê duyệt."
+  },
+  {
+    "query_id": "GT049",
+    "query": "Chương trình đào tạo Care cho kỹ thuật viên xưởng dịch vụ bao gồm nội dung gì?",
+    "role": "technician",
+    "expected_document_id": ["GENE119_training_care"],
+    "expected_keywords": ["đào tạo", "Care", "kỹ thuật viên", "chăm sóc khách hàng"],
+    "query_type": "concept",
+    "expected_answer": "Chương trình Training Care trang bị kỹ năng tiếp nhận xe, thái độ phục vụ, giải quyết khiếu nại và kỹ thuật báo giá dịch vụ minh bạch cho KTV."
+  },
+  {
+    "query_id": "GT050",
+    "query": "Hướng dẫn sử dụng luồng cải tiến xe máy điện cho nhân viên đại lý là gì?",
+    "role": "accounting",
+    "expected_document_id": ["KETO449_tai_lieu_huong_dan_su_dung_luong_cai_tien_xe_may_dien"],
+    "expected_keywords": ["luồng cải tiến", "xe máy điện", "hướng dẫn"],
+    "query_type": "procedure",
+    "expected_answer": "Tài liệu hướng dẫn nhân viên đại lý sử dụng luồng nghiệp vụ mới sau khi VinFast cập nhật hệ thống, bao gồm các bước thao tác thay đổi so với phiên bản cũ."
+  },
+  {
+    "query_id": "NEG001",
+    "query": "Xe ô tô VinFast điện lớn VF9 có những tính năng gì?",
+    "role": "sales",
+    "expected_document_id": [],
+    "expected_keywords": [],
+    "query_type": "out_of_scope",
+    "expected_answer": "Không tìm thấy thông tin về VF9 trong tài liệu hệ thống. Tài liệu hiện tại chỉ bao gồm xe máy điện VinFast."
+  },
+  {
+    "query_id": "NEG002",
+    "query": "Cách đăng ký mở đại lý xe đạp điện không phải VinFast?",
+    "role": "general",
+    "expected_document_id": [],
+    "expected_keywords": [],
+    "query_type": "out_of_scope",
+    "expected_answer": "Không tìm thấy thông tin này trong hệ thống. Hệ thống chỉ hỗ trợ thông tin liên quan đến xe máy điện VinFast và hệ thống DMS VinFast."
+  }
+]

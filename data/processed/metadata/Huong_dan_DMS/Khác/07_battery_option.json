@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON007",
+    "title": "07. Battery Option",
+    "source_file": "07. Battery Option.mp4",
+    "source_path": "Huong_dan_DMS/07. Battery Option.mp4",
+    "file_hash": "sha256:83ef09d1ea4c5e087543b21f7fe6bfd009d1b02c066ef96354a2781e85fcba7d",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 94.3426875,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

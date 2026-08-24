@@ -1,0 +1,242 @@
+[
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_001",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:00 | Timestamp: 00:00]\n\nTại màn hình thông tin, lựa chọn pin.",
+    "raw_content": "Tại màn hình thông tin, lựa chọn pin.",
+    "token_count": 49,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_002",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:06 | Timestamp: 00:06]\n\nTại phần này thì sẽ có 2 lựa chọn, thứ nhất là rental, tức là thuê pin, và purchase là mua pin.",
+    "raw_content": "Tại phần này thì sẽ có 2 lựa chọn, thứ nhất là rental, tức là thuê pin, và purchase là mua pin.",
+    "token_count": 64,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:06",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:06"
+      ],
+      "timestamp": "00:06"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_003",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:12 | Timestamp: 00:12]\n\nKhi chúng ta chọn rental, thì trong phần accessory, tiền pin sẽ hiển thị là 0 đồng.",
+    "raw_content": "Khi chúng ta chọn rental, thì trong phần accessory, tiền pin sẽ hiển thị là 0 đồng.",
+    "token_count": 61,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:12",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:12"
+      ],
+      "timestamp": "00:12"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_004",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:21 | Timestamp: 00:21]\n\nKhi chúng ta đổi sang purchase, lúc này thì sẽ hiện tiền pin.",
+    "raw_content": "Khi chúng ta đổi sang purchase, lúc này thì sẽ hiện tiền pin.",
+    "token_count": 55,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:21",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:21"
+      ],
+      "timestamp": "00:21"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_005",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:30 | Timestamp: 00:30]\n\nSau khi chọn lập purchase thì số tiền pin đã hiển accessory.",
+    "raw_content": "Sau khi chọn lập purchase thì số tiền pin đã hiển accessory.",
+    "token_count": 55,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_006",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:58 | Timestamp: 00:58]\n\nTrong video IT sẽ lựa chọn purchase.",
+    "raw_content": "Trong video IT sẽ lựa chọn purchase.",
+    "token_count": 49,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:58",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:58"
+      ],
+      "timestamp": "00:58"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_007",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 00:59 | Timestamp: 00:59]\n\nSau khi chọn lập purchase thì số tiền pin đã hiển accessory.",
+    "raw_content": "Sau khi chọn lập purchase thì số tiền pin đã hiển accessory.",
+    "token_count": 55,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:59",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "00:59"
+      ],
+      "timestamp": "00:59"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_008",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 01:00 | Timestamp: 01:00]\n\nTại phần thông tin thanh toán, số, tức là số tiền mà khách hàng sẽ cọc ban.",
+    "raw_content": "Tại phần thông tin thanh toán, số, tức là số tiền mà khách hàng sẽ cọc ban.",
+    "token_count": 59,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_009",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 01:11 | Timestamp: 01:11]\n\nIT sẽ lấy ví dụ là 2 triệu.",
+    "raw_content": "IT sẽ lấy ví dụ là 2 triệu.",
+    "token_count": 47,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:11",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "01:11"
+      ],
+      "timestamp": "01:11"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_010",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 01:17 | Timestamp: 01:17]\n\nPhần tiền trả trước sẽ bằng, sau khi trừ chương mãi nếu có, số tiền khách hàng phải trả.",
+    "raw_content": "Phần tiền trả trước sẽ bằng, sau khi trừ chương mãi nếu có, số tiền khách hàng phải trả.",
+    "token_count": 63,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:17",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "01:17"
+      ],
+      "timestamp": "01:17"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_011",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 01:26 | Timestamp: 01:26]\n\nỞ phần thông tin số dư sẽ hiển thị là số tiền khách hàng phải trả.",
+    "raw_content": "Ở phần thông tin số dư sẽ hiển thị là số tiền khách hàng phải trả.",
+    "token_count": 57,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:26",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "01:26"
+      ],
+      "timestamp": "01:26"
+    }
+  },
+  {
+    "chunk_id": "KETO007_07_battery_option_chunk_012",
+    "content": "[Document: 07. Battery Option | Role: accounting | Source: KeToan/07. Battery Option.mp4 | Section: 07. Battery Option > 01:29 | Timestamp: 01:29]\n\nĐó là số tiền khách hàng đã thanh toán cho.",
+    "raw_content": "Đó là số tiền khách hàng đã thanh toán cho.",
+    "token_count": 51,
+    "metadata": {
+      "document": "07. Battery Option",
+      "role": "accounting",
+      "source": "KeToan/07. Battery Option.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:29",
+      "subsection": null,
+      "heading_path": [
+        "07. Battery Option",
+        "01:29"
+      ],
+      "timestamp": "01:29"
+    }
+  }
+]

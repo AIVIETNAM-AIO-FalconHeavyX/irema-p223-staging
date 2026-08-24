@@ -1,0 +1,385 @@
+[
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_001",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748]\n\n**TÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS**\n\n**CHƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ TẠI XDV XMĐ**\n\n| Mã | VF-DMS-HDSD-VALET-001 |\n|-----------------|-------------------------------------|\n| Phiên bản | v0.1 |\n| Ngày tạo | 16/07/2026 |\n| Trạng thái | Publised |\n| Phân loại | – Tài liệu hướng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "raw_content": "**TÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS**\n\n**CHƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ TẠI XDV XMĐ**\n\n| Mã | VF-DMS-HDSD-VALET-001 |\n|-----------------|-------------------------------------|\n| Phiên bản | v0.1 |\n| Ngày tạo | 16/07/2026 |\n| Trạng thái | Publised |\n| Phân loại | – Tài liệu hướng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "token_count": 158,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_002",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > I. Quản lý Phiên bản Tài liệu]\n\n| **Phiên bản** | **Ngày tạo** | **Mô tả thay đổi** | **Người tạo** | **Trạng thái** |\n|-----------------|----------------|----------------------|-----------------|------------------|\n| v0.1 | 16/07/2026 | | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "raw_content": "| **Phiên bản** | **Ngày tạo** | **Mô tả thay đổi** | **Người tạo** | **Trạng thái** |\n|-----------------|----------------|----------------------|-----------------|------------------|\n| v0.1 | 16/07/2026 | | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "token_count": 148,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "I. Quản lý Phiên bản Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "I. Quản lý Phiên bản Tài liệu"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_003",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > II. Phê duyệt Tài liệu]\n\n| **Vai trò** | **Họ tên** | **Chữ ký** | **Ngày** |\n|-----------------|--------------------|--------------|------------|\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 16/07/2026 |\n| kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "raw_content": "| **Vai trò** | **Họ tên** | **Chữ ký** | **Ngày** |\n|-----------------|--------------------|--------------|------------|\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 16/07/2026 |\n| kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "token_count": 135,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "II. Phê duyệt Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "II. Phê duyệt Tài liệu"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_004",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > III. Mục tiêu &amp; Phạm vi Tài liệu > 3.1. Mục tiêu]\n\nTài liệu này hướng dẫn nhận sự tại ĐLPP thực áp:\n\n- Phát hành voucher áp dụng trên lệnh sửa chữa\n- Claim hồ sơ Evoucher sau khi áp dụng",
+    "raw_content": "Tài liệu này hướng dẫn nhận sự tại ĐLPP thực áp:\n\n- Phát hành voucher áp dụng trên lệnh sửa chữa\n- Claim hồ sơ Evoucher sau khi áp dụng",
+    "token_count": 122,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "III. Mục tiêu &amp; Phạm vi Tài liệu",
+      "subsection": "3.1. Mục tiêu",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "III. Mục tiêu &amp; Phạm vi Tài liệu",
+        "3.1. Mục tiêu"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_005",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > III. Mục tiêu &amp; Phạm vi Tài liệu > 3.2. Phạm vi áp dụng]\n\n- Hệ thống: DMS – Phân hệ Dịch vụ sửa chữa\n- Người dùng: CHT, KTV\n- Phạm vi: nhánh (BU) thống DMS",
+    "raw_content": "- Hệ thống: DMS – Phân hệ Dịch vụ sửa chữa\n- Người dùng: CHT, KTV\n- Phạm vi: nhánh (BU) thống DMS",
+    "token_count": 115,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "III. Mục tiêu &amp; Phạm vi Tài liệu",
+      "subsection": "3.2. Phạm vi áp dụng",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "III. Mục tiêu &amp; Phạm vi Tài liệu",
+        "3.2. Phạm vi áp dụng"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_006",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > III. Mục tiêu &amp; Phạm vi Tài liệu > 3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |]\n\n|-----------------|-----------------------------|------------------|\n| CHT NPP | Thực hiện trên DMS | **Bắt buộc** |\n| KTV NPP | Thực hiện trên DMS | **Bắt buộc** |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | **Bắt buộc** |",
+    "raw_content": "|-----------------|-----------------------------|------------------|\n| CHT NPP | Thực hiện trên DMS | **Bắt buộc** |\n| KTV NPP | Thực hiện trên DMS | **Bắt buộc** |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | **Bắt buộc** |",
+    "token_count": 158,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "III. Mục tiêu &amp; Phạm vi Tài liệu",
+      "subsection": "3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "III. Mục tiêu &amp; Phạm vi Tài liệu",
+        "3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_007",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > IV. Thuật ngữ &amp; Từ viết tắt]\n\n| **#** | **Từ viết tắt** | **Mô tả** |\n|---------|-------------------|----------------------------------------------------|\n| 1 | **DMS** | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | **BU** | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | **CHT** | Cửa hàng trưởng |\n| 5 | **KTV** | Kĩ thuật viên |\n| 6 | **KH** | Khách hàng |\n| 7 | **ĐKX** | kí xe |",
+    "raw_content": "| **#** | **Từ viết tắt** | **Mô tả** |\n|---------|-------------------|----------------------------------------------------|\n| 1 | **DMS** | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | **BU** | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | **CHT** | Cửa hàng trưởng |\n| 5 | **KTV** | Kĩ thuật viên |\n| 6 | **KH** | Khách hàng |\n| 7 | **ĐKX** | kí xe |",
+    "token_count": 192,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "IV. Thuật ngữ &amp; Từ viết tắt",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "IV. Thuật ngữ &amp; Từ viết tắt"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_008",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > V. Tài liệu Liên quan]\n\n| **#** | *** | **Mô tả** | **Phiên bản** | **Ghi chú** |\n|---------|--------------------|-------------|-----------------|---------------|\n| 1 | | | | |\n| 2 | | | | |",
+    "raw_content": "| **#** | *** | **Mô tả** | **Phiên bản** | **Ghi chú** |\n|---------|--------------------|-------------|-----------------|---------------|\n| 1 | | | | |\n| 2 | | | | |",
+    "token_count": 120,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "V. Tài liệu Liên quan",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "V. Tài liệu Liên quan"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_009",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VI. Tổng quan Chức năng]\n\nChức năng cho phép ĐLPP thực hiện phát hành voucher cho XMĐ và claim hồ sơ Evoucher sau khi áp thống DMS.",
+    "raw_content": "Chức năng cho phép ĐLPP thực hiện phát hành voucher cho XMĐ và claim hồ sơ Evoucher sau khi áp thống DMS.",
+    "token_count": 105,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VI. Tổng quan Chức năng"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_010",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VI. Tổng quan Chức năng > 6.1. nghiệp vụ tổng quát]\n\n| **#** | **Bước** | **Mô tả** | **Người thực hiện** | **Hệ thống** |\n|---------|------------------------------------|---------------------------------------------------------|-----------------------|----------------|\n| 1 | **Tiếp nhận yêu cầu** | KH liên hệ qua ĐLPP tin kí xe | ĐLPP / KH | DMS |\n| 2 | **Sử dụng voucher trên phiếu thu** | CHT/KTV thực hiện mở lệnh sửa chữa và áp dụng | KTV/CHT | DMS / Loyalty |\n| 3 | **Submit hồ sơ Evoucher** | CHT/KTV thu thập giấy tờ hồ sơ sơ claim Evoucher | KTV/CHT | DMS |",
+    "raw_content": "| **#** | **Bước** | **Mô tả** | **Người thực hiện** | **Hệ thống** |\n|---------|------------------------------------|---------------------------------------------------------|-----------------------|----------------|\n| 1 | **Tiếp nhận yêu cầu** | KH liên hệ qua ĐLPP tin kí xe | ĐLPP / KH | DMS |\n| 2 | **Sử dụng voucher trên phiếu thu** | CHT/KTV thực hiện mở lệnh sửa chữa và áp dụng | KTV/CHT | DMS / Loyalty |\n| 3 | **Submit hồ sơ Evoucher** | CHT/KTV thu thập giấy tờ hồ sơ sơ claim Evoucher | KTV/CHT | DMS |",
+    "token_count": 220,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": "6.1. nghiệp vụ tổng quát",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VI. Tổng quan Chức năng",
+        "6.1. nghiệp vụ tổng quát"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_011",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VI. Tổng quan Chức năng > 6.2. Sơ đồ trạng thái (Status Flow)]\n\n| **Trạng thái** | **Mô tả** | **Chuyển sang** | **Điều kiện** |\n|------------------|--------------------|-------------------|----------------------------------------|\n| **Open** | Yêu cầu mới tạo | | |\n| **Release** | ** | hành phiếu thu voucher thành công |",
+    "raw_content": "| **Trạng thái** | **Mô tả** | **Chuyển sang** | **Điều kiện** |\n|------------------|--------------------|-------------------|----------------------------------------|\n| **Open** | Yêu cầu mới tạo | | |\n| **Release** | ** | hành phiếu thu voucher thành công |",
+    "token_count": 155,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": "6.2. Sơ đồ trạng thái (Status Flow)",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VI. Tổng quan Chức năng",
+        "6.2. Sơ đồ trạng thái (Status Flow)"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_012",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu]\n\n**Người thực hiện:** CHT/KTV\n\n**:** Lệnh sửa chữa ở trạng thái Lệnh sửa chữa/ toán\n\n**⚠ Lưu ý:**\n\n- Mỗi voucher redeem 1 lần\n- VIN xe sửa chữa số VIN đã được cấp phát voucher thì mới redeem được thành công.\n\nNgười dùng chọn  toán =&gt; Chọn phiếu thu =&gt;, thực hiện Trả trước\n\n- Tiền đặt cọc: Không\n\n- Mã khách hàng\n\n- Tiền mặt và NH: 9\n\n- Phương thức thanh toán: 9\n\nSau khi save, thực hiện tạo tổng quan phiếu thu thành công.\n\nSau khi tạo xong tổng quan, người dùng thực hiện  giao  phiếu thu:\n\nNgười dùng thực hiện  nguồn:  lệnh sửa chữa: Mã WO có đúng  cần redeem voucher\n\n- **Mã voucher: VCTAXMD2026600 (Mã voucher sẽ dùng chung cho tất cả các XMĐ đủ điều kiện )**\n\nNgười dùng thực hiện lưu phiếu  tiết.\n\nSau khi tạo xong phiếu  tiết, người dùng thực hiện phát hành phiếu thu để redeem voucher cho  sửa chữa này.  hành thành công, trạng thái phiếu thu chuyển sang hành và cập nhật đã   thành công.",
+    "raw_content": "**Người thực hiện:** CHT/KTV\n\n**:** Lệnh sửa chữa ở trạng thái Lệnh sửa chữa/ toán\n\n**⚠ Lưu ý:**\n\n- Mỗi voucher redeem 1 lần\n- VIN xe sửa chữa số VIN đã được cấp phát voucher thì mới redeem được thành công.\n\nNgười dùng chọn  toán =&gt; Chọn phiếu thu =&gt;, thực hiện Trả trước\n\n- Tiền đặt cọc: Không\n\n- Mã khách hàng\n\n- Tiền mặt và NH: 9\n\n- Phương thức thanh toán: 9\n\nSau khi save, thực hiện tạo tổng quan phiếu thu thành công.\n\nSau khi tạo xong tổng quan, người dùng thực hiện  giao  phiếu thu:\n\nNgười dùng thực hiện  nguồn:  lệnh sửa chữa: Mã WO có đúng  cần redeem voucher\n\n- **Mã voucher: VCTAXMD2026600 (Mã voucher sẽ dùng chung cho tất cả các XMĐ đủ điều kiện )**\n\nNgười dùng thực hiện lưu phiếu  tiết.\n\nSau khi tạo xong phiếu  tiết, người dùng thực hiện phát hành phiếu thu để redeem voucher cho  sửa chữa này.  hành thành công, trạng thái phiếu thu chuyển sang hành và cập nhật đã   thành công.",
+    "token_count": 324,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_013",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu > 7.2. Claim sửa chữa]\n\n**Người thực hiện:** CHT/KTV\n\n**⚠ Lưu ý:**\n\n- Chỉ tạo Evoucher Transaction cho các lệnh sửa chữa ở trạng thái Hoàn thành thanh toán (Invoice) hoặc Hoàn thành (Completed)\n- Mỗi lệnh sửa chữa claim 1 lần Evoucher Transaction, trường hợp người dùng thu thêm phiếu thu voucher 9 thì vui lòng cancel Evoucher Transaction đã ghi khác.\n- Khi đã tạo mới Evoucher Transaction, người dùng không được phép hủy phiếu thu voucher (Payment 9)., bắt buộc phải hủy Evoucher Transaction trước khi tạo phiếu thu hủy.\n\nBước 1: (Evoucher Transaction)\n\nNgười dùng truy cập vào tab “ sửa chữa” =&gt; Chọn “Evoucher Transaction” =&gt; bấm “ (New)”\n\nMàn hình hiển thị tạo mới bản ghi, người dùng điền thông tin mã lệnh sửa chữa cần claim và bấm lưu (Save)\n\nHệ thống tự động load ra  thông tin như sau:\n\n- Mã lệnh sửa chữa (WO)\n\n- Số khung xe (VIN)\n\n- Mã voucher/Voucher code: Đã redeem  phiếu thu của lệnh\n\n- Số tiền voucher/ Voucher Amount: Tổng tiền voucher  phiếu thu\n\n- Số tiền khách hàng thanh toán LSC/Work Order Amount\n\n- Số tiền thanh toán Voucher chia 2 TH như sau:\n\n- Tiền voucher &gt; tổng  WO =&gt; Số Tiền thanh toán voucher =  WO\n\n- Tiền voucher &lt;  tiền  WO =&gt; Số Tiền thanh toán voucher = Tiền voucher\n\nSau khi lấy ra lệnh sửa chữa, hệ thống sẽ tính toán ra tổng tiền của bản ghi đó:\n\n- Tổng tiền KH thanh toán LSC/Total Work Order Amount\n\n- Tổng tiền Voucher/Total Voucher Amount\n\n- Tổng tiền thanh toán Voucher/Total Payment Amount\n\nBước 2: Đính kèm giấy tờ lên hồ sơ Evoucher\n\nSau khi tạo mới và check, đính kèm 4 loại giấy tờ sau lên DMS:\n\n- Quyết toán sửa chữa (Decided to repair file)\n\n- Hóa đơn xuất cho khách hàng (Invoice issued to customer file)\n\n- Giấy đăng kí xe (Vehicle registration file)\n\n- Phiếu xác nhận voucher (Voucher file confirmation form)\n\n**⚠ Lưu ý: Đính kèm file dưới dạng .PDF hoặc hình ảnh**\n\nSau khi add đủ 4 loại giấy tờ hệ thống gửi phê duyệt đến Nhóm hỗ trợ hậu mãi phê duyệt hồ sơ.\n\nBước 3: Phê duyệt hồ sơ Evoucher Transaction\n\nTại bản ghi đã tạo mới và add hồ sơ thành công, chọn điều khiển/ handling = Send For Approval và Lưu để gửi đi\n\nTrạng thái bản ghi chuyển sang On Approval/Chờ phê duyệt\n\nNgười dùng liên hệ Nhóm hỗ trợ hậu mãi phê duyệt hồ sơ claim., Trạng thái bản ghi chuyển sang Phê duyệt/Approved và tự động update:\n\n- Người phê duyệt/Approver\n\n- Ngày phê duyệt/Approval Date\n\nCuối tháng Bộ phận hỗ trợ hậu mãi sẽ thực hiện tổng sơ Evoucher đã được thực hiện Evoucher Transaction Submission.",
+    "raw_content": "**Người thực hiện:** CHT/KTV\n\n**⚠ Lưu ý:**\n\n- Chỉ tạo Evoucher Transaction cho các lệnh sửa chữa ở trạng thái Hoàn thành thanh toán (Invoice) hoặc Hoàn thành (Completed)\n- Mỗi lệnh sửa chữa claim 1 lần Evoucher Transaction, trường hợp người dùng thu thêm phiếu thu voucher 9 thì vui lòng cancel Evoucher Transaction đã ghi khác.\n- Khi đã tạo mới Evoucher Transaction, người dùng không được phép hủy phiếu thu voucher (Payment 9)., bắt buộc phải hủy Evoucher Transaction trước khi tạo phiếu thu hủy.\n\nBước 1: (Evoucher Transaction)\n\nNgười dùng truy cập vào tab “ sửa chữa” =&gt; Chọn “Evoucher Transaction” =&gt; bấm “ (New)”\n\nMàn hình hiển thị tạo mới bản ghi, người dùng điền thông tin mã lệnh sửa chữa cần claim và bấm lưu (Save)\n\nHệ thống tự động load ra  thông tin như sau:\n\n- Mã lệnh sửa chữa (WO)\n\n- Số khung xe (VIN)\n\n- Mã voucher/Voucher code: Đã redeem  phiếu thu của lệnh\n\n- Số tiền voucher/ Voucher Amount: Tổng tiền voucher  phiếu thu\n\n- Số tiền khách hàng thanh toán LSC/Work Order Amount\n\n- Số tiền thanh toán Voucher chia 2 TH như sau:\n\n- Tiền voucher &gt; tổng  WO =&gt; Số Tiền thanh toán voucher =  WO\n\n- Tiền voucher &lt;  tiền  WO =&gt; Số Tiền thanh toán voucher = Tiền voucher\n\nSau khi lấy ra lệnh sửa chữa, hệ thống sẽ tính toán ra tổng tiền của bản ghi đó:\n\n- Tổng tiền KH thanh toán LSC/Total Work Order Amount\n\n- Tổng tiền Voucher/Total Voucher Amount\n\n- Tổng tiền thanh toán Voucher/Total Payment Amount\n\nBước 2: Đính kèm giấy tờ lên hồ sơ Evoucher\n\nSau khi tạo mới và check, đính kèm 4 loại giấy tờ sau lên DMS:\n\n- Quyết toán sửa chữa (Decided to repair file)\n\n- Hóa đơn xuất cho khách hàng (Invoice issued to customer file)\n\n- Giấy đăng kí xe (Vehicle registration file)\n\n- Phiếu xác nhận voucher (Voucher file confirmation form)\n\n**⚠ Lưu ý: Đính kèm file dưới dạng .PDF hoặc hình ảnh**\n\nSau khi add đủ 4 loại giấy tờ hệ thống gửi phê duyệt đến Nhóm hỗ trợ hậu mãi phê duyệt hồ sơ.\n\nBước 3: Phê duyệt hồ sơ Evoucher Transaction\n\nTại bản ghi đã tạo mới và add hồ sơ thành công, chọn điều khiển/ handling = Send For Approval và Lưu để gửi đi\n\nTrạng thái bản ghi chuyển sang On Approval/Chờ phê duyệt\n\nNgười dùng liên hệ Nhóm hỗ trợ hậu mãi phê duyệt hồ sơ claim., Trạng thái bản ghi chuyển sang Phê duyệt/Approved và tự động update:\n\n- Người phê duyệt/Approver\n\n- Ngày phê duyệt/Approval Date\n\nCuối tháng Bộ phận hỗ trợ hậu mãi sẽ thực hiện tổng sơ Evoucher đã được thực hiện Evoucher Transaction Submission.",
+    "token_count": 733,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu",
+      "subsection": "7.2. Claim sửa chữa",
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VII. ### 7.1. dụng voucher trên Lệnh sửa chữa qua phiếu thu",
+        "7.2. Claim sửa chữa"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_vf_hdsd_huong_trinh_cham_soc_xe_mien_phi_danh_cho_vinfast_v1_0_7748_chunk_014",
+    "content": "[Document: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 | Role: general | Source: KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx | Section: VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748 > VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)]\n\n| **#** | **Vấn đề** | **Nguyên nhân có thể** | **Hướng xử lý** |\n|---------|--------------|--------------------------|-------------------|\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n***— Kết thúc sóc xe miễn phí tại XDV—***",
+    "raw_content": "| **#** | **Vấn đề** | **Nguyên nhân có thể** | **Hướng xử lý** |\n|---------|--------------|--------------------------|-------------------|\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n***— Kết thúc sóc xe miễn phí tại XDV—***",
+    "token_count": 144,
+    "metadata": {
+      "document": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+      "role": "general",
+      "source": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+      "page": null,
+      "slide": null,
+      "section": "VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+        "VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  }
+]

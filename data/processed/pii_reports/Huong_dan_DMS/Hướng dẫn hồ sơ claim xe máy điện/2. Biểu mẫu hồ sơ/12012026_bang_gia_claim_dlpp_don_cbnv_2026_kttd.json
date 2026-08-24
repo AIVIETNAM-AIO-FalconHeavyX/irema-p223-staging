@@ -1,0 +1,8 @@
+{
+  "document_id": "HUON12012026",
+  "pii_detected": true,
+  "removed_entities": {
+    "VEHICLE_PLATE": 348,
+    "PHONE_NUMBER": 12
+  }
+}

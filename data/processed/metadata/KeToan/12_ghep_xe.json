@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO012",
+    "title": "12. Ghép xe",
+    "source_file": "12. Ghép xe.mp4",
+    "source_path": "KeToan/12. Ghép xe.mp4",
+    "file_hash": "sha256:1d11dd6f0c52ec90c24ddd74166a2df0d957390f3952c500d453cdbc82f98b6b",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 135.2794375,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

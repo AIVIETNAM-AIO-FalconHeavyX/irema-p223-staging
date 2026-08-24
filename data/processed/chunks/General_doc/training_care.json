@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "GENE119_training_care_chunk_001",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 1 | Section: Training Care > Slide 1]\n\nCHƯƠNG TRÌNH TRI ÂN KHÁCH HÀNG – CHĂM SÓC XE MIỄN PHÍ\n\n07/2026",
+    "raw_content": "CHƯƠNG TRÌNH TRI ÂN KHÁCH HÀNG – CHĂM SÓC XE MIỄN PHÍ\n\n07/2026",
+    "token_count": 51,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 1,
+      "section": "Slide 1",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 1"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_002",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 2 | Section: Training Care > Slide 2]\n\nNỘI DUNG\n\n  1. NỘI DUNG CHÍNH SÁCH\n  2. HƯỚNG DẪN TRIỂN KHAI\n  3. HỎI ĐÁP",
+    "raw_content": "NỘI DUNG\n\n  1. NỘI DUNG CHÍNH SÁCH\n  2. HƯỚNG DẪN TRIỂN KHAI\n  3. HỎI ĐÁP",
+    "token_count": 54,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 2,
+      "section": "Slide 2",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 2"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_003",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 3 | Section: Training Care > Slide 3]\n\n1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\nĐiều kiện áp dụng:\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n🎁 Đối tượng, điều kiện áp dụng:\nKhách hàng mua xe và xuất hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\nKhách hàng mang xe và đăng ký xe chính chủ, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\nMỗi số VIN chỉ áp dụng được 1 lần voucher.\nTrường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán cho các lần dịch vụ tiếp theo.\nYêu cầu Đại lý:\nKiểm tra xe đầy đủ theo checksheet bảo dưỡng.\nƯu tiên tư vấn và thay thế phớt động cơ, bộ má phanh trước. Nếu KH chưa có nhu cầu, chưa đến kỳ thay thế hoặc còn dư tiền theo voucher thì có thế áp dụng cho các Phụ tùng, phụ kiện khác.\n\nMiễn phí công bảo dưỡng định kỳ.\nKiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp.\nMiễn phí/ giảm giá phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác\nTổng giá trị gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\nTrường hợp tổng chi phí dịch vụ vượt quá giá trị gói, khách hàng thanh toán phần chênh lệch.",
+    "raw_content": "1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\nĐiều kiện áp dụng:\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n🎁 Đối tượng, điều kiện áp dụng:\nKhách hàng mua xe và xuất hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\nKhách hàng mang xe và đăng ký xe chính chủ, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\nMỗi số VIN chỉ áp dụng được 1 lần voucher.\nTrường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán cho các lần dịch vụ tiếp theo.\nYêu cầu Đại lý:\nKiểm tra xe đầy đủ theo checksheet bảo dưỡng.\nƯu tiên tư vấn và thay thế phớt động cơ, bộ má phanh trước. Nếu KH chưa có nhu cầu, chưa đến kỳ thay thế hoặc còn dư tiền theo voucher thì có thế áp dụng cho các Phụ tùng, phụ kiện khác.\n\nMiễn phí công bảo dưỡng định kỳ.\nKiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp.\nMiễn phí/ giảm giá phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác\nTổng giá trị gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\nTrường hợp tổng chi phí dịch vụ vượt quá giá trị gói, khách hàng thanh toán phần chênh lệch.",
+    "token_count": 397,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 3,
+      "section": "Slide 3",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 3"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_004",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 4 | Section: Training Care > Slide 4 > Tables]\n\n| STT | Câu hỏi | Trả lời |\n| --- | --- | --- |\n| 1 | Những xe nào được sử dụng Voucher | Xe đáp ứng điều kiện của Chương trình: xe xuất hóa đơn từ 31/12/2025 trở về trước (trên hệ thống kiểm tra bằng ngày kích hoạt bảo hành) Trường hợp mà xe không có ngày kích hoạt bảo hành/ ngày kích hoạt sai khác ảnh hưởng tới quyền lợi khách hàng -> gửi mail cho QLV để hướng dẫn |\n| 2 | Hồ sơ xác định chính chủ gồm những gì? | Với KH cá nhân: Cần CCCD hoặc VNeID + giấy đk xe chính chủ  (không có giấy đk xe thì hóa đơn mua xe hoặc CoC trùng với tên CCCD/VNeID Với KH doanh nghiệp: Đăng ký xe tên công ty. |\n| 3 | Các hạng mục được áp dụng voucher là gì? | Công bảo dưỡng định kỳ và các giờ công theo tiêu chuẩn của STP cho các hạng mục thay thế PT khác Kiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp. Thay thế phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác Lưu ý: Ưu tiên tư vấn phớt động cơ, má phanh trước các phụ tùng, phụ kiện khác |\n| 4 | Quy định chỉ được thay phớt động cơ ở 30.000 km nhưng do có CT khách hàng muốn thay thế sớm hơn có được không? | Phớt động cơ vận hành: - Từ 25,000km/ 30 tháng trở đi: Thay thế miễn phí (KH vẫn được bảo hành theo tiêu chuẩn) - Dưới 25,000km / 30 tháng: + Nếu phát hiện hỏng: Được thay miễn phí + Nếu chưa hỏng: Liên hệ với QLV để đưa ra quyết định |\n| 5 | Má phanh sau yêu cầu thay dựa trên bảng tin STP phản mòn theo định mức (với kinh nghiệm KTV phải đi hơn 30.000km mới mòn). Chụp hình má phanh cũ của khách để báo cáo mới được duyệt -> Có thể không chụp ảnh để giảm tải công việc phục vụ chương trình không? | XDV kiểm tra STP và tư vấn cho KH theo độ mòn tiêu chuẩn có cần thay thế hay không. Trường hợp KH vẫn muốn thay => XDV liên hệ với QLV để đưa ra quyết định Không cần chụp ảnh để đơn giản hóa thủ tục cho XDV |",
+    "raw_content": "| STT | Câu hỏi | Trả lời |\n| --- | --- | --- |\n| 1 | Những xe nào được sử dụng Voucher | Xe đáp ứng điều kiện của Chương trình: xe xuất hóa đơn từ 31/12/2025 trở về trước (trên hệ thống kiểm tra bằng ngày kích hoạt bảo hành) Trường hợp mà xe không có ngày kích hoạt bảo hành/ ngày kích hoạt sai khác ảnh hưởng tới quyền lợi khách hàng -> gửi mail cho QLV để hướng dẫn |\n| 2 | Hồ sơ xác định chính chủ gồm những gì? | Với KH cá nhân: Cần CCCD hoặc VNeID + giấy đk xe chính chủ  (không có giấy đk xe thì hóa đơn mua xe hoặc CoC trùng với tên CCCD/VNeID Với KH doanh nghiệp: Đăng ký xe tên công ty. |\n| 3 | Các hạng mục được áp dụng voucher là gì? | Công bảo dưỡng định kỳ và các giờ công theo tiêu chuẩn của STP cho các hạng mục thay thế PT khác Kiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp. Thay thế phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác Lưu ý: Ưu tiên tư vấn phớt động cơ, má phanh trước các phụ tùng, phụ kiện khác |\n| 4 | Quy định chỉ được thay phớt động cơ ở 30.000 km nhưng do có CT khách hàng muốn thay thế sớm hơn có được không? | Phớt động cơ vận hành: - Từ 25,000km/ 30 tháng trở đi: Thay thế miễn phí (KH vẫn được bảo hành theo tiêu chuẩn) - Dưới 25,000km / 30 tháng: + Nếu phát hiện hỏng: Được thay miễn phí + Nếu chưa hỏng: Liên hệ với QLV để đưa ra quyết định |\n| 5 | Má phanh sau yêu cầu thay dựa trên bảng tin STP phản mòn theo định mức (với kinh nghiệm KTV phải đi hơn 30.000km mới mòn). Chụp hình má phanh cũ của khách để báo cáo mới được duyệt -> Có thể không chụp ảnh để giảm tải công việc phục vụ chương trình không? | XDV kiểm tra STP và tư vấn cho KH theo độ mòn tiêu chuẩn có cần thay thế hay không. Trường hợp KH vẫn muốn thay => XDV liên hệ với QLV để đưa ra quyết định Không cần chụp ảnh để đơn giản hóa thủ tục cho XDV |",
+    "token_count": 599,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 4,
+      "section": "Slide 4",
+      "subsection": "Tables",
+      "heading_path": [
+        "Training Care",
+        "Slide 4",
+        "Tables"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_005",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 5 | Section: Training Care > Slide 5 > Tables]\n\n| STT | Câu hỏi | Trả lời |\n| --- | --- | --- |\n| 6 | Hồ sơ thanh toán gồm những gì? | Thực hiện trên DMS sau khi lệnh sửa chữa ở trạng thái hoàn thành thanh toán: - Quyết toán ( có chữ ký KH) Hóa đơn xuất cho KH theo Quyết toán Đăng ký xe ( hoặc hóa đơn mua xe+CCCD/VNeID trong trường hợp chưa có đăng ký xe) Phiếu thu voucher ( có chữ ký KH và các bên) |\n| 7 | Thời hạn của voucher và gửi yêu cầu thanh toán là khi nào? | Mở lệnh sửa chữa và áp dụng mã voucher trong thời gian: 10/07/2026 – 31/08/2026 Voucher có hạn dung đến: 15/09/2026 Thời hạn gửi yêu cầu thanh toán: 30/09/2026 VF sẽ định kỳ thanh toán vào tháng N+1 |\n| 8 | Trường hợp Vinfast không có sẵn hàng tồn kho dẫn đến lúc cấp hàng thì đã quá hạn chương trình khách hàng mất quyền lợi đi đến khiếu nại lên CSKH sẽ giải quyết như thế nào? | CT sẽ tính theo ngày mở lệnh cho KH Trong trường hợp chậm PT hoặc có Khiếu nại cần liên hệ với VF để được hỗ trợ, và sẽ xử lý theo từng trường hợp nếu cần thiết |",
+    "raw_content": "| STT | Câu hỏi | Trả lời |\n| --- | --- | --- |\n| 6 | Hồ sơ thanh toán gồm những gì? | Thực hiện trên DMS sau khi lệnh sửa chữa ở trạng thái hoàn thành thanh toán: - Quyết toán ( có chữ ký KH) Hóa đơn xuất cho KH theo Quyết toán Đăng ký xe ( hoặc hóa đơn mua xe+CCCD/VNeID trong trường hợp chưa có đăng ký xe) Phiếu thu voucher ( có chữ ký KH và các bên) |\n| 7 | Thời hạn của voucher và gửi yêu cầu thanh toán là khi nào? | Mở lệnh sửa chữa và áp dụng mã voucher trong thời gian: 10/07/2026 – 31/08/2026 Voucher có hạn dung đến: 15/09/2026 Thời hạn gửi yêu cầu thanh toán: 30/09/2026 VF sẽ định kỳ thanh toán vào tháng N+1 |\n| 8 | Trường hợp Vinfast không có sẵn hàng tồn kho dẫn đến lúc cấp hàng thì đã quá hạn chương trình khách hàng mất quyền lợi đi đến khiếu nại lên CSKH sẽ giải quyết như thế nào? | CT sẽ tính theo ngày mở lệnh cho KH Trong trường hợp chậm PT hoặc có Khiếu nại cần liên hệ với VF để được hỗ trợ, và sẽ xử lý theo từng trường hợp nếu cần thiết |",
+    "token_count": 331,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 5,
+      "section": "Slide 5",
+      "subsection": "Tables",
+      "heading_path": [
+        "Training Care",
+        "Slide 5",
+        "Tables"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_006",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 6 | Section: Training Care > Slide 6]\n\nHướng dẫn thao tác trên hệ thống DMS",
+    "raw_content": "Hướng dẫn thao tác trên hệ thống DMS",
+    "token_count": 44,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 6,
+      "section": "Slide 6",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 6"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_007",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 7 | Section: Training Care > Slide 7]\n\nHỎI ĐÁP",
+    "raw_content": "HỎI ĐÁP",
+    "token_count": 37,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 7,
+      "section": "Slide 7",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 7"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE119_training_care_chunk_008",
+    "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 8 | Section: Training Care > Slide 8]\n\nXin cám ơn!",
+    "raw_content": "Xin cám ơn!",
+    "token_count": 38,
+    "metadata": {
+      "document": "Training Care",
+      "role": "general",
+      "source": "General_doc/Training_Care.pptx",
+      "page": null,
+      "slide": 8,
+      "section": "Slide 8",
+      "subsection": null,
+      "heading_path": [
+        "Training Care",
+        "Slide 8"
+      ],
+      "timestamp": null
+    }
+  }
+]

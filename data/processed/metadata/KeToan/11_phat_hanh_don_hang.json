@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO011",
+    "title": "11. Phát hành đơn hàng",
+    "source_file": "11. Phát hành đơn hàng.mp4",
+    "source_path": "KeToan/11. Phát hành đơn hàng.mp4",
+    "file_hash": "sha256:f805bda8a560ee8c978008eb10dd8c520687b0c1eca6f439fb60fbf7316aebd4",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 71.2388125,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

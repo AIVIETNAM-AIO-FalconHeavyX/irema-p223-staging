@@ -1,0 +1,65 @@
+{
+  "total_queries": 6,
+  "top_k": 5,
+  "hit_rate_at_k": 0.8333,
+  "mrr": 0.7222,
+  "role_compliance_rate": 1.0,
+  "table_retrieval_accuracy": 1.0,
+  "section_match_accuracy": 0.3333,
+  "query_details": [
+    {
+      "query_id": "Q001",
+      "query": "Tiêu chuẩn về diện mạo tác phong và giao tiếp nhân sự bán hàng xe máy điện",
+      "user_role": "sales",
+      "is_hit": true,
+      "hit_rank": 1,
+      "role_compliant": true,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "Q002",
+      "query": "Thời gian bảo hành pin LFP và ắc quy 12V xe máy điện VinFast là bao nhiêu năm?",
+      "user_role": "technician",
+      "is_hit": true,
+      "hit_rank": 3,
+      "role_compliant": true,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "Q003",
+      "query": "Hướng dẫn đăng nhập hệ thống DMS và quy luật kiểm tra trùng khi tạo lead",
+      "user_role": "accounting",
+      "is_hit": true,
+      "hit_rank": 1,
+      "role_compliant": true,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "Q004",
+      "query": "Quy trình claim bù tồn kho xe máy điện dành cho nhà phân phối",
+      "user_role": "technician",
+      "is_hit": true,
+      "hit_rank": 1,
+      "role_compliant": true,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "Q005",
+      "query": "Thanh lý chấm dứt hợp đồng thuê pin xe máy điện và kích hoạt lại",
+      "user_role": "accounting",
+      "is_hit": true,
+      "hit_rank": 1,
+      "role_compliant": true,
+      "retrieved_count": 5
+    },
+    {
+      "query_id": "Q006",
+      "query": "Thời gian bảo hành xe máy điện pin LFP là bao nhiêu năm",
+      "user_role": "sales",
+      "is_hit": false,
+      "hit_rank": 0,
+      "role_compliant": true,
+      "retrieved_count": 5
+    }
+  ]
+}

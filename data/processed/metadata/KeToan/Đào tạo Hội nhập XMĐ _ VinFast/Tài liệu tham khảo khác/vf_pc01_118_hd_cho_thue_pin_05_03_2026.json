@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "VF PC01.118 HD cho thue pin 05.03.2026",
+    "source_file": "VF_PC01.118_HD cho thue pin_05.03.2026.docx",
+    "source_path": "KeToan/VF_PC01.118_HD cho thue pin_05.03.2026.docx",
+    "file_hash": "sha256:5c7210accdd861a619b370ab7b011234bb3e30b1168b4d736fb2ee629bbc5bb2",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-19"
+}

@@ -1,0 +1,25 @@
+{
+    "document_id": "KTV260727",
+    "title": "260727 VF HMVN Đào tạo Bảo hành XDV XMĐ mở mới",
+    "source_file": "260727-VF_HMVN_Đào tạo Bảo hành XDV XMĐ mở mới.pptx",
+    "source_path": "KTV/260727-VF_HMVN_Đào tạo Bảo hành XDV XMĐ mở mới.pptx",
+    "file_hash": "sha256:8008bb3c59f792880f99b35e75c8aa6b64957075e9a579041aee58d80acb994e",
+    "document_type": "pptx",
+    "content_type": "document",
+    "role": "technician",
+    "category": "KTV",
+    "access_scope": [
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 24,
+    "slides": 24,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO003",
+    "title": "PL Văn bản tiếp nhận HĐTP XMĐ, Ô tô điện (Đổi chủ xe) T3.2026",
+    "source_file": "PL_Văn bản tiếp nhận HĐTP XMĐ, Ô tô điện (Đổi chủ xe) T3.2026.docx",
+    "source_path": "KeToan/PL_Văn bản tiếp nhận HĐTP XMĐ, Ô tô điện (Đổi chủ xe) T3.2026.docx",
+    "file_hash": "sha256:215f2e6349c80091cc5ffccb66c6f0d76d51a81a90d9c20c472d7410f38fd23f",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-20"
+}

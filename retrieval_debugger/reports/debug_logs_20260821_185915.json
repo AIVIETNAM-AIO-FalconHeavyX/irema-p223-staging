@@ -1,0 +1,620 @@
+{
+  "session_id": "840c9c09-04ff-4661-b21e-ef3aede995e4",
+  "session_name": "RAG_Retrieval_Debug",
+  "start_time": "2026-08-21T18:57:53.802257+00:00",
+  "end_time": "2026-08-21T18:59:15.673022+00:00",
+  "total_cases": 7,
+  "logs": [
+    {
+      "correlation_id": "244428ff-b12a-477f-b991-6f085bb7bd72",
+      "timestamp": "2026-08-21T18:58:37.563001+00:00",
+      "query_id": "CANARY_01",
+      "user_role": "general",
+      "step": "retrieval_and_generation",
+      "input_query": "Mã bí mật của dự án là gì?",
+      "processed_query": "Mã bí mật của dự án là gì?",
+      "retrieval_results": [
+        {
+          "document_id": "doc_canary_unique_test",
+          "score": 5.407914161682129,
+          "rank": 1,
+          "title": "Tài liệu kiểm định Canary Test",
+          "section": "Mã bí mật",
+          "content": "Tài liệu định danh kiểm thử tự động hệ thống RAG VinFast AI Onboarding.\nMã bí mật của dự án là: XKCD-98765-VINFAST-CANARY.\nMục đích: Xác thực tính toàn vẹn của pipeline tìm kiếm ngữ nghĩa và khả năng tổng hợp của mô hình."
+        }
+      ],
+      "selected_context": [
+        "[Canary_Unique_Test_Document] Tài liệu định danh kiểm thử tự động hệ thống RAG VinFast AI Onboarding.\nMã bí mật của dự án là: XKCD-98765-VINFAST-CANARY.\nMục đích: Xác thực tính toàn vẹn của pipeline tìm kiếm ngữ nghĩa và khả năng tổng hợp của mô hình."
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "doc_canary_unique_test",
+        "Canary_Unique_Test_Document"
+      ],
+      "expected_keywords": [
+        "XKCD-98765-VINFAST-CANARY",
+        "XKCD-98765"
+      ],
+      "diagnosis": {
+        "status": "HIT_TOP_1",
+        "severity": "SUCCESS",
+        "hit_rank": 1,
+        "is_hit": true,
+        "context_included": true,
+        "root_cause": null,
+        "recommendation": "Truy xuất chính xác tuyệt đối ở vị trí Top 1 và ngữ cảnh được tích hợp hoàn chỉnh.",
+        "expected_docs": [
+          "doc_canary_unique_test",
+          "Canary_Unique_Test_Document"
+        ],
+        "expected_keywords": [
+          "XKCD-98765-VINFAST-CANARY",
+          "XKCD-98765"
+        ],
+        "keywords_matched": [],
+        "canary_details": {
+          "canary_retrieved": true,
+          "canary_rank": 1,
+          "token_in_context": true,
+          "token_in_llm_answer": null,
+          "overall_verdict": "PASSED"
+        }
+      }
+    },
+    {
+      "correlation_id": "d35b5ad7-017f-4165-b2da-4eb05e28fe76",
+      "timestamp": "2026-08-21T18:59:02.667368+00:00",
+      "query_id": "GT001",
+      "user_role": "accounting",
+      "step": "retrieval_and_generation",
+      "input_query": "Làm thế nào để đăng nhập vào hệ thống DMS?",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "KETO001_01_huong_dan_dang_nhap_dms_chunk_015",
+          "score": 3.0958409309387207,
+          "rank": 1,
+          "title": "01. Hướng dẫn đăng nhập DMS",
+          "section": "01:11",
+          "content": "[Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 01:11 | Timestamp: 01:11]\n\nĐây là màn hình làm"
+        },
+        {
+          "document_id": "KETO001_01_huong_dan_dang_nhap_dms_chunk_010",
+          "score": 2.6806857585906982,
+          "rank": 2,
+          "title": "01. Hướng dẫn đăng nhập DMS",
+          "section": "00:47",
+          "content": "[Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:47 | Timestamp: 00:47]\n\nSau khi vào đến màn hình này"
+        },
+        {
+          "document_id": "KETO001_01_huong_dan_dang_nhap_dms_chunk_017",
+          "score": 2.5297799110412598,
+          "rank": 3,
+          "title": "01. Hướng dẫn đăng nhập DMS",
+          "section": "01:16",
+          "content": "[Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 01:16 | Timestamp: 01:16]\n\nCác anh chị sẽ ấn vào biểu tượng bánh răng cửa"
+        },
+        {
+          "document_id": "KETO001_01_huong_dan_dang_nhap_dms_chunk_012",
+          "score": 1.9903067350387573,
+          "rank": 4,
+          "title": "01. Hướng dẫn đăng nhập DMS",
+          "section": "00:51",
+          "content": "[Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:51 | Timestamp: 00:51]\n\nVà chọn cửa sổ tin app"
+        },
+        {
+          "document_id": "KETO001_01_huong_dan_dang_nhap_dms_chunk_009",
+          "score": 1.9270520210266113,
+          "rank": 5,
+          "title": "01. Hướng dẫn đăng nhập DMS",
+          "section": "00:30",
+          "content": "[Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:30 | Timestamp: 00:30]\n\nVà bật khẩu"
+        }
+      ],
+      "selected_context": [
+        "[01. Hướng dẫn đăng nhập DMS] [Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 01:11 | Timestamp: 01:11]\n\nĐây là màn hình làm",
+        "[01. Hướng dẫn đăng nhập DMS] [Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:47 | Timestamp: 00:47]\n\nSau khi vào đến màn hình này",
+        "[01. Hướng dẫn đăng nhập DMS] [Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 01:16 | Timestamp: 01:16]\n\nCác anh chị sẽ ấn vào biểu tượng bánh răng cửa",
+        "[01. Hướng dẫn đăng nhập DMS] [Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:51 | Timestamp: 00:51]\n\nVà chọn cửa sổ tin app",
+        "[01. Hướng dẫn đăng nhập DMS] [Document: 01. Hướng dẫn đăng nhập DMS | Role: accounting | Source: KeToan/01. Hướng dẫn đăng nhập DMS.mp4 | Section: 01. Hướng dẫn đăng nhập DMS > 00:30 | Timestamp: 00:30]\n\nVà bật khẩu"
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "01_huong_dan_dang_nhap_dms",
+        "KETO001",
+        "Huong_Dan_Dang_Nhap_DMS"
+      ],
+      "expected_keywords": [
+        "đăng nhập",
+        "DMS",
+        "múi giờ",
+        "tài khoản"
+      ],
+      "diagnosis": {
+        "status": "HIT_TOP_1",
+        "severity": "SUCCESS",
+        "hit_rank": 1,
+        "is_hit": true,
+        "context_included": true,
+        "root_cause": null,
+        "recommendation": "Truy xuất chính xác tuyệt đối ở vị trí Top 1 và ngữ cảnh được tích hợp hoàn chỉnh.",
+        "expected_docs": [
+          "01_huong_dan_dang_nhap_dms",
+          "KETO001",
+          "Huong_Dan_Dang_Nhap_DMS"
+        ],
+        "expected_keywords": [
+          "đăng nhập",
+          "DMS",
+          "múi giờ",
+          "tài khoản"
+        ],
+        "keywords_matched": []
+      }
+    },
+    {
+      "correlation_id": "422dcf51-2285-4fd5-bb4f-1611a4d0d639",
+      "timestamp": "2026-08-21T18:59:02.914926+00:00",
+      "query_id": "GT002",
+      "user_role": "technician",
+      "step": "retrieval_and_generation",
+      "input_query": "Thời gian bảo hành pin LFP xe máy điện VinFast là bao nhiêu năm?",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "GENE002_2_lich_su_tong_quan_san_pham_xmd_260617_chunk_027",
+          "score": 5.35542631149292,
+          "rank": 1,
+          "title": "2. Lịch sử & Tổng quan sản phẩm XMĐ 260617",
+          "section": "Slide 27",
+          "content": "[Document: 2. Lịch sử & Tổng quan sản phẩm XMĐ 260617 | Role: general | Source: General_doc/2. Lịch sử & Tổng quan sản phẩm XMĐ_260617.pdf | Slide: 27 | Section: 2. Lịch sử & Tổng quan sản phẩm XMĐ 260617 > Slide 27]\n\nVINFAst TRAM ĐỔI PIN XE MÁY ĐIỆN #TIẾT KIỆM THỜI GIAN #TỐl ƯU KHÔNG GIAN #TIẾT KIỆM CHI PHÍ #BẢO VÊ MÔl TRƯỜNG VINFAST Hình ảnh chỉ mang tính chất minh họa VINFAST"
+        },
+        {
+          "document_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_004",
+          "score": 5.3001298904418945,
+          "rank": 2,
+          "title": "1. Chinh sach bao hanh XMĐ TTVN",
+          "section": "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:",
+          "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:]\n\n- T ình trạng chai tự nhiên của pin/ắc quy tối đa giảm dần theo thời gian do đặc tính chai tự nhiên và phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, môi\n- Các hiện tượng phồng, nứt, vỡ, cháy, nổ, bốc khói của pin/ắc quy do đỗ xe khác, hững hư hỏng của pin/ắc quy do không tuân thủ quy định bảo quản trong thời gian không.\n- Bảo hành sẽ không được áp,, điều chỉnh hạng dưỡng định kỳ\n- Những hiện tượng xảy ra mà VinFast đánh giá không ảnh hưởng đến chất lượng và sự hoạt động của xe như tiếng ồn,, vết thấm dầu, gỉ sét thường, sơn v.v\n- Các hư hỏng do, đĩa phanh, lốp, pin điều khiển, cầu chì,, xích, đĩa xích, cổ phốt, ổ bi, bu long, vít, dây đai v.v. nằm dầu, mỡ, dung dịch, chất phụ gia,"
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_048",
+          "score": 4.789168834686279,
+          "rank": 3,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm]\n\n- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )"
+        },
+        {
+          "document_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_002",
+          "score": 3.9570040702819824,
+          "rank": 4,
+          "title": "1. Chinh sach bao hanh XMĐ TTVN",
+          "section": "5. Thời gian bảo hành",
+          "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 5. Thời gian bảo hành]\n\n| Hạng mục | dung | Thời hạn bảo hành |\n|-----------------------------|----------------------------------------|--------------------------|\n| Xe máy điện pin LFP | 6 năm /không giới hạn km | Xe mới |\n| Pin LFP | 8 năm /không giới hạn km | |\n| Pin LFP | Pin khác (không phải pin LFP) | 3 năm /không giới hạn km |\n| Pin LFP | Ắc quy 12 V (Mua lần đầu ) | 1 năm /không giới hạn km |"
+        },
+        {
+          "document_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_007",
+          "score": 3.710383415222168,
+          "rank": 5,
+          "title": "1. Chinh sach bao hanh XMĐ TTVN",
+          "section": "3. Trách",
+          "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 3. Trách]\n\nĐỌC KỸ HƯỚNG DẪN SỬ DỤNG XE: Đọc kỹ sách vận hành xe.\n\nSỬ DỤNG PIN VÀ BỘ SẠC CHÍNH HÃNG: Xe chỉ hoạt sạc chính hãng được sản xuất bởi VinFast hoặc nhà sản xuất do VinFast chỉ định. hư hỏng phát sinh do hoặc hướng dẫn của nhà sản xuất sẽ không thuộc phạm vi bảo hành.\n\nĐƯA XE ĐẾN BẢO HÀNH: Sửa chữa thực thống XDV/NPP của VinFast. Chủ xe có trách nhiệm đưa xe đến XDV/NPP của VinFast để nhận được sửa chữa bảo hành. tin và địa chỉ của các XDV/NPP có sẵn trên website https://vinfastauto.com\n\nTHỰC HIỆN BẢO DƯỠNG: dưỡng là hoạt, điều chỉnh, thay, phụ tùng định kỳ theo được nhằm duy trì chất lượng xe. được đến các XDV/NPP của VinFast kiểm tra định kỳ đúng sách.\n\nGHI CHÉP/LƯU GIỮ NHỮNG LẦN BẢO DƯỠNG XE: tư số 53/2014/TT-BGTVT của vận tải, nhiệm theo dõi ghi chép/ hồ sơ của những lần bảo dưỡng. sơ bảo dưỡng, kiểm tra và sửa chữa là cơ sở duyệt bảo hành."
+        }
+      ],
+      "selected_context": [
+        "[2. Lịch sử & Tổng quan sản phẩm XMĐ 260617] [Document: 2. Lịch sử & Tổng quan sản phẩm XMĐ 260617 | Role: general | Source: General_doc/2. Lịch sử & Tổng quan sản phẩm XMĐ_260617.pdf | Slide: 27 | Section: 2. Lịch sử & Tổng quan sản phẩm XMĐ 260617 > Slide 27]\n\nVINFAst TRAM ĐỔI PIN XE MÁY ĐIỆN #TIẾT KIỆM THỜI GIAN #TỐl ƯU KHÔNG GIAN #TIẾT KIỆM CHI PHÍ #BẢO VÊ MÔl TRƯỜNG VINFAST Hình ảnh chỉ mang tính chất minh họa VINFAST",
+        "[1. Chinh sach bao hanh XMĐ TTVN] [Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:]\n\n- T ình trạng chai tự nhiên của pin/ắc quy tối đa giảm dần theo thời gian do đặc tính chai tự nhiên và phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, môi\n- Các hiện tượng phồng, nứt, vỡ, cháy, nổ, bốc khói của pin/ắc quy do đỗ xe khác, hững hư hỏng của pin/ắc quy do không tuân thủ quy định bảo quản trong thời gian không.\n- Bảo hành sẽ không được áp,, điều chỉnh hạng dưỡng định kỳ\n- Những hiện tượng xảy ra mà VinFast đánh giá không ảnh hưởng đến chất lượng và sự hoạt động của xe như tiếng ồn,, vết thấm dầu, gỉ sét thường, sơn v.v\n- Các hư hỏng do, đĩa phanh, lốp, pin điều khiển, cầu chì,, xích, đĩa xích, cổ phốt, ổ bi, bu long, vít, dây đai v.v. nằm dầu, mỡ, dung dịch, chất phụ gia,",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm]\n\n- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )",
+        "[1. Chinh sach bao hanh XMĐ TTVN] [Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 5. Thời gian bảo hành]\n\n| Hạng mục | dung | Thời hạn bảo hành |\n|-----------------------------|----------------------------------------|--------------------------|\n| Xe máy điện pin LFP | 6 năm /không giới hạn km | Xe mới |\n| Pin LFP | 8 năm /không giới hạn km | |\n| Pin LFP | Pin khác (không phải pin LFP) | 3 năm /không giới hạn km |\n| Pin LFP | Ắc quy 12 V (Mua lần đầu ) | 1 năm /không giới hạn km |",
+        "[1. Chinh sach bao hanh XMĐ TTVN] [Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: technician | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 3. Trách]\n\nĐỌC KỸ HƯỚNG DẪN SỬ DỤNG XE: Đọc kỹ sách vận hành xe.\n\nSỬ DỤNG PIN VÀ BỘ SẠC CHÍNH HÃNG: Xe chỉ hoạt sạc chính hãng được sản xuất bởi VinFast hoặc nhà sản xuất do VinFast chỉ định. hư hỏng phát sinh do hoặc hướng dẫn của nhà sản xuất sẽ không thuộc phạm vi bảo hành.\n\nĐƯA XE ĐẾN BẢO HÀNH: Sửa chữa thực thống XDV/NPP của VinFast. Chủ xe có trách nhiệm đưa xe đến XDV/NPP của VinFast để nhận được sửa chữa bảo hành. tin và địa chỉ của các XDV/NPP có sẵn trên website https://vinfastauto.com\n\nTHỰC HIỆN BẢO DƯỠNG: dưỡng là hoạt, điều chỉnh, thay, phụ tùng định kỳ theo được nhằm duy trì chất lượng xe. được đến các XDV/NPP của VinFast kiểm tra định kỳ đúng sách.\n\nGHI CHÉP/LƯU GIỮ NHỮNG LẦN BẢO DƯỠNG XE: tư số 53/2014/TT-BGTVT của vận tải, nhiệm theo dõi ghi chép/ hồ sơ của những lần bảo dưỡng. sơ bảo dưỡng, kiểm tra và sửa chữa là cơ sở duyệt bảo hành."
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "1_chinh_sach_bao_hanh",
+        "KTV001",
+        "Chinh_Sach_Bao_Hanh"
+      ],
+      "expected_keywords": [
+        "pin LFP",
+        "8 năm",
+        "bảo hành"
+      ],
+      "diagnosis": {
+        "status": "HIT_TOP_K",
+        "severity": "WARNING",
+        "hit_rank": 2,
+        "is_hit": true,
+        "context_included": true,
+        "root_cause": "SUBOPTIMAL_RANKING",
+        "recommendation": "Tài liệu mong đợi nằm ở vị trí thứ 2 (trong Top 5), chưa đạt Top 1. Khắc phục: Xem lại trọng số Cross-Encoder Reranker hoặc điều chỉnh tham số RRF vector_weight / bm25_weight.",
+        "expected_docs": [
+          "1_chinh_sach_bao_hanh",
+          "KTV001",
+          "Chinh_Sach_Bao_Hanh"
+        ],
+        "expected_keywords": [
+          "pin LFP",
+          "8 năm",
+          "bảo hành"
+        ],
+        "keywords_matched": []
+      }
+    },
+    {
+      "correlation_id": "d74e33d3-ff96-451f-99b1-2e6ec4db287a",
+      "timestamp": "2026-08-21T18:59:03.041828+00:00",
+      "query_id": "GT003",
+      "user_role": "sales",
+      "step": "retrieval_and_generation",
+      "input_query": "Quy trình tư vấn bán hàng chuẩn VinFast gồm mấy bước?",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd_chunk_067",
+          "score": 5.708436012268066,
+          "rank": 1,
+          "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+          "section": "Ví dụ, khách hàng nói ' tôi chưa tin chất lượng xe máy điện VinFast'",
+          "content": "[Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > Ví dụ, khách hàng nói ' tôi chưa tin chất lượng xe máy điện VinFast']\n\nBước 1: Lắng nghe thấu hiểu:\n\nEm cảm ơn anh đã chia sẻ ý kiến Chất lượng xe VinFast rất đảm bảo vì:\n\n- ■ VinFast thực hiện chiến lược \"đứng trên vai người khổng lồ', hợp tác với những công ty hàng đầu thế giới trong ngành để rút ngắn thời gian ra xe.\n- ■ Nhà máy VinFast được đầu tư công nghệ tiên tiến với độ tự động hóa rất cao, được đánh giá là Nhà máy hiện đại bậc nhất thế giới.\n- ■ VinFast áp dụng hệ thống VES với quy trình kiểm tra chất lượng nghiêm ngặt trong từng công đoạn sản xuất và khi sản phẩm hoàn thành."
+        },
+        {
+          "document_id": "SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd_chunk_004",
+          "score": 3.774420976638794,
+          "rank": 2,
+          "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+          "section": "TẦM QUAN TRỌNG:",
+          "content": "[Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > TẦM QUAN TRỌNG:]\n\n- 'ẤN TƯỢNG BAN ĐẦU LÀ ẤN TƯỢNG DÀI LÂU', TIẾP ĐÓN CHU ĐÁO LÀ BƯỚC TẠO ẤN TƯỢNG BAN ĐẦU TÍCH CỰC\n- ĐỂ TƯ VẤN SẢN PHẨM PHÙ HỢP THÌ CẦN HIỂU NHU CẦU CỦA KHÁCH HÀNG: KHÁCH HÀNG LÀ AI? CÓ NHU CẦU GÌ?"
+        },
+        {
+          "document_id": "SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd_chunk_002",
+          "score": 3.2457892894744873,
+          "rank": 3,
+          "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+          "section": "NỘI DUNG ĐÀO TẠO",
+          "content": "[Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > NỘI DUNG ĐÀO TẠO]\n\nTẦM QUAN TRỌNG CỦA VIỆC TUÂN THỦ QUY TRÌNH\n\nQUY TRÌNH BÁN HÀNG XE MÁY ĐIỆN VINFAST\n\nCÁC PHƯƠNG PHÁP &amp; KỸ NĂNG BỔ TRỢ THỰC HIỆN QUY TRÌNH"
+        },
+        {
+          "document_id": "SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd_chunk_017",
+          "score": 2.656275749206543,
+          "rank": 4,
+          "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+          "section": "Lưu ý khi tư vấn sản phẩm:",
+          "content": "[Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > Lưu ý khi tư vấn sản phẩm:]\n\n- Tập trung vào nhu cầu của khách hàng\n- Nói theo ngôn ngữ của khách hàng, hạn chế từ ngữ kỹ thuật\n- Tư vấn các dịch vụ đi kèm (lựa chọn) như: thuê pin, mua sạc, thuê bao sim … và các chi phí đi kèm\n- Luôn mang theo catalogue để giải thích các tính năng KH có thể hỏi mà không nhìn thấy được (vd: Khung xe, Pin, phần mềm thông minh,...)\n- Nếu KH so sánh với xe của đối thủ, hãy khéo léo nhắc đến nhu cầu của khách hàng và hướng trọng tâm đến những tính năng vượt trội của XMĐ VinFast"
+        },
+        {
+          "document_id": "SALE004_4_tai_lieu_quy_trinh_va_ky_nang_ban_hang_xmd_chunk_020",
+          "score": 2.499809503555298,
+          "rank": 5,
+          "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+          "section": "3. LÁI THỬ XE",
+          "content": "[Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > 3. LÁI THỬ XE]\n\nĐể cho khách hàng lái thử xe, bạn cần thực hiện 4 bước dưới đây:"
+        }
+      ],
+      "selected_context": [
+        "[4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ] [Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > Ví dụ, khách hàng nói ' tôi chưa tin chất lượng xe máy điện VinFast']\n\nBước 1: Lắng nghe thấu hiểu:\n\nEm cảm ơn anh đã chia sẻ ý kiến Chất lượng xe VinFast rất đảm bảo vì:\n\n- ■ VinFast thực hiện chiến lược \"đứng trên vai người khổng lồ', hợp tác với những công ty hàng đầu thế giới trong ngành để rút ngắn thời gian ra xe.\n- ■ Nhà máy VinFast được đầu tư công nghệ tiên tiến với độ tự động hóa rất cao, được đánh giá là Nhà máy hiện đại bậc nhất thế giới.\n- ■ VinFast áp dụng hệ thống VES với quy trình kiểm tra chất lượng nghiêm ngặt trong từng công đoạn sản xuất và khi sản phẩm hoàn thành.",
+        "[4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ] [Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > TẦM QUAN TRỌNG:]\n\n- 'ẤN TƯỢNG BAN ĐẦU LÀ ẤN TƯỢNG DÀI LÂU', TIẾP ĐÓN CHU ĐÁO LÀ BƯỚC TẠO ẤN TƯỢNG BAN ĐẦU TÍCH CỰC\n- ĐỂ TƯ VẤN SẢN PHẨM PHÙ HỢP THÌ CẦN HIỂU NHU CẦU CỦA KHÁCH HÀNG: KHÁCH HÀNG LÀ AI? CÓ NHU CẦU GÌ?",
+        "[4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ] [Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > NỘI DUNG ĐÀO TẠO]\n\nTẦM QUAN TRỌNG CỦA VIỆC TUÂN THỦ QUY TRÌNH\n\nQUY TRÌNH BÁN HÀNG XE MÁY ĐIỆN VINFAST\n\nCÁC PHƯƠNG PHÁP &amp; KỸ NĂNG BỔ TRỢ THỰC HIỆN QUY TRÌNH",
+        "[4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ] [Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > Lưu ý khi tư vấn sản phẩm:]\n\n- Tập trung vào nhu cầu của khách hàng\n- Nói theo ngôn ngữ của khách hàng, hạn chế từ ngữ kỹ thuật\n- Tư vấn các dịch vụ đi kèm (lựa chọn) như: thuê pin, mua sạc, thuê bao sim … và các chi phí đi kèm\n- Luôn mang theo catalogue để giải thích các tính năng KH có thể hỏi mà không nhìn thấy được (vd: Khung xe, Pin, phần mềm thông minh,...)\n- Nếu KH so sánh với xe của đối thủ, hãy khéo léo nhắc đến nhu cầu của khách hàng và hướng trọng tâm đến những tính năng vượt trội của XMĐ VinFast",
+        "[4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ] [Document: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ | Role: sales | Source: Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf | Section: 4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ > 3. LÁI THỬ XE]\n\nĐể cho khách hàng lái thử xe, bạn cần thực hiện 4 bước dưới đây:"
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "3_1_tieu_chuan_dich_vu",
+        "03_quy_trinh_ban_hang",
+        "SALE003"
+      ],
+      "expected_keywords": [
+        "8 bước",
+        "quy trình",
+        "bán hàng",
+        "chào đón",
+        "tư vấn"
+      ],
+      "diagnosis": {
+        "status": "MISSED",
+        "severity": "ERROR",
+        "hit_rank": null,
+        "is_hit": false,
+        "context_included": false,
+        "root_cause": "RERANKER_DROPPED_DOCUMENT",
+        "recommendation": "Tài liệu có trong danh sách tìm kiếm ban đầu (hạng 7) nhưng bị Cross-Encoder Reranker loại bỏ hoặc xếp sau Top 5. Khắc phục: Hạ min_score_threshold của Reranker, tăng candidate top_k hoặc kiểm tra mô hình Cross-Encoder.",
+        "expected_docs": [
+          "3_1_tieu_chuan_dich_vu",
+          "03_quy_trinh_ban_hang",
+          "SALE003"
+        ],
+        "expected_keywords": [
+          "8 bước",
+          "quy trình",
+          "bán hàng",
+          "chào đón",
+          "tư vấn"
+        ],
+        "keywords_matched": []
+      }
+    },
+    {
+      "correlation_id": "b782822d-8502-4f79-b85d-902c628a8571",
+      "timestamp": "2026-08-21T18:59:03.150927+00:00",
+      "query_id": "GT004",
+      "user_role": "accounting",
+      "step": "retrieval_and_generation",
+      "input_query": "Quy trình tạo yêu cầu mua sắm PR và đặt hàng tồn kho PO",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "KETO020_20_dat_hang_ton_kho_chunk_010",
+          "score": 3.0671215057373047,
+          "rank": 1,
+          "title": "20. Đặt hàng tồn kho",
+          "section": "00:53",
+          "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:53 | Timestamp: 00:53]\n\nChúng ta sẽ vào tab hiện thêm mới chi tiết yêu cầu."
+        },
+        {
+          "document_id": "KETO020_20_dat_hang_ton_kho_chunk_007",
+          "score": 2.409383773803711,
+          "rank": 2,
+          "title": "20. Đặt hàng tồn kho",
+          "section": "00:30",
+          "content": "[Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:30 | Timestamp: 00:30]\n\nNgày yêu cầu giao hàng sẽ tùy thuộc theo gấp hay là về dự trữ."
+        },
+        {
+          "document_id": "KETO756_huong_dan_tao_po_dat_pin_kem_xe_chunk_001",
+          "score": 1.939568281173706,
+          "rank": 3,
+          "title": "HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE",
+          "section": "HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE",
+          "content": "[Document: HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE | Role: accounting | Source: KeToan/HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE.docx | Section: HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE]\n\n**HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE THƯỜNG GẶP**\n\nTrường hợp Khách hàng có nhu cầu mua PIN, cơ sở cần thực hiện tạo đơn hàng PO đặt PIN kèm xe.\n\n1. **Kiểm tra trạng thái PIN**\n\n1. ** tồn;; – ri tồn kho:**\n2. **Kiểm tra trạng thái PIN**\n\nCơ sở thái PIN như sau:\n\n**Tình trạng tồn kho**: Consignment\n\n**Tình trạng sẵn có**: Có sẵn / Available\n\n2. ** kèm xe**\n\n1. ** tồn kho -&gt;; + Mới**\n2. **Tạo đơn PO đặt PIN**\n\n**Phân loại PR/PO**: ZACI\n\n**Ngành hàng**: Battery\n\n**VF Kho**: 4011 (PIN XMĐ)\n\n4012 (PIN Ô tô)\n\n**VF Sloc**: 4001\n\n**Ưu tiên giao hàng VF**: Cơ sở tự chọn theo mức độ ưu tiên\n\n3. ****\n\nTại phần, cơ sở sẽ điền số tồn kho xe (số khung xe) -&gt; hệ thống sẽ tự load ra tin PIN.\n\n4. **Cơ sở **, cơ sở liên hệ Kế toán VF và Sales Admin thực.\n\n Kế toán VF bỏ chặn payment dưới SAP, SAP mới đẩy thông tin SO, đồng thời chuyển trạng thái trên DMS lên hoàn trạng thái PIN sang **Tồn kho/Có sẵn**. Cơ sở toán VF phụ trách trước IT.\n\n3. ** lỗi thường gặp**\n\n1. ** đến trạng thái PIN**\n\nIT ghi nhận rất nhiều trường hợp cơ sở tạo PO đặt PIN kèm xe lỗi như sau:\n\n**TH1.**\n\n**Tình trạng tồn kho**: Tồn kho\n\n**Tình trạng sẵn có**: Có sẵn\n\nTrường hợp này cơ sở đã đặt PIN thành công, cơ sở có thể kiểm tra đơn đặt PIN tại mục Battery Purchase Order tồn kho PIN:\n\n**TH2.**\n\n**Tình trạng tồn kho**: Kế hoạch nhận\n\n**Tình trạng sẵn có**: Không có sẵn, cơ sở cần kiểm tra lại xem đã phát hành phiếu. Logic: hành phiếu; hệ thống số điều chỉnh tồn kho PIN và chuyển trạng thái PIN sang Consignment/Có sẵn:\n\n2. **Không nhận được SO, DO submit PO PIN**\n\nLỗi này liên quan đến đầu IT SAP xử lý. Do tránh việc ticket, các cơ sở gửi mail cho IT SAP ( [](mailto:) ): [SAP]\\_Mã cơ sở\\_Yêu cầu…."
+        },
+        {
+          "document_id": "KETO001_1_don_dat_hang_po_xmd_chunk_002",
+          "score": 0.8442915081977844,
+          "rank": 4,
+          "title": "1. Đơn đặt hàng PO XMĐ",
+          "section": "00:08",
+          "content": "[Document: 1. Đơn đặt hàng PO XMĐ | Role: accounting | Source: KeToan/1. Đơn đặt hàng PO XMĐ.mp4 | Section: 1. Đơn đặt hàng PO XMĐ > 00:08 | Timestamp: 00:08]\n\nĐể có thể tạo được đơn hàng hàng mua và ngay hàng xe máy điện, tục vào khu vực."
+        },
+        {
+          "document_id": "KETO001_1_don_dat_hang_po_xmd_chunk_005",
+          "score": 0.7590943574905396,
+          "rank": 5,
+          "title": "1. Đơn đặt hàng PO XMĐ",
+          "section": "00:21",
+          "content": "[Document: 1. Đơn đặt hàng PO XMĐ | Role: accounting | Source: KeToan/1. Đơn đặt hàng PO XMĐ.mp4 | Section: 1. Đơn đặt hàng PO XMĐ > 00:21 | Timestamp: 00:21]\n\nSau khi đã menu, chúng mốt tạo mới để có thể tạo mới đơn mua hàng."
+        }
+      ],
+      "selected_context": [
+        "[20. Đặt hàng tồn kho] [Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:53 | Timestamp: 00:53]\n\nChúng ta sẽ vào tab hiện thêm mới chi tiết yêu cầu.",
+        "[20. Đặt hàng tồn kho] [Document: 20. Đặt hàng tồn kho | Role: accounting | Source: KeToan/20. Đặt hàng tồn kho.mp4 | Section: 20. Đặt hàng tồn kho > 00:30 | Timestamp: 00:30]\n\nNgày yêu cầu giao hàng sẽ tùy thuộc theo gấp hay là về dự trữ.",
+        "[HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE] [Document: HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE | Role: accounting | Source: KeToan/HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE.docx | Section: HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE]\n\n**HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE THƯỜNG GẶP**\n\nTrường hợp Khách hàng có nhu cầu mua PIN, cơ sở cần thực hiện tạo đơn hàng PO đặt PIN kèm xe.\n\n1. **Kiểm tra trạng thái PIN**\n\n1. ** tồn;; – ri tồn kho:**\n2. **Kiểm tra trạng thái PIN**\n\nCơ sở thái PIN như sau:\n\n**Tình trạng tồn kho**: Consignment\n\n**Tình trạng sẵn có**: Có sẵn / Available\n\n2. ** kèm xe**\n\n1. ** tồn kho -&gt;; + Mới**\n2. **Tạo đơn PO đặt PIN**\n\n**Phân loại PR/PO**: ZACI\n\n**Ngành hàng**: Battery\n\n**VF Kho**: 4011 (PIN XMĐ)\n\n4012 (PIN Ô tô)\n\n**VF Sloc**: 4001\n\n**Ưu tiên giao hàng VF**: Cơ sở tự chọn theo mức độ ưu tiên\n\n3. ****\n\nTại phần, cơ sở sẽ điền số tồn kho xe (số khung xe) -&gt; hệ thống sẽ tự load ra tin PIN.\n\n4. **Cơ sở **, cơ sở liên hệ Kế toán VF và Sales Admin thực.\n\n Kế toán VF bỏ chặn payment dưới SAP, SAP mới đẩy thông tin SO, đồng thời chuyển trạng thái trên DMS lên hoàn trạng thái PIN sang **Tồn kho/Có sẵn**. Cơ sở toán VF phụ trách trước IT.\n\n3. ** lỗi thường gặp**\n\n1. ** đến trạng thái PIN**\n\nIT ghi nhận rất nhiều trường hợp cơ sở tạo PO đặt PIN kèm xe lỗi như sau:\n\n**TH1.**\n\n**Tình trạng tồn kho**: Tồn kho\n\n**Tình trạng sẵn có**: Có sẵn\n\nTrường hợp này cơ sở đã đặt PIN thành công, cơ sở có thể kiểm tra đơn đặt PIN tại mục Battery Purchase Order tồn kho PIN:\n\n**TH2.**\n\n**Tình trạng tồn kho**: Kế hoạch nhận\n\n**Tình trạng sẵn có**: Không có sẵn, cơ sở cần kiểm tra lại xem đã phát hành phiếu. Logic: hành phiếu; hệ thống số điều chỉnh tồn kho PIN và chuyển trạng thái PIN sang Consignment/Có sẵn:\n\n2. **Không nhận được SO, DO submit PO PIN**\n\nLỗi này liên quan đến đầu IT SAP xử lý. Do tránh việc ticket, các cơ sở gửi mail cho IT SAP ( [](mailto:) ): [SAP]\\_Mã cơ sở\\_Yêu cầu….",
+        "[1. Đơn đặt hàng PO XMĐ] [Document: 1. Đơn đặt hàng PO XMĐ | Role: accounting | Source: KeToan/1. Đơn đặt hàng PO XMĐ.mp4 | Section: 1. Đơn đặt hàng PO XMĐ > 00:08 | Timestamp: 00:08]\n\nĐể có thể tạo được đơn hàng hàng mua và ngay hàng xe máy điện, tục vào khu vực.",
+        "[1. Đơn đặt hàng PO XMĐ] [Document: 1. Đơn đặt hàng PO XMĐ | Role: accounting | Source: KeToan/1. Đơn đặt hàng PO XMĐ.mp4 | Section: 1. Đơn đặt hàng PO XMĐ > 00:21 | Timestamp: 00:21]\n\nSau khi đã menu, chúng mốt tạo mới để có thể tạo mới đơn mua hàng."
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "02_quy_trinh_po_pr",
+        "KETO002",
+        "dat_hang_ton_kho_po"
+      ],
+      "expected_keywords": [
+        "PO",
+        "PR",
+        "yêu cầu mua sắm",
+        "đặt hàng tồn kho"
+      ],
+      "diagnosis": {
+        "status": "MISSED",
+        "severity": "ERROR",
+        "hit_rank": null,
+        "is_hit": false,
+        "context_included": false,
+        "root_cause": "RERANKER_DROPPED_DOCUMENT",
+        "recommendation": "Tài liệu có trong danh sách tìm kiếm ban đầu (hạng 7) nhưng bị Cross-Encoder Reranker loại bỏ hoặc xếp sau Top 5. Khắc phục: Hạ min_score_threshold của Reranker, tăng candidate top_k hoặc kiểm tra mô hình Cross-Encoder.",
+        "expected_docs": [
+          "02_quy_trinh_po_pr",
+          "KETO002",
+          "dat_hang_ton_kho_po"
+        ],
+        "expected_keywords": [
+          "PO",
+          "PR",
+          "yêu cầu mua sắm",
+          "đặt hàng tồn kho"
+        ],
+        "keywords_matched": []
+      }
+    },
+    {
+      "correlation_id": "47c1577f-c08c-46a6-ad47-6ea76ca7da28",
+      "timestamp": "2026-08-21T18:59:07.978561+00:00",
+      "query_id": "GT005",
+      "user_role": "technician",
+      "step": "retrieval_and_generation",
+      "input_query": "Nội dung chương trình chăm sóc xe máy điện miễn phí và kiểm tra 5 hạng mục",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "GENE043_dao_tao_chuong_trinh_cham_soc_xe_mien_phi_0043_chunk_001",
+          "score": 7.313072681427002,
+          "rank": 1,
+          "title": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "section": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "content": "[Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\nCHƯƠNG TRÌNH TRI ÂN KHÁCH HÀNG – CHĂM SÓC XE MIỄN PHÍ\n\n07/2026\n\nNỘI DUNG\n\n 1. NỘI DUNG CHÍNH SÁCH\n\n 2. HƯỚNG DẪN TRIỂN KHAI\n\n 3. HỎI ĐÁP\n\n1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\n-\n\n- Miễn phí công bảo dưỡng định kỳ.\n- Kiểm tra 5 hạng trọng:,, dầu phanh, giảm xóc và lốp.\n- Miễn phí/ giảm giá phớt động cơ, trước phụ tùng, phụ kiện khác\n\nTổng gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\n- Khách hàng mua xe hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\n- Khách hàng mang xe, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\n- Mỗi số áp 1 lần voucher.\n- Trường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán lần dịch vụ.\n\nYêu cầu Đại lý:\n\n- Kiểm tra xe đầy đủ theo checksheet bảo dưỡng.\n- Ưu tiên thế phớt động cơ,. Nếu KH chưa có nhu cầu, chưa đến kỳ thay dư tiền theo voucher thì có thế áp Phụ tùng, phụ kiện khác."
+        },
+        {
+          "document_id": "GENE119_training_care_chunk_003",
+          "score": 6.015172004699707,
+          "rank": 2,
+          "title": "Training Care",
+          "section": "Slide 3",
+          "content": "[Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 3 | Section: Training Care > Slide 3]\n\n1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\nĐiều kiện áp dụng:\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n🎁 Đối tượng, điều kiện áp dụng:\nKhách hàng mua xe và xuất hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\nKhách hàng mang xe và đăng ký xe chính chủ, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\nMỗi số VIN chỉ áp dụng được 1 lần voucher.\nTrường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán cho các lần dịch vụ tiếp theo.\nYêu cầu Đại lý:\nKiểm tra xe đầy đủ theo checksheet bảo dưỡng.\nƯu tiên tư vấn và thay thế phớt động cơ, bộ má phanh trước. Nếu KH chưa có nhu cầu, chưa đến kỳ thay thế hoặc còn dư tiền theo voucher thì có thế áp dụng cho các Phụ tùng, phụ kiện khác.\n\nMiễn phí công bảo dưỡng định kỳ.\nKiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp.\nMiễn phí/ giảm giá phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác\nTổng giá trị gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\nTrường hợp tổng chi phí dịch vụ vượt quá giá trị gói, khách hàng thanh toán phần chênh lệch."
+        },
+        {
+          "document_id": "GENE043_dao_tao_chuong_trinh_cham_soc_xe_mien_phi_0043_chunk_002",
+          "score": 5.956906318664551,
+          "rank": 3,
+          "title": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "section": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "content": "[Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\nYêu cầu Đại lý:\n\n| STT | Câu hỏi | Trả lời |\n|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1 | Những xe nào được sử dụng Voucher | Xe đáp ứng điều kiện: xe xuất hóa đơn từ 31/12/2025 trở về trước ( thống kiểm tra bằng ngày ) ngày ngày kích hoạt hưởng tới quyền lợi khách hàng -> gửi mail cho QLV |\n| 2 | Hồ sơ xác định chính chủ gồm những gì? | hoặc VNeID + giấy đk xe  ( đk xe thì hóa đơn mua xe trùng /VNeID doanh nghiệp: Đăng ký xe tên công ty. |\n| 3 | hạng áp dụng voucher là gì? | Công bảo dưỡng định kỳ và các giờ công hạng khác Kiểm tra 5 hạng trọng:,, dầu phanh, giảm xóc và lốp. phớt động cơ, trước phụ tùng, phụ kiện khác Lưu ý: Ưu tiên tư vấn phớt động cơ, má phanh trước các phụ tùng, phụ kiện khác |\n| 4 | thay km nhưng do có CT khách hàng muốn thay thế sớm hơn có được không? | vận hành: - Từ 25,000km/ 30 tháng trở đi: Thay thế (KH vẫn được ) - Dưới 25,000km / 30 tháng: + Nếu phát hiện hỏng: thay miễn phí + Nếu chưa hỏng: Liên hệ với QLV để đưa ra |\n| 5 | thay dựa tin STP phản mòn theo định mức (với kinh nghiệm KTV phải đi hơn 30.000km mới mòn). cũ của khách để báo cáo mới được duyệt -> giảm tải công chương trình không? | XDV kiểm tra STP và mòn tiêu chuẩn có cần thay thế hay không. thay => XDV liên hệ với QLV để đưa ra thủ tục cho XDV |"
+        },
+        {
+          "document_id": "GENE043_dao_tao_chuong_trinh_cham_soc_xe_mien_phi_0043_chunk_003",
+          "score": 5.956583023071289,
+          "rank": 4,
+          "title": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "section": "Đào tạo Chương trình chăm sóc xe miễn phí 0043",
+          "content": "[Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\nYêu cầu Đại lý:\n\n| STT | Câu hỏi | Trả lời |\n|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 6 | Hồ sơ thanh toán gồm những gì? | Thực hiện trên DMS sau khi lệnh sửa chữa ở trạng thái hoàn toán: - toán ( có chữ ký KH) Hóa KH theo toán Đăng ký xe ( /VNeID trong trường hợp chưa có đăng ký xe) Phiếu thu voucher ( có chữ ký KH và các bên) |\n| 7 | Thời hạn của voucher toán là? | Mở lệnh sửa chữa và áp dụng mã voucher trong thời gian: 10/07/2026 – 31/08/2026 Voucher có hạn dung đến: 15/09/2026 hạn gửi yêu cầu thanh toán: 30/09/2026 VF sẽ định kỳ thanh toán vào tháng N+1 |\n| 8 | Trường hợp Vinfast không có sẵn hàng tồn đã quá hạn chương trình khách hàng mất quyền lợi đi đến khiếu nại lên CSKH sẽ như thế nào? | CT sẽ ngày mở KH Trong trường hợp chậm PT nại cần liên hệ với VF để được hỗ trợ, xử trường hợp nếu cần thiết |\n\nHướng dẫn thao tác thống DMS\n\nHỎI ĐÁP\n\nXin cám ơn!"
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_051",
+          "score": 4.879031181335449,
+          "rank": 5,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "Các hạng sóc xe gồm:",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Các hạng sóc xe gồm:]\n\n✓ Miễn dưỡng định kỳ.\n\n✓ Kiểm tra 5 hạng mục:,, dầu phanh, giảm xóc, lốp\n\n✓ Miễn phí/ giảm giá thay thế phớt động cơ, trước + sau hoặc các phụ tùng/ phụ kiện áp dụng thay thế phớt động cơ với Motio\n\n- Tổng sóc xe: 600,000VNĐ/ khách hàng ( đã bao gồm VAT). dưỡng vượt quá số tiền trên, khách hàng chi trả."
+        }
+      ],
+      "selected_context": [
+        "[Đào tạo Chương trình chăm sóc xe miễn phí 0043] [Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\nCHƯƠNG TRÌNH TRI ÂN KHÁCH HÀNG – CHĂM SÓC XE MIỄN PHÍ\n\n07/2026\n\nNỘI DUNG\n\n 1. NỘI DUNG CHÍNH SÁCH\n\n 2. HƯỚNG DẪN TRIỂN KHAI\n\n 3. HỎI ĐÁP\n\n1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\n-\n\n- Miễn phí công bảo dưỡng định kỳ.\n- Kiểm tra 5 hạng trọng:,, dầu phanh, giảm xóc và lốp.\n- Miễn phí/ giảm giá phớt động cơ, trước phụ tùng, phụ kiện khác\n\nTổng gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\n- Khách hàng mua xe hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\n- Khách hàng mang xe, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\n- Mỗi số áp 1 lần voucher.\n- Trường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán lần dịch vụ.\n\nYêu cầu Đại lý:\n\n- Kiểm tra xe đầy đủ theo checksheet bảo dưỡng.\n- Ưu tiên thế phớt động cơ,. Nếu KH chưa có nhu cầu, chưa đến kỳ thay dư tiền theo voucher thì có thế áp Phụ tùng, phụ kiện khác.",
+        "[Training Care] [Document: Training Care | Role: general | Source: General_doc/Training_Care.pptx | Slide: 3 | Section: Training Care > Slide 3]\n\n1. NỘI DUNG CHÍNH SÁCH\n\nTri ân khách hàng VinFast - Tặng voucher Chăm sóc xe miễn phí\n\nĐiều kiện áp dụng:\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n🎁 Đối tượng, điều kiện áp dụng:\nKhách hàng mua xe và xuất hóa đơn từ 31/12/2025 trở về trước (không bao gồm xe thuộc sở hữu của Green SM).\nKhách hàng mang xe và đăng ký xe chính chủ, đồng thời cung cấp/cập nhật đầy đủ thông tin cá nhân theo yêu cầu để VinFast xác thực và kích hoạt quyền lợi chương trình\nMỗi số VIN chỉ áp dụng được 1 lần voucher.\nTrường hợp số tiền thừa (nếu có) sẽ không được hoàn tiền/ thanh toán cho các lần dịch vụ tiếp theo.\nYêu cầu Đại lý:\nKiểm tra xe đầy đủ theo checksheet bảo dưỡng.\nƯu tiên tư vấn và thay thế phớt động cơ, bộ má phanh trước. Nếu KH chưa có nhu cầu, chưa đến kỳ thay thế hoặc còn dư tiền theo voucher thì có thế áp dụng cho các Phụ tùng, phụ kiện khác.\n\nMiễn phí công bảo dưỡng định kỳ.\nKiểm tra 5 hạng mục quan trọng: phớt động cơ, má phanh, dầu phanh, giảm xóc và lốp.\nMiễn phí/ giảm giá phớt động cơ, bộ má phanh trước và sau và các phụ tùng, phụ kiện khác\nTổng giá trị gói chăm sóc xe lên đến 600.000 đồng/khách hàng (đã bao gồm VAT).\nTrường hợp tổng chi phí dịch vụ vượt quá giá trị gói, khách hàng thanh toán phần chênh lệch.",
+        "[Đào tạo Chương trình chăm sóc xe miễn phí 0043] [Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\nYêu cầu Đại lý:\n\n| STT | Câu hỏi | Trả lời |\n|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1 | Những xe nào được sử dụng Voucher | Xe đáp ứng điều kiện: xe xuất hóa đơn từ 31/12/2025 trở về trước ( thống kiểm tra bằng ngày ) ngày ngày kích hoạt hưởng tới quyền lợi khách hàng -> gửi mail cho QLV |\n| 2 | Hồ sơ xác định chính chủ gồm những gì? | hoặc VNeID + giấy đk xe  ( đk xe thì hóa đơn mua xe trùng /VNeID doanh nghiệp: Đăng ký xe tên công ty. |\n| 3 | hạng áp dụng voucher là gì? | Công bảo dưỡng định kỳ và các giờ công hạng khác Kiểm tra 5 hạng trọng:,, dầu phanh, giảm xóc và lốp. phớt động cơ, trước phụ tùng, phụ kiện khác Lưu ý: Ưu tiên tư vấn phớt động cơ, má phanh trước các phụ tùng, phụ kiện khác |\n| 4 | thay km nhưng do có CT khách hàng muốn thay thế sớm hơn có được không? | vận hành: - Từ 25,000km/ 30 tháng trở đi: Thay thế (KH vẫn được ) - Dưới 25,000km / 30 tháng: + Nếu phát hiện hỏng: thay miễn phí + Nếu chưa hỏng: Liên hệ với QLV để đưa ra |\n| 5 | thay dựa tin STP phản mòn theo định mức (với kinh nghiệm KTV phải đi hơn 30.000km mới mòn). cũ của khách để báo cáo mới được duyệt -> giảm tải công chương trình không? | XDV kiểm tra STP và mòn tiêu chuẩn có cần thay thế hay không. thay => XDV liên hệ với QLV để đưa ra thủ tục cho XDV |",
+        "[Đào tạo Chương trình chăm sóc xe miễn phí 0043] [Document: Đào tạo Chương trình chăm sóc xe miễn phí 0043 | Role: general | Source: General_doc/Đào tạo Chương trình chăm sóc xe miễn phí_0043.pptx | Section: Đào tạo Chương trình chăm sóc xe miễn phí 0043]\n\n tổng vượt, khách hàng thanh toán phần chênh lệch.\n\nĐiều kiện áp dụng:\n\n📅 Thời gian: Từ 10/7 đến hết 31/8/2026 📍 Địa điểm: Hệ thống Đại lý/ Xưởng dịch vụ VinFast trên toàn quốc.\n\n🎁 Đối tượng, điều kiện áp dụng:\n\nYêu cầu Đại lý:\n\n| STT | Câu hỏi | Trả lời |\n|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 6 | Hồ sơ thanh toán gồm những gì? | Thực hiện trên DMS sau khi lệnh sửa chữa ở trạng thái hoàn toán: - toán ( có chữ ký KH) Hóa KH theo toán Đăng ký xe ( /VNeID trong trường hợp chưa có đăng ký xe) Phiếu thu voucher ( có chữ ký KH và các bên) |\n| 7 | Thời hạn của voucher toán là? | Mở lệnh sửa chữa và áp dụng mã voucher trong thời gian: 10/07/2026 – 31/08/2026 Voucher có hạn dung đến: 15/09/2026 hạn gửi yêu cầu thanh toán: 30/09/2026 VF sẽ định kỳ thanh toán vào tháng N+1 |\n| 8 | Trường hợp Vinfast không có sẵn hàng tồn đã quá hạn chương trình khách hàng mất quyền lợi đi đến khiếu nại lên CSKH sẽ như thế nào? | CT sẽ ngày mở KH Trong trường hợp chậm PT nại cần liên hệ với VF để được hỗ trợ, xử trường hợp nếu cần thiết |\n\nHướng dẫn thao tác thống DMS\n\nHỎI ĐÁP\n\nXin cám ơn!",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Các hạng sóc xe gồm:]\n\n✓ Miễn dưỡng định kỳ.\n\n✓ Kiểm tra 5 hạng mục:,, dầu phanh, giảm xóc, lốp\n\n✓ Miễn phí/ giảm giá thay thế phớt động cơ, trước + sau hoặc các phụ tùng/ phụ kiện áp dụng thay thế phớt động cơ với Motio\n\n- Tổng sóc xe: 600,000VNĐ/ khách hàng ( đã bao gồm VAT). dưỡng vượt quá số tiền trên, khách hàng chi trả."
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "KTV002",
+        "02_cham_soc_xe_mien_phi",
+        "kiem_tra_5_hang_muc"
+      ],
+      "expected_keywords": [
+        "5 hạng mục",
+        "chăm sóc xe",
+        "miễn phí",
+        "ắc quy",
+        "phanh"
+      ],
+      "diagnosis": {
+        "status": "MISSED",
+        "severity": "ERROR",
+        "hit_rank": null,
+        "is_hit": false,
+        "context_included": false,
+        "root_cause": "RETRIEVAL_OR_INDEXING_FAILURE",
+        "recommendation": "Tài liệu hoàn toàn không xuất hiện trong cả Vector Search lẫn BM25 Keyword Search. Khắc phục: 1) Kiểm tra xem tài liệu đã được index vào ChromaDB chưa. 2) Kiểm tra phân quyền RBAC (role filter có vô tình chặn tài liệu không). 3) Tinh chỉnh Embedding Model hoặc bổ sung từ đồng nghĩa vào câu query.",
+        "expected_docs": [
+          "KTV002",
+          "02_cham_soc_xe_mien_phi",
+          "kiem_tra_5_hang_muc"
+        ],
+        "expected_keywords": [
+          "5 hạng mục",
+          "chăm sóc xe",
+          "miễn phí",
+          "ắc quy",
+          "phanh"
+        ],
+        "keywords_matched": []
+      }
+    },
+    {
+      "correlation_id": "0b3b0691-5e5a-47ef-b0a5-a52431901834",
+      "timestamp": "2026-08-21T18:59:11.997739+00:00",
+      "query_id": "GT006",
+      "user_role": "sales",
+      "step": "retrieval_and_generation",
+      "input_query": "Chính sách ưu đãi lệ phí trước bạ và thuê pin xe máy điện",
+      "processed_query": "",
+      "retrieval_results": [
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_044",
+          "score": 7.807408809661865,
+          "rank": 1,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "Chính sách hỗ trước bạ:",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách hỗ trước bạ:]\n\n- Tặng thêm lệ phí trước bạ 2% cho khách hàng mua xe máy điện VinFast\n- Áp dụng đối với các dòng xe cần bằng lái theo phân loại tại Phụ lục 1\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n\n*Đối tượng áp dụng: Khách hàng mua các dòng xe máy điện Thuê pin cần bằng lái &amp; Thanh toán tối thiểu 03 tháng cước thuê pin\n\n- Ưu đãi ngay 1 triệu đồng cho khách hàng đang sở hữu các dòng xe máy điện không yêu cầu giấy phép lái xe như,, (),, (S), Motio, Evo Grand Lite*\n- Ưu đãi 2 triệu đồng cho khách hàng đang sở hữu ô tô VinFast hoặc các dòng xe máy điện yêu cầu giấy phép lái xe*"
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_043",
+          "score": 6.116981506347656,
+          "rank": 2,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "Chính sách Hỗ trợ phí thuê Pin:",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách Hỗ trợ phí thuê Pin:]\n\n- Khách hàng được hưởng mức ưu đãi 5% ()\n- Áp dụng đối với dòng xe đổi Pin ( Feliz II,, Viper)*\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n- Áp dụng đồng chương trình khác: trước bạ, Tri ân Khách hàng..."
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_046",
+          "score": 6.1164679527282715,
+          "rank": 3,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "2. Điều kiện ưu đãi:",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 2. Điều kiện ưu đãi:]\n\n- · tương ứng 1 phần quà Ưu đãi sở hữu, không giới hạn số lượng ưu đãi đối với 1 chủ sở hữu.\n- · nhiều hơn 1 lần &amp; không áp dụng nhiều hơn 1 ưu đãi tri ân cho 1 đơn hàng bán mới.\n\n- Điều kiện:\n- Khách hàng phải ký hợp đồng thuê pin toán trước gói cước thuê pin 12 tháng số lượng pin của cấu hình sản xuất.\n- Trường hợp đại lý chưa đủ pin để khách hàng thanh toán gói thuê 2 pin, khách hàng thanh toán gói thuê 1 pin trong 12 tháng hỗ 1.500.000 VNĐ bằng tiền mặt\n- Khách hàng đã mua xe từ ngày 01/07/2026 nhưng chưa được áp dụng chính sách bổ sung 12 tháng miễn, gói cước đã thanh toán theo hiện trạng hợp đồng thuê pin.\n- Khách hàng mua xe được ưu đãi miễn phí thuê pin trong vòng 1 năm tương đương 3.600.000 VNĐ/ xe đổi thành tiền mặt.\n- Chương trình áp 1/7 đến 31/8/2026\n- Áp dung với với tất cả khách hàng mua xe thuê pin cần bằng lái."
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_048",
+          "score": 5.67017126083374,
+          "rank": 4,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm]\n\n- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )"
+        },
+        {
+          "document_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_045",
+          "score": 5.396739482879639,
+          "rank": 5,
+          "title": "260801 Chính sách bán hàng XMĐ",
+          "section": "1. Đối tượng áp dụng:",
+          "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 1. Đối tượng áp dụng:]\n\n- ·Chủ sở hữu (Ô tô &amp; Xe máy điện) VinFast từ ngày 04/7/26 trở về trước, căn cứ theo Giấy đăng ký xe &amp; CCCD khách hàng (bản gốc)\n- ·Đối với KH cá nhân, có quyền cho/ tặng ưu đãi (tứ thân phụ mẫu, Vợ/ chồng, con, vợ/chồng)\n- ·Đối với KH doanh nghiệp, ưu đãi cho."
+        }
+      ],
+      "selected_context": [
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách hỗ trước bạ:]\n\n- Tặng thêm lệ phí trước bạ 2% cho khách hàng mua xe máy điện VinFast\n- Áp dụng đối với các dòng xe cần bằng lái theo phân loại tại Phụ lục 1\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n\n*Đối tượng áp dụng: Khách hàng mua các dòng xe máy điện Thuê pin cần bằng lái &amp; Thanh toán tối thiểu 03 tháng cước thuê pin\n\n- Ưu đãi ngay 1 triệu đồng cho khách hàng đang sở hữu các dòng xe máy điện không yêu cầu giấy phép lái xe như,, (),, (S), Motio, Evo Grand Lite*\n- Ưu đãi 2 triệu đồng cho khách hàng đang sở hữu ô tô VinFast hoặc các dòng xe máy điện yêu cầu giấy phép lái xe*",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách Hỗ trợ phí thuê Pin:]\n\n- Khách hàng được hưởng mức ưu đãi 5% ()\n- Áp dụng đối với dòng xe đổi Pin ( Feliz II,, Viper)*\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n- Áp dụng đồng chương trình khác: trước bạ, Tri ân Khách hàng...",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 2. Điều kiện ưu đãi:]\n\n- · tương ứng 1 phần quà Ưu đãi sở hữu, không giới hạn số lượng ưu đãi đối với 1 chủ sở hữu.\n- · nhiều hơn 1 lần &amp; không áp dụng nhiều hơn 1 ưu đãi tri ân cho 1 đơn hàng bán mới.\n\n- Điều kiện:\n- Khách hàng phải ký hợp đồng thuê pin toán trước gói cước thuê pin 12 tháng số lượng pin của cấu hình sản xuất.\n- Trường hợp đại lý chưa đủ pin để khách hàng thanh toán gói thuê 2 pin, khách hàng thanh toán gói thuê 1 pin trong 12 tháng hỗ 1.500.000 VNĐ bằng tiền mặt\n- Khách hàng đã mua xe từ ngày 01/07/2026 nhưng chưa được áp dụng chính sách bổ sung 12 tháng miễn, gói cước đã thanh toán theo hiện trạng hợp đồng thuê pin.\n- Khách hàng mua xe được ưu đãi miễn phí thuê pin trong vòng 1 năm tương đương 3.600.000 VNĐ/ xe đổi thành tiền mặt.\n- Chương trình áp 1/7 đến 31/8/2026\n- Áp dung với với tất cả khách hàng mua xe thuê pin cần bằng lái.",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm]\n\n- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )",
+        "[260801 Chính sách bán hàng XMĐ] [Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 1. Đối tượng áp dụng:]\n\n- ·Chủ sở hữu (Ô tô &amp; Xe máy điện) VinFast từ ngày 04/7/26 trở về trước, căn cứ theo Giấy đăng ký xe &amp; CCCD khách hàng (bản gốc)\n- ·Đối với KH cá nhân, có quyền cho/ tặng ưu đãi (tứ thân phụ mẫu, Vợ/ chồng, con, vợ/chồng)\n- ·Đối với KH doanh nghiệp, ưu đãi cho."
+      ],
+      "final_prompt": "",
+      "final_answer": "",
+      "expected_document_id": [
+        "04_chinh_sach_uu_dai",
+        "SALE004",
+        "thue_pin"
+      ],
+      "expected_keywords": [
+        "trước bạ",
+        "thuê pin",
+        "ưu đãi",
+        "gói sạc"
+      ],
+      "diagnosis": {
+        "status": "MISSED",
+        "severity": "ERROR",
+        "hit_rank": null,
+        "is_hit": false,
+        "context_included": false,
+        "root_cause": "RERANKER_DROPPED_DOCUMENT",
+        "recommendation": "Tài liệu có trong danh sách tìm kiếm ban đầu (hạng 9) nhưng bị Cross-Encoder Reranker loại bỏ hoặc xếp sau Top 5. Khắc phục: Hạ min_score_threshold của Reranker, tăng candidate top_k hoặc kiểm tra mô hình Cross-Encoder.",
+        "expected_docs": [
+          "04_chinh_sach_uu_dai",
+          "SALE004",
+          "thue_pin"
+        ],
+        "expected_keywords": [
+          "trước bạ",
+          "thuê pin",
+          "ưu đãi",
+          "gói sạc"
+        ],
+        "keywords_matched": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1562 @@
+[
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_001",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:00 | Timestamp: 00:00]\n\nMọi người, ở clip này, IT sẽ hướng dẫn mọi tạo đơn mua hàng vụ tùng ở trên hệ thống DMS.",
+    "raw_content": "Mọi người, ở clip này, IT sẽ hướng dẫn mọi tạo đơn mua hàng vụ tùng ở trên hệ thống DMS.",
+    "token_count": 75,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_002",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:07 | Timestamp: 00:07]\n\nTự tạo đơn hàng là công.",
+    "raw_content": "Tự tạo đơn hàng là công.",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:07",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:07"
+      ],
+      "timestamp": "00:07"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_003",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:10 | Timestamp: 00:10]\n\nSố lượng vụ tùng trên tồn kho, sửa chữa, hoặc từ khách hàng.",
+    "raw_content": "Số lượng vụ tùng trên tồn kho, sửa chữa, hoặc từ khách hàng.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:10",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:10"
+      ],
+      "timestamp": "00:10"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_004",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:18 | Timestamp: 00:18]\n\nTrước tiên, IT sẽ hướng dẫn mọi tra được bảng giá của vụ tùng tại hệ thống DMS.",
+    "raw_content": "Trước tiên, IT sẽ hướng dẫn mọi tra được bảng giá của vụ tùng tại hệ thống DMS.",
+    "token_count": 71,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:18",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:18"
+      ],
+      "timestamp": "00:18"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_005",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:25 | Timestamp: 00:25]\n\nĐể kiểm, cơ sở vào quản lý mua.",
+    "raw_content": "Để kiểm, cơ sở vào quản lý mua.",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:25",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:25"
+      ],
+      "timestamp": "00:25"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_006",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:30 | Timestamp: 00:30]\n\nTiếp tục, menu.",
+    "raw_content": "Tiếp tục, menu.",
+    "token_count": 50,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_007",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:45 | Timestamp: 00:45]\n\nTại menu này, cơ sở có thể nhập mã sản phẩm tại ô tìm tìm kiếm bảng giá của sản phẩm.",
+    "raw_content": "Tại menu này, cơ sở có thể nhập mã sản phẩm tại ô tìm tìm kiếm bảng giá của sản phẩm.",
+    "token_count": 75,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:45",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:45"
+      ],
+      "timestamp": "00:45"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_008",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 00:54 | Timestamp: 00:54]\n\nBảng giá của sản phẩm sẽ được sắp xếp theo ngày bắt đầu hiệu lực, đó là giá mua.",
+    "raw_content": "Bảng giá của sản phẩm sẽ được sắp xếp theo ngày bắt đầu hiệu lực, đó là giá mua.",
+    "token_count": 72,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:54",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "00:54"
+      ],
+      "timestamp": "00:54"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_009",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:00 | Timestamp: 01:00]\n\nỞ trường hợp này, chúng, với ngày bắt đầu hiệu lực là mùa 1 tháng 9 năm 2023, cùng với đó giá mua là 500.000.",
+    "raw_content": "Ở trường hợp này, chúng, với ngày bắt đầu hiệu lực là mùa 1 tháng 9 năm 2023, cùng với đó giá mua là 500.000.",
+    "token_count": 80,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_010",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:13 | Timestamp: 01:13]\n\nTiếp theo đây, IT sẽ hướng dẫn mọi vụ tùng ở trên hệ thống DMS.",
+    "raw_content": "Tiếp theo đây, IT sẽ hướng dẫn mọi vụ tùng ở trên hệ thống DMS.",
+    "token_count": 67,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:13",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:13"
+      ],
+      "timestamp": "01:13"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_011",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:19 | Timestamp: 01:19]\n\nĐể tạo được đơn mua hàng vụ thống DMS, cơ sở tiếp tục.",
+    "raw_content": "Để tạo được đơn mua hàng vụ thống DMS, cơ sở tiếp tục.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:19",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:19"
+      ],
+      "timestamp": "01:19"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_012",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:28 | Timestamp: 01:28]\n\nVà tìm.",
+    "raw_content": "Và tìm.",
+    "token_count": 49,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:28",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:28"
+      ],
+      "timestamp": "01:28"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_013",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:30 | Timestamp: 01:30]\n\nTại menu này, cơ sở tiếp tục ấn tạo mới.",
+    "raw_content": "Tại menu này, cơ sở tiếp tục ấn tạo mới.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:30",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:30"
+      ],
+      "timestamp": "01:30"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_014",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:44 | Timestamp: 01:44]\n\nTại bản hình tạo mới này, cơ sở tiến hành.",
+    "raw_content": "Tại bản hình tạo mới này, cơ sở tiến hành.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:44",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:44"
+      ],
+      "timestamp": "01:44"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_015",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:48 | Timestamp: 01:48]\n\nPhân loại PRPO, đối với, điền.",
+    "raw_content": "Phân loại PRPO, đối với, điền.",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:48",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:48"
+      ],
+      "timestamp": "01:48"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_016",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:54 | Timestamp: 01:54]\n\nNgày mua hàng sẽ được tự động lấy theo ngày.",
+    "raw_content": "Ngày mua hàng sẽ được tự động lấy theo ngày.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:54",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:54"
+      ],
+      "timestamp": "01:54"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_017",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 01:58 | Timestamp: 01:58]\n\nNgành hàng, cơ sở.",
+    "raw_content": "Ngành hàng, cơ sở.",
+    "token_count": 52,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:58",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "01:58"
+      ],
+      "timestamp": "01:58"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_018",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:00 | Timestamp: 02:00]\n\nPhụ tùng xe hoặc phụ tùng ô tô.",
+    "raw_content": "Phụ tùng xe hoặc phụ tùng ô tô.",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:00",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:00"
+      ],
+      "timestamp": "02:00"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_019",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:04 | Timestamp: 02:04]\n\nỞ đây, IT sẽ chọn phụ tùng ô tô.",
+    "raw_content": "Ở đây, IT sẽ chọn phụ tùng ô tô.",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:04",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:04"
+      ],
+      "timestamp": "02:04"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_020",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:09 | Timestamp: 02:09]\n\nSau khi chọn, các trường thông tin như là VF Core và VF Stock sẽ được tự động lấy ra cài đặt sẵn của hệ thống IT DMS.",
+    "raw_content": "Sau khi chọn, các trường thông tin như là VF Core và VF Stock sẽ được tự động lấy ra cài đặt sẵn của hệ thống IT DMS.",
+    "token_count": 84,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:09",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:09"
+      ],
+      "timestamp": "02:09"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_021",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:18 | Timestamp: 02:18]\n\nTrong trường cài đặt này không được lấy ra, cơ sở có thể điền.",
+    "raw_content": "Trong trường cài đặt này không được lấy ra, cơ sở có thể điền.",
+    "token_count": 65,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:18",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:18"
+      ],
+      "timestamp": "02:18"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_022",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:25 | Timestamp: 02:25]\n\nĐối showroom đại lý khu phường miền Bắc,",
+    "raw_content": "Đối showroom đại lý khu phường miền Bắc,",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:25",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:25"
+      ],
+      "timestamp": "02:25"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_023",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:27 | Timestamp: 02:27]\n\ncơ sở điền VF Core là 4013, VF Stock là 1001.",
+    "raw_content": "cơ sở điền VF Core là 4013, VF Stock là 1001.",
+    "token_count": 61,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:27",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:27"
+      ],
+      "timestamp": "02:27"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_024",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:33 | Timestamp: 02:33]\n\nĐối showroom đại lý khu vực miền Trung,",
+    "raw_content": "Đối showroom đại lý khu vực miền Trung,",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:33",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:33"
+      ],
+      "timestamp": "02:33"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_025",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:35 | Timestamp: 02:35]\n\ncơ sở điện điện 4013, VF Stock là 1103.",
+    "raw_content": "cơ sở điện điện 4013, VF Stock là 1103.",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:35",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:35"
+      ],
+      "timestamp": "02:35"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_026",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:40 | Timestamp: 02:40]\n\nĐối showroom đại lý khu vực miền Nam,",
+    "raw_content": "Đối showroom đại lý khu vực miền Nam,",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:40",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:40"
+      ],
+      "timestamp": "02:40"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_027",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:43 | Timestamp: 02:43]\n\ncơ sở điền Core là 4013,",
+    "raw_content": "cơ sở điền Core là 4013,",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:43",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:43"
+      ],
+      "timestamp": "02:43"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_028",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:45 | Timestamp: 02:45]\n\nvà VF Stock là 1010.",
+    "raw_content": "và VF Stock là 1010.",
+    "token_count": 53,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:45",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:45"
+      ],
+      "timestamp": "02:45"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_029",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:49 | Timestamp: 02:49]\n\nTiếp theo, cơ sở có thể chọn ngày yêu cầu giao hàng theo nhu cầu của cơ sở.",
+    "raw_content": "Tiếp theo, cơ sở có thể chọn ngày yêu cầu giao hàng theo nhu cầu của cơ sở.",
+    "token_count": 71,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:49",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:49"
+      ],
+      "timestamp": "02:49"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_030",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:53 | Timestamp: 02:53]\n\nĐối với tin ưu tiên giao hàng VinFast,",
+    "raw_content": "Đối với tin ưu tiên giao hàng VinFast,",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:53",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:53"
+      ],
+      "timestamp": "02:53"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_031",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 02:56 | Timestamp: 02:56]\n\ncơ sở có thể chọn theo nhu sở, tuy nhiên, IT có những lưu ý sau.",
+    "raw_content": "cơ sở có thể chọn theo nhu sở, tuy nhiên, IT có những lưu ý sau.",
+    "token_count": 68,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:56",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "02:56"
+      ],
+      "timestamp": "02:56"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_032",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:01 | Timestamp: 03:01]\n\nĐối với mức độ ưu tiên VOR hoặc khẩn cấp, cơ sở cần điền mát lệnh sửa chữa.",
+    "raw_content": "Đối với mức độ ưu tiên VOR hoặc khẩn cấp, cơ sở cần điền mát lệnh sửa chữa.",
+    "token_count": 71,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:01",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:01"
+      ],
+      "timestamp": "03:01"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_033",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:07 | Timestamp: 03:07]\n\nHệ thống sau đó sẽ tự động lấy tùng ở trong chi tiết của lệnh sửa chữa và điền.",
+    "raw_content": "Hệ thống sau đó sẽ tự động lấy tùng ở trong chi tiết của lệnh sửa chữa và điền.",
+    "token_count": 72,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:07",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:07"
+      ],
+      "timestamp": "03:07"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_034",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:14 | Timestamp: 03:14]\n\nCơ sở có quyền chỉnh sửa, lựa chọn số lượng, phụ tùng và xóa dòng phụ tùng đi, tuy nhiên, cơ sở lại không thể tự thêm dòng.",
+    "raw_content": "Cơ sở có quyền chỉnh sửa, lựa chọn số lượng, phụ tùng và xóa dòng phụ tùng đi, tuy nhiên, cơ sở lại không thể tự thêm dòng.",
+    "token_count": 84,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:14",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:14"
+      ],
+      "timestamp": "03:14"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_035",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:26 | Timestamp: 03:26]\n\nNhư cơ sở có thể thấy, sau khi chọn ưu tiên giao hàng là khẩn cấp, sẽ có một trường yêu cầu cơ sở nhập mát lệnh sửa chữa hiện ra.",
+    "raw_content": "Như cơ sở có thể thấy, sau khi chọn ưu tiên giao hàng là khẩn cấp, sẽ có một trường yêu cầu cơ sở nhập mát lệnh sửa chữa hiện ra.",
+    "token_count": 88,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:26",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:26"
+      ],
+      "timestamp": "03:26"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_036",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:35 | Timestamp: 03:35]\n\nTừ đây, cơ sở nhập mát lệnh sửa chữa.",
+    "raw_content": "Từ đây, cơ sở nhập mát lệnh sửa chữa.",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:35",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:35"
+      ],
+      "timestamp": "03:35"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_037",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:41 | Timestamp: 03:41]\n\nSau đó hẳn lưu, lệnh sửa chữa sẽ được điền.",
+    "raw_content": "Sau đó hẳn lưu, lệnh sửa chữa sẽ được điền.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:41",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:41"
+      ],
+      "timestamp": "03:41"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_038",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:47 | Timestamp: 03:47]\n\nỞ đây, IT sẽ lấy ví dụ ưu tiên giao hàng là kho.",
+    "raw_content": "Ở đây, IT sẽ lấy ví dụ ưu tiên giao hàng là kho.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:47",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:47"
+      ],
+      "timestamp": "03:47"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_039",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 03:49 | Timestamp: 03:49]\n\nSau khi đã điền đầy đủ các thông tin, cơ sở tiến hành bấm lưu để tạo đơn đặt hàng mới.",
+    "raw_content": "Sau khi đã điền đầy đủ các thông tin, cơ sở tiến hành bấm lưu để tạo đơn đặt hàng mới.",
+    "token_count": 75,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "03:49",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "03:49"
+      ],
+      "timestamp": "03:49"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_040",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:01 | Timestamp: 04:01]\n\nSau khi đã tin, cơ sở tiến hành mở sang phụ tùng.",
+    "raw_content": "Sau khi đã tin, cơ sở tiến hành mở sang phụ tùng.",
+    "token_count": 63,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:01",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:01"
+      ],
+      "timestamp": "04:01"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_041",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:12 | Timestamp: 04:12]\n\nTại mát hình chi tiết, cơ sở ấn chi tiết đơn hàng mới.",
+    "raw_content": "Tại mát hình chi tiết, cơ sở ấn chi tiết đơn hàng mới.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:12",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:12"
+      ],
+      "timestamp": "04:12"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_042",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:19 | Timestamp: 04:19]\n\nTại mát hình chi tiết đơn hàng mới, cơ sở tiến hành nhập mã sản phẩm cần đặt mua.",
+    "raw_content": "Tại mát hình chi tiết đơn hàng mới, cơ sở tiến hành nhập mã sản phẩm cần đặt mua.",
+    "token_count": 72,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:19",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:19"
+      ],
+      "timestamp": "04:19"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_043",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:34 | Timestamp: 04:34]\n\nTiếp theo, cơ sở chọn số lượng cần đặt.",
+    "raw_content": "Tiếp theo, cơ sở chọn số lượng cần đặt.",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:34",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:34"
+      ],
+      "timestamp": "04:34"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_044",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:40 | Timestamp: 04:40]\n\nỞ đây, IT sẽ đặt ví dụ 5 chiếc.",
+    "raw_content": "Ở đây, IT sẽ đặt ví dụ 5 chiếc.",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:40",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:40"
+      ],
+      "timestamp": "04:40"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_045",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:45 | Timestamp: 04:45]\n\nSau khi đã điền đầy đủ 2, cơ sở có thể ẩn.",
+    "raw_content": "Sau khi đã điền đầy đủ 2, cơ sở có thể ẩn.",
+    "token_count": 63,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:45",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:45"
+      ],
+      "timestamp": "04:45"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_046",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:50 | Timestamp: 04:50]\n\nSau khi đã, cơ sở quay trở lại đơn hàng để kiểm tra lại thông tin.",
+    "raw_content": "Sau khi đã, cơ sở quay trở lại đơn hàng để kiểm tra lại thông tin.",
+    "token_count": 68,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:50",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:50"
+      ],
+      "timestamp": "04:50"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_047",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 04:58 | Timestamp: 04:58]\n\nCơ sở.",
+    "raw_content": "Cơ sở.",
+    "token_count": 49,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "04:58",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "04:58"
+      ],
+      "timestamp": "04:58"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_048",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:07 | Timestamp: 05:07]\n\nNhư cơ sở có thể thấy,.",
+    "raw_content": "Như cơ sở có thể thấy,.",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:07",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:07"
+      ],
+      "timestamp": "05:07"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_049",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:15 | Timestamp: 05:15]\n\nIT hướng dẫn thêm một cách.",
+    "raw_content": "IT hướng dẫn thêm một cách.",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:15",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:15"
+      ],
+      "timestamp": "05:15"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_050",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:20 | Timestamp: 05:20]\n\nỞ trên thanh công cụ, cơ sở ấn vào dấu 3 chấm.",
+    "raw_content": "Ở trên thanh công cụ, cơ sở ấn vào dấu 3 chấm.",
+    "token_count": 63,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:20",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:20"
+      ],
+      "timestamp": "05:20"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_051",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:25 | Timestamp: 05:25]\n\nTiếp tục chọn.",
+    "raw_content": "Tiếp tục chọn.",
+    "token_count": 50,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:25",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:25"
+      ],
+      "timestamp": "05:25"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_052",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:33 | Timestamp: 05:33]\n\nỞ đây, cơ sở có thể chọn mã phụ tùng.",
+    "raw_content": "Ở đây, cơ sở có thể chọn mã phụ tùng.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:33",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:33"
+      ],
+      "timestamp": "05:33"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_053",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:45 | Timestamp: 05:45]\n\nTiếp theo đó, cơ sở chọn số lượng.",
+    "raw_content": "Tiếp theo đó, cơ sở chọn số lượng.",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:45",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:45"
+      ],
+      "timestamp": "05:45"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_054",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:48 | Timestamp: 05:48]\n\nSau đó ấn lưu.",
+    "raw_content": "Sau đó ấn lưu.",
+    "token_count": 52,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:48",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:48"
+      ],
+      "timestamp": "05:48"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_055",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 05:49 | Timestamp: 05:49]\n\nSau khi lưu, cơ sở lần.",
+    "raw_content": "Sau khi lưu, cơ sở lần.",
+    "token_count": 54,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "05:49",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "05:49"
+      ],
+      "timestamp": "05:49"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_056",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:01 | Timestamp: 06:01]\n\nSau đó kiểm tra lại phần chi tiết.",
+    "raw_content": "Sau đó kiểm tra lại phần chi tiết.",
+    "token_count": 57,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:01",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:01"
+      ],
+      "timestamp": "06:01"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_057",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:05 | Timestamp: 06:05]\n\nNhư cơ sở có thể thấy, phụ tùng chúng ta vừa đặt bằng cách thứ 2 đã được thêm.",
+    "raw_content": "Như cơ sở có thể thấy, phụ tùng chúng ta vừa đặt bằng cách thứ 2 đã được thêm.",
+    "token_count": 72,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:05",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:05"
+      ],
+      "timestamp": "06:05"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_058",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:13 | Timestamp: 06:13]\n\nSau khi đã thêm, đó là tin tổng quan đã đầy đủ.",
+    "raw_content": "Sau khi đã thêm, đó là tin tổng quan đã đầy đủ.",
+    "token_count": 63,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:13",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:13"
+      ],
+      "timestamp": "06:13"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_059",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:19 | Timestamp: 06:19]\n\nCơ sở tiến hành.",
+    "raw_content": "Cơ sở tiến hành.",
+    "token_count": 52,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:19",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:19"
+      ],
+      "timestamp": "06:19"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_060",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:19 | Timestamp: 06:19]\n\nCơ sở.",
+    "raw_content": "Cơ sở.",
+    "token_count": 49,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:19",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:19"
+      ],
+      "timestamp": "06:19"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_061",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:32 | Timestamp: 06:32]\n\nSau khi gửi đơn hàng, đã chuyển theo trạng thái.",
+    "raw_content": "Sau khi gửi đơn hàng, đã chuyển theo trạng thái.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:32",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:32"
+      ],
+      "timestamp": "06:32"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_062",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:38 | Timestamp: 06:38]\n\nỞ trạng thái này, sẽ được xuống hệ thống sáp.",
+    "raw_content": "Ở trạng thái này, sẽ được xuống hệ thống sáp.",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:38",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:38"
+      ],
+      "timestamp": "06:38"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_063",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:43 | Timestamp: 06:43]\n\nSau khi hệ thống sáp đã trả về số đơn hàng sáp, thống DMS sẽ được tự động chuyển qua trạng thái.",
+    "raw_content": "Sau khi hệ thống sáp đã trả về số đơn hàng sáp, thống DMS sẽ được tự động chuyển qua trạng thái.",
+    "token_count": 76,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:43",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:43"
+      ],
+      "timestamp": "06:43"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_064",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 06:49 | Timestamp: 06:49]\n\nỞ trạng thái, chúng số đơn hàng SEP. Cơ sở có thể tìm thấy ở đây.",
+    "raw_content": "Ở trạng thái, chúng số đơn hàng SEP. Cơ sở có thể tìm thấy ở đây.",
+    "token_count": 68,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "06:49",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "06:49"
+      ],
+      "timestamp": "06:49"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_065",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:01 | Timestamp: 07:01]\n\nCơ sở gửi số đơn hàng SEP này cho mục phận phân phối.",
+    "raw_content": "Cơ sở gửi số đơn hàng SEP này cho mục phận phân phối.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:01",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:01"
+      ],
+      "timestamp": "07:01"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_066",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:05 | Timestamp: 07:05]\n\nSau khi mục phận phân phối đã hoàn dưới SEP, phía nhập co sẽ được đẩy đến hệ thống DMS.",
+    "raw_content": "Sau khi mục phận phân phối đã hoàn dưới SEP, phía nhập co sẽ được đẩy đến hệ thống DMS.",
+    "token_count": 73,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:05",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:05"
+      ],
+      "timestamp": "07:05"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_067",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:14 | Timestamp: 07:14]\n\nĐể kiểm tra phía nhập co, cơ sở có thể copy số mã.",
+    "raw_content": "Để kiểm tra phía nhập co, cơ sở có thể copy số mã.",
+    "token_count": 64,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:14",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:14"
+      ],
+      "timestamp": "07:14"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_068",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:19 | Timestamp: 07:19]\n\nHoặc cơ sở có thể lọc theo số phiếu giao mà bộ phận phân phối đã gửi",
+    "raw_content": "Hoặc cơ sở có thể lọc theo số phiếu giao mà bộ phận phân phối đã gửi",
+    "token_count": 69,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:19",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:19"
+      ],
+      "timestamp": "07:19"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_069",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:26 | Timestamp: 07:26]\n\nTrước tiên, cơ sở cần tìm đến menu phiếu",
+    "raw_content": "Trước tiên, cơ sở cần tìm đến menu phiếu",
+    "token_count": 59,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:26",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:26"
+      ],
+      "timestamp": "07:26"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_070",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:30 | Timestamp: 07:30]\n\nSau đó, ưu",
+    "raw_content": "Sau đó, ưu",
+    "token_count": 50,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:30",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:30"
+      ],
+      "timestamp": "07:30"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_071",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:44 | Timestamp: 07:44]\n\nCơ sở tiến hành nhấn vào số phiếu mở phiếu",
+    "raw_content": "Cơ sở tiến hành nhấn vào số phiếu mở phiếu",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:44",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:44"
+      ],
+      "timestamp": "07:44"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_072",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:48 | Timestamp: 07:48]\n\nSau khi đã vào phiếu, cơ sở chuyển sang tin",
+    "raw_content": "Sau khi đã vào phiếu, cơ sở chuyển sang tin",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:48",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:48"
+      ],
+      "timestamp": "07:48"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_073",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 07:55 | Timestamp: 07:55]\n\nSau khi các thông tin đã đúng, cơ sở tiến hành phiếu",
+    "raw_content": "Sau khi các thông tin đã đúng, cơ sở tiến hành phiếu",
+    "token_count": 63,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "07:55",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "07:55"
+      ],
+      "timestamp": "07:55"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_074",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 08:02 | Timestamp: 08:02]\n\nỞ thanh công cụ, cơ sở chuyển trạng thái mở",
+    "raw_content": "Ở thanh công cụ, cơ sở chuyển trạng thái mở",
+    "token_count": 60,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "08:02",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "08:02"
+      ],
+      "timestamp": "08:02"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_075",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 08:06 | Timestamp: 08:06]\n\nTừ điều khiển,,",
+    "raw_content": "Từ điều khiển,,",
+    "token_count": 50,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "08:06",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "08:06"
+      ],
+      "timestamp": "08:06"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_076",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 08:10 | Timestamp: 08:10]\n\nSau đó hấn",
+    "raw_content": "Sau đó hấn",
+    "token_count": 50,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "08:10",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "08:10"
+      ],
+      "timestamp": "08:10"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_077",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 08:15 | Timestamp: 08:15]\n\nSau khi phiếu đã thái",
+    "raw_content": "Sau khi phiếu đã thái",
+    "token_count": 53,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "08:15",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "08:15"
+      ],
+      "timestamp": "08:15"
+    }
+  },
+  {
+    "chunk_id": "KETO002_2_don_dat_hang_po_phu_tung_chunk_078",
+    "content": "[Document: 2. Đơn đặt hàng PO phụ tùng | Role: accounting | Source: KeToan/2. Đơn đặt hàng PO phụ tùng.mp4 | Section: 2. Đơn đặt hàng PO phụ tùng > 08:18 | Timestamp: 08:18]\n\nCơ sở đã nhập kho thành công",
+    "raw_content": "Cơ sở đã nhập kho thành công",
+    "token_count": 56,
+    "metadata": {
+      "document": "2. Đơn đặt hàng PO phụ tùng",
+      "role": "accounting",
+      "source": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "08:18",
+      "subsection": null,
+      "heading_path": [
+        "2. Đơn đặt hàng PO phụ tùng",
+        "08:18"
+      ],
+      "timestamp": "08:18"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "chunk_id": "KETO936_demo_cai_tien_luong_ban_xmd_giao_dien_app_xmd_moi_chunk_001",
+    "content": "[Document: Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới | Role: accounting | Source: KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx | Section: Cải tiến luồng B2C bán XMĐ &amp; App XMĐ mới ( nghiệp vụ Kinh Doanh XMĐ)]\n\nPublished by: VinFast Global IT – Date: 18/01/2025",
+    "raw_content": "Published by: VinFast Global IT – Date: 18/01/2025",
+    "token_count": 78,
+    "metadata": {
+      "document": "Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới",
+      "role": "accounting",
+      "source": "KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx",
+      "page": null,
+      "slide": null,
+      "section": "Cải tiến luồng B2C bán XMĐ &amp; App XMĐ mới ( nghiệp vụ Kinh Doanh XMĐ)",
+      "subsection": null,
+      "heading_path": [
+        "Cải tiến luồng B2C bán XMĐ &amp; App XMĐ mới ( nghiệp vụ Kinh Doanh XMĐ)"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO936_demo_cai_tien_luong_ban_xmd_giao_dien_app_xmd_moi_chunk_002",
+    "content": "[Document: Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới | Role: accounting | Source: KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx | Section: Cải tiến Bán XMĐ mới]\n\n- 1- Tạo nhanh NVSO\n- 2- Tạo nhanh Khách hàng mới trên màn hình NVSO\n- 3- Ghép xe trực Đơn hàng NVSO",
+    "raw_content": "- 1- Tạo nhanh NVSO\n- 2- Tạo nhanh Khách hàng mới trên màn hình NVSO\n- 3- Ghép xe trực Đơn hàng NVSO",
+    "token_count": 84,
+    "metadata": {
+      "document": "Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới",
+      "role": "accounting",
+      "source": "KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx",
+      "page": null,
+      "slide": null,
+      "section": "Cải tiến Bán XMĐ mới",
+      "subsection": null,
+      "heading_path": [
+        "Cải tiến Bán XMĐ mới"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO936_demo_cai_tien_luong_ban_xmd_giao_dien_app_xmd_moi_chunk_003",
+    "content": "[Document: Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới | Role: accounting | Source: KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx | Section: Video Demo]\n\n- 1. Khu vực:\n- Quản lý bán hàng XMĐ\n- Quản lý bán hàng phụ kiện\n- Quản lý dịch vụ ()\n- Quản lý đặt hàng\n- Quản lý tồn kho\n- Thanh toán và đối soát\n- 2.Phân vùng dữ XMĐ",
+    "raw_content": "- 1. Khu vực:\n- Quản lý bán hàng XMĐ\n- Quản lý bán hàng phụ kiện\n- Quản lý dịch vụ ()\n- Quản lý đặt hàng\n- Quản lý tồn kho\n- Thanh toán và đối soát\n- 2.Phân vùng dữ XMĐ",
+    "token_count": 107,
+    "metadata": {
+      "document": "Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới",
+      "role": "accounting",
+      "source": "KeToan/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx",
+      "page": null,
+      "slide": null,
+      "section": "Video Demo",
+      "subsection": null,
+      "heading_path": [
+        "Video Demo"
+      ],
+      "timestamp": null
+    }
+  }
+]

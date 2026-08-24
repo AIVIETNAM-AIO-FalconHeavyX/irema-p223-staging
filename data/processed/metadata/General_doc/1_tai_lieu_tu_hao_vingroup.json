@@ -1,0 +1,29 @@
+{
+    "document_id": "GENE001",
+    "title": "1. Tài liệu Tự hào VinGroup",
+    "source_file": "1. Tài liệu Tự hào VinGroup.pdf",
+    "source_path": "General_doc/1. Tài liệu Tự hào VinGroup.pdf",
+    "file_hash": "sha256:146acfc608241d34b435146729ba64ebc8b1efd55a5fc6df3b30d66ecce14a14",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "general",
+    "category": "General_doc",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 18,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

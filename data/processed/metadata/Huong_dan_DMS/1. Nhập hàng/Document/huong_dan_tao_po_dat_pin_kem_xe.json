@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON435",
+    "title": "HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE",
+    "source_file": "HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE.docx",
+    "source_path": "Huong_dan_DMS/HƯỚNG DẪN TẠO PO ĐẶT PIN KÈM XE.docx",
+    "file_hash": "sha256:63f18cb2201735b5363d2edd4bb33d8c39b9be2c16f92e308aaea75520e70182",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

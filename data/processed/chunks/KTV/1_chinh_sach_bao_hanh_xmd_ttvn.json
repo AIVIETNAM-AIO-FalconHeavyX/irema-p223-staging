@@ -1,0 +1,191 @@
+[
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_001",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > NỘI DUNG CHÍNH]\n\n1. Chính sách 2. Chính sách tùng thay thế\n\n3. Trách ## 1. Chính sách bảo hành xe\n\n| Hạng mục | dung |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|\n| tượng dụng sản phẩm xe máy điện được VinFast sản xuất và phân phối chính thức qua hệ thống XDV/ĐLPP trên toàn quốc. | 1. Đối áp |\n| • Bảo hành là công việc sửa chữa, thay cập do lỗi, lắp ráp với điều kiện dưỡng đúng cách. • Phụ tùng thay, nhỏ nhất do VinFast cung cấp. • Thời hạn bảo hành giao xe tới chủ sở hữu ( Ngày Kích Hoạt Bảo Hành ). • hành có hiệu lực lãnh thổ, áp /ĐLPP của VinFast. Công việc bảo thực điều khoản và điều hành. • VinFast trách nhiệm thu hồi và thay thế sản phẩm mới cho khách hàng nếu | 2. hành |\n| • Xe đã được thống. • Thỏa mãn các điều khoản trong Sổ bảo hành. • Có đầy đủ thông tin chứng minh đã thực hiện bảo dưỡng đầy đủ, đúng định kỳ và đảm lượng sửa chữa /ĐLPP. | 3. Điều kiện |\n| Trong thời hạn, mọi điều hành vẫn được đảm sở hữu. Vui lòng thông báo việc thay /ĐLPP của VinFast để đảm lợi. | 4. Thừa kế bảo hành |",
+    "raw_content": "1. Chính sách 2. Chính sách tùng thay thế\n\n3. Trách ## 1. Chính sách bảo hành xe\n\n| Hạng mục | dung |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|\n| tượng dụng sản phẩm xe máy điện được VinFast sản xuất và phân phối chính thức qua hệ thống XDV/ĐLPP trên toàn quốc. | 1. Đối áp |\n| • Bảo hành là công việc sửa chữa, thay cập do lỗi, lắp ráp với điều kiện dưỡng đúng cách. • Phụ tùng thay, nhỏ nhất do VinFast cung cấp. • Thời hạn bảo hành giao xe tới chủ sở hữu ( Ngày Kích Hoạt Bảo Hành ). • hành có hiệu lực lãnh thổ, áp /ĐLPP của VinFast. Công việc bảo thực điều khoản và điều hành. • VinFast trách nhiệm thu hồi và thay thế sản phẩm mới cho khách hàng nếu | 2. hành |\n| • Xe đã được thống. • Thỏa mãn các điều khoản trong Sổ bảo hành. • Có đầy đủ thông tin chứng minh đã thực hiện bảo dưỡng đầy đủ, đúng định kỳ và đảm lượng sửa chữa /ĐLPP. | 3. Điều kiện |\n| Trong thời hạn, mọi điều hành vẫn được đảm sở hữu. Vui lòng thông báo việc thay /ĐLPP của VinFast để đảm lợi. | 4. Thừa kế bảo hành |",
+    "token_count": 478,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "NỘI DUNG CHÍNH",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "NỘI DUNG CHÍNH"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_002",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 5. Thời gian bảo hành]\n\n| Hạng mục | dung | Thời hạn bảo hành |\n|-----------------------------|----------------------------------------|--------------------------|\n| Xe máy điện pin LFP | 6 năm /không giới hạn km | Xe mới |\n| Pin LFP | 8 năm /không giới hạn km | |\n| Pin LFP | Pin khác (không phải pin LFP) | 3 năm /không giới hạn km |\n| Pin LFP | Ắc quy 12 V (Mua lần đầu ) | 1 năm /không giới hạn km |",
+    "raw_content": "| Hạng mục | dung | Thời hạn bảo hành |\n|-----------------------------|----------------------------------------|--------------------------|\n| Xe máy điện pin LFP | 6 năm /không giới hạn km | Xe mới |\n| Pin LFP | 8 năm /không giới hạn km | |\n| Pin LFP | Pin khác (không phải pin LFP) | 3 năm /không giới hạn km |\n| Pin LFP | Ắc quy 12 V (Mua lần đầu ) | 1 năm /không giới hạn km |",
+    "token_count": 154,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "5. Thời gian bảo hành",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "5. Thời gian bảo hành"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_003",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:]\n\n- Do sửa chữa, điều chỉnh, hoán cải không.\n- Sử dụng sai chức năng, ( đua xe, chở quá tải, gồ ghề ...).\n- Không tuân thủ lịch bảo dưỡng định kỳ;, sửa chữa không đúng sản xuất.\n- Hư hỏng phát sinh do tùng không, dầu mỡ, dung dịch, chất phụ\n- H ư hỏng do nạn, kiện ngập nước, hư hỏng gây ra, cát, sỏi, đá, vật cứng sắc nhọn... tác động vào xe trong vận hành.\n- Hư hỏng gây ra yếu tố nằm ngoài kiểm soát của nhà sản xuất bao gồm sự bất thường của nguồn điện,, động đất, bão, sét,, lũ lụt, thiên tai khác và những thiệt hại do gây ra.\n- ·Hư hỏng bề mặt gây ra yếu tố ngoài kiểm soát như: tàn thuốc lá, hóa chất,, nhựa cây, muối, mưa axit yếu tố tương tự khác",
+    "raw_content": "- Do sửa chữa, điều chỉnh, hoán cải không.\n- Sử dụng sai chức năng, ( đua xe, chở quá tải, gồ ghề ...).\n- Không tuân thủ lịch bảo dưỡng định kỳ;, sửa chữa không đúng sản xuất.\n- Hư hỏng phát sinh do tùng không, dầu mỡ, dung dịch, chất phụ\n- H ư hỏng do nạn, kiện ngập nước, hư hỏng gây ra, cát, sỏi, đá, vật cứng sắc nhọn... tác động vào xe trong vận hành.\n- Hư hỏng gây ra yếu tố nằm ngoài kiểm soát của nhà sản xuất bao gồm sự bất thường của nguồn điện,, động đất, bão, sét,, lũ lụt, thiên tai khác và những thiệt hại do gây ra.\n- ·Hư hỏng bề mặt gây ra yếu tố ngoài kiểm soát như: tàn thuốc lá, hóa chất,, nhựa cây, muối, mưa axit yếu tố tương tự khác",
+    "token_count": 256,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_004",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:]\n\n- T ình trạng chai tự nhiên của pin/ắc quy tối đa giảm dần theo thời gian do đặc tính chai tự nhiên và phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, môi\n- Các hiện tượng phồng, nứt, vỡ, cháy, nổ, bốc khói của pin/ắc quy do đỗ xe khác, hững hư hỏng của pin/ắc quy do không tuân thủ quy định bảo quản trong thời gian không.\n- Bảo hành sẽ không được áp,, điều chỉnh hạng dưỡng định kỳ\n- Những hiện tượng xảy ra mà VinFast đánh giá không ảnh hưởng đến chất lượng và sự hoạt động của xe như tiếng ồn,, vết thấm dầu, gỉ sét thường, sơn v.v\n- Các hư hỏng do, đĩa phanh, lốp, pin điều khiển, cầu chì,, xích, đĩa xích, cổ phốt, ổ bi, bu long, vít, dây đai v.v. nằm dầu, mỡ, dung dịch, chất phụ gia,",
+    "raw_content": "- T ình trạng chai tự nhiên của pin/ắc quy tối đa giảm dần theo thời gian do đặc tính chai tự nhiên và phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, môi\n- Các hiện tượng phồng, nứt, vỡ, cháy, nổ, bốc khói của pin/ắc quy do đỗ xe khác, hững hư hỏng của pin/ắc quy do không tuân thủ quy định bảo quản trong thời gian không.\n- Bảo hành sẽ không được áp,, điều chỉnh hạng dưỡng định kỳ\n- Những hiện tượng xảy ra mà VinFast đánh giá không ảnh hưởng đến chất lượng và sự hoạt động của xe như tiếng ồn,, vết thấm dầu, gỉ sét thường, sơn v.v\n- Các hư hỏng do, đĩa phanh, lốp, pin điều khiển, cầu chì,, xích, đĩa xích, cổ phốt, ổ bi, bu long, vít, dây đai v.v. nằm dầu, mỡ, dung dịch, chất phụ gia,",
+    "token_count": 265,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_005",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:]\n\n- Các trường hợp gạch xóa, cậy phá hoặc làm mất trạng thái nguyên bản các phụ tùng dẫn tới việc không xác định được phụ tùng bị nguyên bản trên xe. hư hỏng kéo theo do /NPP kiểm tra sửa chữa hư hỏng.\n- Hư hỏng xảy ra trong thời hạn bảo hành nhưng hạn bảo hành hết hiệu lực do chậm trễ của.\n- Trong phạm vi pháp, VinFast từ chối bất cứ trách nhiệm nào cho các tổn thất sinh khác liê n quan tới bảo hành xe như phí điện thoại, phí ăn ở,,, thiệt hại kinh.",
+    "raw_content": "- Các trường hợp gạch xóa, cậy phá hoặc làm mất trạng thái nguyên bản các phụ tùng dẫn tới việc không xác định được phụ tùng bị nguyên bản trên xe. hư hỏng kéo theo do /NPP kiểm tra sửa chữa hư hỏng.\n- Hư hỏng xảy ra trong thời hạn bảo hành nhưng hạn bảo hành hết hiệu lực do chậm trễ của.\n- Trong phạm vi pháp, VinFast từ chối bất cứ trách nhiệm nào cho các tổn thất sinh khác liê n quan tới bảo hành xe như phí điện thoại, phí ăn ở,,, thiệt hại kinh.",
+    "token_count": 194,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "6. hư hỏng và dịch vụ không thuộc phạm vi bảo hành:"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_006",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 2. Chính sách tùng thay thế]\n\nPhụ tùng thay thế (Số năm hoặc số km, tùy điều kiện nào đến trước từ ngày mua phụ tùng ghi trên hóa đơn)\n\n| Phụ tùng | Thời hạn bảo hành |\n|--------------------------------------------|---------------------------|\n| Phụ tùng (không bao gồm pin và ắc quy 12V) | 1 năm / không giới hạn km |\n| Pin LFP | 8 năm / không giới hạn km |\n| Pin khác (không phải pin LFP) | 3 năm / không giới hạn km |\n| Ắc quy 12V | 1 năm / không giới hạn km |\n\nLưu ý: Phụ tùng mua nhưng không thay thế tại XDV/ĐLPP sẽ không hành.",
+    "raw_content": "Phụ tùng thay thế (Số năm hoặc số km, tùy điều kiện nào đến trước từ ngày mua phụ tùng ghi trên hóa đơn)\n\n| Phụ tùng | Thời hạn bảo hành |\n|--------------------------------------------|---------------------------|\n| Phụ tùng (không bao gồm pin và ắc quy 12V) | 1 năm / không giới hạn km |\n| Pin LFP | 8 năm / không giới hạn km |\n| Pin khác (không phải pin LFP) | 3 năm / không giới hạn km |\n| Ắc quy 12V | 1 năm / không giới hạn km |\n\nLưu ý: Phụ tùng mua nhưng không thay thế tại XDV/ĐLPP sẽ không hành.",
+    "token_count": 196,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "2. Chính sách tùng thay thế",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "2. Chính sách tùng thay thế"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  },
+  {
+    "chunk_id": "KTV001_1_chinh_sach_bao_hanh_xmd_ttvn_chunk_007",
+    "content": "[Document: 1. Chinh sach bao hanh XMĐ TTVN | Role: general | Source: KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf | Section: 1. Chinh sach bảo hành XMĐ TTVN > 3. Trách]\n\nĐỌC KỸ HƯỚNG DẪN SỬ DỤNG XE: Đọc kỹ sách vận hành xe.\n\nSỬ DỤNG PIN VÀ BỘ SẠC CHÍNH HÃNG: Xe chỉ hoạt sạc chính hãng được sản xuất bởi VinFast hoặc nhà sản xuất do VinFast chỉ định. hư hỏng phát sinh do hoặc hướng dẫn của nhà sản xuất sẽ không thuộc phạm vi bảo hành.\n\nĐƯA XE ĐẾN BẢO HÀNH: Sửa chữa thực thống XDV/NPP của VinFast. Chủ xe có trách nhiệm đưa xe đến XDV/NPP của VinFast để nhận được sửa chữa bảo hành. tin và địa chỉ của các XDV/NPP có sẵn trên website https://vinfastauto.com\n\nTHỰC HIỆN BẢO DƯỠNG: dưỡng là hoạt, điều chỉnh, thay, phụ tùng định kỳ theo được nhằm duy trì chất lượng xe. được đến các XDV/NPP của VinFast kiểm tra định kỳ đúng sách.\n\nGHI CHÉP/LƯU GIỮ NHỮNG LẦN BẢO DƯỠNG XE: tư số 53/2014/TT-BGTVT của vận tải, nhiệm theo dõi ghi chép/ hồ sơ của những lần bảo dưỡng. sơ bảo dưỡng, kiểm tra và sửa chữa là cơ sở duyệt bảo hành.",
+    "raw_content": "ĐỌC KỸ HƯỚNG DẪN SỬ DỤNG XE: Đọc kỹ sách vận hành xe.\n\nSỬ DỤNG PIN VÀ BỘ SẠC CHÍNH HÃNG: Xe chỉ hoạt sạc chính hãng được sản xuất bởi VinFast hoặc nhà sản xuất do VinFast chỉ định. hư hỏng phát sinh do hoặc hướng dẫn của nhà sản xuất sẽ không thuộc phạm vi bảo hành.\n\nĐƯA XE ĐẾN BẢO HÀNH: Sửa chữa thực thống XDV/NPP của VinFast. Chủ xe có trách nhiệm đưa xe đến XDV/NPP của VinFast để nhận được sửa chữa bảo hành. tin và địa chỉ của các XDV/NPP có sẵn trên website https://vinfastauto.com\n\nTHỰC HIỆN BẢO DƯỠNG: dưỡng là hoạt, điều chỉnh, thay, phụ tùng định kỳ theo được nhằm duy trì chất lượng xe. được đến các XDV/NPP của VinFast kiểm tra định kỳ đúng sách.\n\nGHI CHÉP/LƯU GIỮ NHỮNG LẦN BẢO DƯỠNG XE: tư số 53/2014/TT-BGTVT của vận tải, nhiệm theo dõi ghi chép/ hồ sơ của những lần bảo dưỡng. sơ bảo dưỡng, kiểm tra và sửa chữa là cơ sở duyệt bảo hành.",
+    "token_count": 280,
+    "metadata": {
+      "document": "1. Chinh sach bao hanh XMĐ TTVN",
+      "role": "general",
+      "source": "KTV/1. Chinh sach bao hanh XMĐ TTVN.pdf",
+      "page": null,
+      "slide": null,
+      "section": "3. Trách",
+      "subsection": null,
+      "heading_path": [
+        "1. Chinh sach bảo hành XMĐ TTVN",
+        "3. Trách"
+      ],
+      "timestamp": null,
+      "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+      ]
+    }
+  }
+]

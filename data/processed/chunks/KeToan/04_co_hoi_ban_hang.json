@@ -1,0 +1,202 @@
+[
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_001",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 00:00 | Timestamp: 00:00]\n\nTại màn hình cơ hội bán hàng, chọn khách hàng tiềm năng.",
+    "raw_content": "Tại màn hình cơ hội bán hàng, chọn khách hàng tiềm năng.",
+    "token_count": 55,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_002",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 00:11 | Timestamp: 00:11]\n\nTại đây các anh chị sẽ bổ sung tờ tùy.",
+    "raw_content": "Tại đây các anh chị sẽ bổ sung tờ tùy.",
+    "token_count": 52,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:11",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "00:11"
+      ],
+      "timestamp": "00:11"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_003",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 00:30 | Timestamp: 00:30]\n\n anh chị bổ sung tin vào trường địa chỉ, email đoạn doanh nghiệp.",
+    "raw_content": " anh chị bổ sung tin vào trường địa chỉ, email đoạn doanh nghiệp.",
+    "token_count": 57,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:30",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "00:30"
+      ],
+      "timestamp": "00:30"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_004",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 00:54 | Timestamp: 00:54]\n\nAnh chị lưu ý là đối với khách hàng là công ty,",
+    "raw_content": "Anh chị lưu ý là đối với khách hàng là công ty,",
+    "token_count": 54,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:54",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "00:54"
+      ],
+      "timestamp": "00:54"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_005",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 00:59 | Timestamp: 00:59]\n\ncác thông tin sẽ được đưa vào trường địa chỉ, email đoạn doanh nghiệp.",
+    "raw_content": "các thông tin sẽ được đưa vào trường địa chỉ, email đoạn doanh nghiệp.",
+    "token_count": 59,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:59",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "00:59"
+      ],
+      "timestamp": "00:59"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_006",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 01:00 | Timestamp: 01:00]\n\n anh chị sẽ đưa điện tổ chức, còn phần này chỉ dành cho khách hàng là cá nhân.",
+    "raw_content": " anh chị sẽ đưa điện tổ chức, còn phần này chỉ dành cho khách hàng là cá nhân.",
+    "token_count": 63,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_007",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 01:05 | Timestamp: 01:05]\n\nSau khi đưa điện bổ sung, anh chị ấn lưu.",
+    "raw_content": "Sau khi đưa điện bổ sung, anh chị ấn lưu.",
+    "token_count": 52,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:05",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "01:05"
+      ],
+      "timestamp": "01:05"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_008",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 01:12 | Timestamp: 01:12]\n\nSau đó ấn nút mũi.",
+    "raw_content": "Sau đó ấn nút mũi.",
+    "token_count": 45,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:12",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "01:12"
+      ],
+      "timestamp": "01:12"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_009",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 01:19 | Timestamp: 01:19]\n\nTại màn hình cơ hội bán hàng, ấn mục vào giá tổng tổng mới.",
+    "raw_content": "Tại màn hình cơ hội bán hàng, ấn mục vào giá tổng tổng mới.",
+    "token_count": 57,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:19",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "01:19"
+      ],
+      "timestamp": "01:19"
+    }
+  },
+  {
+    "chunk_id": "KETO004_04_co_hoi_ban_hang_chunk_010",
+    "content": "[Document: 04. Cơ hội bán hàng | Role: accounting | Source: KeToan/04. Cơ hội bán hàng.mp4 | Section: 04. Cơ hội bán hàng > 01:26 | Timestamp: 01:26]\n\n anh chị ấn mũi.",
+    "raw_content": " anh chị ấn mũi.",
+    "token_count": 44,
+    "metadata": {
+      "document": "04. Cơ hội bán hàng",
+      "role": "accounting",
+      "source": "KeToan/04. Cơ hội bán hàng.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:26",
+      "subsection": null,
+      "heading_path": [
+        "04. Cơ hội bán hàng",
+        "01:26"
+      ],
+      "timestamp": "01:26"
+    }
+  }
+]

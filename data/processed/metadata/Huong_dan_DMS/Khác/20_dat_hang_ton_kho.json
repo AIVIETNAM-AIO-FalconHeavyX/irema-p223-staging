@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON020",
+    "title": "20. Đặt hàng tồn kho",
+    "source_file": "20. Đặt hàng tồn kho.mp4",
+    "source_path": "Huong_dan_DMS/20. Đặt hàng tồn kho.mp4",
+    "file_hash": "sha256:27fc92db35a67143eb38c5014467c780ba066967d491465353651b5c0877770e",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 403.052,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

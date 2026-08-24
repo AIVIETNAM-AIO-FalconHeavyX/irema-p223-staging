@@ -1,0 +1,27 @@
+{
+    "document_id": "GENE001",
+    "title": "gate1 SDD VF Onboarding Copilot",
+    "source_file": "gate1_SDD_VF_Onboarding_Copilot.pdf",
+    "source_path": "General_doc/gate1_SDD_VF_Onboarding_Copilot.pdf",
+    "file_hash": "sha256:a668cc26c089a9e7fed6ed1a7ae22e5a6cbdf99ffd35c3ad26a73fcb0e77808a",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "general",
+    "category": "General_doc",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 5,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-19"
+}

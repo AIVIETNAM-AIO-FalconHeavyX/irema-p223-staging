@@ -1,0 +1,25 @@
+{
+    "document_id": "SALE004",
+    "title": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ",
+    "source_file": "4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf",
+    "source_path": "Sale/4. Tài liệu Quy trình và Kỹ năng bán hàng XMĐ.pdf",
+    "file_hash": "sha256:a4cc15be988e75a3fe0bb9f307fa430ed423ff6c40dc0d7320fd29fd6bbcecec",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "sales",
+    "category": "Sale",
+    "access_scope": [
+        "sales"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 56,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

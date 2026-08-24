@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON433",
+    "title": "Demo   Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới",
+    "source_file": "Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx",
+    "source_path": "Huong_dan_DMS/Demo - Cải tiến Luồng bán XMĐ & Giao diện App XMĐ mới.pptx",
+    "file_hash": "sha256:0d5dc9a5ac65519b9c862f4e36755b437c4c47226ea4037a52bb1d9be6b6be9d",
+    "document_type": "pptx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 12,
+    "slides": 12,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

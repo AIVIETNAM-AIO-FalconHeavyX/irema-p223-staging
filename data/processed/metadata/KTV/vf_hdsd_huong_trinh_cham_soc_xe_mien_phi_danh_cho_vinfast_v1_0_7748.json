@@ -1,0 +1,25 @@
+{
+    "document_id": "KTV001",
+    "title": "VF HDSD HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0 7748",
+    "source_file": "VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+    "source_path": "KTV/VF_HDSD_HƯƠNG TRÌNH CHĂM SÓC XE MIỄN PHÍ DÀNH CHO VINFAST V1.0_7748.docx",
+    "file_hash": "sha256:1d32642d8df5387296008fc2a503cafea9b8620296908bf4f01c965357ffe973",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "technician",
+    "category": "KTV",
+    "access_scope": [
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

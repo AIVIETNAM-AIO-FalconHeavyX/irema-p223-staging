@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_001",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:00 | Timestamp: 00:00]\n\nHướng dẫn tạo hóa đơn pin, có thể chúng ta sẽ vào mục kế toán, chọn phần hóa đơn, chọn tạo mới,",
+    "raw_content": "Hướng dẫn tạo hóa đơn pin, có thể chúng ta sẽ vào mục kế toán, chọn phần hóa đơn, chọn tạo mới,",
+    "token_count": 68,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_002",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:12 | Timestamp: 00:12]\n\nlại phần thông tin đặt hàng, chọn trường MVS Accessory Invoice là Yes, hóa đơn phụ kiện là Yes,",
+    "raw_content": "lại phần thông tin đặt hàng, chọn trường MVS Accessory Invoice là Yes, hóa đơn phụ kiện là Yes,",
+    "token_count": 66,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:12",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:12"
+      ],
+      "timestamp": "00:12"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_003",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:25 | Timestamp: 00:25]\n\nsau đó chúng ta sẽ điền số đơn hàng bán xe vào, thông tin khách hàng sẽ được hệ thống điền.",
+    "raw_content": "sau đó chúng ta sẽ điền số đơn hàng bán xe vào, thông tin khách hàng sẽ được hệ thống điền.",
+    "token_count": 67,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:25",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:25"
+      ],
+      "timestamp": "00:25"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_004",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:33 | Timestamp: 00:33]\n\nTiếp theo chỉ tiêu phân tích 1 chúng ta sẽ điền số 0, chỉ tiêu phân tích 2 sẽ điền số 0,",
+    "raw_content": "Tiếp theo chỉ tiêu phân tích 1 chúng ta sẽ điền số 0, chỉ tiêu phân tích 2 sẽ điền số 0,",
+    "token_count": 68,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:33",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:33"
+      ],
+      "timestamp": "00:33"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_005",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:43 | Timestamp: 00:43]\n\nvà chỉ tiêu phân tích 3 điền 3 số 0, kiểm tra lại thông tin và sau đó chọn lưu.",
+    "raw_content": "và chỉ tiêu phân tích 3 điền 3 số 0, kiểm tra lại thông tin và sau đó chọn lưu.",
+    "token_count": 65,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:43",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:43"
+      ],
+      "timestamp": "00:43"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_006",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 00:55 | Timestamp: 00:55]\n\nSau khi lưu thành công hệ thống trả lại mã hóa đơn và hiển thị số tiền hóa đơn.",
+    "raw_content": "Sau khi lưu thành công hệ thống trả lại mã hóa đơn và hiển thị số tiền hóa đơn.",
+    "token_count": 64,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:55",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "00:55"
+      ],
+      "timestamp": "00:55"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_007",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 01:23 | Timestamp: 01:23]\n\nSau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "raw_content": "Sau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "token_count": 77,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:23",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "01:23"
+      ],
+      "timestamp": "01:23"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_008",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 01:38 | Timestamp: 01:38]\n\nSau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "raw_content": "Sau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "token_count": 77,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:38",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "01:38"
+      ],
+      "timestamp": "01:38"
+    }
+  },
+  {
+    "chunk_id": "GENE018_18_tao_hoa_don_pin_chunk_009",
+    "content": "[Document: 18. Tạo hóa đơn PIN | Role: general | Source: General_doc/18. Tạo hóa đơn PIN.mp4 | Section: 18. Tạo hóa đơn PIN > 01:39 | Timestamp: 01:39]\n\nSau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "raw_content": "Sau khi hóa đơn pin đã được phát hành thành công, cơ sở thực hiện gắn số hóa đơn và đẩy hóa đơn lên PNPT ngay lại hướng dẫn.",
+    "token_count": 77,
+    "metadata": {
+      "document": "18. Tạo hóa đơn PIN",
+      "role": "general",
+      "source": "General_doc/18. Tạo hóa đơn PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:39",
+      "subsection": null,
+      "heading_path": [
+        "18. Tạo hóa đơn PIN",
+        "01:39"
+      ],
+      "timestamp": "01:39"
+    }
+  }
+]

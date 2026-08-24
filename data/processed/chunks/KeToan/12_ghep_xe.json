@@ -1,0 +1,342 @@
+[
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_001",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:00 | Timestamp: 00:00]\n\nSau khi đơn hàng đã lên trạng thái phê duyệt,, sẽ tiến hành ghép xe.",
+    "raw_content": "Sau khi đơn hàng đã lên trạng thái phê duyệt,, sẽ tiến hành ghép xe.",
+    "token_count": 52,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_002",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:06 | Timestamp: 00:06]\n\nCác anh chị chọn vào dấu 3 chấm, chọn ghép xe,, ghép xe,.",
+    "raw_content": "Các anh chị chọn vào dấu 3 chấm, chọn ghép xe,, ghép xe,.",
+    "token_count": 49,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:06",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:06"
+      ],
+      "timestamp": "00:06"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_003",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:19 | Timestamp: 00:19]\n\nTại bàn hình ghép xe,, chọn,,.",
+    "raw_content": "Tại bàn hình ghép xe,, chọn,,.",
+    "token_count": 42,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:19",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:19"
+      ],
+      "timestamp": "00:19"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_004",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:26 | Timestamp: 00:26]\n\nTại phần số tồn kho, anh chị ấn vào biểu tượng kính lúc.",
+    "raw_content": "Tại phần số tồn kho, anh chị ấn vào biểu tượng kính lúc.",
+    "token_count": 49,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:26",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:26"
+      ],
+      "timestamp": "00:26"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_005",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:32 | Timestamp: 00:32]\n\nHệ thống sẽ đưa ra danh sách các xe tương ứng với sản phẩm mà đã chọn, ở trạng thái tồn sẵn,.",
+    "raw_content": "Hệ thống sẽ đưa ra danh sách các xe tương ứng với sản phẩm mà đã chọn, ở trạng thái tồn sẵn,.",
+    "token_count": 60,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:32",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:32"
+      ],
+      "timestamp": "00:32"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_006",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:48 | Timestamp: 00:48]\n\nSau đó,.",
+    "raw_content": "Sau đó,.",
+    "token_count": 36,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:48",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:48"
+      ],
+      "timestamp": "00:48"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_007",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 00:56 | Timestamp: 00:56]\n\nSau khi lưu và hệ thống đã trả mã phiếu ghép xe như thế này, anh chị chọn phiếu ghép xe này.",
+    "raw_content": "Sau khi lưu và hệ thống đã trả mã phiếu ghép xe như thế này, anh chị chọn phiếu ghép xe này.",
+    "token_count": 60,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:56",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "00:56"
+      ],
+      "timestamp": "00:56"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_008",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:20 | Timestamp: 01:20]\n\nChúng ta quay trở.",
+    "raw_content": "Chúng ta quay trở.",
+    "token_count": 39,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:20",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:20"
+      ],
+      "timestamp": "01:20"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_009",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:26 | Timestamp: 01:26]\n\nKhi ghép xe, trạng thái sang trạng thái là.",
+    "raw_content": "Khi ghép xe, trạng thái sang trạng thái là.",
+    "token_count": 45,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:26",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:26"
+      ],
+      "timestamp": "01:26"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_010",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:35 | Timestamp: 01:35]\n\nVà để hủy phiếu ghép xe thì chúng ta sẽ thực hiện tương tự, là vào dầu 3 chấm, chọn ghép xe.",
+    "raw_content": "Và để hủy phiếu ghép xe thì chúng ta sẽ thực hiện tương tự, là vào dầu 3 chấm, chọn ghép xe.",
+    "token_count": 60,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:35",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:35"
+      ],
+      "timestamp": "01:35"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_011",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:43 | Timestamp: 01:43]\n\nVà chọn ghép xe.",
+    "raw_content": "Và chọn ghép xe.",
+    "token_count": 38,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:43",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:43"
+      ],
+      "timestamp": "01:43"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_012",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:48 | Timestamp: 01:48]\n\nPhần phân loại, sẽ chọn là.",
+    "raw_content": "Phần phân loại, sẽ chọn là.",
+    "token_count": 41,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:48",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:48"
+      ],
+      "timestamp": "01:48"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_013",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:53 | Timestamp: 01:53]\n\nTại đây điền là số ghép xe.",
+    "raw_content": "Tại đây điền là số ghép xe.",
+    "token_count": 41,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:53",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:53"
+      ],
+      "timestamp": "01:53"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_014",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 01:56 | Timestamp: 01:56]\n\nChọn phần kính lúc, hệ thống sẽ hiển thị số phiếu ghép xe vượt của đợt.",
+    "raw_content": "Chọn phần kính lúc, hệ thống sẽ hiển thị số phiếu ghép xe vượt của đợt.",
+    "token_count": 53,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:56",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "01:56"
+      ],
+      "timestamp": "01:56"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_015",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 02:05 | Timestamp: 02:05]\n\nAnh chị lưu ý, tuyệt đối không xóa hoặc cứng kích hoạt phiếu ghép xe để, hiện phiếu hủy ghép xe.",
+    "raw_content": "Anh chị lưu ý, tuyệt đối không xóa hoặc cứng kích hoạt phiếu ghép xe để, hiện phiếu hủy ghép xe.",
+    "token_count": 59,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:05",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "02:05"
+      ],
+      "timestamp": "02:05"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_016",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 02:13 | Timestamp: 02:13]\n\nHãy đăng ký kênh kênh.",
+    "raw_content": "Hãy đăng ký kênh kênh.",
+    "token_count": 40,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:13",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "02:13"
+      ],
+      "timestamp": "02:13"
+    }
+  },
+  {
+    "chunk_id": "KETO012_12_ghep_xe_chunk_017",
+    "content": "[Document: 12. Ghép xe | Role: accounting | Source: KeToan/12. Ghép xe.mp4 | Section: 12. Ghép xe > 02:17 | Timestamp: 02:17]\n\nCảm ơn bạn đã theo dõi và hẹn gặp lại.",
+    "raw_content": "Cảm ơn bạn đã theo dõi và hẹn gặp lại.",
+    "token_count": 44,
+    "metadata": {
+      "document": "12. Ghép xe",
+      "role": "accounting",
+      "source": "KeToan/12. Ghép xe.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:17",
+      "subsection": null,
+      "heading_path": [
+        "12. Ghép xe",
+        "02:17"
+      ],
+      "timestamp": "02:17"
+    }
+  }
+]

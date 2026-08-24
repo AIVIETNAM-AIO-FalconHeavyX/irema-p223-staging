@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON462",
+    "title": "HƯỚNG DẪN TẠO ĐƠN MUA HÀNG XE",
+    "source_file": "HƯỚNG DẪN TẠO ĐƠN MUA HÀNG XE.docx",
+    "source_path": "Huong_dan_DMS/HƯỚNG DẪN TẠO ĐƠN MUA HÀNG XE.docx",
+    "file_hash": "sha256:7b977f2cc25e913567d76aee386e32e5d5f398b0587efc67f907feb4a9c6f99b",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

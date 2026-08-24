@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO002",
+    "title": "02. Tạo khách hàng tiềm năng",
+    "source_file": "02. Tạo khách hàng tiềm năng.mp4",
+    "source_path": "KeToan/02. Tạo khách hàng tiềm năng.mp4",
+    "file_hash": "sha256:ed6b6dd2c5bf1ff46fbe6de0b02d15bc317061ecb9bbd90081326190a7953812",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 127.036375,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

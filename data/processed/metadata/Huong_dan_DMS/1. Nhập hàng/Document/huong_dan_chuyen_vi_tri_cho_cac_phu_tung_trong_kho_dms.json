@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON281",
+    "title": "Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS",
+    "source_file": "Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS.docx",
+    "source_path": "Huong_dan_DMS/Hướng dẫn chuyển vị trí cho các phụ tùng trong kho DMS.docx",
+    "file_hash": "sha256:d6da7eeb5bfa059c3f6e6758d9617f5f2e67c74daa8984013efd6c7f361b203a",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

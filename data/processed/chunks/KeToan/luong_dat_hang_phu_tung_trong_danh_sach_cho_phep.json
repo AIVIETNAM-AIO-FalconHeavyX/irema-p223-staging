@@ -1,0 +1,21 @@
+[
+  {
+    "chunk_id": "KETO758_luong_dat_hang_phu_tung_trong_danh_sach_cho_phep_chunk_001",
+    "content": "[Document: Luồng đặt hàng phụ tùng trong Danh sách cho phép | Role: accounting | Source: KeToan/Luồng đặt hàng phụ tùng trong Danh sách cho phép.docx | Section: Luồng đặt hàng phụ tùng trong Danh sách cho phép]\n\n**luồng theo Whitelist part/Danh sách\n\n1. /Showroom chỉ được phép đặt phụ tùng nằm trong Whitelist/Danh sách. Nếu cơ sở gán phụ tùng không được active whitelist, hệ thống Hệ thống hiển thị Pop-up  “ **Mã sản phẩm: [XXXXX], [YYYYY], tra lại”/ “These product codes like [XXXX],[YYYYY] is not supplied, please recheck** ” -&gt; Cơ sở sẽ phải chọn X để xóa các line phụ tùng hệ thống cảnh báo thì mới có thể lưu chi tiết đơn hàng.\n\n2. Với những đơn hàng đã gán phụ tùng whitelist vẫn đang ở trạng thái mở, cơ sở tùng đều active whitelist. Nếu trên cũ mã không active whitelist hệ thống sẽ đưa ra cảnh báo: “ **Mã sản phẩm: [XXXXX], [YYYYY], tra lại”/ “These product codes like [XXXX],[YYYYY] is not supplied, please recheck** ” -&gt; Cơ sở cần phải xóa line phụ tùng đó ra khỏi tiếp.\n\n3. Để kiểm tra phụ tùng trong whitelist/Danh sách sở vào ** tồn kho -&gt;; Whitelist -&gt; View active** hiển mã phụ tùng cơ sở được phép đặt hàng. Nếu mã cơ sở cần đặt không hiển ứng đơn hàng để kiểm tra.\n\n4. Đặt hàng tự động (RNN): Chỉ chạy tự động đặt hàng đối với các Parts có config Min-Max và nằm trong whitelist.\n\n5. Whitelist sẽ được SAP chạy đồng bộ hàng ngày lên DMS.\n\nTheo như phòng phụ nếu cơ sở có thắc mã phụ tùng Whitelist/Danh sách, cơ sở có thể lên STP để kiểm tra nguyên nhân hoặc liên hệ Phòng phụ tùng.",
+    "raw_content": "**luồng theo Whitelist part/Danh sách\n\n1. /Showroom chỉ được phép đặt phụ tùng nằm trong Whitelist/Danh sách. Nếu cơ sở gán phụ tùng không được active whitelist, hệ thống Hệ thống hiển thị Pop-up  “ **Mã sản phẩm: [XXXXX], [YYYYY], tra lại”/ “These product codes like [XXXX],[YYYYY] is not supplied, please recheck** ” -&gt; Cơ sở sẽ phải chọn X để xóa các line phụ tùng hệ thống cảnh báo thì mới có thể lưu chi tiết đơn hàng.\n\n2. Với những đơn hàng đã gán phụ tùng whitelist vẫn đang ở trạng thái mở, cơ sở tùng đều active whitelist. Nếu trên cũ mã không active whitelist hệ thống sẽ đưa ra cảnh báo: “ **Mã sản phẩm: [XXXXX], [YYYYY], tra lại”/ “These product codes like [XXXX],[YYYYY] is not supplied, please recheck** ” -&gt; Cơ sở cần phải xóa line phụ tùng đó ra khỏi tiếp.\n\n3. Để kiểm tra phụ tùng trong whitelist/Danh sách sở vào ** tồn kho -&gt;; Whitelist -&gt; View active** hiển mã phụ tùng cơ sở được phép đặt hàng. Nếu mã cơ sở cần đặt không hiển ứng đơn hàng để kiểm tra.\n\n4. Đặt hàng tự động (RNN): Chỉ chạy tự động đặt hàng đối với các Parts có config Min-Max và nằm trong whitelist.\n\n5. Whitelist sẽ được SAP chạy đồng bộ hàng ngày lên DMS.\n\nTheo như phòng phụ nếu cơ sở có thắc mã phụ tùng Whitelist/Danh sách, cơ sở có thể lên STP để kiểm tra nguyên nhân hoặc liên hệ Phòng phụ tùng.",
+    "token_count": 399,
+    "metadata": {
+      "document": "Luồng đặt hàng phụ tùng trong Danh sách cho phép",
+      "role": "accounting",
+      "source": "KeToan/Luồng đặt hàng phụ tùng trong Danh sách cho phép.docx",
+      "page": null,
+      "slide": null,
+      "section": "Luồng đặt hàng phụ tùng trong Danh sách cho phép",
+      "subsection": null,
+      "heading_path": [
+        "Luồng đặt hàng phụ tùng trong Danh sách cho phép"
+      ],
+      "timestamp": null
+    }
+  }
+]

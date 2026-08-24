@@ -1,0 +1,29 @@
+{
+    "document_id": "GENE002",
+    "title": "2. Lịch sử & Tổng quan sản phẩm XMĐ 260617",
+    "source_file": "2. Lịch sử & Tổng quan sản phẩm XMĐ_260617.pdf",
+    "source_path": "General_doc/2. Lịch sử & Tổng quan sản phẩm XMĐ_260617.pdf",
+    "file_hash": "sha256:d9b4b3b543755410e75b90ab8a99fd9432067cefc6131b9853ea742ee0ef723e",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "general",
+    "category": "General_doc",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 30,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

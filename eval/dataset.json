@@ -1,0 +1,57 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "Tiêu chuẩn về diện mạo tác phong và giao tiếp nhân sự bán hàng xe máy điện",
+    "role": "sales",
+    "expected_document_id": ["SALE003", "3_1_tieu_chuan_dich_vu"],
+    "expected_section": "Slide 2",
+    "query_type": "text",
+    "expected_answer": "Nhân sự bán hàng cần tuân thủ tiêu chuẩn diện mạo lịch sự, trang phục đúng quy định VinFast, giao tiếp niềm nở, chu đáo và chuyên nghiệp với khách hàng."
+  },
+  {
+    "query_id": "Q002",
+    "query": "Thời gian bảo hành pin LFP và ắc quy 12V xe máy điện VinFast là bao nhiêu năm?",
+    "role": "technician",
+    "expected_document_id": ["KTV001", "1_chinh_sach_bao_hanh"],
+    "expected_section": "Thời gian bảo hành",
+    "query_type": "table",
+    "expected_answer": "Pin LFP bảo hành 8 năm (không giới hạn quãng đường). Ắc quy 12V bảo hành 1 năm."
+  },
+  {
+    "query_id": "Q003",
+    "query": "Hướng dẫn đăng nhập hệ thống DMS và quy luật kiểm tra trùng khi tạo lead",
+    "role": "accounting",
+    "expected_document_id": ["KETO001", "KETO003", "01_huong_dan_dang_nhap_dms", "03_quy_luat_kiem_tra_trung"],
+    "expected_section": "Đăng nhập",
+    "query_type": "procedure",
+    "expected_answer": "Đăng nhập DMS bằng tài khoản đại lý được cấp. Khi tạo Lead mới, hệ thống tự động kiểm tra trùng số điện thoại và CCCD trong hệ thống."
+  },
+  {
+    "query_id": "Q004",
+    "query": "Quy trình claim bù tồn kho xe máy điện dành cho nhà phân phối",
+    "role": "technician",
+    "expected_document_id": ["KTV001", "vf_hdsd_luong_claim_bu_ton"],
+    "expected_section": "Claim",
+    "query_type": "procedure",
+    "expected_answer": "Quy trình claim bù tồn kho yêu cầu kiểm tra danh sách xe đủ điều kiện, tạo yêu cầu claim trên cổng portal và đính kèm hồ sơ đối soát."
+  },
+  {
+    "query_id": "Q005",
+    "query": "Thanh lý chấm dứt hợp đồng thuê pin xe máy điện và kích hoạt lại",
+    "role": "accounting",
+    "expected_document_id": ["KETO004", "vf_hdsd_thanh_ly_cham_dut"],
+    "expected_section": "Thanh lý",
+    "query_type": "procedure",
+    "expected_answer": "Thực hiện thanh lý hợp đồng thuê pin trên hệ thống DMS, kiểm tra công nợ tồn đọng và hoàn trả pin theo biên bản bàn giao."
+  },
+  {
+    "query_id": "Q006",
+    "query": "Thời gian bảo hành xe máy điện pin LFP là bao nhiêu năm",
+    "role": "sales",
+    "expected_document_id": ["KTV001", "1_chinh_sach_bao_hanh"],
+    "expected_section": "Thời gian bảo hành",
+    "unauthorized_roles": ["technician"],
+    "query_type": "security_test",
+    "expected_answer": "Thời gian bảo hành xe máy điện VinFast trang bị pin LFP là 6 năm hoặc 30.000 km đối với thân xe, và 8 năm đối với khối pin LFP."
+  }
+]

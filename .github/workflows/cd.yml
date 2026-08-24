@@ -1,0 +1,79 @@
+name: CD — Deploy to Production
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: "Target environment"
+        required: true
+        default: "production"
+        type: choice
+        options:
+          - production
+          - staging
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    environment: ${{ github.event.inputs.environment || 'production' }}
+    concurrency:
+      group: deploy-${{ github.event.inputs.environment || 'production' }}
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pre-deploy checks (lint + tests)
+        run: |
+          ruff check src/ tests/
+          pytest tests/ -v --tb=short -q
+        env:
+          APP_ENV: test
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DATABASE_URL: sqlite:///./data/app.db
+          JWT_SECRET_KEY: ${{ secrets.JWT_SECRET_KEY }}
+          LANGFUSE_SECRET_KEY: ${{ secrets.LANGFUSE_SECRET_KEY || '' }}
+          LANGFUSE_PUBLIC_KEY: ${{ secrets.LANGFUSE_PUBLIC_KEY || '' }}
+          LANGFUSE_HOST: ${{ secrets.LANGFUSE_HOST || 'http://localhost:3000' }}
+
+      - name: Build Docker image
+        run: |
+          docker build -t vinfast-onboarding:${{ github.sha }} .
+          docker tag vinfast-onboarding:${{ github.sha }} vinfast-onboarding:latest
+
+      - name: Deploy with Docker Compose
+        run: |
+          docker compose pull || true
+          docker compose up -d --build --remove-orphans
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          JWT_SECRET_KEY: ${{ secrets.JWT_SECRET_KEY }}
+          LANGFUSE_SECRET_KEY: ${{ secrets.LANGFUSE_SECRET_KEY || '' }}
+          LANGFUSE_PUBLIC_KEY: ${{ secrets.LANGFUSE_PUBLIC_KEY || '' }}
+          LANGFUSE_HOST: ${{ secrets.LANGFUSE_HOST || 'http://localhost:3000' }}
+          MINIO_ENDPOINT: ${{ secrets.MINIO_ENDPOINT || '' }}
+          MINIO_ACCESS_KEY: ${{ secrets.MINIO_ACCESS_KEY || '' }}
+          MINIO_SECRET_KEY: ${{ secrets.MINIO_SECRET_KEY || '' }}
+
+      - name: Health check
+        run: |
+          sleep 10
+          curl --fail http://localhost:8000/health || \
+          (echo "Health check failed!" && docker compose logs && exit 1)
+
+      - name: Notify deployment status
+        if: always()
+        run: |
+          echo "Deployment to ${{ github.event.inputs.environment || 'production' }} completed with status: ${{ job.status }}"

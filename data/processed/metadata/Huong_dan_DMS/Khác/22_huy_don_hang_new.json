@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON022",
+    "title": "22. Hủy đơn hàng (new)",
+    "source_file": "22. Hủy đơn hàng (new).mp4",
+    "source_path": "Huong_dan_DMS/22. Hủy đơn hàng (new).mp4",
+    "file_hash": "sha256:f56948d68cb1bb62207ac49b952ed7e23ce8359e6ef0e84afa48cb950c4e472e",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 410.668125,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

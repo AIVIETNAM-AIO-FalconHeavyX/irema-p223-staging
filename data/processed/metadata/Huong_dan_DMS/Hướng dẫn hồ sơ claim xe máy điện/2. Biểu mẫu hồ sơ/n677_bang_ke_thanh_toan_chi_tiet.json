@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON677",
+    "title": "N677 Bảng kế thanh toán chi tiết",
+    "source_file": "N677 Bảng kế thanh toán chi tiết.xlsx",
+    "source_path": "Huong_dan_DMS/N677 Bảng kế thanh toán chi tiết.xlsx",
+    "file_hash": "sha256:ef128a326541b1cf22b6979fb3e049f98d79d7db0594c747fc918d06116a9ded",
+    "document_type": "xlsx",
+    "content_type": "document",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 3,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

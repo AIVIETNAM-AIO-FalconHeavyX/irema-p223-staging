@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO449",
+    "title": "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện",
+    "source_file": "Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx",
+    "source_path": "KeToan/Tài liệu hướng dẫn sử dụng luồng cải tiến xe máy điện.docx",
+    "file_hash": "sha256:c059e533747ec8e455da47261673f619c67cda7f73f2015851e217d7c473fe18",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

@@ -1,0 +1,682 @@
+[
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_001",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:00 | Timestamp: 00:00]\n\nKhi đơn hàng đang ở trạng thái, hệ thống.",
+    "raw_content": "Khi đơn hàng đang ở trạng thái, hệ thống.",
+    "token_count": 53,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:00",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:00"
+      ],
+      "timestamp": "00:00"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_002",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:06 | Timestamp: 00:06]\n\nĐể tìm bản ghi này, dấu 3 chấm, kéo dưới cùng và tìm BATTERY RENTAL.",
+    "raw_content": "Để tìm bản ghi này, dấu 3 chấm, kéo dưới cùng và tìm BATTERY RENTAL.",
+    "token_count": 60,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:06",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:06"
+      ],
+      "timestamp": "00:06"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_003",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:13 | Timestamp: 00:13]\n\nHợp đồng tạo lúc nào cũng sẽ ở trạng thái mở, OPEN.",
+    "raw_content": "Hợp đồng tạo lúc nào cũng sẽ ở trạng thái mở, OPEN.",
+    "token_count": 55,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:13",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:13"
+      ],
+      "timestamp": "00:13"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_004",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:18 | Timestamp: 00:18]\n\nChúng ta sẽ mở bản ghi này lên.",
+    "raw_content": "Chúng ta sẽ mở bản ghi này lên.",
+    "token_count": 50,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:18",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:18"
+      ],
+      "timestamp": "00:18"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_005",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:20 | Timestamp: 00:20]\n\nCơ sở lưu ý, đối với, thuê.",
+    "raw_content": "Cơ sở lưu ý, đối với, thuê.",
+    "token_count": 49,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:20",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:20"
+      ],
+      "timestamp": "00:20"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_006",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:26 | Timestamp: 00:26]\n\nNhưng với đơn hàng xe máy điện, lựa chọn thuê.",
+    "raw_content": "Nhưng với đơn hàng xe máy điện, lựa chọn thuê.",
+    "token_count": 54,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:26",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:26"
+      ],
+      "timestamp": "00:26"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_007",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:31 | Timestamp: 00:31]\n\nQuay lại màn hình hợp đồng thuê bin, những thông tin sau.",
+    "raw_content": "Quay lại màn hình hợp đồng thuê bin, những thông tin sau.",
+    "token_count": 57,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:31",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:31"
+      ],
+      "timestamp": "00:31"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_008",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:36 | Timestamp: 00:36]\n\nSố bin và số C number cần phải đúng với xe được bán cho khách.",
+    "raw_content": "Số bin và số C number cần phải đúng với xe được bán cho khách.",
+    "token_count": 59,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:36",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:36"
+      ],
+      "timestamp": "00:36"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_009",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:40 | Timestamp: 00:40]\n\nTích xanh đại kỳ phụ của hợp đồng lúc nào cũng phải được tích.",
+    "raw_content": "Tích xanh đại kỳ phụ của hợp đồng lúc nào cũng phải được tích.",
+    "token_count": 58,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:40",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:40"
+      ],
+      "timestamp": "00:40"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_010",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:44 | Timestamp: 00:44]\n\nỞ thẻ ATTACHMENT FILE, cơ sở cần đính kèm bản cứng của hợp đồng.",
+    "raw_content": "Ở thẻ ATTACHMENT FILE, cơ sở cần đính kèm bản cứng của hợp đồng.",
+    "token_count": 59,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:44",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:44"
+      ],
+      "timestamp": "00:44"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_011",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:50 | Timestamp: 00:50]\n\nTiếp đến thông tin khách hàng.",
+    "raw_content": "Tiếp đến thông tin khách hàng.",
+    "token_count": 50,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:50",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:50"
+      ],
+      "timestamp": "00:50"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_012",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:53 | Timestamp: 00:53]\n\nChúng ta có thể mở thông tin khách hàng từ hợp đồng thuê bin.",
+    "raw_content": "Chúng ta có thể mở thông tin khách hàng từ hợp đồng thuê bin.",
+    "token_count": 58,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:53",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:53"
+      ],
+      "timestamp": "00:53"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_013",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 00:54 | Timestamp: 00:54]\n\nỞ thông tin khách hàng, sẽ cần phải đảm.",
+    "raw_content": "Ở thông tin khách hàng, sẽ cần phải đảm.",
+    "token_count": 52,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "00:54",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "00:54"
+      ],
+      "timestamp": "00:54"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_014",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:00 | Timestamp: 01:00]\n\nThứ nhất, số giấy tờ tiền thuân.",
+    "raw_content": "Thứ nhất, số giấy tờ tiền thuân.",
+    "token_count": 50,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:00",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:00"
+      ],
+      "timestamp": "01:00"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_015",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:02 | Timestamp: 01:02]\n\nThứ hai, số sáp của khách.",
+    "raw_content": "Thứ hai, số sáp của khách.",
+    "token_count": 49,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:02",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:02"
+      ],
+      "timestamp": "01:02"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_016",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:05 | Timestamp: 01:05]\n\nThứ ba, email.",
+    "raw_content": "Thứ ba, email.",
+    "token_count": 45,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:05",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:05"
+      ],
+      "timestamp": "01:05"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_017",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:07 | Timestamp: 01:07]\n\nVà thứ tư, là thông tin số xép.",
+    "raw_content": "Và thứ tư, là thông tin số xép.",
+    "token_count": 50,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:07",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:07"
+      ],
+      "timestamp": "01:07"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_018",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:09 | Timestamp: 01:09]\n\nỞ số xép, mở lên, chúng đảm bảo mạng 1ID có tồn tại ở đây.",
+    "raw_content": "Ở số xép, mở lên, chúng đảm bảo mạng 1ID có tồn tại ở đây.",
+    "token_count": 59,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:09",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:09"
+      ],
+      "timestamp": "01:09"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_019",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:16 | Timestamp: 01:16]\n\nSau khi các thông tin khách hàng đã đầy đủ, quay lại màn hình BATTERY RENTAL,",
+    "raw_content": "Sau khi các thông tin khách hàng đã đầy đủ, quay lại màn hình BATTERY RENTAL,",
+    "token_count": 62,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:16",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:16"
+      ],
+      "timestamp": "01:16"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_020",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:21 | Timestamp: 01:21]\n\nchúng ta sẽ cần gắn gói cước cho khách.",
+    "raw_content": "chúng ta sẽ cần gắn gói cước cho khách.",
+    "token_count": 52,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:21",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:21"
+      ],
+      "timestamp": "01:21"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_021",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:23 | Timestamp: 01:23]\n\nĐây là trọng.",
+    "raw_content": "Đây là trọng.",
+    "token_count": 45,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:23",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:23"
+      ],
+      "timestamp": "01:23"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_022",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:24 | Timestamp: 01:24]\n\nTrên thanh công cụ, các cơ sở, cơ sở sẽ thấy nút ADD BUCKETTIVE, các cơ sở ở nút này.",
+    "raw_content": "Trên thanh công cụ, các cơ sở, cơ sở sẽ thấy nút ADD BUCKETTIVE, các cơ sở ở nút này.",
+    "token_count": 65,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:24",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:24"
+      ],
+      "timestamp": "01:24"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_023",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:31 | Timestamp: 01:31]\n\nKhi đó, hệ thống sẽ hiện lên các thông tin gói cước, phù hợp với đơn hàng của khách tại thời điểm này.",
+    "raw_content": "Khi đó, hệ thống sẽ hiện lên các thông tin gói cước, phù hợp với đơn hàng của khách tại thời điểm này.",
+    "token_count": 69,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:31",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:31"
+      ],
+      "timestamp": "01:31"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_024",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:37 | Timestamp: 01:37]\n\nCơ sở cần chọn gói cước đúng với nhu cầu của khách, với chính sách gói cước hiện tại của WinFast ở thời điểm đó.",
+    "raw_content": "Cơ sở cần chọn gói cước đúng với nhu cầu của khách, với chính sách gói cước hiện tại của WinFast ở thời điểm đó.",
+    "token_count": 72,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:37",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:37"
+      ],
+      "timestamp": "01:37"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_025",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:43 | Timestamp: 01:43]\n\nỞ đây, chúng ta sẽ chọn gói cước này.",
+    "raw_content": "Ở đây, chúng ta sẽ chọn gói cước này.",
+    "token_count": 52,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:43",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:43"
+      ],
+      "timestamp": "01:43"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_026",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:46 | Timestamp: 01:46]\n\nLoại thường, mô tả, sở phải có trách nhiệm đọc kỹ mô tả của gói cước trước khi chọn.",
+    "raw_content": "Loại thường, mô tả, sở phải có trách nhiệm đọc kỹ mô tả của gói cước trước khi chọn.",
+    "token_count": 64,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:46",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:46"
+      ],
+      "timestamp": "01:46"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_027",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:54 | Timestamp: 01:54]\n\nSau đó xác nhận.",
+    "raw_content": "Sau đó xác nhận.",
+    "token_count": 46,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:54",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:54"
+      ],
+      "timestamp": "01:54"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_028",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 01:57 | Timestamp: 01:57]\n\nKhi hệ thống hiện lên thanh công, tấn đoạn OK.",
+    "raw_content": "Khi hệ thống hiện lên thanh công, tấn đoạn OK.",
+    "token_count": 54,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "01:57",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "01:57"
+      ],
+      "timestamp": "01:57"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_029",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:06 | Timestamp: 02:06]\n\nCác thông tin gói cước điền trên hợp đồng thuê pin, gọi cổ định, mã gói, và đặc biệt là mô tả gói.",
+    "raw_content": "Các thông tin gói cước điền trên hợp đồng thuê pin, gọi cổ định, mã gói, và đặc biệt là mô tả gói.",
+    "token_count": 69,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:06",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:06"
+      ],
+      "timestamp": "02:06"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_030",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:15 | Timestamp: 02:15]\n\nCác cơ sở kỹ mô tả gói ở đây để đảm.",
+    "raw_content": "Các cơ sở kỹ mô tả gói ở đây để đảm.",
+    "token_count": 53,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:15",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:15"
+      ],
+      "timestamp": "02:15"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_031",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:19 | Timestamp: 02:19]\n\nSau khi đã chọn gói cước thành công, cơ sở sẽ cần tạo phiếu giao xe.",
+    "raw_content": "Sau khi đã chọn gói cước thành công, cơ sở sẽ cần tạo phiếu giao xe.",
+    "token_count": 60,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:19",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:19"
+      ],
+      "timestamp": "02:19"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_032",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:24 | Timestamp: 02:24]\n\nNội dung chi tiết sẽ có ở clip sau, cơ sở chỉ cần nhớ rằng, khi phiếu giao xe chuyển sang trạng thái, hệ thống kích hoạt hợp đồng thuê pin.",
+    "raw_content": "Nội dung chi tiết sẽ có ở clip sau, cơ sở chỉ cần nhớ rằng, khi phiếu giao xe chuyển sang trạng thái, hệ thống kích hoạt hợp đồng thuê pin.",
+    "token_count": 80,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:24",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:24"
+      ],
+      "timestamp": "02:24"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_033",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:34 | Timestamp: 02:34]\n\nGiả sử khi phiếu giao xe đã được gửi thành công, đã được, cơ sở có thể thấy trạng thái đã trở thành active, kéo xuống dưới chúng nhắn tạo hợp đồng thành công.",
+    "raw_content": "Giả sử khi phiếu giao xe đã được gửi thành công, đã được, cơ sở có thể thấy trạng thái đã trở thành active, kéo xuống dưới chúng nhắn tạo hợp đồng thành công.",
+    "token_count": 84,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:34",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:34"
+      ],
+      "timestamp": "02:34"
+    }
+  },
+  {
+    "chunk_id": "KETO013_13_hop_dong_thue_pin_chunk_034",
+    "content": "[Document: 13. Hợp đồng thuê PIN | Role: accounting | Source: KeToan/13. Hợp đồng thuê PIN.mp4 | Section: 13. Hợp đồng thuê PIN > 02:49 | Timestamp: 02:49]\n\nỞ đây hợp đồng thuê pin đã được kích hoạt.",
+    "raw_content": "Ở đây hợp đồng thuê pin đã được kích hoạt.",
+    "token_count": 53,
+    "metadata": {
+      "document": "13. Hợp đồng thuê PIN",
+      "role": "accounting",
+      "source": "KeToan/13. Hợp đồng thuê PIN.mp4",
+      "page": null,
+      "slide": null,
+      "section": "02:49",
+      "subsection": null,
+      "heading_path": [
+        "13. Hợp đồng thuê PIN",
+        "02:49"
+      ],
+      "timestamp": "02:49"
+    }
+  }
+]

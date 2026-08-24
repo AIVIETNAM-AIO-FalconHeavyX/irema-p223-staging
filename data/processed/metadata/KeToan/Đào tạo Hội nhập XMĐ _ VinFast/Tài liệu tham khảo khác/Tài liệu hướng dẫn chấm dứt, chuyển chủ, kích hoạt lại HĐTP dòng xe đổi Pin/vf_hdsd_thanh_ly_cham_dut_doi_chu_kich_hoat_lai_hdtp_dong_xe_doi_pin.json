@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO704",
+    "title": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+    "source_file": "VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+    "source_path": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+    "file_hash": "sha256:f9731918254bbff8455dc77da5075c09ac8adda5fb2e0655ab4535303fb44e7a",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-20"
+}

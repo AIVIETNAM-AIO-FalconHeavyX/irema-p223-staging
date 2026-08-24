@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO002",
+    "title": "2. Đơn đặt hàng PO phụ tùng",
+    "source_file": "2. Đơn đặt hàng PO phụ tùng.mp4",
+    "source_path": "KeToan/2. Đơn đặt hàng PO phụ tùng.mp4",
+    "file_hash": "sha256:e7e9ecfb67eef7f5849b06821b4b4bd34655ea5b14454599297d5c0d3d1285c4",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 500.9473125,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

@@ -1,0 +1,25 @@
+{
+    "document_id": "KTV002",
+    "title": "2. Đào tạo VF HM55 cho XMĐ",
+    "source_file": "2. Đào tạo VF_HM55 cho XMĐ.pdf",
+    "source_path": "KTV/2. Đào tạo VF_HM55 cho XMĐ.pdf",
+    "file_hash": "sha256:841c32b5324f845cabf6a8efada3a43bac7f348548b7b6663e5521380c4bb28f",
+    "document_type": "pdf",
+    "content_type": "document",
+    "role": "technician",
+    "category": "KTV",
+    "access_scope": [
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 13,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

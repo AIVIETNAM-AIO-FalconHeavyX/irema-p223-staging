@@ -1,0 +1,7 @@
+{
+  "document_id": "KETO001",
+  "pii_detected": true,
+  "removed_entities": {
+    "PHONE_NUMBER": 3
+  }
+}

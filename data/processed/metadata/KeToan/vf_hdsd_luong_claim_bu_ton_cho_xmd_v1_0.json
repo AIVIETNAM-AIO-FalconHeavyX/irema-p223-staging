@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+    "source_file": "VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+    "source_path": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+    "file_hash": "sha256:a76b145fc37195ec4e1f128fcf00cd1776a45db1d34ce2da09cbc28a7768a4a7",
+    "document_type": "docx",
+    "content_type": "document",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

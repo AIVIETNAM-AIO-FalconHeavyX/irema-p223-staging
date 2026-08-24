@@ -1,0 +1,462 @@
+[
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_001",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > Mục lục]\n\nQUY TRÌNH THANH LÝ HĐTP XE MAX\t2\n\n1.\tTạo Lệnh sửa chữa dung sửa chữa PIN\t2\n\n2.\tThêm hoạt động tháo PIN trên tab PIN Activity\t2\n\n3.\tĐiền thông tin hoạt động “10. Tháo PIN kiểm tra tình trạng PIN”\t3\n\n4.\tLưu và hoàn động tháo PIN\t4\n\n5. 01 Lệnh sửa chữa\t4\n\n6.\tĐóng lệnh sửa chữa và hoàn toán\t5\n\n7.\tThực hiện thanh EMSP và cập nhật trạng thái 5\n\n8.\tHướng dẫn chuyển trạng thái Waiting to terminate sang terminated\t6\n\n9. thường gặp &amp;\n\nQUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX\t12\n\n1. tin khách hàng mới trên DMS (Đã có khách hàng chuyển sang bước 2)\t12\n\n2.\tTạo HĐ chuyển nhượng \t12\n\n3.\tThực hiện chuyển thuê Pin trên EMSP\t14\n\nTrường hợp 1: Không có nợ cước (0 VND)\t15\n\nTrường hợp 2: nợ cước thuê pin\t17\n\nCác trường hợp đặc biệt\t19\n\n4.\tHướng dẫn chuyển cọc 20\n\n5. thường gặp &amp; 21\n\n6. trọng\t22\n\nQUY TRÌNH KÍCH HOẠT HĐTP CỦA PIN 2\t23\n\nKÍCH HOẠT LẠI HĐTP CHO VINXE ĐÃ THỰC HIỆN THANH LÝ PIN VỀ VINFAST\t27",
+    "raw_content": "QUY TRÌNH THANH LÝ HĐTP XE MAX\t2\n\n1.\tTạo Lệnh sửa chữa dung sửa chữa PIN\t2\n\n2.\tThêm hoạt động tháo PIN trên tab PIN Activity\t2\n\n3.\tĐiền thông tin hoạt động “10. Tháo PIN kiểm tra tình trạng PIN”\t3\n\n4.\tLưu và hoàn động tháo PIN\t4\n\n5. 01 Lệnh sửa chữa\t4\n\n6.\tĐóng lệnh sửa chữa và hoàn toán\t5\n\n7.\tThực hiện thanh EMSP và cập nhật trạng thái 5\n\n8.\tHướng dẫn chuyển trạng thái Waiting to terminate sang terminated\t6\n\n9. thường gặp &amp;\n\nQUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX\t12\n\n1. tin khách hàng mới trên DMS (Đã có khách hàng chuyển sang bước 2)\t12\n\n2.\tTạo HĐ chuyển nhượng \t12\n\n3.\tThực hiện chuyển thuê Pin trên EMSP\t14\n\nTrường hợp 1: Không có nợ cước (0 VND)\t15\n\nTrường hợp 2: nợ cước thuê pin\t17\n\nCác trường hợp đặc biệt\t19\n\n4.\tHướng dẫn chuyển cọc 20\n\n5. thường gặp &amp; 21\n\n6. trọng\t22\n\nQUY TRÌNH KÍCH HOẠT HĐTP CỦA PIN 2\t23\n\nKÍCH HOẠT LẠI HĐTP CHO VINXE ĐÃ THỰC HIỆN THANH LÝ PIN VỀ VINFAST\t27",
+    "token_count": 341,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "Mục lục",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "Mục lục"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_002",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX]\n\nÁp dụng cho xe thường. Với xe, hiện 02 hoạt động tháo PIN trên cùng 01 Lệnh sửa chữa.",
+    "raw_content": "Áp dụng cho xe thường. Với xe, hiện 02 hoạt động tháo PIN trên cùng 01 Lệnh sửa chữa.",
+    "token_count": 110,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_003",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 1 Tạo Lệnh sửa chữa dung sửa chữa PIN]\n\n- Tạo mới Lệnh sửa chữa cho xe cần thanh lý HĐTP.\n- Tại màn hình thêm nội dung sửa chữa, chọn Job Type = “09 - Sửa chữa PIN”.\n- Chọn dịch vụ/mã công việc phù hợp để thực.\n- tin bắt buộc khác theo quy,.\n\n*Hình 2. nội dung sửa chữa PIN trên Lệnh sửa chữa*\n\nCố vấn dịch vụ có thể thêm các dịch vụ và phụ tùng khác nếu xe cần sửa chữa/bảo dưỡng ngoài phạm vi sửa chữa PIN.\n\nSau đó, thực thành Work Order/Lệnh sửa chữa như quy trình đang chạy.",
+    "raw_content": "- Tạo mới Lệnh sửa chữa cho xe cần thanh lý HĐTP.\n- Tại màn hình thêm nội dung sửa chữa, chọn Job Type = “09 - Sửa chữa PIN”.\n- Chọn dịch vụ/mã công việc phù hợp để thực.\n- tin bắt buộc khác theo quy,.\n\n*Hình 2. nội dung sửa chữa PIN trên Lệnh sửa chữa*\n\nCố vấn dịch vụ có thể thêm các dịch vụ và phụ tùng khác nếu xe cần sửa chữa/bảo dưỡng ngoài phạm vi sửa chữa PIN.\n\nSau đó, thực thành Work Order/Lệnh sửa chữa như quy trình đang chạy.",
+    "token_count": 229,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "1 Tạo Lệnh sửa chữa dung sửa chữa PIN",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "1 Tạo Lệnh sửa chữa dung sửa chữa PIN"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_004",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 2 Thêm hoạt động tháo PIN trên tab PIN Activity]\n\n- Mở Lệnh sửa chữa vừa tạo.\n- Chọn tab “PIN Activity”.\n- Chọn “Hoạt động sửa chữa mới” động tháo PIN.\n\n*Hình 3. Vào tab PIN Activity và thêm hoạt",
+    "raw_content": "- Mở Lệnh sửa chữa vừa tạo.\n- Chọn tab “PIN Activity”.\n- Chọn “Hoạt động sửa chữa mới” động tháo PIN.\n\n*Hình 3. Vào tab PIN Activity và thêm hoạt",
+    "token_count": 141,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "2 Thêm hoạt động tháo PIN trên tab PIN Activity",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "2 Thêm hoạt động tháo PIN trên tab PIN Activity"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_005",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 3 Điền động “10. Tháo PIN kiểm tra tình trạng PIN”]\n\nNgười dùng như sau:\n\n- Dịch vụ: chọn “10. Tháo PIN kiểm tra tình trạng PIN”.\n- Serial: mã serial PIN tin hệ thống/scan thực tế.\n- Device Information: bản ghi thông tin PIN hệ thống ghi nhận trên HĐTP theo số Vin.\n- Actual Device Information: chọn PIN thực tế đang lắp trên xe tại thời điểm tháo PIN.\n- Use Status / Actual Status Device Information: chọn trạng thái thực, ví dụ Good hoặc Broken.\n- Thông tin bắt đầu, thúc, khoảng.\n\n**Lưu ý:** Actual Device Information là PIN thực tế đang lắp trên xe tại thời điểm thực hiện tháo PIN.\n\nTrường hợp PIN thực tế đang lắp trên xe khác với PIN đang được ghi nhận trên HĐTP, người dùng cần chọn đúng PIN thực field Actual Device Information để hệ thống cập tin PIN thực tế của xe trước khi thực hiện thanh lý HĐTP.\n\n*Hình 4. Điền thông tin hoạt động tháo PIN và Actual Device Information*",
+    "raw_content": "Người dùng như sau:\n\n- Dịch vụ: chọn “10. Tháo PIN kiểm tra tình trạng PIN”.\n- Serial: mã serial PIN tin hệ thống/scan thực tế.\n- Device Information: bản ghi thông tin PIN hệ thống ghi nhận trên HĐTP theo số Vin.\n- Actual Device Information: chọn PIN thực tế đang lắp trên xe tại thời điểm tháo PIN.\n- Use Status / Actual Status Device Information: chọn trạng thái thực, ví dụ Good hoặc Broken.\n- Thông tin bắt đầu, thúc, khoảng.\n\n**Lưu ý:** Actual Device Information là PIN thực tế đang lắp trên xe tại thời điểm thực hiện tháo PIN.\n\nTrường hợp PIN thực tế đang lắp trên xe khác với PIN đang được ghi nhận trên HĐTP, người dùng cần chọn đúng PIN thực field Actual Device Information để hệ thống cập tin PIN thực tế của xe trước khi thực hiện thanh lý HĐTP.\n\n*Hình 4. Điền thông tin hoạt động tháo PIN và Actual Device Information*",
+    "token_count": 320,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "3 Điền động “10. Tháo PIN kiểm tra tình trạng PIN”",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "3 Điền động “10. Tháo PIN kiểm tra tình trạng PIN”"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_006",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 4 Lưu và hoàn động tháo PIN]\n\n- Sau khi nhập đủ thông tin, chọn Lưu.\n- Kỹ /đốc công thực theo thực tế.\n- Chọn “Đánh dấu hoàn thành” động tháo PIN hoàn tất.\n\n*Hình 5. Đánh dấu hoàn động tháo PIN*",
+    "raw_content": "- Sau khi nhập đủ thông tin, chọn Lưu.\n- Kỹ /đốc công thực theo thực tế.\n- Chọn “Đánh dấu hoàn thành” động tháo PIN hoàn tất.\n\n*Hình 5. Đánh dấu hoàn động tháo PIN*",
+    "token_count": 144,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "4 Lưu và hoàn động tháo PIN",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "4 Lưu và hoàn động tháo PIN"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_007",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 5 Thanh lý 02 PIN 01 Lệnh sửa chữa]\n\nĐối với xe, thực hiện lặp lại bước thêm hoạt động PIN đủ 02 hoạt động “10. Tháo PIN kiểm tra tình trạng PIN” sửa chữa.\n\n- Hoạt động thứ nhất: ghi nhận PIN thứ nhất thực tế đang lắp trên xe.\n- Hoạt động thứ hai: ghi nhận PIN thứ lắp trên xe.\n- Cả hai hoạt đánh dấu Hoàn thành tục đưa lệnh toán.",
+    "raw_content": "Đối với xe, thực hiện lặp lại bước thêm hoạt động PIN đủ 02 hoạt động “10. Tháo PIN kiểm tra tình trạng PIN” sửa chữa.\n\n- Hoạt động thứ nhất: ghi nhận PIN thứ nhất thực tế đang lắp trên xe.\n- Hoạt động thứ hai: ghi nhận PIN thứ lắp trên xe.\n- Cả hai hoạt đánh dấu Hoàn thành tục đưa lệnh toán.",
+    "token_count": 187,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "5 Thanh lý 02 PIN 01 Lệnh sửa chữa",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "5 Thanh lý 02 PIN 01 Lệnh sửa chữa"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_008",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 6 Đóng lệnh sửa chữa và hoàn toán]\n\n- Sau khi tất cả hoạt PIN đã hoàn thành, thực sửa chữa.\n- Thực hiện, hoàn toán lệnh, xuất hóa đơn/thu tiền nếu sinh.\n- Đảm bảo trạng thái chữa phải ở hoàn toán thực.\n\n*Hình 6. Lệnh sửa chữa ở trạng thái Hoàn thành thanh toán*",
+    "raw_content": "- Sau khi tất cả hoạt PIN đã hoàn thành, thực sửa chữa.\n- Thực hiện, hoàn toán lệnh, xuất hóa đơn/thu tiền nếu sinh.\n- Đảm bảo trạng thái chữa phải ở hoàn toán thực.\n\n*Hình 6. Lệnh sửa chữa ở trạng thái Hoàn thành thanh toán*",
+    "token_count": 161,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "6 Đóng lệnh sửa chữa và hoàn toán",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "6 Đóng lệnh sửa chữa và hoàn toán"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_009",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 7 Thực hiện thanh EMSP và cập nhật trạng thái]\n\n1. hệ thống EMSP.\n2. Thực hiện chức năng thanh lý HĐTP.\n\nĐể thanh lý được, cần thỏa mãn các yêu cầu dưới đây\n\n- Hợp đồng pin đang ở trạng thái Active (đang hoạt động)\n- Không có quả pin nào đang ở trạng thái Pending Active trong gói\n- Không còn phiên sạc đang chạy\n- Không còn nợ bill sạc chưa thanh toán\n- Lệnh sửa chữa đã hoàn (kiểm tra qua DMS)\n\n bước Emsp:\n\n- Truy cập Hệ thống EMSP &gt; Xe máy &gt; — XMĐ\n- **Tìm kiếm hợp đồng cần thanh lý:** Nhập VinXe vào ô tìm kiếm và ấn enter. Xác nhận hợp đồng có trạng thái Active\n- **Nhấn icon **: Nhấn biểu tượng thùng rác màu đỏ ở cột Thao Tác. Popup “Thanh lý hợp đồng Pin” xuất hiện\n- **Xác nhận thông tin hợp đồng**: tra mã SAP CustomerID,, Ngày kích hoạt, hạn hiển\n- ** TRA CÔNG NỢ**: Hệ thống tra nợ cước và phiên sạc\n\n- Nếu bảng Thông tin thanh toán hiển ” nghĩa là Khách hàng không nợ, Cơ sở Hệ thống hiển thu trong bảng Thông tin thanh toán, Cơ sở thông báo Khách hàng và tạo QR để Khách hàng thanh toán.\n - **Kiểm tra Danh sách hợp đồng pin:** Xác nhận đúng mã hợp đồng pin, Serial pin, Mã hợp đồng pin cần thanh lý.\n - **Kiểm tra Mã Showroom &amp; Tên Showroom:** Hệ thống tự điền sẵn.\n - **Nhấn [THANH LÝ HỢP ĐỒNG]:** Xác nhận thao tác. Hệ thống xử lý thành công.\n\n3. thanh, hệ thống.\n4. Trên DMS, HĐTP chuyển sang trạng thái “Waitting to terminate”.",
+    "raw_content": "1. hệ thống EMSP.\n2. Thực hiện chức năng thanh lý HĐTP.\n\nĐể thanh lý được, cần thỏa mãn các yêu cầu dưới đây\n\n- Hợp đồng pin đang ở trạng thái Active (đang hoạt động)\n- Không có quả pin nào đang ở trạng thái Pending Active trong gói\n- Không còn phiên sạc đang chạy\n- Không còn nợ bill sạc chưa thanh toán\n- Lệnh sửa chữa đã hoàn (kiểm tra qua DMS)\n\n bước Emsp:\n\n- Truy cập Hệ thống EMSP &gt; Xe máy &gt; — XMĐ\n- **Tìm kiếm hợp đồng cần thanh lý:** Nhập VinXe vào ô tìm kiếm và ấn enter. Xác nhận hợp đồng có trạng thái Active\n- **Nhấn icon **: Nhấn biểu tượng thùng rác màu đỏ ở cột Thao Tác. Popup “Thanh lý hợp đồng Pin” xuất hiện\n- **Xác nhận thông tin hợp đồng**: tra mã SAP CustomerID,, Ngày kích hoạt, hạn hiển\n- ** TRA CÔNG NỢ**: Hệ thống tra nợ cước và phiên sạc\n\n- Nếu bảng Thông tin thanh toán hiển ” nghĩa là Khách hàng không nợ, Cơ sở Hệ thống hiển thu trong bảng Thông tin thanh toán, Cơ sở thông báo Khách hàng và tạo QR để Khách hàng thanh toán.\n - **Kiểm tra Danh sách hợp đồng pin:** Xác nhận đúng mã hợp đồng pin, Serial pin, Mã hợp đồng pin cần thanh lý.\n - **Kiểm tra Mã Showroom &amp; Tên Showroom:** Hệ thống tự điền sẵn.\n - **Nhấn [THANH LÝ HỢP ĐỒNG]:** Xác nhận thao tác. Hệ thống xử lý thành công.\n\n3. thanh, hệ thống.\n4. Trên DMS, HĐTP chuyển sang trạng thái “Waitting to terminate”.",
+    "token_count": 472,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "7 Thực hiện thanh EMSP và cập nhật trạng thái",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "7 Thực hiện thanh EMSP và cập nhật trạng thái"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_010",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 8 Hướng dẫn chuyển trạng thái Waiting to terminate sang terminated]\n\n cũ, các cơ sở khi chấm dứt HĐ trên EMSP thì sẽ đồng bộ sang DMS. Hợp đồng trên DMS sẽ chuyển sang trạng thái “ **Terminate** ” sở có thể tạo HĐ mới trên Đơn hàng bằng nút “ **Đổi thuê pin** ”.\n\nTuy nhiên với luồng mới, khi HĐ chấm dứt, hợp đồng trên DMS sẽ chuyển sang trạng thái “Waiting to Terminate” nên sẽ nút Đơn hàng.\n\nCác cơ sở như sau để chấm dứt hoàn toàn HĐTP trên DMS và tạo HĐ mới (mục 6.2 ):\n\n**Bước 1:** Tại màn hình Battery Rental ở trạng thái Waiting to terminate, người dùng chọn tab Contract/s và chọn nút Add new contract management\n\nHệ thống hiển thị màn hình tạo mới contract management\n\n**Bước 2:** Tại màn hình tạo mới, người dùng chọn:\n\n- Type / Loại: Liquidation / Thanh lý\n- Contract status / Trạng thái: Active / Kích hoạt\n- Contract date / Ngày HĐ: Ngày ký\n- Chọn nút SAVE\n\n**Bước 3:** Người dùng chọn upload file, và tải lên file biên bản thanh lý đã hoàn thành ký và chọn\n\nSau khi chọn SAVE, người dùng chọn nút Refresh trên ribon để load lại màn hình, link biên bản thanh lý fill vào field File Url. Người dùng có thể xem lại biên bản thanh biên bản thanh lý đã upload local.\n\nFile được upload thành công và ở trạng thái Active, bản ghi Battery Rental sẽ chuyển sang trạng thái Terminated..\n\nNút “Đổi chủ Hợp Đồng Thuê PIN” trên đơn hàng.\n\n**Trường hợp muốn up biên bản thanh, sở sẽ không thấy HĐTP của cơ sở khác:\n\nĐiều hướng dến **Khu vực làm việc &gt; Contract Management &gt; + New**.\n\nCơ sở điền:\n\n- **Type: Liquidation.**\n- **Contract Status: Active.**\n- **Contract Date: Ngày kí biên bản thanh lí.**\n- **Battery Rental Ref: mã HĐTP.**\n- **VIN no: số VIN**\n\nLưu ý: VIn và Mã HĐTP phải được điền đúng nhau, hệ thống lỗi.\n\nẤn Lưu để Lưu bản ghi., cơ sở ấn \"Chọn tệp\" up giấy tờ:",
+    "raw_content": " cũ, các cơ sở khi chấm dứt HĐ trên EMSP thì sẽ đồng bộ sang DMS. Hợp đồng trên DMS sẽ chuyển sang trạng thái “ **Terminate** ” sở có thể tạo HĐ mới trên Đơn hàng bằng nút “ **Đổi thuê pin** ”.\n\nTuy nhiên với luồng mới, khi HĐ chấm dứt, hợp đồng trên DMS sẽ chuyển sang trạng thái “Waiting to Terminate” nên sẽ nút Đơn hàng.\n\nCác cơ sở như sau để chấm dứt hoàn toàn HĐTP trên DMS và tạo HĐ mới (mục 6.2 ):\n\n**Bước 1:** Tại màn hình Battery Rental ở trạng thái Waiting to terminate, người dùng chọn tab Contract/s và chọn nút Add new contract management\n\nHệ thống hiển thị màn hình tạo mới contract management\n\n**Bước 2:** Tại màn hình tạo mới, người dùng chọn:\n\n- Type / Loại: Liquidation / Thanh lý\n- Contract status / Trạng thái: Active / Kích hoạt\n- Contract date / Ngày HĐ: Ngày ký\n- Chọn nút SAVE\n\n**Bước 3:** Người dùng chọn upload file, và tải lên file biên bản thanh lý đã hoàn thành ký và chọn\n\nSau khi chọn SAVE, người dùng chọn nút Refresh trên ribon để load lại màn hình, link biên bản thanh lý fill vào field File Url. Người dùng có thể xem lại biên bản thanh biên bản thanh lý đã upload local.\n\nFile được upload thành công và ở trạng thái Active, bản ghi Battery Rental sẽ chuyển sang trạng thái Terminated..\n\nNút “Đổi chủ Hợp Đồng Thuê PIN” trên đơn hàng.\n\n**Trường hợp muốn up biên bản thanh, sở sẽ không thấy HĐTP của cơ sở khác:\n\nĐiều hướng dến **Khu vực làm việc &gt; Contract Management &gt; + New**.\n\nCơ sở điền:\n\n- **Type: Liquidation.**\n- **Contract Status: Active.**\n- **Contract Date: Ngày kí biên bản thanh lí.**\n- **Battery Rental Ref: mã HĐTP.**\n- **VIN no: số VIN**\n\nLưu ý: VIn và Mã HĐTP phải được điền đúng nhau, hệ thống lỗi.\n\nẤn Lưu để Lưu bản ghi., cơ sở ấn \"Chọn tệp\" up giấy tờ:",
+    "token_count": 566,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "8 Hướng dẫn chuyển trạng thái Waiting to terminate sang terminated",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "8 Hướng dẫn chuyển trạng thái Waiting to terminate sang terminated"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_011",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH THANH LÝ HĐTP XE MAX > 9 lỗi thường gặp &amp;]\n\n| **Thông báo lỗi** | **Nguyên nhân** | **Cách xử lý** |\n|----------------------------------------------|-----------------------------------------|-------------------------------------------------------------------|\n| **Nút [Thanh lý] không hiển thị** | HĐ chưa Active hoặc đã Thanh lý | Kiểm tra trạng thái HĐ. HĐ đang Active. |\n| **\"Chỉ thanh lý được hợp đồng đang Active\"** | HĐ ở trạng thái khác Active | phận kỹ thuật nếu cần điều chỉnh. |\n| **Hệ thống chặn ** | 1 quả pin trong gói chưa được kích hoạt | Kích hoạt quả pin PendingActive trước, sau đó thực. |\n| **Còn phiên sạc đang chạy** | KH đang có phiên sạc chưa tổng phiên sạc kết thúc tổng hợp lên bill rồi. |\n| ** nợ bill sạc chưa thanh toán** | TypeBill 6 hoặc 16 chưa trả | Yêu cầu KH thanh toán nợ sạc trước khi thanh lý. |\n| **Chờ lệnh sửa chữa hoàn thành** | DMS còn lệnh sửa chữa chưa đóng | Phối hợp với bộ phận kỹ thuật đóng lệnh sửa chữa rồi thử lại. |\n\n**9. trọng**\n\n**❗ KHÔNG THỂ HOÀN TÁC:** Sau khi nhấn [THANH LÝ HỢP ĐỒNG] và xác nhận thành công, tác. kỹ thông tin xác nhận.\n\n- Chỉ thực từ khách hàng.\n- Kiểm tra kỹ VinXe trước khi thực hiện để tránh nhầm hợp đồng.\n- Mã Showroom và Tên Showroom phải chính xác — đến phân bổ.\n- Khi thanh lý 2 quả pin cùng lúc, đảm lệnh sửa chữa đều đã hoàn thành.\n- Thông tin thanh lý sẽ được đồng bộ tự động sang DMS và SAP sau khi hoàn tất.\n- Mọi thắc mắc hoặc lỗi ngoài danh sách, vui lòng liên hệ bộ phận IT Support.",
+    "raw_content": "| **Thông báo lỗi** | **Nguyên nhân** | **Cách xử lý** |\n|----------------------------------------------|-----------------------------------------|-------------------------------------------------------------------|\n| **Nút [Thanh lý] không hiển thị** | HĐ chưa Active hoặc đã Thanh lý | Kiểm tra trạng thái HĐ. HĐ đang Active. |\n| **\"Chỉ thanh lý được hợp đồng đang Active\"** | HĐ ở trạng thái khác Active | phận kỹ thuật nếu cần điều chỉnh. |\n| **Hệ thống chặn ** | 1 quả pin trong gói chưa được kích hoạt | Kích hoạt quả pin PendingActive trước, sau đó thực. |\n| **Còn phiên sạc đang chạy** | KH đang có phiên sạc chưa tổng phiên sạc kết thúc tổng hợp lên bill rồi. |\n| ** nợ bill sạc chưa thanh toán** | TypeBill 6 hoặc 16 chưa trả | Yêu cầu KH thanh toán nợ sạc trước khi thanh lý. |\n| **Chờ lệnh sửa chữa hoàn thành** | DMS còn lệnh sửa chữa chưa đóng | Phối hợp với bộ phận kỹ thuật đóng lệnh sửa chữa rồi thử lại. |\n\n**9. trọng**\n\n**❗ KHÔNG THỂ HOÀN TÁC:** Sau khi nhấn [THANH LÝ HỢP ĐỒNG] và xác nhận thành công, tác. kỹ thông tin xác nhận.\n\n- Chỉ thực từ khách hàng.\n- Kiểm tra kỹ VinXe trước khi thực hiện để tránh nhầm hợp đồng.\n- Mã Showroom và Tên Showroom phải chính xác — đến phân bổ.\n- Khi thanh lý 2 quả pin cùng lúc, đảm lệnh sửa chữa đều đã hoàn thành.\n- Thông tin thanh lý sẽ được đồng bộ tự động sang DMS và SAP sau khi hoàn tất.\n- Mọi thắc mắc hoặc lỗi ngoài danh sách, vui lòng liên hệ bộ phận IT Support.",
+    "token_count": 474,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+      "subsection": "9 lỗi thường gặp &amp;",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH THANH LÝ HĐTP XE MAX",
+        "9 lỗi thường gặp &amp;"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_012",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX]\n\nÁp dụng khi khách hàng có nhu cầu chuyển quyền thuê Pin sang khách hàng mới.",
+    "raw_content": "Áp dụng khi khách hàng có nhu cầu chuyển quyền thuê Pin sang khách hàng mới.",
+    "token_count": 106,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_013",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 11 Tạo HĐ chuyển nhượng, truy cập: vực làm việc &gt; Device Information &gt; Battery Information Overview.]\n\n- Tìm kiếm theo số VIN của xe cần chuyển chủ.\n- Mở bản ghi Device Information và chọn [Chuyển ].\n\n- Tại màn hình New Battery Rental, nhập đầy đủ tin:\n- Lý do tạo hợp đồng:, ví dụ “Hợp đồng chuyển ”.\n- Lựa chọn loại gói cước: Old package hoặc New package.\n- Chọn khách hàng mới nhận chuyển.\n\n- Chọn tab tin thanh toán (Payment Info). ​Chọn loại giao dịch là Refund deposit hoặc Transfer Deposit tùy theo mong muốn của khách hàng là Chuyển cọc hay Hoàn cọc sau đó chọn Save !-- image -->\n\n**Lưu ý:** Đối với xe có 02 Hợp đồng thuê Pin, sau khi Hợp đồng Pin thứ nhất được tạo thành công, hệ thống tạo Hợp đồng Pin thứ hai.\n\nNgười dùng cần thực hiện đính kèm Hợp đồng Pin (bao gồm cả hợp đồng được hệ thống tự động tạo) để đảm đều có đầy đủ hồ sơ đính kèm.\n\nTài liệu bao gồm:\n\n- PL Văn bản tiếp nhận HĐTP XMĐ, Ô tô điện (Đổi chủ xe) T3.2026\n- Giấy tờ mua bán có công chứng hoặc photo đăng ký xe đứng HĐTP ký kết giữa ĐLPP\n- CCCD hoặc ĐKKD &amp; GUQ của (GUQ trong trường hợp người ký ở bản cứng HĐTP không thống",
+    "raw_content": "- Tìm kiếm theo số VIN của xe cần chuyển chủ.\n- Mở bản ghi Device Information và chọn [Chuyển ].\n\n- Tại màn hình New Battery Rental, nhập đầy đủ tin:\n- Lý do tạo hợp đồng:, ví dụ “Hợp đồng chuyển ”.\n- Lựa chọn loại gói cước: Old package hoặc New package.\n- Chọn khách hàng mới nhận chuyển.\n\n- Chọn tab tin thanh toán (Payment Info). ​Chọn loại giao dịch là Refund deposit hoặc Transfer Deposit tùy theo mong muốn của khách hàng là Chuyển cọc hay Hoàn cọc sau đó chọn Save !-- image -->\n\n**Lưu ý:** Đối với xe có 02 Hợp đồng thuê Pin, sau khi Hợp đồng Pin thứ nhất được tạo thành công, hệ thống tạo Hợp đồng Pin thứ hai.\n\nNgười dùng cần thực hiện đính kèm Hợp đồng Pin (bao gồm cả hợp đồng được hệ thống tự động tạo) để đảm đều có đầy đủ hồ sơ đính kèm.\n\nTài liệu bao gồm:\n\n- PL Văn bản tiếp nhận HĐTP XMĐ, Ô tô điện (Đổi chủ xe) T3.2026\n- Giấy tờ mua bán có công chứng hoặc photo đăng ký xe đứng HĐTP ký kết giữa ĐLPP\n- CCCD hoặc ĐKKD &amp; GUQ của (GUQ trong trường hợp người ký ở bản cứng HĐTP không thống",
+    "token_count": 403,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "11 Tạo HĐ chuyển nhượng, truy cập: vực làm việc &gt; Device Information &gt; Battery Information Overview.",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "11 Tạo HĐ chuyển nhượng, truy cập: vực làm việc &gt; Device Information &gt; Battery Information Overview."
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_014",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 12 Thực hiện chuyển thuê Pin trên EMSP]\n\n- Đăng nhập EMSP và thực cũ với Type =.\n- Hệ thống tra các điều kiện sau:\n- Kiểm tra công nợ, sạc Pin\n- Kiểm tra hợp đồng đổi chủ tạo trên DMS (trạng thái Open) và đã Attachment file Scan Hợp đồng, giấy tờ không thỏa mãn điều kiện lỗi Đổi chủ hợp đồng thuê PIN\n- Nếu thỏa màn cho phép thanh lý khách hành cũ và Kích hoạt hợp đồng của khách hành mới\n\n**Hướng dẫn chuyển Emsp như sau:**",
+    "raw_content": "- Đăng nhập EMSP và thực cũ với Type =.\n- Hệ thống tra các điều kiện sau:\n- Kiểm tra công nợ, sạc Pin\n- Kiểm tra hợp đồng đổi chủ tạo trên DMS (trạng thái Open) và đã Attachment file Scan Hợp đồng, giấy tờ không thỏa mãn điều kiện lỗi Đổi chủ hợp đồng thuê PIN\n- Nếu thỏa màn cho phép thanh lý khách hành cũ và Kích hoạt hợp đồng của khách hành mới\n\n**Hướng dẫn chuyển Emsp như sau:**",
+    "token_count": 211,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "12 Thực hiện chuyển thuê Pin trên EMSP",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "12 Thực hiện chuyển thuê Pin trên EMSP"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_015",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 12 Thực hiện chuyển thuê Pin trên EMSP > Trường hợp 1: Không có nợ cước (0 VND)]\n\n nợ cước thuê pin, không có phiên sạc đang chạy và DMS đã tạo hợp đồng ảo.\n\nẢnh 1:\n\nẢnh 2:\n\n| **1** | **Mở màn hình Quản lý hợp đồng khách hàng — XMĐ** Vào EMSP &gt; Xe máy &gt; — XMĐ. |\n|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **2** | **Tìm kiếm hợp đồng cần thanh lý chuyển chủ** tìm kiếm. Xác nhận hợp đồng của chủ cũ đang ở trạng thái Active. |\n| **3** | **Nhấn icon chuyển chủ** Chọn thanh. Popup xác nhận thông tin hợp đồng xuất hiện. |\n| **4** | **Xác nhận thông tin hợp đồng** Kiểm tra SapCustomerId, VinXe, ContractNo, ngày kích hoạt hạn. |\n| **5** | **Nhấn [KIỂM TRA CÔNG NỢ]** Hệ thống kiểm tra công nợ thuê pin, phiên sạc đang chạy và bill sạc chưa thanh toán. |\n| **6** | **Kiểm tra kết quả công nợ** Tổng tiền cần thanh toán là 0 VND điều kiện chặn từ ChargingService. Note: 1. Nếu khách hàng không có bill nợ thuê pin trả trước =&gt; Hệ thống không. 2. Nếu có nợ thuê pin trả trước. Hệ thống tự động tạo bill thuê pin thu tiền của khách hàng. |\n| **7** | **EMSP kiểm tra hợp đồng ảo trên DMS** Nhân viên chọn [ ] Hệ thống gọi DMS để xác nhận đã tồn tại hợp đồng ảo hợp lệ cho chủ mới. |\n| **8** | **Xác nhận kết DMS** Chỉ tiếp DMS trả về đã có hợp đồng ảo; nếu chưa nối, hệ thống. |\n| **9** | **Kiểm tra danh sách pin tin Showroom** Xác nhận đúng hợp đồng pin, Serial pin, mã Showroom và tên Showroom. |\n| **10** | **Nhấn [THANH LÝ CHUYỂN CHỦ]** Xác nhận thao tác. Hệ thống xử hoàn. |\n\n✅ **Kết quả: Hợp đồng của chủ cũ chuyển sang trạng thái Thanh lý chuyển (Status = 3). Ngày thanh lý được ghi nhận; sang DMS để tiếp .**",
+    "raw_content": " nợ cước thuê pin, không có phiên sạc đang chạy và DMS đã tạo hợp đồng ảo.\n\nẢnh 1:\n\nẢnh 2:\n\n| **1** | **Mở màn hình Quản lý hợp đồng khách hàng — XMĐ** Vào EMSP &gt; Xe máy &gt; — XMĐ. |\n|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **2** | **Tìm kiếm hợp đồng cần thanh lý chuyển chủ** tìm kiếm. Xác nhận hợp đồng của chủ cũ đang ở trạng thái Active. |\n| **3** | **Nhấn icon chuyển chủ** Chọn thanh. Popup xác nhận thông tin hợp đồng xuất hiện. |\n| **4** | **Xác nhận thông tin hợp đồng** Kiểm tra SapCustomerId, VinXe, ContractNo, ngày kích hoạt hạn. |\n| **5** | **Nhấn [KIỂM TRA CÔNG NỢ]** Hệ thống kiểm tra công nợ thuê pin, phiên sạc đang chạy và bill sạc chưa thanh toán. |\n| **6** | **Kiểm tra kết quả công nợ** Tổng tiền cần thanh toán là 0 VND điều kiện chặn từ ChargingService. Note: 1. Nếu khách hàng không có bill nợ thuê pin trả trước =&gt; Hệ thống không. 2. Nếu có nợ thuê pin trả trước. Hệ thống tự động tạo bill thuê pin thu tiền của khách hàng. |\n| **7** | **EMSP kiểm tra hợp đồng ảo trên DMS** Nhân viên chọn [ ] Hệ thống gọi DMS để xác nhận đã tồn tại hợp đồng ảo hợp lệ cho chủ mới. |\n| **8** | **Xác nhận kết DMS** Chỉ tiếp DMS trả về đã có hợp đồng ảo; nếu chưa nối, hệ thống. |\n| **9** | **Kiểm tra danh sách pin tin Showroom** Xác nhận đúng hợp đồng pin, Serial pin, mã Showroom và tên Showroom. |\n| **10** | **Nhấn [THANH LÝ CHUYỂN CHỦ]** Xác nhận thao tác. Hệ thống xử hoàn. |\n\n✅ **Kết quả: Hợp đồng của chủ cũ chuyển sang trạng thái Thanh lý chuyển (Status = 3). Ngày thanh lý được ghi nhận; sang DMS để tiếp .**",
+    "token_count": 585,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "Trường hợp 1: Không có nợ cước (0 VND)",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "12 Thực hiện chuyển thuê Pin trên EMSP",
+        "Trường hợp 1: Không có nợ cước (0 VND)"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_016",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 12 Thực hiện chuyển thuê Pin trên EMSP > Trường hợp 2: nợ cước thuê pin]\n\nÁp dụng khi khách hàng còn nợ cước thuê pin. toán; tiếp tục kiểm tra hợp đồng ảo của DMS trước khi cho phép thanh lý chuyển chủ.\n\n*Ví dụ: Hợp đồng hết hạn ngày* ***30/06/2026*** *, khách hàng thanh lý chuyển * ***15/07/2026*** *. EMSP *01 hoặc 02 pin*** *theo trọn kỳ từ* ***01/07/2026 đến 31/07/2026*** *; khách hàng phải thanh toán hoàn .*\n\n| **1** | **Thực hiện các bước 1–5 như Trường hợp 1** Mở màn hình,, kiểm tra thông tin [KIỂM TRA CÔNG NỢ]. |\n|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|\n| **2** | **Kiểm tra bill truy thu** Hệ thống hiển nợ và tổng số tiền khách hàng cần thanh toán. |\n| **3** | **Khách hàng thực ** Khách hàng thanh toán toàn bộ công nợ qua kênh. |\n| **4** | **Hệ thống xác nhận thanh toán** Sau khi nhận callback thành công, hệ thống cập nhật trạng thái các bill tục. |\n| **5** | **EMSP gọi DMS kiểm tra hợp đồng ảo** Chỉ khi DMS xác nhận đã có hợp đồng ảo, hệ thống mới mở thanh. |\n| **6** | **Nhấn [THANH LÝ CHUYỂN CHỦ]** Hoàn tất quy trình. Hợp đồng của chủ cũ chuyển sang trạng thái Thanh lý chuyển. |\n\n**⚠ thu:** Số tiền được số tháng nợ. Ví dụ: 3 tháng nợ x 175.000 VND = 525.000 VND. Tháng lẻ tính theo số ngày thực tế.",
+    "raw_content": "Áp dụng khi khách hàng còn nợ cước thuê pin. toán; tiếp tục kiểm tra hợp đồng ảo của DMS trước khi cho phép thanh lý chuyển chủ.\n\n*Ví dụ: Hợp đồng hết hạn ngày* ***30/06/2026*** *, khách hàng thanh lý chuyển * ***15/07/2026*** *. EMSP *01 hoặc 02 pin*** *theo trọn kỳ từ* ***01/07/2026 đến 31/07/2026*** *; khách hàng phải thanh toán hoàn .*\n\n| **1** | **Thực hiện các bước 1–5 như Trường hợp 1** Mở màn hình,, kiểm tra thông tin [KIỂM TRA CÔNG NỢ]. |\n|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|\n| **2** | **Kiểm tra bill truy thu** Hệ thống hiển nợ và tổng số tiền khách hàng cần thanh toán. |\n| **3** | **Khách hàng thực ** Khách hàng thanh toán toàn bộ công nợ qua kênh. |\n| **4** | **Hệ thống xác nhận thanh toán** Sau khi nhận callback thành công, hệ thống cập nhật trạng thái các bill tục. |\n| **5** | **EMSP gọi DMS kiểm tra hợp đồng ảo** Chỉ khi DMS xác nhận đã có hợp đồng ảo, hệ thống mới mở thanh. |\n| **6** | **Nhấn [THANH LÝ CHUYỂN CHỦ]** Hoàn tất quy trình. Hợp đồng của chủ cũ chuyển sang trạng thái Thanh lý chuyển. |\n\n**⚠ thu:** Số tiền được số tháng nợ. Ví dụ: 3 tháng nợ x 175.000 VND = 525.000 VND. Tháng lẻ tính theo số ngày thực tế.",
+    "token_count": 436,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "Trường hợp 2: nợ cước thuê pin",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "12 Thực hiện chuyển thuê Pin trên EMSP",
+        "Trường hợp 2: nợ cước thuê pin"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_017",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 12 Thực hiện chuyển thuê Pin trên EMSP > Các trường hợp đặc biệt]\n\n- **Gói thuê có 2 quả pin**\n\n📌 **Quy tắc:, hệ thống xử lý 2. Việc thanh lý chuyển thực ảo trên DMS bao phủ đúng .**\n\n- **Thanh lý 2 quả cùng lúc:**\n\n- Hệ thống kiểm tra hợp đồng ảo trên DMS cho từng quả pin cần chuyển giao.\n- Cả 2 thanh lý chuyển đều được ghi nhận hợp lệ trong hợp đồng ảo của.\n- Hợp đồng KH sang trạng thái Thanh lý chuyển (Status = 3), BatteryContracts = [].\n- DMS nhận kết tương ứng.\n\n- **Kiểm tra hợp đồng ảo trên DMS**\n\n chấm dứt hợp đồng của chủ cũ, EMSP tự động gọi sang DMS để kiểm tra hợp đồng ảo đã được.\n\n- Nếu DMS chưa có hợp đồng ảo, chưa hợp lệ hoặc DMS không phản hồi: Hệ thống chặn thanh lý chuyển hoàn ảo trên DMS.\n- Nếu DMS xác nhận đã có hợp đồng ảo hợp lệ: Hệ thống tục và hoàn thanh.\n\n⚠ **Lưu ý: Nhân viên cần phối hợp với bộ phận DMS để hoàn ảo cho trước khi thực .**\n\n- **Phiên sạc đang chạy hoặc nợ bill sạc**\n\n| **Phiên sạc đang chạy** | Hệ thống ChargingService phát hiện phiên chưa tổng hợp → Chặn thanh lý. Chờ phiên sạc kết thúc. |\n|--------------------------------------------------------|---------------------------------------------------------------------------------------------------|\n| **Nợ bill sạc (TypeBill 6/16)** | Hệ thống phát hiện nợ sạc chưa thanh toán → Chặn thanh lý. toán bill sạc trước. |\n| **Không còn phiên, không nợ sạc và đã có hợp đồng ảo** | Hệ thống luồng thanh. |\n\n lỗi, ĐLPP gửi email cho\n\n- **Kích hoạt chủ mới sau thanh lý chuyển chủ**\n\nÁp dụng sau khi hợp đồng của chủ cũ đã chuyển sang trạng thái Thanh lý chuyển tục đồng bộ hợp đồng của sang EMSP.\n\n1. DMS đồng bộ hợp đồng của sang EMSP trên cơ sở hợp đồng ảo đã được xác nhận trước đó.\n2. NV thực hiện thanh toán trên EMSP Portal, chọn số tháng toán.\n3. Hệ thống gen bill đúng (quả 1: 175.000/tháng, quả 2: 125.000/tháng).\n4. Hệ thống cho phép Active hợp đồng với.\n\n**💡 Gợi ý:** Nếu Active 2 quả không đồng thời, hệ thống tự căn chỉnh số tháng của quả thứ 2 để khớp dueDate với quả thứ 1.\n\n​ **Lưu ý:**\n\n- HĐTP của chủ cũ chuyển trạng thái Terminated / Đã thanh cọc thuê pin ở DMS và SAP cùng. tin Transfer Or Refund cũ là Yes\n- Trường hợp cọc pin ở DMS và SAP không khớp, HĐTP của chủ cũ ở trạng thái Waiting to terminate Transfer Or refund chủ cũ là No\n- Trường hợp cọc pin không khớp, cơ sở cần kiểm tra lại thông tin sau đó chọn Transfer Or Refund = Yes chuyển trạng thái HĐTP của chủ cũ là Terminated / Đã thanh lý",
+    "raw_content": "- **Gói thuê có 2 quả pin**\n\n📌 **Quy tắc:, hệ thống xử lý 2. Việc thanh lý chuyển thực ảo trên DMS bao phủ đúng .**\n\n- **Thanh lý 2 quả cùng lúc:**\n\n- Hệ thống kiểm tra hợp đồng ảo trên DMS cho từng quả pin cần chuyển giao.\n- Cả 2 thanh lý chuyển đều được ghi nhận hợp lệ trong hợp đồng ảo của.\n- Hợp đồng KH sang trạng thái Thanh lý chuyển (Status = 3), BatteryContracts = [].\n- DMS nhận kết tương ứng.\n\n- **Kiểm tra hợp đồng ảo trên DMS**\n\n chấm dứt hợp đồng của chủ cũ, EMSP tự động gọi sang DMS để kiểm tra hợp đồng ảo đã được.\n\n- Nếu DMS chưa có hợp đồng ảo, chưa hợp lệ hoặc DMS không phản hồi: Hệ thống chặn thanh lý chuyển hoàn ảo trên DMS.\n- Nếu DMS xác nhận đã có hợp đồng ảo hợp lệ: Hệ thống tục và hoàn thanh.\n\n⚠ **Lưu ý: Nhân viên cần phối hợp với bộ phận DMS để hoàn ảo cho trước khi thực .**\n\n- **Phiên sạc đang chạy hoặc nợ bill sạc**\n\n| **Phiên sạc đang chạy** | Hệ thống ChargingService phát hiện phiên chưa tổng hợp → Chặn thanh lý. Chờ phiên sạc kết thúc. |\n|--------------------------------------------------------|---------------------------------------------------------------------------------------------------|\n| **Nợ bill sạc (TypeBill 6/16)** | Hệ thống phát hiện nợ sạc chưa thanh toán → Chặn thanh lý. toán bill sạc trước. |\n| **Không còn phiên, không nợ sạc và đã có hợp đồng ảo** | Hệ thống luồng thanh. |\n\n lỗi, ĐLPP gửi email cho\n\n- **Kích hoạt chủ mới sau thanh lý chuyển chủ**\n\nÁp dụng sau khi hợp đồng của chủ cũ đã chuyển sang trạng thái Thanh lý chuyển tục đồng bộ hợp đồng của sang EMSP.\n\n1. DMS đồng bộ hợp đồng của sang EMSP trên cơ sở hợp đồng ảo đã được xác nhận trước đó.\n2. NV thực hiện thanh toán trên EMSP Portal, chọn số tháng toán.\n3. Hệ thống gen bill đúng (quả 1: 175.000/tháng, quả 2: 125.000/tháng).\n4. Hệ thống cho phép Active hợp đồng với.\n\n**💡 Gợi ý:** Nếu Active 2 quả không đồng thời, hệ thống tự căn chỉnh số tháng của quả thứ 2 để khớp dueDate với quả thứ 1.\n\n​ **Lưu ý:**\n\n- HĐTP của chủ cũ chuyển trạng thái Terminated / Đã thanh cọc thuê pin ở DMS và SAP cùng. tin Transfer Or Refund cũ là Yes\n- Trường hợp cọc pin ở DMS và SAP không khớp, HĐTP của chủ cũ ở trạng thái Waiting to terminate Transfer Or refund chủ cũ là No\n- Trường hợp cọc pin không khớp, cơ sở cần kiểm tra lại thông tin sau đó chọn Transfer Or Refund = Yes chuyển trạng thái HĐTP của chủ cũ là Terminated / Đã thanh lý",
+    "token_count": 751,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "Các trường hợp đặc biệt",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "12 Thực hiện chuyển thuê Pin trên EMSP",
+        "Các trường hợp đặc biệt"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_018",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 13 cọc cũ ở trạng thái Terminated / Đã thanh lý, hệ thống phê duyệt ở trạng thái Open / Mở. Yêu cầu được Hoàn cọc hay Chuyển cọc phụ thuộc vào lựa chọn của cơ sở trên màn hình HĐTP của Bước 2]\n\n- Người dùng đính kèm file hành DPR gửi QLV phê duyệt.\n- Sau khi DPR được, HĐTP tương ứng được chuyển sang trạng thái Active/Đang hoạt động.",
+    "raw_content": "- Người dùng đính kèm file hành DPR gửi QLV phê duyệt.\n- Sau khi DPR được, HĐTP tương ứng được chuyển sang trạng thái Active/Đang hoạt động.",
+    "token_count": 183,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "13 cọc cũ ở trạng thái Terminated / Đã thanh lý, hệ thống phê duyệt ở trạng thái Open / Mở. Yêu cầu được Hoàn cọc hay Chuyển cọc phụ thuộc vào lựa chọn của cơ sở trên màn hình HĐTP của Bước 2",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "13 cọc cũ ở trạng thái Terminated / Đã thanh lý, hệ thống phê duyệt ở trạng thái Open / Mở. Yêu cầu được Hoàn cọc hay Chuyển cọc phụ thuộc vào lựa chọn của cơ sở trên màn hình HĐTP của Bước 2"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_019",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 14 thông báo lỗi thường gặp &amp;]\n\n| **Thông báo lỗi** | **Nguyên nhân** | **Cách xử lý** |\n|---------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|\n| **Nút [Thanh lý] không hiển thị** | Hợp đồng chưa Active hoặc đã Thanh lý chuyển | Kiểm tra trạng thái hợp đồng. Chỉ hợp đồng Active mới được thực. |\n| **“ chuyển hợp đồng đang Active”** | HĐ ở trạng thái khác Active | Liên hệ bộ phận kỹ thuật nếu cần điều chỉnh. |\n| **Hệ thống chặn ** | 1 quả pin trong gói chưa được kích hoạt | Kích hoạt quả pin PendingActive trước, sau đó thực. |\n| **Còn phiên sạc đang chạy** | KH đang có phiên sạc chưa tổng hợp | Chờ phiên sạc kết thúc tổng hợp lên bill rồi. |\n| ** nợ bill sạc chưa thanh toán** | TypeBill 6 hoặc 16 chưa trả | Yêu cầu khách hàng thanh toán nợ sạc trước khi thanh lý chuyển. |\n| **Chưa có hợp đồng ảo của chủ mới** | DMS chưa tạo hợp đồng ảo, chưa hợp lệ hoặc DMS không phản hồi | Hoàn tất việc tạo hợp đồng ảo trên DMS và thực hiện kiểm tra lại trước khi thanh lý chuyển. |",
+    "raw_content": "| **Thông báo lỗi** | **Nguyên nhân** | **Cách xử lý** |\n|---------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|\n| **Nút [Thanh lý] không hiển thị** | Hợp đồng chưa Active hoặc đã Thanh lý chuyển | Kiểm tra trạng thái hợp đồng. Chỉ hợp đồng Active mới được thực. |\n| **“ chuyển hợp đồng đang Active”** | HĐ ở trạng thái khác Active | Liên hệ bộ phận kỹ thuật nếu cần điều chỉnh. |\n| **Hệ thống chặn ** | 1 quả pin trong gói chưa được kích hoạt | Kích hoạt quả pin PendingActive trước, sau đó thực. |\n| **Còn phiên sạc đang chạy** | KH đang có phiên sạc chưa tổng hợp | Chờ phiên sạc kết thúc tổng hợp lên bill rồi. |\n| ** nợ bill sạc chưa thanh toán** | TypeBill 6 hoặc 16 chưa trả | Yêu cầu khách hàng thanh toán nợ sạc trước khi thanh lý chuyển. |\n| **Chưa có hợp đồng ảo của chủ mới** | DMS chưa tạo hợp đồng ảo, chưa hợp lệ hoặc DMS không phản hồi | Hoàn tất việc tạo hợp đồng ảo trên DMS và thực hiện kiểm tra lại trước khi thanh lý chuyển. |",
+    "token_count": 388,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "14 thông báo lỗi thường gặp &amp;",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "14 thông báo lỗi thường gặp &amp;"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_020",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX > 15 trọng]\n\n❗ **KHÔNG THỂ HOÀN TÁC: nhấn [THANH LÝ CHUYỂN CHỦ] và xác nhận thành công, sẽ chuyển sang trạng thái Thanh lý chuyển. kỹ VIN, nhận hợp đồng ảo trên DMS trước khi thực hiện.**\n\n- Chỉ thực xác nhận trên DMS.\n- Kiểm tra kỹ VinXe trước khi thực hiện để tránh nhầm hợp đồng.\n- Mã Showroom và Tên Showroom phải chính xác — đến phân bổ.\n- Khi thanh lý 2 quả pin cùng lúc, đảm ảo của DMS đã bao phủ đầy đủ các quả pin cần chuyển giao.\n- Sau khi hoàn tất, cũ được cập sang trạng thái Thanh lý chuyển; sang DMS hệ thống.\n- Mọi thắc mắc hoặc lỗi ngoài danh sách, vui lòng liên hệ bộ phận IT Support.",
+    "raw_content": "❗ **KHÔNG THỂ HOÀN TÁC: nhấn [THANH LÝ CHUYỂN CHỦ] và xác nhận thành công, sẽ chuyển sang trạng thái Thanh lý chuyển. kỹ VIN, nhận hợp đồng ảo trên DMS trước khi thực hiện.**\n\n- Chỉ thực xác nhận trên DMS.\n- Kiểm tra kỹ VinXe trước khi thực hiện để tránh nhầm hợp đồng.\n- Mã Showroom và Tên Showroom phải chính xác — đến phân bổ.\n- Khi thanh lý 2 quả pin cùng lúc, đảm ảo của DMS đã bao phủ đầy đủ các quả pin cần chuyển giao.\n- Sau khi hoàn tất, cũ được cập sang trạng thái Thanh lý chuyển; sang DMS hệ thống.\n- Mọi thắc mắc hoặc lỗi ngoài danh sách, vui lòng liên hệ bộ phận IT Support.",
+    "token_count": 261,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+      "subsection": "15 trọng",
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH CHUYỂN CHỦ HĐTP XE MAX",
+        "15 trọng"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_021",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > QUY TRÌNH KÍCH HOẠT HĐTP CỦA PIN 2]\n\n**Bước 1.** Tạo lệnh sửa chữa và thực động lắp Pin 2 cho thuê\n\n- WO ở trạng thái lệnh sửa chữa/released -&gt; tab Pin activity -&gt; New WO service activity -&gt; hoạt động Pin 14 (Pin đã kích hoạt thái unlease/at BU)\n- Sau khi điền đủ thông tin bấm Save để lưu hoạt; complete hoàn động Pin\n- Chuyển WO sang trạng thái Invoiced.\n\n**Bước 2.** Tạo và kích hoạt HĐTP cho Pin 2 (Pin thuê)\n\n- Mở bản ghi device information theo serial Pin đã thực hiện xong hoạt động 14 -&gt; “HĐ Pin 2”\n- Điền thông tin Lựa chọn loại gói cước,, Battery Option trên form HĐ mới -&gt; Save\n\n- Thêm Package Type, đính kèm hồ sơ và phát hành phiếu thu cọc (nếu có).\n- Kích hoạt gói cước",
+    "raw_content": "**Bước 1.** Tạo lệnh sửa chữa và thực động lắp Pin 2 cho thuê\n\n- WO ở trạng thái lệnh sửa chữa/released -&gt; tab Pin activity -&gt; New WO service activity -&gt; hoạt động Pin 14 (Pin đã kích hoạt thái unlease/at BU)\n- Sau khi điền đủ thông tin bấm Save để lưu hoạt; complete hoàn động Pin\n- Chuyển WO sang trạng thái Invoiced.\n\n**Bước 2.** Tạo và kích hoạt HĐTP cho Pin 2 (Pin thuê)\n\n- Mở bản ghi device information theo serial Pin đã thực hiện xong hoạt động 14 -&gt; “HĐ Pin 2”\n- Điền thông tin Lựa chọn loại gói cước,, Battery Option trên form HĐ mới -&gt; Save\n\n- Thêm Package Type, đính kèm hồ sơ và phát hành phiếu thu cọc (nếu có).\n- Kích hoạt gói cước",
+    "token_count": 269,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "QUY TRÌNH KÍCH HOẠT HĐTP CỦA PIN 2",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "QUY TRÌNH KÍCH HOẠT HĐTP CỦA PIN 2"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO558_vf_hdsd_thanh_ly_cham_dut_doi_chu_kich_hoat_lai_hdtp_dong_xe_doi_pin_chunk_022",
+    "content": "[Document: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin | Role: accounting | Source: KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx | Section: VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin > KÍCH HOẠT LẠI HĐTP CHO VINXE ĐÃ THỰC HIỆN THANH LÝ PIN VỀ VINFAST]\n\nĐể thực hiện Kích hoạt lại hợp đồng thuê PIN,\n\nĐầu tiên cần tạo Lệnh sửa chữa (LSC) để lắp PIN lên xe để thực **Bước 1: Lệnh sửa chữa (LSC) **\n\n**Cố vấn chọn, tiến hành thêm thông tin sửa chữa bắt buộc),, khách hàng và, *\n\n**Bước 1.1:** dung sửa chữa Tháo lắp PIN\n\nCố vấn thêm dung sửa chữa thay thế PIN đã bán cho khách\n\nGiao diện danh sách dung và phụ tùng hiển thị\n\nĐối với nội dung sửa chữa, “ **09- Sửa chữa PIN** ”. Chọn mã công việc lắp pin vấn thể thêm các dịch vụ và phụ tùng khác nếu xe cần sửa chữa/bảo dưỡng ngoài phạm vi thay PIN\n\nSau đó, thực thành Work Order/Lệnh sửa chữa như quy trình đang chạy.\n\n**Bước 1.2: động sửa chữa, Tháo PIN và Lắp PIN tra**\n\n- 1.1. **Thêm hoạt động** “ **12. Lắp PIN cho thuê trước khi kích hoạt HĐ”**\n\nCVDV thêm hoạt chữa tháo PIN của khách. Vào **mục Pin Activity** --&gt; **Hoạt động *\n\nMàn hình thêm hoạt,\n\n- **Dịch vụ**: Chọn  “ **12. Lắp PIN cho thuê trước khi kích hoạt HĐ** ”\n- **Serial PIN**: Tự động fill serial PIN khách đang thuê vào, KTV có thể scan lại mã PIN\n- **Use status:** Nhập trạng thái. Tốt (good) hoặc Hỏng (broken)\n- **Kĩ thuật viên**: Chọn KTV để giao việc\n- **Khoang sửa chữa**: sửa chữa\n\n- **Thông tin lịch trình**: Chọn thông tin chữa\n\n- **Lưu ý**: sản PIN mới thuê\n\nSau khi hoàn thành, nhấn chọn **Lưu.**\n\nKĩ thuật viên thực hiện tháo PIN, đốc công sẽ đóng hoạt tháo thành công\n\n- 1.2. **Thêm hoạt động sửa chữa “13. Tháo PIN khỏi xe HĐ”** (chỉ thực hiện nếu không có nhu cầu gắn PIN để kích hoạt nữa hoặc muốn lắp PIN khác)\n\nCVDV thêm hoạt chữa Lắp PIN mới cho khách. Vào **mục PIN Activity** --&gt; **Hoạt động *\n\nMàn hình thêm hoạt,\n\n- **Dịch vụ**: Chọn **13. Tháo PIN khỏi xe HĐ**\n\n- **Serial**: Kĩ thuật viên Scan serial PIN\n- **Use status:** Nhập trạng thái. Tốt (good) hoặc Hỏng (broken)\n- **Kĩ thuật viên**: Chọn KTV để giao việc\n- **Khoang sửa chữa**: sửa chữa\n- **Thông tin lịch trình**: Chọn thông tin chữa\n\nSau khi hoàn thành, nhấn chọn **Lưu.**\n\nKĩ thuật viên thực hiện lắp PIN, CVDV sẽ đóng phiếu sau khi PIN lắp thành công\n\n**c) Dừng kích hoạt hoạt động Pin Activity**\n\nChọn Dừng kích hoạt động Pin Activity\n\nTheo thứ tự:\n\n**12. Lắp PIN cho thuê trước khi kích hoạt HĐ**\n\n**13. Tháo PIN khỏi xe HĐ (nếu có)**\n\n**Bước 2: Đóng lệnh sửa chữa**\n\nSau khi Tất cả các Hoạt động sửa chữa, thực như quy trình đã chạy, bao gồm:\n\n- toán\n\n- Xuất hóa trình Claim (đối với hành)\n\n**Bước 3: PIN lại**\n\nVào phần mềm DMS chọn Phân hệ **Khu vực làm việc &gt; Device Information &gt; Battery Informaition Overview** sS\n\n- Tìm kiếm VIN xe cần Kích hoạt lại hợp đồng thuê PIN\n- **Tại màn hình chi tiết Device information &gt; Nhấn [Thuê lại HD]**\n- Tại màn hình Battery Rental Mới\n - Chọn Contract Tpye (nếu trường hợp VIN xe cước)\n- **Sau đó chọn [Lưu]**\n- Tiếp tục chọn tab **[** Attachment file] để đính kèm các file, giấy tờ !-- image -->\n - **Ở bước này, nếu KH thuê Pin không ban đầu, ĐLPP điền mã KH của **\n\n**Bước 4:** Thực hiện Kích hoạt hợp đồng thuê PIN",
+    "raw_content": "Để thực hiện Kích hoạt lại hợp đồng thuê PIN,\n\nĐầu tiên cần tạo Lệnh sửa chữa (LSC) để lắp PIN lên xe để thực **Bước 1: Lệnh sửa chữa (LSC) **\n\n**Cố vấn chọn, tiến hành thêm thông tin sửa chữa bắt buộc),, khách hàng và, *\n\n**Bước 1.1:** dung sửa chữa Tháo lắp PIN\n\nCố vấn thêm dung sửa chữa thay thế PIN đã bán cho khách\n\nGiao diện danh sách dung và phụ tùng hiển thị\n\nĐối với nội dung sửa chữa, “ **09- Sửa chữa PIN** ”. Chọn mã công việc lắp pin vấn thể thêm các dịch vụ và phụ tùng khác nếu xe cần sửa chữa/bảo dưỡng ngoài phạm vi thay PIN\n\nSau đó, thực thành Work Order/Lệnh sửa chữa như quy trình đang chạy.\n\n**Bước 1.2: động sửa chữa, Tháo PIN và Lắp PIN tra**\n\n- 1.1. **Thêm hoạt động** “ **12. Lắp PIN cho thuê trước khi kích hoạt HĐ”**\n\nCVDV thêm hoạt chữa tháo PIN của khách. Vào **mục Pin Activity** --&gt; **Hoạt động *\n\nMàn hình thêm hoạt,\n\n- **Dịch vụ**: Chọn  “ **12. Lắp PIN cho thuê trước khi kích hoạt HĐ** ”\n- **Serial PIN**: Tự động fill serial PIN khách đang thuê vào, KTV có thể scan lại mã PIN\n- **Use status:** Nhập trạng thái. Tốt (good) hoặc Hỏng (broken)\n- **Kĩ thuật viên**: Chọn KTV để giao việc\n- **Khoang sửa chữa**: sửa chữa\n\n- **Thông tin lịch trình**: Chọn thông tin chữa\n\n- **Lưu ý**: sản PIN mới thuê\n\nSau khi hoàn thành, nhấn chọn **Lưu.**\n\nKĩ thuật viên thực hiện tháo PIN, đốc công sẽ đóng hoạt tháo thành công\n\n- 1.2. **Thêm hoạt động sửa chữa “13. Tháo PIN khỏi xe HĐ”** (chỉ thực hiện nếu không có nhu cầu gắn PIN để kích hoạt nữa hoặc muốn lắp PIN khác)\n\nCVDV thêm hoạt chữa Lắp PIN mới cho khách. Vào **mục PIN Activity** --&gt; **Hoạt động *\n\nMàn hình thêm hoạt,\n\n- **Dịch vụ**: Chọn **13. Tháo PIN khỏi xe HĐ**\n\n- **Serial**: Kĩ thuật viên Scan serial PIN\n- **Use status:** Nhập trạng thái. Tốt (good) hoặc Hỏng (broken)\n- **Kĩ thuật viên**: Chọn KTV để giao việc\n- **Khoang sửa chữa**: sửa chữa\n- **Thông tin lịch trình**: Chọn thông tin chữa\n\nSau khi hoàn thành, nhấn chọn **Lưu.**\n\nKĩ thuật viên thực hiện lắp PIN, CVDV sẽ đóng phiếu sau khi PIN lắp thành công\n\n**c) Dừng kích hoạt hoạt động Pin Activity**\n\nChọn Dừng kích hoạt động Pin Activity\n\nTheo thứ tự:\n\n**12. Lắp PIN cho thuê trước khi kích hoạt HĐ**\n\n**13. Tháo PIN khỏi xe HĐ (nếu có)**\n\n**Bước 2: Đóng lệnh sửa chữa**\n\nSau khi Tất cả các Hoạt động sửa chữa, thực như quy trình đã chạy, bao gồm:\n\n- toán\n\n- Xuất hóa trình Claim (đối với hành)\n\n**Bước 3: PIN lại**\n\nVào phần mềm DMS chọn Phân hệ **Khu vực làm việc &gt; Device Information &gt; Battery Informaition Overview** sS\n\n- Tìm kiếm VIN xe cần Kích hoạt lại hợp đồng thuê PIN\n- **Tại màn hình chi tiết Device information &gt; Nhấn [Thuê lại HD]**\n- Tại màn hình Battery Rental Mới\n - Chọn Contract Tpye (nếu trường hợp VIN xe cước)\n- **Sau đó chọn [Lưu]**\n- Tiếp tục chọn tab **[** Attachment file] để đính kèm các file, giấy tờ !-- image -->\n - **Ở bước này, nếu KH thuê Pin không ban đầu, ĐLPP điền mã KH của **\n\n**Bước 4:** Thực hiện Kích hoạt hợp đồng thuê PIN",
+    "token_count": 893,
+    "metadata": {
+      "document": "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin.docx",
+      "page": null,
+      "slide": null,
+      "section": "KÍCH HOẠT LẠI HĐTP CHO VINXE ĐÃ THỰC HIỆN THANH LÝ PIN VỀ VINFAST",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Thanh lý chấm dứt, đổi chủ, kích hoạt lại HĐTP dòng xe đổi Pin",
+        "KÍCH HOẠT LẠI HĐTP CHO VINXE ĐÃ THỰC HIỆN THANH LÝ PIN VỀ VINFAST"
+      ],
+      "timestamp": null
+    }
+  }
+]

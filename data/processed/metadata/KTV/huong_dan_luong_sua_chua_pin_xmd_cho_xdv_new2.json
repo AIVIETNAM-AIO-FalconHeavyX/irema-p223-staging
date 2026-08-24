@@ -1,0 +1,25 @@
+{
+    "document_id": "KTV002",
+    "title": "Hướng dẫn luồng sửa chữa Pin XMĐ cho XDV new2",
+    "source_file": "Hướng dẫn luồng sửa chữa Pin XMĐ cho XDV_new2.xlsx",
+    "source_path": "KTV/Hướng dẫn luồng sửa chữa Pin XMĐ cho XDV_new2.xlsx",
+    "file_hash": "sha256:40efc73d0a6f4e481fe15880451cfd0254d877e9f838f2fa4bad277466a65981",
+    "document_type": "xlsx",
+    "content_type": "document",
+    "role": "technician",
+    "category": "KTV",
+    "access_scope": [
+        "technician"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": null,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

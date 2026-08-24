@@ -1,0 +1,9 @@
+{
+  "document_id": "KTV260727",
+  "pii_detected": true,
+  "removed_entities": {
+    "PERSON": 235,
+    "EMAIL_ADDRESS": 5,
+    "PHONE_NUMBER": 4
+  }
+}

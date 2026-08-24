@@ -1,0 +1,308 @@
+[
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_001",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0]\n\n**TÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS**\n\n**LUỒNG HỒ SƠ CLAIM BÙ TỒN CHO XE MÁY ĐIỆN**\n\n| Mã | VF-DMS-HDSD-VALET-001 |\n|-----------------|-------------------------------------|\n| Phiên bản | V1.0 |\n| Ngày tạo | 04/08/2026 |\n| Trạng thái | Publised |\n| Phân loại | – Tài liệu hướng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "raw_content": "**TÀI LIỆU HƯỚNG DẪN SỬ DỤNG DMS**\n\n**LUỒNG HỒ SƠ CLAIM BÙ TỒN CHO XE MÁY ĐIỆN**\n\n| Mã | VF-DMS-HDSD-VALET-001 |\n|-----------------|-------------------------------------|\n| Phiên bản | V1.0 |\n| Ngày tạo | 04/08/2026 |\n| Trạng thái | Publised |\n| Phân loại | – Tài liệu hướng |\n| Người soạn thảo | Trịnh Thị Thúy Nga (Ngattt30) |",
+    "token_count": 135,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_002",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > I. Quản lý Phiên bản Tài liệu]\n\n| **Phiên bản** | **Ngày tạo** | **Mô tả thay đổi** | **Người tạo** | **Trạng thái** |\n|-----------------|----------------|----------------------|-----------------|------------------|\n| v0.1 | 04/08/2026 | | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "raw_content": "| **Phiên bản** | **Ngày tạo** | **Mô tả thay đổi** | **Người tạo** | **Trạng thái** |\n|-----------------|----------------|----------------------|-----------------|------------------|\n| v0.1 | 04/08/2026 | | Ngattt30 | Draft |\n| v1.0 | | Ban hành chính thức | | |",
+    "token_count": 127,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "I. Quản lý Phiên bản Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "I. Quản lý Phiên bản Tài liệu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_003",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > II. Phê duyệt Tài liệu]\n\n| **Vai trò** | **Họ tên** | **Chữ ký** | **Ngày** |\n|-----------------|--------------------|--------------|------------|\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 04/08/2026 |\n| kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "raw_content": "| **Vai trò** | **Họ tên** | **Chữ ký** | **Ngày** |\n|-----------------|--------------------|--------------|------------|\n| Người soạn thảo | Trịnh Thị Thúy Nga | | 04/08/2026 |\n| kiểm tra | | | |\n| Người phê duyệt | | | |",
+    "token_count": 114,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "II. Phê duyệt Tài liệu",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "II. Phê duyệt Tài liệu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_004",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > III. Mục tiêu &amp; Phạm vi Tài liệu > 3.1. Mục tiêu]\n\nTài liệu này hướng dẫn nhận sự tại ĐLPP thực claim hồ sơ XMĐ đối với nghiệp vụ claim bù tồn đối với các xe có thay ### 3.2. Phạm vi áp dụng\n\n- Hệ thống: DMS – Phân hệ Kinh Doanh\n- Người dùng: CHT, KTV\n- Phạm vi: nhánh (BU) thống DMS",
+    "raw_content": "Tài liệu này hướng dẫn nhận sự tại ĐLPP thực claim hồ sơ XMĐ đối với nghiệp vụ claim bù tồn đối với các xe có thay ### 3.2. Phạm vi áp dụng\n\n- Hệ thống: DMS – Phân hệ Kinh Doanh\n- Người dùng: CHT, KTV\n- Phạm vi: nhánh (BU) thống DMS",
+    "token_count": 135,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "III. Mục tiêu &amp; Phạm vi Tài liệu",
+      "subsection": "3.1. Mục tiêu",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "III. Mục tiêu &amp; Phạm vi Tài liệu",
+        "3.1. Mục tiêu"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_005",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > III. Mục tiêu &amp; Phạm vi Tài liệu > 3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |]\n\n|-----------------|-----------------------------|------------------|\n| CHT NPP | Thực hiện trên DMS | **Bắt buộc** |\n| KTV NPP | Thực hiện trên DMS | **Bắt buộc** |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | **Bắt buộc** |",
+    "raw_content": "|-----------------|-----------------------------|------------------|\n| CHT NPP | Thực hiện trên DMS | **Bắt buộc** |\n| KTV NPP | Thực hiện trên DMS | **Bắt buộc** |\n| Bộ phận IT VH | Hỗ trợ kỹ thuật / cấu hình | **Bắt buộc** |",
+    "token_count": 137,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "III. Mục tiêu &amp; Phạm vi Tài liệu",
+      "subsection": "3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "III. Mục tiêu &amp; Phạm vi Tài liệu",
+        "3.3. Đối tượng đọc **Đối tượng** | **Vai trò** | **Mức độ đọc** |"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_006",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > IV. Thuật ngữ &amp; Từ viết tắt]\n\n| **#** | **Từ viết tắt** | **Mô tả** |\n|---------|-------------------|----------------------------------------------------|\n| 1 | **DMS** | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | **BU** | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | **CHT** | Cửa hàng trưởng |\n| 5 | **KTV** | Kĩ thuật viên |\n| 6 | **KH** | Khách hàng |\n| 7 | **ĐKX** | kí xe |",
+    "raw_content": "| **#** | **Từ viết tắt** | **Mô tả** |\n|---------|-------------------|----------------------------------------------------|\n| 1 | **DMS** | Dealer Management System – Hệ thống quản lý đại lý |\n| 2 | **BU** | Business Unit – Chi nhánh / Đơn vị kinh doanh |\n| 3 | ĐLPP | Đại lý phân phối |\n| 4 | **CHT** | Cửa hàng trưởng |\n| 5 | **KTV** | Kĩ thuật viên |\n| 6 | **KH** | Khách hàng |\n| 7 | **ĐKX** | kí xe |",
+    "token_count": 173,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "IV. Thuật ngữ &amp; Từ viết tắt",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "IV. Thuật ngữ &amp; Từ viết tắt"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_007",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > V. Tài liệu Liên quan]\n\n| **#** | *** | **Mô tả** | **Phiên bản** | **Ghi chú** |\n|---------|--------------------|-------------|-----------------|---------------|\n| 1 | | | | |\n| 2 | | | | |",
+    "raw_content": "| **#** | *** | **Mô tả** | **Phiên bản** | **Ghi chú** |\n|---------|--------------------|-------------|-----------------|---------------|\n| 1 | | | | |\n| 2 | | | | |",
+    "token_count": 99,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "V. Tài liệu Liên quan",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "V. Tài liệu Liên quan"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_008",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VI. Tổng quan Chức năng]\n\nChức năng cho phép ĐLPP thực hiện claim bù tồn chênh lệch sỉ xe XMĐ.",
+    "raw_content": "Chức năng cho phép ĐLPP thực hiện claim bù tồn chênh lệch sỉ xe XMĐ.",
+    "token_count": 74,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VI. Tổng quan Chức năng"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_009",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VI. Tổng quan Chức năng > 6.1. nghiệp vụ tổng quát]\n\n| **#** | **Bước** | **Mô tả** | **Người thực hiện** | **Hệ thống** |\n|---------|---------------------------------------------------|------------------------------------------------------------------------|-----------------------|----------------|\n| 1 | ** bù tồn lên DMS** | VHKD thực bù DMS cho từng số khung xe | VHKD | DMS |\n| 2 | **Kế toán phê duyệt bảng giá bù tồn trên DMS** | VHKD gửi kế toán phê duyệt bảng giám bù | KT | DMS |\n| 3 | **NPP thực hiện làm hồ sơ claim bù tồn trên DMS** | CHT tạo hồ sơ claim claim khoản bù số khung xe | CHT | DMS |",
+    "raw_content": "| **#** | **Bước** | **Mô tả** | **Người thực hiện** | **Hệ thống** |\n|---------|---------------------------------------------------|------------------------------------------------------------------------|-----------------------|----------------|\n| 1 | ** bù tồn lên DMS** | VHKD thực bù DMS cho từng số khung xe | VHKD | DMS |\n| 2 | **Kế toán phê duyệt bảng giá bù tồn trên DMS** | VHKD gửi kế toán phê duyệt bảng giám bù | KT | DMS |\n| 3 | **NPP thực hiện làm hồ sơ claim bù tồn trên DMS** | CHT tạo hồ sơ claim claim khoản bù số khung xe | CHT | DMS |",
+    "token_count": 209,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": "6.1. nghiệp vụ tổng quát",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VI. Tổng quan Chức năng",
+        "6.1. nghiệp vụ tổng quát"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_010",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VI. Tổng quan Chức năng > 6.2. Sơ đồ trạng thái (Status Flow)]\n\n| **Trạng thái** | **Mô tả** | **Chuyển sang** | **Điều kiện** |\n|------------------|--------------------------------|-------------------|-----------------|\n| **Open** | Yêu cầu mới tạo | | |\n| Waiting | Chờ VHKD phê duyệt hồ sơ claim | **SAP Approved** | |",
+    "raw_content": "| **Trạng thái** | **Mô tả** | **Chuyển sang** | **Điều kiện** |\n|------------------|--------------------------------|-------------------|-----------------|\n| **Open** | Yêu cầu mới tạo | | |\n| Waiting | Chờ VHKD phê duyệt hồ sơ claim | **SAP Approved** | |",
+    "token_count": 134,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VI. Tổng quan Chức năng",
+      "subsection": "6.2. Sơ đồ trạng thái (Status Flow)",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VI. Tổng quan Chức năng",
+        "6.2. Sơ đồ trạng thái (Status Flow)"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_011",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VII. ### 7.1. tổng sơ claim cho XMĐ]\n\n**Người thực hiện:** CHT\n\n**Áp dụng:** cho các trường hợp số khung xe có thay lẻ đối với xe toán đã phê duyệt giá bù dùng chọn Kế toán/Cashier =&gt; Chọn Dealer Claim Payment =&gt; Bấm New/Tạo mới\n\n bấm, màn hình hiển thị giao diện hồ sơ claim, chọn:\n\n- Bussiness Unit: Mã chi nhánh\n- Transaction Date/Ngày giao dịch\n- Type/Loại: Offset Debt/Cấn trừ công nợ\n- Claim Source: Inventory New Vehicle (Xe tồn kho)\n- Ngành hàng/VF Division: Xe máy điện/ to: dùng thực hiện chọn 1 trong 2 lựa chọn sau:\n - Trading: Khi thực hiện claim cho số khung xe (Theo PO nhập xe)\n - Newco: Khi thực hiện claim cho số khung xe nhập từ Newco (Theo PO nhập xe), hệ thống sinh ra bản ghi tổng sơ claim cho NPP:",
+    "raw_content": "**Người thực hiện:** CHT\n\n**Áp dụng:** cho các trường hợp số khung xe có thay lẻ đối với xe toán đã phê duyệt giá bù dùng chọn Kế toán/Cashier =&gt; Chọn Dealer Claim Payment =&gt; Bấm New/Tạo mới\n\n bấm, màn hình hiển thị giao diện hồ sơ claim, chọn:\n\n- Bussiness Unit: Mã chi nhánh\n- Transaction Date/Ngày giao dịch\n- Type/Loại: Offset Debt/Cấn trừ công nợ\n- Claim Source: Inventory New Vehicle (Xe tồn kho)\n- Ngành hàng/VF Division: Xe máy điện/ to: dùng thực hiện chọn 1 trong 2 lựa chọn sau:\n - Trading: Khi thực hiện claim cho số khung xe (Theo PO nhập xe)\n - Newco: Khi thực hiện claim cho số khung xe nhập từ Newco (Theo PO nhập xe), hệ thống sinh ra bản ghi tổng sơ claim cho NPP:",
+    "token_count": 241,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. tổng sơ claim cho XMĐ",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VII. ### 7.1. tổng sơ claim cho XMĐ"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_012",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VII. ### 7.1. tổng sơ claim cho XMĐ > 7.2. sơ claim cho số khung xe cần claim bù tồn]\n\n**Người thực hiện:** CHT\n\n**⚠ Lưu ý:**\n\n- Người dùng chỉ claim chênh lệch sỉ cho xe được kinh doanh đã tính toán xong tiền hồ sơ claim, đẩy lên hệ thống DMS toán đã phê duyệt bảng khoản bù 1 khoảng claim trên 1 hồ sơ claim.\n\nNgười dùng chọn tab Claim Details ( sơ claim) =&gt; Bấm tạo mới Dealer Claim Payment Details sau đó điền thông tin số tồn kho xe cần claim chênh lệch sỉ\n\nNgười dùng nhập số khung xe vào Invetory New Vehicle =&gt; /Save=&gt; Hệ thống tự động lấy ra khoản tiền chênh lệch sỉ đã được.\n\nNgười dùng muốn claim tiền bù nhiêu xe thì tạo bấy nhiêu chi tiết tương ứng cho hồ sơ claim\n\nSau khi tạo chi tiết thành công, hệ thống tự động cộng tổng bù tồn cơ sở được claim ra tổng sơ claim.\n\n**Người dùng tra cứu giá chênh lệch sỉ (bù tồn) số khung xe tại bảng Cashier/Kế toán =&gt; Chọn bảng Wholesale Priced Difference Config. được thì mới claim chênh lệch sỉ cho xe trước bán thành công.**",
+    "raw_content": "**Người thực hiện:** CHT\n\n**⚠ Lưu ý:**\n\n- Người dùng chỉ claim chênh lệch sỉ cho xe được kinh doanh đã tính toán xong tiền hồ sơ claim, đẩy lên hệ thống DMS toán đã phê duyệt bảng khoản bù 1 khoảng claim trên 1 hồ sơ claim.\n\nNgười dùng chọn tab Claim Details ( sơ claim) =&gt; Bấm tạo mới Dealer Claim Payment Details sau đó điền thông tin số tồn kho xe cần claim chênh lệch sỉ\n\nNgười dùng nhập số khung xe vào Invetory New Vehicle =&gt; /Save=&gt; Hệ thống tự động lấy ra khoản tiền chênh lệch sỉ đã được.\n\nNgười dùng muốn claim tiền bù nhiêu xe thì tạo bấy nhiêu chi tiết tương ứng cho hồ sơ claim\n\nSau khi tạo chi tiết thành công, hệ thống tự động cộng tổng bù tồn cơ sở được claim ra tổng sơ claim.\n\n**Người dùng tra cứu giá chênh lệch sỉ (bù tồn) số khung xe tại bảng Cashier/Kế toán =&gt; Chọn bảng Wholesale Priced Difference Config. được thì mới claim chênh lệch sỉ cho xe trước bán thành công.**",
+    "token_count": 322,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. tổng sơ claim cho XMĐ",
+      "subsection": "7.2. sơ claim cho số khung xe cần claim bù tồn",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VII. ### 7.1. tổng sơ claim cho XMĐ",
+        "7.2. sơ claim cho số khung xe cần claim bù tồn"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_013",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VII. ### 7.1. tổng sơ claim cho XMĐ > 7.3. Đính kèm tài liệu trên hồ sơ claim]\n\nNgười dùng chọn mục Attachment File để đính kèm hồ sơ giấy tờ VHKD phê duyệt\n\nSau khi chọn file =&gt;",
+    "raw_content": "Người dùng chọn mục Attachment File để đính kèm hồ sơ giấy tờ VHKD phê duyệt\n\nSau khi chọn file =&gt;",
+    "token_count": 99,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. tổng sơ claim cho XMĐ",
+      "subsection": "7.3. Đính kèm tài liệu trên hồ sơ claim",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VII. ### 7.1. tổng sơ claim cho XMĐ",
+        "7.3. Đính kèm tài liệu trên hồ sơ claim"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_014",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VII. ### 7.1. tổng sơ claim cho XMĐ > 7.4. Gửi duyệt hồ sơ claim bù tồn và đẩy sang SAP]\n\nSau khi tạo đầy đủ các xe cần claim bù tồn và đính, lên Vận hành Kinh Doanh: Chọn Điều khiển = Send for Approve =&gt; Bấm Lưu/Save\n\nHồ sơ claim chuyển sang trạng thái Waiting HO\n\n Vận hành kinh, claim tự động đẩy sang SAP =&gt; Trạng thái hồ sơ claim chuyển sang Waiting SAP\n\n phê duyệt hồ sơ claim dưới SAP, trạng thái trên DMS chuyển sang SAP Approved\n\n**⚠ Lưu ý:**\n\n- Trường hợp kế toán reject dưới SAP, trạng thái hồ sơ claim trên DMS chuyển thành SAP Rejected, reopen lại hồ sơ claim và chỉnh sửa thông tin cần thiết sau đó gửi phê duyệt lại từ đầu.\n- Người dùng kiểm tra lý do từ chối/Reject Reason của sơ claim",
+    "raw_content": "Sau khi tạo đầy đủ các xe cần claim bù tồn và đính, lên Vận hành Kinh Doanh: Chọn Điều khiển = Send for Approve =&gt; Bấm Lưu/Save\n\nHồ sơ claim chuyển sang trạng thái Waiting HO\n\n Vận hành kinh, claim tự động đẩy sang SAP =&gt; Trạng thái hồ sơ claim chuyển sang Waiting SAP\n\n phê duyệt hồ sơ claim dưới SAP, trạng thái trên DMS chuyển sang SAP Approved\n\n**⚠ Lưu ý:**\n\n- Trường hợp kế toán reject dưới SAP, trạng thái hồ sơ claim trên DMS chuyển thành SAP Rejected, reopen lại hồ sơ claim và chỉnh sửa thông tin cần thiết sau đó gửi phê duyệt lại từ đầu.\n- Người dùng kiểm tra lý do từ chối/Reject Reason của sơ claim",
+    "token_count": 245,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VII. ### 7.1. tổng sơ claim cho XMĐ",
+      "subsection": "7.4. Gửi duyệt hồ sơ claim bù tồn và đẩy sang SAP",
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VII. ### 7.1. tổng sơ claim cho XMĐ",
+        "7.4. Gửi duyệt hồ sơ claim bù tồn và đẩy sang SAP"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "KETO001_vf_hdsd_luong_claim_bu_ton_cho_xmd_v1_0_chunk_015",
+    "content": "[Document: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 | Role: accounting | Source: KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx | Section: VF HDSD Luồng claim bù tồn cho XMĐ v1.0 > VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)]\n\n| **#** | **Vấn đề** | **Nguyên nhân có thể** | **Hướng xử lý** |\n|---------|--------------|--------------------------|-------------------|\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n***— Kết thúc sơ claim bù tồn cho XMĐ—***",
+    "raw_content": "| **#** | **Vấn đề** | **Nguyên nhân có thể** | **Hướng xử lý** |\n|---------|--------------|--------------------------|-------------------|\n| 1 | | | |\n| 2 | | | |\n| 3 | | | |\n| 4 | | | |\n\n***— Kết thúc sơ claim bù tồn cho XMĐ—***",
+    "token_count": 125,
+    "metadata": {
+      "document": "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+      "role": "accounting",
+      "source": "KeToan/VF_HDSD_Luồng claim bù tồn cho XMĐ v1.0.docx",
+      "page": null,
+      "slide": null,
+      "section": "VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)",
+      "subsection": null,
+      "heading_path": [
+        "VF HDSD Luồng claim bù tồn cho XMĐ v1.0",
+        "VIII. Sự cố &amp; Câu hỏi Thường gặp (FAQ)"
+      ],
+      "timestamp": null
+    }
+  }
+]

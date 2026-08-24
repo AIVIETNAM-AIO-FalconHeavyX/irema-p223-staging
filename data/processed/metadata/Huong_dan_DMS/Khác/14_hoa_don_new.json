@@ -1,0 +1,29 @@
+{
+    "document_id": "HUON014",
+    "title": "14.Hóa đơn (new)",
+    "source_file": "14.Hóa đơn (new).webm",
+    "source_path": "Huong_dan_DMS/14.Hóa đơn (new).webm",
+    "file_hash": "sha256:4193e13eba4ae0c97a7d1b5a6c17557d2b9d1e9a74b9f9cf0805b3e8636e61c6",
+    "document_type": "webm",
+    "content_type": "video",
+    "role": "general",
+    "category": "Huong_dan_DMS",
+    "access_scope": [
+        "accounting",
+        "sales",
+        "technician",
+        "owner",
+        "general"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 93.3,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": false,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-22"
+}

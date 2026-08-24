@@ -1,0 +1,25 @@
+{
+    "document_id": "KETO001",
+    "title": "01. Hướng dẫn đăng nhập DMS",
+    "source_file": "01. Hướng dẫn đăng nhập DMS.mp4",
+    "source_path": "KeToan/01. Hướng dẫn đăng nhập DMS.mp4",
+    "file_hash": "sha256:8dc1d1ee89fb317b164248f2c555d11bbbabe49701624e61269f8d79585df933",
+    "document_type": "mp4",
+    "content_type": "video",
+    "role": "accounting",
+    "category": "KeToan",
+    "access_scope": [
+        "accounting"
+    ],
+    "language": "vi",
+    "version": "1.0",
+    "pages": 1,
+    "slides": null,
+    "duration_seconds": 126.0,
+    "pii_processed": true,
+    "pii_removed": true,
+    "pii_detected": true,
+    "processing_status": "success",
+    "processing_errors": [],
+    "processed_at": "2026-08-10"
+}

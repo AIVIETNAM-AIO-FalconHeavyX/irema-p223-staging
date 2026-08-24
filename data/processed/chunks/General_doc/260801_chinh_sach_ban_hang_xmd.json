@@ -1,0 +1,1022 @@
+[
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_001",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > VENTO S]\n\n49,200,000 VND* 01 pin LFP 3.5 kWh",
+    "raw_content": "49,200,000 VND* 01 pin LFP 3.5 kWh",
+    "token_count": 54,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "VENTO S",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "VENTO S"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_002",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > VERO X]\n\n34,900,000 VND* 01 pin LFP 2.4 kWh",
+    "raw_content": "34,900,000 VND* 01 pin LFP 2.4 kWh",
+    "token_count": 54,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "VERO X",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "VERO X"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_003",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > VINFAST EVO]\n\n18.800.000 VND-Thuê Pin 24.100.00 VND -Kèm pin 2 pin LFP 1,5 kWh",
+    "raw_content": "18.800.000 VND-Thuê Pin 24.100.00 VND -Kèm pin 2 pin LFP 1,5 kWh",
+    "token_count": 63,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "VINFAST EVO",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "VINFAST EVO"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_004",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > EVO GRAND LITE]\n\n16.500.000 VND* 01 pin LFP 1.2kWh",
+    "raw_content": "16.500.000 VND* 01 pin LFP 1.2kWh",
+    "token_count": 55,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "EVO GRAND LITE",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "EVO GRAND LITE"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_005",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > THEON S]\n\n56,900,000 VND* 01 pin LFP 3.5 kWh\n\nVIPER 40.600.000 VND -Kèm pim\n\n35.000.000 VND-Thuê pin 02 pin LFP 1,5 kWh\n\nq EVO GRAND",
+    "raw_content": "56,900,000 VND* 01 pin LFP 3.5 kWh\n\nVIPER 40.600.000 VND -Kèm pim\n\n35.000.000 VND-Thuê pin 02 pin LFP 1,5 kWh\n\nq EVO GRAND",
+    "token_count": 77,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "THEON S",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "THEON S"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_006",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > FELIZ 2025]\n\n26.000.000 VND* 01 pin LFP 2.4 kWh\n\n22.500.000 VND* 01 pin LFP 2.4 kWh",
+    "raw_content": "26.000.000 VND* 01 pin LFP 2.4 kWh\n\n22.500.000 VND* 01 pin LFP 2.4 kWh",
+    "token_count": 64,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "FELIZ 2025",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "FELIZ 2025"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_007",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > CÁC PHÂN KHÚC SẢN PHẨM XMĐ]\n\n- áp 05/07/2026, đã bao gồm VAT &amp; cập nhật: 05/07/2026\n\nĐơn vị tính: VNĐ, có VAT",
+    "raw_content": "- áp 05/07/2026, đã bao gồm VAT &amp; cập nhật: 05/07/2026\n\nĐơn vị tính: VNĐ, có VAT",
+    "token_count": 72,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "CÁC PHÂN KHÚC SẢN PHẨM XMĐ",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "CÁC PHÂN KHÚC SẢN PHẨM XMĐ"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_008",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > FELIZ II]\n\n28.700.000 VND- Kèm pin 23.000.000 VND - Thuê pin 02 pin LFP 1,5 kWh\n\nAmio-Amio S/ Amio S2",
+    "raw_content": "28.700.000 VND- Kèm pin 23.000.000 VND - Thuê pin 02 pin LFP 1,5 kWh\n\nAmio-Amio S/ Amio S2",
+    "token_count": 69,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "FELIZ II",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "FELIZ II"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_009",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > EVO LITE]\n\n18.900.000 VND-Kèm 1 Pin\n\n13.300.000 VND* 01 pin LFP 1.2kWh\n\n11.600.000 VND*/12.000.000 VND 01 pin LFP 1.0 kWh\n\n14.300.000 VND\\_Thuê pin 2 pin LFP 1,5 kWh",
+    "raw_content": "18.900.000 VND-Kèm 1 Pin\n\n13.300.000 VND* 01 pin LFP 1.2kWh\n\n11.600.000 VND*/12.000.000 VND 01 pin LFP 1.0 kWh\n\n14.300.000 VND\\_Thuê pin 2 pin LFP 1,5 kWh",
+    "token_count": 86,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "EVO LITE",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "EVO LITE"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_010",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản: Thông số cơ bản:]\n\n- Giới hạn tốc độ 25km/h · Giới hạn tốc độ 30km/h\n- Quãng đường 65km/ lần sạc · 65km/ lần sạc\n- Công suất 800W · Công suất 800W",
+    "raw_content": "- Giới hạn tốc độ 25km/h · Giới hạn tốc độ 30km/h\n- Quãng đường 65km/ lần sạc · 65km/ lần sạc\n- Công suất 800W · Công suất 800W",
+    "token_count": 86,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản: Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản: Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_011",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác: · tiết kiệm Ưu điểm khác:]\n\n- Trọng lượng nhẹ 70kg · tiết kiệm\n\n- Trang bị bàn đạp linh hoạt · Trọng lượng nhẹ 70kg\n- Trang bị bàn đạp linh hoạt",
+    "raw_content": "- Trọng lượng nhẹ 70kg · tiết kiệm\n\n- Trang bị bàn đạp linh hoạt · Trọng lượng nhẹ 70kg\n- Trang bị bàn đạp linh hoạt",
+    "token_count": 84,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác: · tiết kiệm Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác: · tiết kiệm Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_012",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > số cơ bản: Giới hạn tốc độ Thông số cơ bản:]\n\nThông\n\n- Quãng đường 70km/ lần sạc · Giới hạn tốc độ 39km/h\n\n39km/h\n\n- Công suất 1100W · lần sạc\n- Công suất 1100W",
+    "raw_content": "Thông\n\n- Quãng đường 70km/ lần sạc · Giới hạn tốc độ 39km/h\n\n39km/h\n\n- Công suất 1100W · lần sạc\n- Công suất 1100W",
+    "token_count": 84,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "số cơ bản: Giới hạn tốc độ Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "số cơ bản: Giới hạn tốc độ Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_013",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác: · tiết kiệm Ưu điểm khác:]\n\n- Thể tích cốp 14 lít · Trọng lượng nhẹ 71kg\n- Trọng lượng nhẹ 71kg · tiết kiệm\n- Thể tích cốp 14 lít",
+    "raw_content": "- Thể tích cốp 14 lít · Trọng lượng nhẹ 71kg\n- Trọng lượng nhẹ 71kg · tiết kiệm\n- Thể tích cốp 14 lít",
+    "token_count": 80,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác: · tiết kiệm Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác: · tiết kiệm Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_014",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản: Thông số cơ bản:]\n\n- Giới hạn tốc độ 48km/h · Giới hạn tốc độ 48km/h\n- Quãng đường 85km/ lần sạc * · 85km/ lần sạc *\n- Công suất 1500W · Công suất 1500W",
+    "raw_content": "- Giới hạn tốc độ 48km/h · Giới hạn tốc độ 48km/h\n- Quãng đường 85km/ lần sạc * · 85km/ lần sạc *\n- Công suất 1500W · Công suất 1500W",
+    "token_count": 88,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản: Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản: Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_015",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác: · Pin tháo rời đổi được Ưu điểm khác:]\n\ncác\n\n- Green · Trọng lượng nhẹ 72kg\n\ntủ\n\nV-\n\n- Trọng lượng nhẹ 72kg Hệ thống giảm xóc giảm chấn thủy · Hệ thống giảm xóc giảm chấn thủy lực\n\nlực",
+    "raw_content": "các\n\n- Green · Trọng lượng nhẹ 72kg\n\ntủ\n\nV-\n\n- Trọng lượng nhẹ 72kg Hệ thống giảm xóc giảm chấn thủy · Hệ thống giảm xóc giảm chấn thủy lực\n\nlực",
+    "token_count": 94,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác: · Pin tháo rời đổi được Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác: · Pin tháo rời đổi được Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_016",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Giới hạn tốc độ 25km/h\n- Quãng đường di chuyển ~65km/ lần sạc *\n- Công suất định danh: 240W",
+    "raw_content": "- Giới hạn tốc độ 25km/h\n- Quãng đường di chuyển ~65km/ lần sạc *\n- Công suất định danh: 240W",
+    "token_count": 72,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_017",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Chi phí tiết kiệm\n- Trọng lượng nhẹ 70kg\n- Trang bị bàn đạp linh hoạt\n- Động cơ chống nước IP67",
+    "raw_content": "- Chi phí tiết kiệm\n- Trọng lượng nhẹ 70kg\n- Trang bị bàn đạp linh hoạt\n- Động cơ chống nước IP67",
+    "token_count": 72,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_018",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- tối đa 48km/h\n- Quãng đường di chuyển 85km/ lần sạc *\n- Công suất tối đa 1500W\n- Pin LFP 1.5 kWh - hỗ trợ đổi pin",
+    "raw_content": "- tối đa 48km/h\n- Quãng đường di chuyển 85km/ lần sạc *\n- Công suất tối đa 1500W\n- Pin LFP 1.5 kWh - hỗ trợ đổi pin",
+    "token_count": 79,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_019",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Nâng cấp nổi bật:]\n\n- Tính năng đổi pin / sạc nhanh\n- Động cơ mạnh hơn - tăng tốc 039km/h: 16s\n- 2 màu mới: Trắng cam,\n- Động cơ chống nước IP67\n\nXanh dương\n\nTrắng cam",
+    "raw_content": "- Tính năng đổi pin / sạc nhanh\n- Động cơ mạnh hơn - tăng tốc 039km/h: 16s\n- 2 màu mới: Trắng cam,\n- Động cơ chống nước IP67\n\nXanh dương\n\nTrắng cam",
+    "token_count": 86,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Nâng cấp nổi bật:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Nâng cấp nổi bật:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_020",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Giới hạn tốc độ 48km/h\n- Quãng đường 198km/ lần sạc *\n- Công suất 1900W\n- Pin LFP 1.2 kWh",
+    "raw_content": "- Giới hạn tốc độ 48km/h\n- Quãng đường 198km/ lần sạc *\n- Công suất 1900W\n- Pin LFP 1.2 kWh",
+    "token_count": 71,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_021",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Thể tích cốp 35L\n- Thiết kế gọn nhẹ trọng lượng 82,5kg",
+    "raw_content": "- Thể tích cốp 35L\n- Thiết kế gọn nhẹ trọng lượng 82,5kg",
+    "token_count": 61,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_022",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Giới hạn tốc độ 49km/h\n- Quãng đường 165km/ lần sạc *\n- Công suất 2300W\n- Pin LFP 1.5 kWh",
+    "raw_content": "- Giới hạn tốc độ 49km/h\n- Quãng đường 165km/ lần sạc *\n- Công suất 2300W\n- Pin LFP 1.5 kWh",
+    "token_count": 71,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_023",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Kết nối thông minh với điện thoại: Định vị xe- Thống kê hành đoán lỗi ,.",
+    "raw_content": "- Kết nối thông minh với điện thoại: Định vị xe- Thống kê hành đoán lỗi ,.",
+    "token_count": 66,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_024",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Giới hạn tốc độ 48km/h\n- Quãng đường 262km/lần sạc*\n- Công suất 2800W\n- Pin LFP 2.4 kWh",
+    "raw_content": "- Giới hạn tốc độ 48km/h\n- Quãng đường 262km/lần sạc*\n- Công suất 2800W\n- Pin LFP 2.4 kWh",
+    "token_count": 71,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_025",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Thiết kế phong cách thời trang",
+    "raw_content": "- Thiết kế phong cách thời trang",
+    "token_count": 55,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_026",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > EVO GRAND]\n\n( DÒNG 2 PIN)",
+    "raw_content": "( DÒNG 2 PIN)",
+    "token_count": 49,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "EVO GRAND",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "EVO GRAND"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_027",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Quãng đường di chuyển 262km/ lần sạc *\n- Công suất 1900W\n- Pin LFP 2.4kWh",
+    "raw_content": "- Quãng đường di chuyển 262km/ lần sạc *\n- Công suất 1900W\n- Pin LFP 2.4kWh",
+    "token_count": 67,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_028",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác]\n\n- Thể tích cốp 35L\n- Hệ thống đèn chiếu sáng FULL LED",
+    "raw_content": "- Thể tích cốp 35L\n- Hệ thống đèn chiếu sáng FULL LED",
+    "token_count": 60,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_029",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Quãng đường di chuyển 262km/ lần sạc *\n- Công suất 2800W\n- Pin LFP 2.4 kWh",
+    "raw_content": "- Quãng đường di chuyển 262km/ lần sạc *\n- Công suất 2800W\n- Pin LFP 2.4 kWh",
+    "token_count": 67,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_030",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác]\n\n- Thể tích cốp 34L\n\n-, thời trang",
+    "raw_content": "- Thể tích cốp 34L\n\n-, thời trang",
+    "token_count": 55,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_031",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản]\n\n- Quãng đường di chuyển 165km/ lần sạc *\n- Công suất 2.450 W\n- Pin LFP 1.5kWh",
+    "raw_content": "- Quãng đường di chuyển 165km/ lần sạc *\n- Công suất 2.450 W\n- Pin LFP 1.5kWh",
+    "token_count": 67,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_032",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Kết nối thông minh với điện thoại: Định vị xe- Thống kê hành đoán lỗi ,..",
+    "raw_content": "- Kết nối thông minh với điện thoại: Định vị xe- Thống kê hành đoán lỗi ,..",
+    "token_count": 66,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_033",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản]\n\n- Quãng đường di chuyển 165km/ lần sạc *\n- Công suất 3.000 W\n- Pin LFP 1.5kWh",
+    "raw_content": "- Quãng đường di chuyển 165km/ lần sạc *\n- Công suất 3.000 W\n- Pin LFP 1.5kWh",
+    "token_count": 67,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_034",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Kết nối thông minh với điện thoại: Định vị xe kê hành đoán lỗi ,..",
+    "raw_content": "- Kết nối thông minh với điện thoại: Định vị xe kê hành đoán lỗi ,..",
+    "token_count": 64,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_035",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Công suất 2150W\n- Tốc độ 70km/h\n- Quãng đường 262km/ lần sạc *",
+    "raw_content": "- Công suất 2150W\n- Tốc độ 70km/h\n- Quãng đường 262km/ lần sạc *",
+    "token_count": 64,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_036",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Khóa Smartkey - Cổng sạc USB\n- Màn hình TFT, tích rẽ",
+    "raw_content": "- Khóa Smartkey - Cổng sạc USB\n- Màn hình TFT, tích rẽ",
+    "token_count": 61,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_037",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Thông số cơ bản:]\n\n- Công suất 3000W\n- Tốc độ 70km/h\n- Quãng đường 156km/ lần sạc *",
+    "raw_content": "- Công suất 3000W\n- Tốc độ 70km/h\n- Quãng đường 156km/ lần sạc *",
+    "token_count": 64,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Thông số cơ bản:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Thông số cơ bản:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_038",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Ưu điểm khác:]\n\n- Khóa Smartkey -Cổng sạc USB Type A&amp;C\n- G iảm xóc trước dạng ống lồng và giảm phụ.\n- Kết nối thông minh với điện thoại: Định vị xeThống kê hành đoán lỗi ,..\n\nThông VENTO S\n\nsố cơ bản\n\nCông\n\nsuất\n\n5300W\n\nTốc độ\n\n89km/h\n\n160km/\n\nPin L\n\nFP 3.5kWh\n\nĐiểm nổi bật\n\nHệ thống\n\nTích hợp\n\nĐịnh vị\n\nxe -\n\nChuẩn đoán lỗi\n\nThông số cơ bản\n\nCông\n\nTHÔNG SỐ KỸ THUẬT - Dòng xe cao\n\nTHEON S\n\nsuất\n\n7100W\n\nTốc độ\n\n99km/h\n\nQuãng đường\n\n1\n\n50km/\n\nPin LFP 3.5kWh\n\nĐiểm nổi bật",
+    "raw_content": "- Khóa Smartkey -Cổng sạc USB Type A&amp;C\n- G iảm xóc trước dạng ống lồng và giảm phụ.\n- Kết nối thông minh với điện thoại: Định vị xeThống kê hành đoán lỗi ,..\n\nThông VENTO S\n\nsố cơ bản\n\nCông\n\nsuất\n\n5300W\n\nTốc độ\n\n89km/h\n\n160km/\n\nPin L\n\nFP 3.5kWh\n\nĐiểm nổi bật\n\nHệ thống\n\nTích hợp\n\nĐịnh vị\n\nxe -\n\nChuẩn đoán lỗi\n\nThông số cơ bản\n\nCông\n\nTHÔNG SỐ KỸ THUẬT - Dòng xe cao\n\nTHEON S\n\nsuất\n\n7100W\n\nTốc độ\n\n99km/h\n\nQuãng đường\n\n1\n\n50km/\n\nPin LFP 3.5kWh\n\nĐiểm nổi bật",
+    "token_count": 168,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Ưu điểm khác:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Ưu điểm khác:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_039",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > phanh ABS phanh trước công nghệ PAAK ( điều khiển qua điện thoại ) hành trình -Hiển pin qua App · Hệ thống phanh ABS phanh trước · Tích hợp công nghệ PAAK ( · Định vị xe đoán lỗi -Hiển thị CHÍNH SÁCH BÁN HÀNG]\n\nCập nhật ngày 17.07.2026\n\nlần sạc lần sạc và sau điều khiển qua điện thoại\n\n)\n\nthông tin pin qua App cấp\n\n| STT | Loại xe | Loại pin/ ắc quy | Loại hình kinh doanh | lẻ niêm yết | Note |\n|-------|----------------|--------------------|------------------------|-----------------------|------------------------------|\n| 1 | | 1,5 kWh LFP | Kèm Pin | 17.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 1 | | 1,5 kWh LFP | Thuê Pin | 12.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 2 | Evo | 1,5 kWh LFP | Kèm Pin | 24.100.000 | Điều chỉnh giá từ 05/07/2026 |\n| 2 | Evo | 1,5 kWh LFP | Thuê Pin | 18.800.000 | Điều chỉnh giá từ 05/07/2026 |\n| 3 | Feliz II | 1,5 kWh LFP | Kèm Pin | 28.700.000 | Điều chỉnh giá từ 05/07/2026 |\n| 3 | Feliz II | 1,5 kWh LFP | Thuê Pin | 23.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 4 | Viper | 1,5 kWh LFP | Kèm Pin | 40.600.000 | Điều chỉnh giá từ 05/07/2026 |\n| 4 | Viper | 1,5 kWh LFP | Thuê Pin | 35.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 5 | Evo Lite | 1,5 kWh LFP | Kèm Pin | 18.900.000 | Điều chỉnh giá từ 05/07/2026 |\n| 5 | Evo Lite | 1,5 kWh LFP | Thuê Pin | 14.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 6 | Amio/ Amio S | 1,0 kWh LFP | Kèm Pin | 11.600.000 | Điều chỉnh giá từ 05/07/2026 |\n| 7 | Amio S2 | 1,0 kWh LFP | Kèm Pin | 12.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 8 | Zgoo | 1,2 kWh LFP | Kèm Pin | 13.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 9 | | 1,2 kWh LFP | Kèm Pin | 14.200.000 | Điều chỉnh giá từ 05/07/2026 |\n| 10 | Evo Grand Lite | 1,2 kWh LFP | Kèm Pin | 16.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 11 | Evo Grand | 2,4 kWh LFP | Kèm Pin | 22.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 12 | Feliz 2025 | 2,4 kWh LFP | Kèm Pin | 26.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 13 | VeroX | 2,4 kWh LFP | Kèm Pin | 34,900,000 | Không điều chỉnh |\n| 14 | | 1,5 kWh LFP | Kèm Pin | 35,300,000 | |\n| 14 | | 1,5 kWh LFP | Thuê Pin | 30,000,000 | |\n| 15 | Kinet (2 Pin) | 1,5 kWh LFP | Kèm Pin | 49,900,000 | |\n| 15 | Kinet (2 Pin) | 1,5 kWh LFP | Thuê Pin | 40,000,000 | |",
+    "raw_content": "Cập nhật ngày 17.07.2026\n\nlần sạc lần sạc và sau điều khiển qua điện thoại\n\n)\n\nthông tin pin qua App cấp\n\n| STT | Loại xe | Loại pin/ ắc quy | Loại hình kinh doanh | lẻ niêm yết | Note |\n|-------|----------------|--------------------|------------------------|-----------------------|------------------------------|\n| 1 | | 1,5 kWh LFP | Kèm Pin | 17.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 1 | | 1,5 kWh LFP | Thuê Pin | 12.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 2 | Evo | 1,5 kWh LFP | Kèm Pin | 24.100.000 | Điều chỉnh giá từ 05/07/2026 |\n| 2 | Evo | 1,5 kWh LFP | Thuê Pin | 18.800.000 | Điều chỉnh giá từ 05/07/2026 |\n| 3 | Feliz II | 1,5 kWh LFP | Kèm Pin | 28.700.000 | Điều chỉnh giá từ 05/07/2026 |\n| 3 | Feliz II | 1,5 kWh LFP | Thuê Pin | 23.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 4 | Viper | 1,5 kWh LFP | Kèm Pin | 40.600.000 | Điều chỉnh giá từ 05/07/2026 |\n| 4 | Viper | 1,5 kWh LFP | Thuê Pin | 35.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 5 | Evo Lite | 1,5 kWh LFP | Kèm Pin | 18.900.000 | Điều chỉnh giá từ 05/07/2026 |\n| 5 | Evo Lite | 1,5 kWh LFP | Thuê Pin | 14.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 6 | Amio/ Amio S | 1,0 kWh LFP | Kèm Pin | 11.600.000 | Điều chỉnh giá từ 05/07/2026 |\n| 7 | Amio S2 | 1,0 kWh LFP | Kèm Pin | 12.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 8 | Zgoo | 1,2 kWh LFP | Kèm Pin | 13.300.000 | Điều chỉnh giá từ 05/07/2026 |\n| 9 | | 1,2 kWh LFP | Kèm Pin | 14.200.000 | Điều chỉnh giá từ 05/07/2026 |\n| 10 | Evo Grand Lite | 1,2 kWh LFP | Kèm Pin | 16.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 11 | Evo Grand | 2,4 kWh LFP | Kèm Pin | 22.500.000 | Điều chỉnh giá từ 05/07/2026 |\n| 12 | Feliz 2025 | 2,4 kWh LFP | Kèm Pin | 26.000.000 | Điều chỉnh giá từ 05/07/2026 |\n| 13 | VeroX | 2,4 kWh LFP | Kèm Pin | 34,900,000 | Không điều chỉnh |\n| 14 | | 1,5 kWh LFP | Kèm Pin | 35,300,000 | |\n| 14 | | 1,5 kWh LFP | Thuê Pin | 30,000,000 | |\n| 15 | Kinet (2 Pin) | 1,5 kWh LFP | Kèm Pin | 49,900,000 | |\n| 15 | Kinet (2 Pin) | 1,5 kWh LFP | Thuê Pin | 40,000,000 | |",
+    "token_count": 735,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "phanh ABS phanh trước công nghệ PAAK ( điều khiển qua điện thoại ) hành trình -Hiển pin qua App · Hệ thống phanh ABS phanh trước · Tích hợp công nghệ PAAK ( · Định vị xe đoán lỗi -Hiển thị CHÍNH SÁCH BÁN HÀNG",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "phanh ABS phanh trước công nghệ PAAK ( điều khiển qua điện thoại ) hành trình -Hiển pin qua App · Hệ thống phanh ABS phanh trước · Tích hợp công nghệ PAAK ( · Định vị xe đoán lỗi -Hiển thị CHÍNH SÁCH BÁN HÀNG"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_040",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Giấy tờ chứng minh]\n\nCó thẻ /thẻ quân nhân/thẻ Công an nhân dân.",
+    "raw_content": "Có thẻ /thẻ quân nhân/thẻ Công an nhân dân.",
+    "token_count": 59,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Giấy tờ chứng minh",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Giấy tờ chứng minh"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_041",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Không áp dụng đồng thời với]\n\nƯu đãi, Chính sách bán buôn, chính sách ưu đãi cho CBNV Đại lý phân phối, ưu đãi nhóm khách hàng đặc biệt khác như chính sách, CBNV Tập đoàn Vingroup.",
+    "raw_content": "Ưu đãi, Chính sách bán buôn, chính sách ưu đãi cho CBNV Đại lý phân phối, ưu đãi nhóm khách hàng đặc biệt khác như chính sách, CBNV Tập đoàn Vingroup.",
+    "token_count": 90,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Không áp dụng đồng thời với",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Không áp dụng đồng thời với"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_042",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Cam kết]\n\nKhách hàng kí cam kết không chuyển 6 tháng.\n\nThời hạn áp dụng: đến 31/12/2026",
+    "raw_content": "Khách hàng kí cam kết không chuyển 6 tháng.\n\nThời hạn áp dụng: đến 31/12/2026",
+    "token_count": 65,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Cam kết",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Cam kết"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_043",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách Hỗ trợ phí thuê Pin:]\n\n- Khách hàng được hưởng mức ưu đãi 5% ()\n- Áp dụng đối với dòng xe đổi Pin ( Feliz II,, Viper)*\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n- Áp dụng đồng chương trình khác: trước bạ, Tri ân Khách hàng...",
+    "raw_content": "- Khách hàng được hưởng mức ưu đãi 5% ()\n- Áp dụng đối với dòng xe đổi Pin ( Feliz II,, Viper)*\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n- Áp dụng đồng chương trình khác: trước bạ, Tri ân Khách hàng...",
+    "token_count": 108,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Chính sách Hỗ trợ phí thuê Pin:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Chính sách Hỗ trợ phí thuê Pin:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_044",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách hỗ trước bạ:]\n\n- Tặng thêm lệ phí trước bạ 2% cho khách hàng mua xe máy điện VinFast\n- Áp dụng đối với các dòng xe cần bằng lái theo phân loại tại Phụ lục 1\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n\n*Đối tượng áp dụng: Khách hàng mua các dòng xe máy điện Thuê pin cần bằng lái &amp; Thanh toán tối thiểu 03 tháng cước thuê pin\n\n- Ưu đãi ngay 1 triệu đồng cho khách hàng đang sở hữu các dòng xe máy điện không yêu cầu giấy phép lái xe như,, (),, (S), Motio, Evo Grand Lite*\n- Ưu đãi 2 triệu đồng cho khách hàng đang sở hữu ô tô VinFast hoặc các dòng xe máy điện yêu cầu giấy phép lái xe*",
+    "raw_content": "- Tặng thêm lệ phí trước bạ 2% cho khách hàng mua xe máy điện VinFast\n- Áp dụng đối với các dòng xe cần bằng lái theo phân loại tại Phụ lục 1\n- Thời gian áp dụng: Từ 01/06/2026 đến hết 31/08/2026\n\n*Đối tượng áp dụng: Khách hàng mua các dòng xe máy điện Thuê pin cần bằng lái &amp; Thanh toán tối thiểu 03 tháng cước thuê pin\n\n- Ưu đãi ngay 1 triệu đồng cho khách hàng đang sở hữu các dòng xe máy điện không yêu cầu giấy phép lái xe như,, (),, (S), Motio, Evo Grand Lite*\n- Ưu đãi 2 triệu đồng cho khách hàng đang sở hữu ô tô VinFast hoặc các dòng xe máy điện yêu cầu giấy phép lái xe*",
+    "token_count": 216,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Chính sách hỗ trước bạ:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Chính sách hỗ trước bạ:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_045",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 1. Đối tượng áp dụng:]\n\n- ·Chủ sở hữu (Ô tô &amp; Xe máy điện) VinFast từ ngày 04/7/26 trở về trước, căn cứ theo Giấy đăng ký xe &amp; CCCD khách hàng (bản gốc)\n- ·Đối với KH cá nhân, có quyền cho/ tặng ưu đãi (tứ thân phụ mẫu, Vợ/ chồng, con, vợ/chồng)\n- ·Đối với KH doanh nghiệp, ưu đãi cho.",
+    "raw_content": "- ·Chủ sở hữu (Ô tô &amp; Xe máy điện) VinFast từ ngày 04/7/26 trở về trước, căn cứ theo Giấy đăng ký xe &amp; CCCD khách hàng (bản gốc)\n- ·Đối với KH cá nhân, có quyền cho/ tặng ưu đãi (tứ thân phụ mẫu, Vợ/ chồng, con, vợ/chồng)\n- ·Đối với KH doanh nghiệp, ưu đãi cho.",
+    "token_count": 121,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "1. Đối tượng áp dụng:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "1. Đối tượng áp dụng:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_046",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 2. Điều kiện ưu đãi:]\n\n- · tương ứng 1 phần quà Ưu đãi sở hữu, không giới hạn số lượng ưu đãi đối với 1 chủ sở hữu.\n- · nhiều hơn 1 lần &amp; không áp dụng nhiều hơn 1 ưu đãi tri ân cho 1 đơn hàng bán mới.\n\n- Điều kiện:\n- Khách hàng phải ký hợp đồng thuê pin toán trước gói cước thuê pin 12 tháng số lượng pin của cấu hình sản xuất.\n- Trường hợp đại lý chưa đủ pin để khách hàng thanh toán gói thuê 2 pin, khách hàng thanh toán gói thuê 1 pin trong 12 tháng hỗ 1.500.000 VNĐ bằng tiền mặt\n- Khách hàng đã mua xe từ ngày 01/07/2026 nhưng chưa được áp dụng chính sách bổ sung 12 tháng miễn, gói cước đã thanh toán theo hiện trạng hợp đồng thuê pin.\n- Khách hàng mua xe được ưu đãi miễn phí thuê pin trong vòng 1 năm tương đương 3.600.000 VNĐ/ xe đổi thành tiền mặt.\n- Chương trình áp 1/7 đến 31/8/2026\n- Áp dung với với tất cả khách hàng mua xe thuê pin cần bằng lái.",
+    "raw_content": "- · tương ứng 1 phần quà Ưu đãi sở hữu, không giới hạn số lượng ưu đãi đối với 1 chủ sở hữu.\n- · nhiều hơn 1 lần &amp; không áp dụng nhiều hơn 1 ưu đãi tri ân cho 1 đơn hàng bán mới.\n\n- Điều kiện:\n- Khách hàng phải ký hợp đồng thuê pin toán trước gói cước thuê pin 12 tháng số lượng pin của cấu hình sản xuất.\n- Trường hợp đại lý chưa đủ pin để khách hàng thanh toán gói thuê 2 pin, khách hàng thanh toán gói thuê 1 pin trong 12 tháng hỗ 1.500.000 VNĐ bằng tiền mặt\n- Khách hàng đã mua xe từ ngày 01/07/2026 nhưng chưa được áp dụng chính sách bổ sung 12 tháng miễn, gói cước đã thanh toán theo hiện trạng hợp đồng thuê pin.\n- Khách hàng mua xe được ưu đãi miễn phí thuê pin trong vòng 1 năm tương đương 3.600.000 VNĐ/ xe đổi thành tiền mặt.\n- Chương trình áp 1/7 đến 31/8/2026\n- Áp dung với với tất cả khách hàng mua xe thuê pin cần bằng lái.",
+    "token_count": 297,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "2. Điều kiện ưu đãi:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "2. Điều kiện ưu đãi:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_047",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Đối tượng áp dụng:]\n\n1. Khách hàng là ), (CBLĐ)* thuộc Tổng công ty Bưu điện (VNPost) vị trực thuộc.\n2. * bao gồm:\n3. o Vợ/chồng;\n4. o Con;\n5. o Tứ thân phụ mẫu\n- CBLĐ được xác định là toán trưởng/Phó Giám đốc hoặc tương đương trở lên.\n7. **Giấy tờ chứng mình mối ) -Mức ưu đãi: 3% lẻ niêm yết · lãnh đạo (CBLĐ )-Mức ưu đãi: 5% lẻ niêm yết *Đối với các đơn hàng áp dụng ưu, ĐLPP 1% lẻ niêm yết.\n\n động có hợp đồng lao động không xác định thời hạn hoặc xác định thời hạn từ 12 tháng trở tục tối thiểu 06 tháng tại thời điểm mua xe.\n\n*Lưu ý: Không áp dụng đồng thời với ưu đãi, chính sách bán buôn, chính sách CBNV Tập đoàn Vingroup, chính sách CBNV Đại lý phân phối ưu đãi cho nhóm khách hàng đặc biệt khác.",
+    "raw_content": "1. Khách hàng là ), (CBLĐ)* thuộc Tổng công ty Bưu điện (VNPost) vị trực thuộc.\n2. * bao gồm:\n3. o Vợ/chồng;\n4. o Con;\n5. o Tứ thân phụ mẫu\n- CBLĐ được xác định là toán trưởng/Phó Giám đốc hoặc tương đương trở lên.\n7. **Giấy tờ chứng mình mối ) -Mức ưu đãi: 3% lẻ niêm yết · lãnh đạo (CBLĐ )-Mức ưu đãi: 5% lẻ niêm yết *Đối với các đơn hàng áp dụng ưu, ĐLPP 1% lẻ niêm yết.\n\n động có hợp đồng lao động không xác định thời hạn hoặc xác định thời hạn từ 12 tháng trở tục tối thiểu 06 tháng tại thời điểm mua xe.\n\n*Lưu ý: Không áp dụng đồng thời với ưu đãi, chính sách bán buôn, chính sách CBNV Tập đoàn Vingroup, chính sách CBNV Đại lý phân phối ưu đãi cho nhóm khách hàng đặc biệt khác.",
+    "token_count": 244,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Đối tượng áp dụng:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Đối tượng áp dụng:"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_048",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm]\n\n- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )",
+    "raw_content": "- Thời gian áp: từ 01/05/2025 đến hết 31/05/2027 hạn thêm. (riêng đối với tài xế GSM ưu đãi sạc miễn phí áp )",
+    "token_count": 85,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "SẠC MIỄN PHÍ XE MÁY ĐIỆN VINFAST -Miễn phí 02 năm"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_049",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Chính sách miễn miễn phí 20 lần/ tháng*]\n\n- Thời gian áp dụng:",
+    "raw_content": "- Thời gian áp dụng:",
+    "token_count": 59,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Chính sách miễn miễn phí 20 lần/ tháng*",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Chính sách miễn miễn phí 20 lần/ tháng*"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_050",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > 'Tặng voucher Chăm sóc xe miễn 600k -Tri ân khách hàng VinFast']\n\n- ✓ Đối tượng áp dụng: Tất cả khách hàng sở hữu XMĐ VinFast mua từ 2025 trở về trước, chính chủ đến XDV VF kiểm tra và làm bảo dưỡng (Không áp khách hàng chủ sở hữu là GSM)\n- ✓ Điều kiện áp dụng: KH phải cung cấp đầy đủ các thông tin cá nhân (SĐT chính chủ, CCCD,…) cập hệ thống thì voucher mới được kích hoạt gian áp dụng: Từ 10/7 đến hết 31/8/2026 (cùng áp ân khách hàng của )",
+    "raw_content": "- ✓ Đối tượng áp dụng: Tất cả khách hàng sở hữu XMĐ VinFast mua từ 2025 trở về trước, chính chủ đến XDV VF kiểm tra và làm bảo dưỡng (Không áp khách hàng chủ sở hữu là GSM)\n- ✓ Điều kiện áp dụng: KH phải cung cấp đầy đủ các thông tin cá nhân (SĐT chính chủ, CCCD,…) cập hệ thống thì voucher mới được kích hoạt gian áp dụng: Từ 10/7 đến hết 31/8/2026 (cùng áp ân khách hàng của )",
+    "token_count": 165,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "'Tặng voucher Chăm sóc xe miễn 600k -Tri ân khách hàng VinFast'",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "'Tặng voucher Chăm sóc xe miễn 600k -Tri ân khách hàng VinFast'"
+      ],
+      "timestamp": null
+    }
+  },
+  {
+    "chunk_id": "GENE260801_260801_chinh_sach_ban_hang_xmd_chunk_051",
+    "content": "[Document: 260801 Chính sách bán hàng XMĐ | Role: general | Source: General_doc/260801_Chính sách bán hàng_XMĐ.pdf | Section: 260801 Chính sách bán hàng XMĐ > Các hạng sóc xe gồm:]\n\n✓ Miễn dưỡng định kỳ.\n\n✓ Kiểm tra 5 hạng mục:,, dầu phanh, giảm xóc, lốp\n\n✓ Miễn phí/ giảm giá thay thế phớt động cơ, trước + sau hoặc các phụ tùng/ phụ kiện áp dụng thay thế phớt động cơ với Motio\n\n- Tổng sóc xe: 600,000VNĐ/ khách hàng ( đã bao gồm VAT). dưỡng vượt quá số tiền trên, khách hàng chi trả.",
+    "raw_content": "✓ Miễn dưỡng định kỳ.\n\n✓ Kiểm tra 5 hạng mục:,, dầu phanh, giảm xóc, lốp\n\n✓ Miễn phí/ giảm giá thay thế phớt động cơ, trước + sau hoặc các phụ tùng/ phụ kiện áp dụng thay thế phớt động cơ với Motio\n\n- Tổng sóc xe: 600,000VNĐ/ khách hàng ( đã bao gồm VAT). dưỡng vượt quá số tiền trên, khách hàng chi trả.",
+    "token_count": 130,
+    "metadata": {
+      "document": "260801 Chính sách bán hàng XMĐ",
+      "role": "general",
+      "source": "General_doc/260801_Chính sách bán hàng_XMĐ.pdf",
+      "page": null,
+      "slide": null,
+      "section": "Các hạng sóc xe gồm:",
+      "subsection": null,
+      "heading_path": [
+        "260801 Chính sách bán hàng XMĐ",
+        "Các hạng sóc xe gồm:"
+      ],
+      "timestamp": null
+    }
+  }
+]

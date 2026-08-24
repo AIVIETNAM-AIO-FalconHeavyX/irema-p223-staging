@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "Tiêu chuẩn về diện mạo tác phong và giao tiếp nhân sự bán hàng xe máy điện",
+    "role": "sales",
+    "expected_document_id": ["SALE003", "3_1_tieu_chuan_dich_vu"],
+    "expected_section": "Slide 2",
+    "query_type": "text"
+  },
+  {
+    "query_id": "Q002",
+    "query": "Thời gian bảo hành pin LFP và ắc quy 12V xe máy điện VinFast là bao nhiêu năm?",
+    "role": "technician",
+    "expected_document_id": ["KTV001", "1_chinh_sach_bao_hanh"],
+    "expected_section": "Thời gian bảo hành",
+    "query_type": "table"
+  },
+  {
+    "query_id": "Q003",
+    "query": "Hướng dẫn đăng nhập hệ thống DMS và quy luật kiểm tra trùng khi tạo lead",
+    "role": "accounting",
+    "expected_document_id": ["KETO001", "KETO003", "01_huong_dan_dang_nhap_dms", "03_quy_luat_kiem_tra_trung"],
+    "expected_section": "Đăng nhập",
+    "query_type": "procedure"
+  },
+  {
+    "query_id": "Q004",
+    "query": "Quy trình claim bù tồn kho xe máy điện dành cho nhà phân phối",
+    "role": "technician",
+    "expected_document_id": ["KTV001", "vf_hdsd_luong_claim_bu_ton"],
+    "expected_section": "Claim",
+    "query_type": "procedure"
+  },
+  {
+    "query_id": "Q005",
+    "query": "Thanh lý chấm dứt hợp đồng thuê pin xe máy điện và kích hoạt lại",
+    "role": "accounting",
+    "expected_document_id": ["KETO004", "vf_hdsd_thanh_ly_cham_dut"],
+    "expected_section": "Thanh lý",
+    "query_type": "procedure"
+  },
+  {
+    "query_id": "Q006",
+    "query": "Thời gian bảo hành xe máy điện pin LFP là bao nhiêu năm",
+    "role": "sales",
+    "expected_document_id": ["KTV001", "1_chinh_sach_bao_hanh"],
+    "expected_section": "Thời gian bảo hành",
+    "unauthorized_roles": ["technician"],
+    "query_type": "security_test"
+  }
+]
+
