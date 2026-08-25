@@ -3,6 +3,9 @@ import { Folder, File as FileIcon, Upload, Trash2, ChevronRight, ExternalLink, R
 import { useAuth } from "../contexts/AuthContext";
 import { mediaUrl } from "../services/api";
 
+const API_BASE_URL = (import.meta.env.VITE_API_URL || "").replace(/\/$/, "");
+const backendUrl = (path: string) => `${API_BASE_URL}${path}`;
+
 interface FileItem {
   name: string;
   path: string;
@@ -59,7 +62,7 @@ export default function FileExplorerPage() {
       setLoading(true);
       setError(null);
       const token = localStorage.getItem("vf_access_token");
-      const res = await fetch(`/api/v1/s3-manager/explore?prefix=${encodeURIComponent(prefix)}`, {
+      const res = await fetch(backendUrl(`/api/v1/s3-manager/explore?prefix=${encodeURIComponent(prefix)}`), {
         headers: { "Authorization": `Bearer ${token}` }
       });
       if (!res.ok) throw new Error("Không thể tải danh sách tài liệu");
@@ -81,7 +84,7 @@ export default function FileExplorerPage() {
     pollRef.current = window.setInterval(async () => {
       try {
         const token = localStorage.getItem("vf_access_token");
-        const res = await fetch("/api/v1/s3-manager/sync/status", {
+        const res = await fetch(backendUrl("/api/v1/s3-manager/sync/status"), {
           headers: { "Authorization": `Bearer ${token}` }
         });
         const data = await res.json();
@@ -101,7 +104,7 @@ export default function FileExplorerPage() {
       setReindexStatus("running");
       setReindexMsg("Đang cập nhật chatbot... (mất 2-5 phút)");
       const token = localStorage.getItem("vf_access_token");
-      const res = await fetch("/api/v1/s3-manager/sync", {
+      const res = await fetch(backendUrl("/api/v1/s3-manager/sync"), {
         method: "POST",
         headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
         body: JSON.stringify({ dry_run: false })
@@ -121,7 +124,7 @@ export default function FileExplorerPage() {
 
   const handleRetryFailed = async () => {
     const token = localStorage.getItem("vf_access_token");
-    const res = await fetch("/api/v1/s3-manager/retry-failed", {
+    const res = await fetch(backendUrl("/api/v1/s3-manager/retry-failed"), {
       method: "POST",
       headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
       body: JSON.stringify({}),
@@ -163,7 +166,7 @@ export default function FileExplorerPage() {
         formData.append("target_role", targetRole);
 
         const token = localStorage.getItem("vf_access_token");
-        const res = await fetch("/api/v1/s3-manager/upload-direct", {
+        const res = await fetch(backendUrl("/api/v1/s3-manager/upload-direct"), {
           method: "POST",
           headers: { "Authorization": `Bearer ${token}` },
           body: formData
@@ -197,7 +200,7 @@ export default function FileExplorerPage() {
     try {
       setLoading(true);
       const token = localStorage.getItem("vf_access_token");
-      const res = await fetch(`/api/v1/s3-manager/delete?object_key=${encodeURIComponent(path)}`, {
+      const res = await fetch(backendUrl(`/api/v1/s3-manager/delete?object_key=${encodeURIComponent(path)}`), {
         method: "DELETE",
         headers: { "Authorization": `Bearer ${token}` }
       });
