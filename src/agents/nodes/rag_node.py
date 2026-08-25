@@ -10,6 +10,11 @@ from src.vectordb.reranker import RerankerService
 
 logger = logging.getLogger(__name__)
 
+LLM_UNAVAILABLE_MESSAGE = (
+    "Tôi đã tìm thấy tài liệu liên quan, nhưng dịch vụ tạo câu trả lời đang tạm thời không khả dụng. "
+    "Vui lòng thử lại sau ít phút."
+)
+
 # Singletons for vector store / hybrid retriever / reranker
 _retriever: HybridRetriever | PostgresHybridRetriever | None = None
 _reranker: RerankerService | None = None
@@ -283,6 +288,7 @@ async def rag_node(state: AgentState) -> dict:
 
     # 4. Generate LLM response if API key configured (OpenAI or Gemini Fallback)
     llm_response_text = ""
+    generation_failed = False
     if settings.openai_api_key or settings.google_api_key:
         try:
             role_personas = {
@@ -334,10 +340,15 @@ async def rag_node(state: AgentState) -> dict:
             res = await llm.ainvoke(messages)
             llm_response_text = res.content
         except Exception as e:
-            logger.warning(f"LLM generation warning: {e}. Using structured context fallback.")
+            generation_failed = True
+            logger.warning("LLM generation failed: %s", e)
+    else:
+        generation_failed = True
+        logger.warning("No OpenAI or Gemini API key is configured for RAG answer generation.")
 
     if not llm_response_text:
-        llm_response_text = full_context
+        generation_failed = True
+        llm_response_text = LLM_UNAVAILABLE_MESSAGE
 
     # Numerical grounding check
     money_pattern = r"\b\d{1,3}(?:\.\d{3})+(?:\s*(?:VNĐ|vnd|đ|đồng))?|\b\d+(?:,\d+)?\s*(?:triệu|tỷ)\b"
@@ -380,7 +391,10 @@ async def rag_node(state: AgentState) -> dict:
     ]
     is_no_info = any(phrase in llm_response_text.lower() for phrase in no_info_phrases)
 
-    if is_no_info or used_tag.upper() == "NONE":
+    if generation_failed:
+        final_citations = []
+        needs_escalation = True
+    elif is_no_info or used_tag.upper() == "NONE":
         final_citations = []
         needs_escalation = True
     elif not match and not is_no_info:
@@ -402,7 +416,7 @@ async def rag_node(state: AgentState) -> dict:
     # Determine confidence score
     top_score = top_chunks[0].get("rerank_score", top_chunks[0].get("rrf_score", 0.8))
     rag_confidence = min(max(float(top_score if isinstance(top_score, float) else 0.8), 0.5), 0.99)
-    if is_no_info:
+    if is_no_info or generation_failed:
         rag_confidence = 0.2
 
     return {
