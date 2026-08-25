@@ -18,6 +18,7 @@ class AgentState(TypedDict, total=False):
     rewritten_query: str
     retrieval_queries: list[str]
     conversation_history: list[dict[str, str]]
+    conversation_meta_type: str
     context: str
     retrieved_docs: list
     # Rich metadata cho từng chunk đã rerank — dùng để render source badges ở frontend.

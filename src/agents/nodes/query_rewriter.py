@@ -32,8 +32,60 @@ def _expand_abbreviations(query: str) -> str:
 
 
 def _is_ambiguous_followup(query: str) -> bool:
-    normalized = query.casefold()
-    return any(phrase in normalized for phrase in ("mẫu đó", "cái đó", "việc đó", "thì sao", "còn nó"))
+    normalized = _strip_accents(query).casefold()
+    return any(
+        phrase in normalized
+        for phrase in (
+            "mau do",
+            "cai do",
+            "viec do",
+            "thi sao",
+            "con no",
+            "what about that",
+            "what about it",
+            "and for",
+            "compare it",
+        )
+    )
+
+
+def _conversation_meta_type(query: str) -> str | None:
+    normalized = _strip_accents(query).casefold().strip(" ?!.,")
+    if any(
+        phrase in normalized
+        for phrase in (
+            "toi moi hoi gi",
+            "toi vua hoi gi",
+            "what did i just ask",
+            "what was my last question",
+            "cau hoi vua roi",
+        )
+    ):
+        return "last_user_question"
+    if any(
+        phrase in normalized
+        for phrase in (
+            "ban vua noi gi",
+            "what did you say",
+            "what was your previous answer",
+            "repeat your last answer",
+        )
+    ):
+        return "last_assistant_answer"
+    if any(
+        phrase in normalized
+        for phrase in (
+            "giai thich lai",
+            "noi lai",
+            "explain that again",
+            "explain it again",
+            "can you repeat",
+        )
+    ):
+        return "repeat_last_answer"
+    if normalized in {"start over", "new chat", "bat dau lai", "lam lai tu dau"}:
+        return "start_new"
+    return None
 
 
 def _latest_user_topic(history: object) -> str | None:
@@ -55,6 +107,16 @@ async def query_rewriter_node(state: AgentState) -> dict:
     if not raw_query:
         raise ValueError("query must not be empty")
 
+    meta_type = _conversation_meta_type(raw_query)
+    if meta_type:
+        return {
+            "raw_query": raw_query,
+            "query": raw_query,
+            "rewritten_query": raw_query,
+            "retrieval_queries": [],
+            "conversation_meta_type": meta_type,
+        }
+
     standalone_query = raw_query
     if _is_ambiguous_followup(raw_query):
         topic = _latest_user_topic(state.get("conversation_history"))
@@ -69,4 +131,5 @@ async def query_rewriter_node(state: AgentState) -> dict:
         "query": raw_query,
         "rewritten_query": rewritten,
         "retrieval_queries": retrieval_queries,
+        "conversation_meta_type": None,
     }

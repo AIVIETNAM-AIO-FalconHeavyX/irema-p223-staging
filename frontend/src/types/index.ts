@@ -134,6 +134,26 @@ export interface ChatMessage {
   timestamp: Date;
 }
 
+export interface ConversationHistoryMessage {
+  id: string;
+  role: "user" | "assistant";
+  content: string;
+  metadata?: {
+    analysis?: string;
+    intent?: string;
+    citations?: string[];
+    retrieved_docs?: RetrievedDocInfo[];
+    needs_escalation?: boolean;
+    ticket_payload?: Record<string, any> | null;
+  };
+  timestamp: string;
+}
+
+export interface ConversationHistoryResponse {
+  conversation_id: string;
+  messages: ConversationHistoryMessage[];
+}
+
 /**
  * Payload gửi feedback ↑/−/↓ lên backend POST /api/v1/feedback.
  * Khớp với FeedbackRequest Pydantic model.

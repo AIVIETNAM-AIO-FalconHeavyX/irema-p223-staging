@@ -44,6 +44,19 @@ class ChatResponse(BaseModel):
     )
 
 
+class ConversationMessageResponse(BaseModel):
+    id: str
+    role: str
+    content: str
+    metadata: dict[str, Any] = Field(default_factory=dict)
+    timestamp: datetime
+
+
+class ConversationHistoryResponse(BaseModel):
+    conversation_id: str
+    messages: list[ConversationMessageResponse] = Field(default_factory=list)
+
+
 # ---------------------------------------------------------------------------
 # Auth Schemas
 # ---------------------------------------------------------------------------

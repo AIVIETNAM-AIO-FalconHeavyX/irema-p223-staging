@@ -25,6 +25,8 @@ def route_intent(state: AgentState) -> str:
     elif intent == "GENERAL_QA":
         # Bypass RAG — trả lời trực tiếp từ persona
         return "response_generator"
+    elif intent == "CONVERSATION_META":
+        return "response_generator"
     else:
         return "rag"
 

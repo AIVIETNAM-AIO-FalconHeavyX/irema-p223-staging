@@ -48,6 +48,17 @@ _DEFAULT_PERSONA = (
 )
 
 
+def _latest_message(history: object, role: str) -> str | None:
+    if not isinstance(history, list):
+        return None
+    for message in reversed(history):
+        if isinstance(message, dict) and message.get("role") == role:
+            content = str(message.get("content") or "").strip()
+            if content:
+                return content
+    return None
+
+
 async def response_generator_node(state: AgentState) -> dict:
     """Node tổng hợp phản hồi Markdown chuẩn hóa kèm trích dẫn nguồn.
 
@@ -60,9 +71,30 @@ async def response_generator_node(state: AgentState) -> dict:
     needs_escalation = state.get("needs_escalation", False)
     error = state.get("error")
     user_role = state.get("user_role", "sales").lower()
+    conversation_history = state.get("conversation_history", [])
 
     if error:
         return {"response": f"❌ Đã xảy ra lỗi trong quá trình xử lý: {error}"}
+
+    if intent == "CONVERSATION_META":
+        meta_type = state.get("conversation_meta_type")
+        if meta_type == "last_user_question":
+            previous = _latest_message(conversation_history, "user")
+            response = f"Câu hỏi gần nhất của bạn là: **{previous}**" if previous else "Mình chưa có câu hỏi trước đó trong cuộc trò chuyện này."
+        elif meta_type in {"last_assistant_answer", "repeat_last_answer"}:
+            previous = _latest_message(conversation_history, "assistant")
+            response = previous or "Mình chưa có câu trả lời trước đó trong cuộc trò chuyện này."
+        elif meta_type == "start_new":
+            response = "Đã sẵn sàng bắt đầu một cuộc trò chuyện mới."
+        else:
+            response = "Mình chưa hiểu yêu cầu liên quan đến cuộc trò chuyện. Bạn có thể nói rõ hơn không?"
+        return {
+            "response": response,
+            "citations": [],
+            "needs_escalation": False,
+            "retrieved_docs_detail": [],
+            "ticket_payload": None,
+        }
 
     # --- GENERAL_QA: bypass RAG, trả lời persona cố định ---
     if intent == "GENERAL_QA":

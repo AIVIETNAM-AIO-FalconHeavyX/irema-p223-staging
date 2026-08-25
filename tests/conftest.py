@@ -1,10 +1,39 @@
+import os
+from pathlib import Path
+from types import SimpleNamespace
 from unittest.mock import AsyncMock
 
 import pytest
 import pytest_asyncio
 from httpx import ASGITransport, AsyncClient
 
-from src.main import app
+_TEST_RUNTIME_DIR = Path(__file__).resolve().parent / ".runtime"
+_TEST_RUNTIME_DIR.mkdir(exist_ok=True)
+os.environ["DATABASE_URL"] = f"sqlite:///{(_TEST_RUNTIME_DIR / f'app-{os.getpid()}.db').as_posix()}"
+
+from src.db import Base, SessionLocal, crud, engine  # noqa: E402
+from src.db import models as db_models  # noqa: E402, F401
+from src.main import app  # noqa: E402
+
+
+@pytest.fixture(scope="session", autouse=True)
+def test_database_schema() -> None:
+    """Build the pre-pgvector application schema explicitly for API tests."""
+    application_tables = [table for table in Base.metadata.sorted_tables if table.name != "document_chunks"]
+    Base.metadata.create_all(bind=engine, tables=application_tables)
+    original_s3_service = crud.s3_service
+    crud.s3_service = SimpleNamespace(
+        get_latest_version=lambda object_key: object_key,
+        object_exists=lambda _object_key: False,
+    )
+    db = SessionLocal()
+    try:
+        crud.seed_onboarding_steps(db)
+        crud.seed_default_users(db)
+    finally:
+        db.close()
+    yield
+    crud.s3_service = original_s3_service
 
 
 @pytest_asyncio.fixture

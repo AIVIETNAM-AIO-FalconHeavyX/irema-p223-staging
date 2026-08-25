@@ -12,6 +12,7 @@ import type {
   UnreadCountResponse,
   PendingUpdate,
   FeedbackPayload,
+  ConversationHistoryResponse,
 } from "../types";
 
 const API_BASE_URL = import.meta.env.VITE_API_URL || "";
@@ -142,6 +143,11 @@ export const chatApi = {
   ask: (message: string, conversation_id: string) =>
     api
       .post("/api/v1/chat", { message, conversation_id })
+      .then((r) => r.data),
+
+  getConversation: (conversation_id: string) =>
+    api
+      .get<ConversationHistoryResponse>(`/api/v1/chat/conversations/${encodeURIComponent(conversation_id)}`)
       .then((r) => r.data),
 
   /** Ghi nhận đánh giá ↑/−/↓ cho một câu trả lời AI */

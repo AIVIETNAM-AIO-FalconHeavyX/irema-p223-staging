@@ -246,10 +246,26 @@ export default function ChatWidget() {
   const [isOpen, setIsOpen] = useState(false);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
-  const conversationIdRef = useRef(crypto.randomUUID().replaceAll("-", ""));
+  const [historyLoading, setHistoryLoading] = useState(true);
+  const conversationIdRef = useRef("");
+
+  const createConversationId = () => crypto.randomUUID().replaceAll("-", "");
+  const conversationStorageKey = user?.id ? `vf_active_conversation_id:${user.id}` : "";
 
   const roleKey = (user?.role || "sale").toLowerCase();
   const quickPrompts = ROLE_QUICK_PROMPTS[roleKey] || ROLE_QUICK_PROMPTS.sale;
+
+  const greeting = (): ChatMessage & {
+    intent?: string;
+    citations?: string[];
+    retrieved_docs?: RetrievedDocInfo[];
+    needs_escalation?: boolean;
+    ticket_payload?: Record<string, any>;
+  } => ({
+    role: "assistant",
+    content: `Xin chào ${user?.full_name || "bạn"}! Tôi là **VF AI Assistant**. Tôi sẵn sàng hỗ trợ bạn tra cứu tài liệu chuyên môn và hướng dẫn nghiệp vụ chuẩn VinFast.`,
+    timestamp: new Date(),
+  });
 
   const [messages, setMessages] = useState<
     (ChatMessage & {
@@ -260,25 +276,56 @@ export default function ChatWidget() {
       ticket_payload?: Record<string, any>;
     })[]
   >([
-    {
-      role: "assistant",
-      content: `Xin chào ${user?.full_name || "bạn"}! Tôi là **VF AI Assistant**. Tôi sẵn sàng hỗ trợ bạn tra cứu tài liệu chuyên môn và hướng dẫn nghiệp vụ chuẩn VinFast.`,
-      timestamp: new Date(),
-    },
+    greeting(),
   ]);
 
-  // Update greeting when user changes
+  // Restore the active conversation once the authenticated user is known.
   useEffect(() => {
-    if (user) {
-      setMessages([
-        {
-          role: "assistant",
-          content: `Xin chào ${user.full_name || "bạn"}! Tôi là **VF AI Assistant**. Tôi sẵn sàng hỗ trợ bạn tra cứu tài liệu chuyên môn và hướng dẫn nghiệp vụ chuẩn VinFast.`,
-          timestamp: new Date(),
-        },
-      ]);
+    if (!user?.id || !conversationStorageKey) return;
+
+    let conversationId = localStorage.getItem(conversationStorageKey);
+    if (!conversationId) {
+      conversationId = createConversationId();
+      localStorage.setItem(conversationStorageKey, conversationId);
     }
-  }, [user?.role, user?.full_name]);
+    conversationIdRef.current = conversationId;
+    setMessages([greeting()]);
+    setHistoryLoading(true);
+
+    chatApi.getConversation(conversationId)
+      .then((history) => {
+        const restored = history.messages.map((message) => ({
+          role: message.role,
+          content: message.content,
+          intent: message.metadata?.intent,
+          citations: message.metadata?.citations || [],
+          retrieved_docs: message.metadata?.retrieved_docs || [],
+          needs_escalation: message.metadata?.needs_escalation,
+          ticket_payload: message.metadata?.ticket_payload || undefined,
+          timestamp: new Date(message.timestamp),
+        }));
+        if (restored.length > 0) setMessages(restored);
+      })
+      .catch(() => {
+        // A stale/expired conversation ID should not prevent a new chat.
+        const freshId = createConversationId();
+        conversationIdRef.current = freshId;
+        localStorage.setItem(conversationStorageKey, freshId);
+        setMessages([greeting()]);
+      })
+      .finally(() => setHistoryLoading(false));
+    // The greeting intentionally follows the authenticated user's name.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user?.id]);
+
+  const startNewConversation = () => {
+    if (!conversationStorageKey) return;
+    const freshId = createConversationId();
+    conversationIdRef.current = freshId;
+    localStorage.setItem(conversationStorageKey, freshId);
+    setMessages([greeting()]);
+    setInput("");
+  };
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -294,7 +341,12 @@ export default function ChatWidget() {
 
   const handleSend = async (textToSend?: string) => {
     const query = (textToSend || input).trim();
-    if (!query || loading) return;
+    if (!query || loading || historyLoading || !conversationIdRef.current) return;
+
+    if (["start over", "new chat", "bắt đầu lại", "làm lại từ đầu"].includes(query.toLowerCase())) {
+      startNewConversation();
+      return;
+    }
 
     const userMsg = {
       role: "user" as const,
@@ -360,6 +412,14 @@ export default function ChatWidget() {
               </div>
 
               <div className="chat-header-actions">
+                <button
+                  className="chat-close-btn"
+                  onClick={startNewConversation}
+                  title="Cuộc trò chuyện mới"
+                  aria-label="Cuộc trò chuyện mới"
+                >
+                  ＋
+                </button>
                 <button
                   className="chat-close-btn"
                   onClick={() => setIsOpen(false)}
@@ -548,12 +608,12 @@ export default function ChatWidget() {
                 placeholder="Hỏi AI về quy trình, mã lỗi, tài liệu..."
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                disabled={loading}
+                disabled={loading || historyLoading}
               />
               <button
                 type="submit"
                 className="chat-send-btn"
-                disabled={!input.trim() || loading}
+                disabled={!input.trim() || loading || historyLoading}
                 title="Gửi câu hỏi"
               >
                 ➤

@@ -21,6 +21,14 @@ async def controller_node(state: AgentState) -> dict:
     # classifies intent and must never mix role/authorization into query text.
     rewritten_query = state.get("rewritten_query") or raw_query_text
 
+    if state.get("conversation_meta_type"):
+        return {
+            "intent": "CONVERSATION_META",
+            "intent_confidence": 0.99,
+            "rewritten_query": rewritten_query,
+            "analysis": "Conversation context request",
+        }
+
     # 2. Fast Intent & Skill Classifier (Heuristic + Lightweight Rules)
     intent = "RAG_SEARCH"
     confidence = 0.90

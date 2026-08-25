@@ -58,6 +58,7 @@ class Settings(BaseSettings):
 
     # Database
     database_url: str = "sqlite:///./data/app.db"
+    conversation_memory_backend: Literal["legacy", "postgres"] = "legacy"
 
     # Security
     jwt_secret_key: str = ""

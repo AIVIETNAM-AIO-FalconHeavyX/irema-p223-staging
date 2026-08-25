@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import uuid
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
 from enum import StrEnum
 
 from pgvector.sqlalchemy import VECTOR
@@ -47,6 +47,11 @@ class UserStatus(StrEnum):
     inactive = "inactive"
 
 
+class ChatMessageRole(StrEnum):
+    user = "user"
+    assistant = "assistant"
+
+
 class StepType(StrEnum):
     document = "document"
     video = "video"
@@ -84,6 +89,47 @@ class User(Base):
 
     def __repr__(self) -> str:
         return f"<User {self.email} [{self.role}]>"
+
+
+class ChatConversation(Base):
+    """A user-owned conversation retained for bounded contextual chat."""
+
+    __tablename__ = "chat_conversations"
+
+    id: Mapped[str] = mapped_column(String(100), primary_key=True)
+    user_id: Mapped[str] = mapped_column(String(36), ForeignKey("users.id", ondelete="CASCADE"), nullable=False, index=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(UTC), nullable=False)
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=lambda: datetime.now(UTC), onupdate=lambda: datetime.now(UTC), nullable=False, index=True
+    )
+    expires_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        default=lambda: datetime.now(UTC) + timedelta(days=90),
+        nullable=False,
+        index=True,
+    )
+
+    user: Mapped[User] = relationship("User", foreign_keys=[user_id])
+    messages: Mapped[list[ChatMessage]] = relationship(
+        "ChatMessage", back_populates="conversation", cascade="all, delete-orphan", order_by="ChatMessage.created_at"
+    )
+
+
+class ChatMessage(Base):
+    """One visible user or assistant turn belonging to a conversation."""
+
+    __tablename__ = "chat_messages"
+
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
+    conversation_id: Mapped[str] = mapped_column(
+        String(100), ForeignKey("chat_conversations.id", ondelete="CASCADE"), nullable=False, index=True
+    )
+    role: Mapped[ChatMessageRole] = mapped_column(Enum(ChatMessageRole), nullable=False)
+    content: Mapped[str] = mapped_column(Text, nullable=False)
+    message_metadata: Mapped[dict | None] = mapped_column("metadata", JSON, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(UTC), nullable=False, index=True)
+
+    conversation: Mapped[ChatConversation] = relationship("ChatConversation", back_populates="messages")
 
 
 class Invitation(Base):

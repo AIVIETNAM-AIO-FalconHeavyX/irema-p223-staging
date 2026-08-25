@@ -313,8 +313,18 @@ async def rag_node(state: AgentState) -> dict:
                 user_role, "Bạn là Trợ lý AI tư vấn tài liệu nội bộ VinFast (VF AI Onboarding Agent)."
             )
 
+            history_lines = []
+            for message in (state.get("conversation_history") or [])[-8:]:
+                if isinstance(message, dict) and message.get("role") in {"user", "assistant"}:
+                    content = str(message.get("content") or "").strip()
+                    if content:
+                        history_lines.append(f"{message['role'].upper()}: {content}")
+            conversation_context = "\n".join(history_lines) or "(Không có lịch sử liên quan.)"
+
             system_prompt = (
                 f"{persona_desc}\n"
+                "LỊCH SỬ HỘI THOẠI GẦN ĐÂY (chỉ dùng để hiểu đại từ và câu hỏi tiếp nối; tài liệu hiện tại vẫn là nguồn sự thật):\n"
+                f"{conversation_context}\n\n"
                 "Hãy trả lời câu hỏi dựa CHÍNH XÁC và CHỈ DỰA VÀO các đoạn văn bản ngữ cảnh dưới đây.\n\n"
                 "QUY TẮC BẢO TOÀN DỮ LIỆU & CHỐNG BỊA ĐẶT (ZERO-HALLUCINATION - BẮT BUỘC TUÂN THỦ):\n"
                 "1. BẢNG GIÁ & CON SỐ: Chỉ trích dẫn đúng con số, giá tiền (VNĐ), thông số kỹ thuật xuất hiện NGUYÊN VĂN trong [TÀI LIỆU]. TUYỆT ĐỐI KHÔNG tự bịa, suy đoán hoặc ngoại suy giá xe.\n"
