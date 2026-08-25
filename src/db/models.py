@@ -246,6 +246,14 @@ class DocStatus(StrEnum):
     failed = "failed"
 
 
+class IngestionRunStatus(StrEnum):
+    queued = "queued"
+    running = "running"
+    completed = "completed"
+    failed = "failed"
+    dry_run = "dry_run"
+
+
 class DocumentRegistry(Base):
     """Theo dõi file tài liệu trên MinIO và trạng thái xử lý pipeline."""
 
@@ -271,6 +279,44 @@ class DocumentRegistry(Base):
         default=lambda: datetime.now(UTC),
         index=True,
     )
+
+
+class IngestionRun(Base):
+    """Durable reconciliation/indexing run started by a VinFast administrator."""
+
+    __tablename__ = "ingestion_runs"
+
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
+    status: Mapped[IngestionRunStatus] = mapped_column(
+        Enum(IngestionRunStatus), nullable=False, default=IngestionRunStatus.queued, index=True
+    )
+    dry_run: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
+    total_documents: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    processed_documents: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    failed_documents: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    skipped_documents: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    current_document: Mapped[str | None] = mapped_column(String(500), nullable=True)
+    error_message: Mapped[str | None] = mapped_column(Text, nullable=True)
+    created_by: Mapped[str | None] = mapped_column(String(36), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(UTC), index=True)
+    started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+
+
+class IngestionJobRecord(Base):
+    """One durable document job belonging to an ingestion run."""
+
+    __tablename__ = "ingestion_jobs"
+    __table_args__ = (UniqueConstraint("run_id", "document_id", name="uq_ingestion_job_run_document"),)
+
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
+    run_id: Mapped[str] = mapped_column(String(36), ForeignKey("ingestion_runs.id", ondelete="CASCADE"), nullable=False, index=True)
+    document_id: Mapped[int] = mapped_column(Integer, ForeignKey("document_registry.id", ondelete="CASCADE"), nullable=False, index=True)
+    status: Mapped[DocStatus] = mapped_column(Enum(DocStatus), nullable=False, default=DocStatus.pending, index=True)
+    attempts: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    error_message: Mapped[str | None] = mapped_column(Text, nullable=True)
+    claimed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
 
 
 class DocumentChunk(Base):

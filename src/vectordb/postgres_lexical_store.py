@@ -41,7 +41,7 @@ class PostgresLexicalStore:
     ) -> list[dict[str, Any]]:
         normalized_query = query_text.strip()
         allowed_roles = self._allowed_roles(role, access_scope)
-        if not normalized_query or top_k < 1 or not allowed_roles:
+        if not normalized_query or top_k < 1 or not allowed_roles or not self._or_query(normalized_query):
             return []
 
         simple_config = literal_column("'simple'")
@@ -89,7 +89,7 @@ class EnhancedPostgresLexicalStore(PostgresLexicalStore):
     ) -> list[dict[str, Any]]:
         normalized_query = query_text.strip()
         allowed_roles = self._allowed_roles(role, access_scope)
-        if not normalized_query or top_k < 1 or not allowed_roles:
+        if not normalized_query or top_k < 1 or not allowed_roles or not self._or_query(normalized_query):
             return []
 
         simple_config = literal_column("'simple'")

@@ -49,6 +49,7 @@ export default function FileExplorerPage() {
   // ChromaDB re-index state
   const [reindexStatus, setReindexStatus] = useState<"idle" | "running" | "done" | "error">("idle");
   const [reindexMsg, setReindexMsg] = useState<string>("");
+  const [syncFailures, setSyncFailures] = useState<{ s3_key: string; error_message: string | null }[]>([]);
   const pollRef = useRef<number | null>(null);
 
   const isVinfast = user?.role === "vinfast";
@@ -80,12 +81,13 @@ export default function FileExplorerPage() {
     pollRef.current = window.setInterval(async () => {
       try {
         const token = localStorage.getItem("vf_access_token");
-        const res = await fetch("/api/v1/s3-manager/reindex-status", {
+        const res = await fetch("/api/v1/s3-manager/sync/status", {
           headers: { "Authorization": `Bearer ${token}` }
         });
         const data = await res.json();
-        if (!data.running) {
-          setReindexStatus("done");
+        setSyncFailures(data.failures || []);
+        if (["completed", "dry_run", "failed"].includes(data.status)) {
+          setReindexStatus(data.status === "failed" ? "error" : "done");
           setReindexMsg("✅ Chatbot đã được cập nhật thành công!");
           clearInterval(pollRef.current!);
           pollRef.current = null;
@@ -99,14 +101,15 @@ export default function FileExplorerPage() {
       setReindexStatus("running");
       setReindexMsg("Đang cập nhật chatbot... (mất 2-5 phút)");
       const token = localStorage.getItem("vf_access_token");
-      const res = await fetch("/api/v1/s3-manager/reindex-chromadb", {
+      const res = await fetch("/api/v1/s3-manager/sync", {
         method: "POST",
-        headers: { "Authorization": `Bearer ${token}` }
+        headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ dry_run: false })
       });
       const data = await res.json();
-      if (!data.success) {
+      if (!res.ok) {
         setReindexStatus("error");
-        setReindexMsg(data.message);
+        setReindexMsg(data.detail || "Không thể bắt đầu đồng bộ");
         return;
       }
       startPollingReindex();
@@ -114,6 +117,25 @@ export default function FileExplorerPage() {
       setReindexStatus("error");
       setReindexMsg("Lỗi kết nối server.");
     }
+  };
+
+  const handleRetryFailed = async () => {
+    const token = localStorage.getItem("vf_access_token");
+    const res = await fetch("/api/v1/s3-manager/retry-failed", {
+      method: "POST",
+      headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
+      body: JSON.stringify({}),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      setReindexStatus("error");
+      setReindexMsg(data.detail || "Retry failed");
+      return;
+    }
+    setSyncFailures([]);
+    setReindexStatus("running");
+    setReindexMsg(`Retry queued for ${data.requeued || 0} document(s).`);
+    startPollingReindex();
   };
 
   const handleUploadFiles = async (files: File[]) => {
@@ -274,6 +296,16 @@ export default function FileExplorerPage() {
           fontSize: 14, color: "#374151"
         }}>
           {reindexMsg}
+        </div>
+      )}
+
+      {isVinfast && syncFailures.length > 0 && (
+        <div style={{ marginBottom: 16, padding: "10px 16px", borderRadius: 8, background: "#fef2f2", border: "1px solid #fca5a5" }}>
+          <strong style={{ fontSize: 14 }}>Failed documents ({syncFailures.length})</strong>
+          <ul style={{ margin: "8px 0", paddingLeft: 20, fontSize: 13 }}>
+            {syncFailures.map((failure) => <li key={failure.s3_key}>{failure.s3_key} — {failure.error_message || "Unknown error"}</li>)}
+          </ul>
+          <button className="vf-btn" onClick={handleRetryFailed}>Retry failed</button>
         </div>
       )}
 

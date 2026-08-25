@@ -12,7 +12,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any, Literal
 
-from sqlalchemy import select
+from sqlalchemy import delete, select
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
 
@@ -258,6 +258,114 @@ def embed_and_upsert_records(
             totals[key] += counts[key]
         totals["batches"] += 1
     return totals
+
+
+def replace_document_records(
+    records: Iterable[ImportRecord],
+    *,
+    embedder: Any,
+    session_factory: Callable[[], Session],
+    batch_size: int = 16,
+) -> dict[str, int]:
+    """Build/validate all embeddings, then replace one document atomically.
+
+    Embeddings are computed before opening the write transaction.  If extraction,
+    validation, or embedding fails, the existing active chunks remain untouched.
+    """
+    ordered = sorted(records, key=lambda record: record.id)
+    if not ordered:
+        return {"inserted": 0, "updated": 0, "unchanged": 0, "batches": 0}
+
+    embedded: list[EmbeddedRecord] = []
+    for batch in prepare_embedding_batches(
+        ordered,
+        embedder=embedder,
+        batch_size=batch_size,
+    ):
+        embedded.extend(batch)
+
+    document_ids = {item.record.document_id for item in embedded}
+    if len(document_ids) != 1:
+        raise ValueError("replace_document_records requires records for exactly one document")
+
+    session = session_factory()
+    try:
+        document_id = next(iter(document_ids))
+        previous = session.execute(
+            select(DocumentChunk.id).where(DocumentChunk.document_id == document_id)
+        ).scalars().all()
+        session.execute(delete(DocumentChunk).where(DocumentChunk.document_id == document_id))
+        values = [
+            {
+                "id": item.record.id,
+                "document_id": item.record.document_id,
+                "source_id": item.record.source_id,
+                "content": item.record.content,
+                "embedding": item.embedding,
+                "role": item.record.role,
+                "access_scope": item.record.access_scope,
+                "section": item.record.section,
+                "source_path": item.record.source_path,
+                "content_type": item.record.content_type,
+                "metadata": item.record.metadata,
+                "embedding_model": item.record.embedding_model,
+                "embedding_version": item.record.embedding_version,
+                "pipeline_version": item.record.pipeline_version,
+                "chunk_version": item.record.chunk_version,
+                "content_hash": item.record.content_hash,
+            }
+            for item in embedded
+        ]
+        session.execute(insert(DocumentChunk.__table__).values(values))
+        session.commit()
+        unchanged = len(previous) if set(previous) == {item["id"] for item in values} else 0
+        return {
+            "inserted": len(values),
+            "updated": len(previous),
+            "unchanged": unchanged,
+            "batches": 1,
+        }
+    except Exception:
+        session.rollback()
+        raise
+    finally:
+        session.close()
+
+
+def records_from_chunk_payload(
+    payload: Sequence[dict[str, Any]],
+    *,
+    embedding_model: str = "BAAI/bge-m3",
+    embedding_version: str = "1",
+    pipeline_version: str = "1",
+    chunk_version: str = "1",
+) -> list[ImportRecord]:
+    """Validate one Markdown pipeline JSON payload into stable import records."""
+    records: list[ImportRecord] = []
+    seen_ids: set[str] = set()
+    seen_hashes: set[str] = set()
+    for position, chunk in enumerate(payload):
+        if not isinstance(chunk, dict):
+            raise ValueError(f"chunk at position {position} is not an object")
+        content = str(chunk.get("content") or "").strip()
+        metadata = chunk.get("metadata")
+        if not content or not isinstance(metadata, dict):
+            raise ValueError(f"chunk at position {position} is missing content or metadata")
+        if any(not metadata.get(key) for key in ("document", "source", "role", "section")):
+            raise ValueError(f"chunk at position {position} is missing provenance")
+        record = _make_record(
+            chunk,
+            embedding_model=embedding_model,
+            embedding_version=embedding_version,
+            pipeline_version=pipeline_version,
+            chunk_version=chunk_version,
+        )
+        if record.id in seen_ids or record.content_hash in seen_hashes:
+            raise ValueError(f"duplicate chunk in payload: {record.id}")
+        seen_ids.add(record.id)
+        seen_hashes.add(record.content_hash)
+        records.append(record)
+    return sorted(records, key=lambda record: record.id)
 
 
 def _document_id(chunk_id: str) -> str:

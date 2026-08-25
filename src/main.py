@@ -9,6 +9,7 @@ from fastapi.responses import JSONResponse, RedirectResponse
 
 from src.agents.nodes.rag_node import init_rag_models, is_rag_ready, set_rag_ready
 from src.api.auth_routes import router as auth_router
+from src.api.controlled_ingestion_routes import router as controlled_ingestion_router
 from src.api.feedback_routes import router as feedback_router
 from src.api.media_routes import router as media_router
 from src.api.routes import router
@@ -72,7 +73,9 @@ async def _bootstrap_background_tasks(stop_event: asyncio.Event) -> None:
     # Bước 3: Kiểm tra S3 bucket & Chạy Initial S3 Sync
     # ------------------------------------------------------------------
     settings = get_settings()
-    if not settings.live_ingestion_enabled:
+    # Startup never performs R2 reconciliation; the separate worker handles
+    # only runs explicitly created by the VinFast-admin control API.
+    if not settings.legacy_startup_ingestion:
         logger.info("[BOOTSTRAP 3/3] Live ingestion đang tắt; bỏ qua S3 sync và xử lý tài liệu.")
         set_s3_ready(True)
         return
@@ -187,6 +190,7 @@ app.include_router(router, prefix="/api/v1")
 app.include_router(auth_router, prefix="/api/v1/auth", tags=["auth"])
 app.include_router(media_router, prefix="/api/v1", tags=["files"])
 app.include_router(feedback_router, prefix="/api/v1", tags=["feedback"])
+app.include_router(controlled_ingestion_router)
 
 if settings.live_ingestion_enabled:
     from src.api.ingest_routes import router as ingest_router

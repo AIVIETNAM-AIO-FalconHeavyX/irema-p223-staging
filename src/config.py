@@ -31,6 +31,9 @@ class Settings(BaseSettings):
     # Keep document upload/reindexing disabled until the worker-backed pipeline
     # and durable ingestion job state are ready for production.
     live_ingestion_enabled: bool = False
+    # Retained only for backwards-compatible configuration parsing. Automatic
+    # startup ingestion is intentionally disabled; use the admin run API.
+    legacy_startup_ingestion: bool = False
 
     # LLM
     openai_api_key: str = ""
