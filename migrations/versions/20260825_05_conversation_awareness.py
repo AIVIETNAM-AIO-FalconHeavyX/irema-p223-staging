@@ -13,7 +13,15 @@ depends_on: str | Sequence[str] | None = None
 
 
 def upgrade() -> None:
-    message_role = postgresql.ENUM("user", "assistant", name="chatmessagerole")
+    # Create the enum explicitly with checkfirst=True below.  Setting
+    # create_type=False prevents SQLAlchemy's table-create hook from trying
+    # to create the same PostgreSQL type a second time.
+    message_role = postgresql.ENUM(
+        "user",
+        "assistant",
+        name="chatmessagerole",
+        create_type=False,
+    )
     message_role.create(op.get_bind(), checkfirst=True)
 
     op.create_table(
