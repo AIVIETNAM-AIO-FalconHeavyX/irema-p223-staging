@@ -13,7 +13,9 @@ depends_on: str | Sequence[str] | None = None
 
 
 def upgrade() -> None:
-    run_status = postgresql.ENUM("queued", "running", "completed", "failed", "dry_run", name="ingestionrunstatus")
+    run_status = postgresql.ENUM(
+        "queued", "running", "completed", "failed", "dry_run", name="ingestionrunstatus", create_type=False
+    )
     run_status.create(op.get_bind(), checkfirst=True)
     job_status = postgresql.ENUM("pending", "processing", "processed", "failed", name="docstatus", create_type=False)
 
