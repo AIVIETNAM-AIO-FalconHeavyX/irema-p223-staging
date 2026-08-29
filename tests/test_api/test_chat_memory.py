@@ -131,3 +131,24 @@ async def test_postgres_conversation_survives_requests_and_enforces_owner(monkey
         assert error.value.status_code == 404
     finally:
         db.close()
+
+
+def test_postgres_append_turn_persists_user_before_assistant() -> None:
+    from src.db import SessionLocal
+    from src.db.models import ChatConversation, ChatMessage
+    from src.services.conversation_store import ConversationStore
+
+    db = SessionLocal()
+    try:
+        conversation = ConversationStore.get_or_create(db, "timestamp-order", "timestamp-user")
+        assert conversation is not None
+        ConversationStore.append_turn(db, conversation, "question", "answer")
+        rows = (
+            db.query(ChatMessage)
+            .filter(ChatMessage.conversation_id == "timestamp-order")
+            .order_by(ChatMessage.created_at.asc())
+            .all()
+        )
+        assert [row.content for row in rows] == ["question", "answer"]
+    finally:
+        db.close()

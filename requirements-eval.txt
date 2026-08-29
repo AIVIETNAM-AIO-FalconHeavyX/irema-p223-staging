@@ -1,0 +1,5 @@
+# Optional dependencies for the standalone live evaluator.
+# Do not include requirements.txt here: it pulls in the full OCR/video/embedding
+# stack and is unnecessary for an API-based DeepEval run.
+httpx==0.28.1
+deepeval==4.2.0

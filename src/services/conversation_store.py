@@ -20,7 +20,6 @@ class ConversationStore:
     @classmethod
     def get_or_create(cls, db: Session, conversation_id: str, user_id: str) -> ChatConversation | None:
         now = datetime.now(UTC)
-        assistant_created_at = now + timedelta(microseconds=1)
         conversation = db.get(ChatConversation, conversation_id)
         if conversation is not None and conversation.user_id != user_id:
             # Do not reveal that an ID belongs to another user.
@@ -116,6 +115,9 @@ class ConversationStore:
         assistant_metadata: dict | None = None,
     ) -> None:
         now = datetime.now(UTC)
+        # Keep the assistant turn after the user turn even on databases with
+        # coarse timestamp precision.
+        assistant_created_at = now + timedelta(microseconds=1)
         db.add(
             ChatMessage(
                 conversation_id=conversation.id,
